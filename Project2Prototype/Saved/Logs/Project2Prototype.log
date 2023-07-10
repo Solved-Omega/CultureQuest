@@ -8163,3 +8163,1105 @@ Script Stack (0 frames) :
 [2023.11.27-19.14.37:307][338]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2023.11.27-19.14.37:309][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
 [2023.11.27-19.14.37:399][339]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2023.11.27-19.16.14:678][609]BlueprintLog: New page: Compile PauseMenu
+[2023.11.27-19.16.14:733][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.11.27-19.16.14:828][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.16.14:896][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/PauseMenu.uasset" SILENT=true
+[2023.11.27-19.16.14:906][609]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu
+[2023.11.27-19.16.14:907][609]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PauseMenu0533DD9F494A089493E9FC8BBD9F3B40.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/PauseMenu.uasset'
+[2023.11.27-19.16.14:914][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 18.6 sec)
+[2023.11.27-19.16.14:958][609]AssetCheck: New page: Asset Save: PauseMenu
+[2023.11.27-19.16.14:958][609]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu.PauseMenu
+[2023.11.27-19.18.46:280][369]BlueprintLog: New page: Compile VRPawn
+[2023.11.27-19.18.46:413][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.11.27-19.18.46:620][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.18.46:806][369]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2023.11.27-19.18.46:807][369]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/VRPawn2C382BEC487E9817C1C92980557ABA46.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.11.27-19.18.46:816][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 18.8 sec)
+[2023.11.27-19.18.46:824][369]AssetCheck: New page: Asset Save: VRPawn
+[2023.11.27-19.18.46:824][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.11.27-19.18.47:096][370]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.18.47:106][370]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-19.18.47:107][370]LogPlayLevel: [PlayLevel] Compiling PauseMenu before play...
+[2023.11.27-19.18.47:166][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.18.47:215][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/PauseMenu.uasset" SILENT=true
+[2023.11.27-19.18.47:225][370]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu
+[2023.11.27-19.18.47:225][370]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PauseMenu27F082A544E23F618E570191CAC1E683.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/PauseMenu.uasset'
+[2023.11.27-19.18.47:233][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 18.9 sec)
+[2023.11.27-19.18.47:263][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.11.27-19.18.47:265][370]LogPlayLevel: PlayLevel: Blueprint regeneration took 159 ms (1 blueprints)
+[2023.11.27-19.18.47:265][370]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:18:47 a.m.)
+[2023.11.27-19.18.47:265][370]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.18.47:268][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002982s)
+[2023.11.27-19.18.47:269][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003009s)
+[2023.11.27-19.18.47:269][370]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.18.47:269][370]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.18.47:269][370]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.18.47:269][370]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2023.11.27-19.18.47:296][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.27-19.18.47:297][370]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2023.11.27-19.18.47:297][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.18.47:297][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.18.47:297][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.18.47:297][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.18.47:297][370]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.18.47:297][370]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.18.47:297][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.18.47:297][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.18.47:298][370]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.18.47:298][370]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.18.47:298][370]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.18.47:300][370]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.18.47:315][370]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.18.47:315][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.18.47:315][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.18.47:315][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.18.47:316][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2023.11.27-19.18.47:316][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2023.11.27-19.18.47:318][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2023.11.27-19.18.47:318][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2023.11.27-19.18.47:318][370]LogInit: FAudioDevice initialized with ID 71.
+[2023.11.27-19.18.47:318][370]LogAudio: Display: Audio Device (ID: 71) registered with world 'Testing'.
+[2023.11.27-19.18.47:318][370]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 71
+[2023.11.27-19.18.47:342][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.18.47:533][370]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.18.47:534][370]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.18.47
+[2023.11.27-19.18.47:535][370]LogWorld: Bringing up level for play took: 0.001618
+[2023.11.27-19.18.47:538][370]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2023.11.27-19.18.47:553][370]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.47:553][370]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.47:553][370]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.47:553][370]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.47:553][370]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.47:553][370]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.47:553][370]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.47:553][370]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.47:554][370]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.47:554][370]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.47:554][370]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.47:554][370]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.47:554][370]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.47:554][370]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.47:554][370]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.47:554][370]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.47:591][370]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.18.47:600][370]PIE: Server logged in
+[2023.11.27-19.18.47:607][370]PIE: Play in editor total start time 0.501 seconds.
+[2023.11.27-19.18.47:615][370]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.18.47:627][371]LogHttp: Warning: 00000B8C6238C800: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.18.47:627][371]LogHttp: Warning: 00000B8C6238C800: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.18.47:627][371]LogHttp: Warning: 00000B8C6238C800: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.18.47:637][371]AssetCheck: New page: Asset Save: PauseMenu
+[2023.11.27-19.18.47:637][371]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu.PauseMenu
+[2023.11.27-19.18.48:525][490]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.27-19.18.48:525][490]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.18.48:525][490]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.27-19.18.49:412][658]LogNet: Browse: /Game/Levels/Testing?Game=/Game/VRTemplate/Blueprints/VRGameMode.VRGameMode_C
+[2023.11.27-19.18.49:412][658]LogLoad: LoadMap: /Game/Levels/Testing?Game=/Game/VRTemplate/Blueprints/VRGameMode.VRGameMode_C
+[2023.11.27-19.18.49:412][658]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.18.49:415][658]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.18.49:417][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.18.49:474][658]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-19.18.49:478][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.27-19.18.49:481][658]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.18.49:485][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003424s)
+[2023.11.27-19.18.49:485][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003510s)
+[2023.11.27-19.18.49:485][658]LogAudio: Display: Audio Device (ID: 71) registered with world 'Testing'.
+[2023.11.27-19.18.49:485][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.18.49:485][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.18.49:485][658]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.18.49:485][658]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2023.11.27-19.18.49:485][658]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.27-19.18.49:486][658]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.18.49
+[2023.11.27-19.18.49:486][658]LogWorld: Bringing up level for play took: 0.000733
+[2023.11.27-19.18.49:489][658]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.27-19.18.49:490][658]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.27-19.18.49:503][658]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.49:503][658]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.49:503][658]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.49:503][658]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.49:503][658]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.49:503][658]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.49:503][658]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.49:503][658]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.49:505][658]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.49:505][658]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.49:505][658]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.49:505][658]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.49:505][658]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.49:505][658]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.49:505][658]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.18.49:505][658]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_69.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.18.49:683][658]vr.PixelDensity = "1"
+[2023.11.27-19.18.49:683][658]LogLoad: Took 0.271205 seconds to LoadMap(/Game/Levels/UEDPIE_0_Testing)
+[2023.11.27-19.18.49:687][658]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.11.27-19.18.49:696][658]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.11.27-19.18.49:710][658]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.11.27-19.18.49:730][659]LogHttp: Warning: 00000B8C5A9D7D00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.18.49:730][659]LogHttp: Warning: 00000B8C5A9D7D00: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.18.49:730][659]LogHttp: Warning: 00000B8C5A9D7D00: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.19.01:098][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.19.01:098][580]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.19.01:142][580]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.19.01:153][580]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.19.01:154][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.19.01:156][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.19.01:163][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.19.01:192][580]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2023.11.27-19.19.01:192][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2023.11.27-19.19.01:194][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2023.11.27-19.19.01:201][580]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.27-19.19.01:201][580]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.27-19.19.01:203][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.27-19.19.01:248][581]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2023.11.27-19.19.04:065][746]BlueprintLog: New page: Compile VRPawn
+[2023.11.27-19.19.04:191][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.11.27-19.19.04:978][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.19.05:162][764]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2023.11.27-19.19.05:162][764]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/VRPawn28E8D00641E74B0D32400A97B91EBC97.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2023.11.27-19.19.05:170][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 19.1 sec)
+[2023.11.27-19.19.05:179][764]AssetCheck: New page: Asset Save: VRPawn
+[2023.11.27-19.19.05:179][764]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2023.11.27-19.19.56:189][619]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-19.19.56:306][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.11.27-19.19.56:442][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.19.56:569][619]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-19.19.56:569][619]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter8DB23115498530DFB388BBB8CA4AD42B.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-19.19.56:579][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 19.2 sec)
+[2023.11.27-19.19.56:587][619]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-19.19.56:587][619]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-19.19.56:994][632]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.19.57:004][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-19.19.57:004][632]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:19:57 a.m.)
+[2023.11.27-19.19.57:004][632]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.19.57:007][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003007s)
+[2023.11.27-19.19.57:007][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003034s)
+[2023.11.27-19.19.57:007][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.19.57:007][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.19.57:008][632]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.19.57:008][632]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2023.11.27-19.19.57:036][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.27-19.19.57:039][632]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2023.11.27-19.19.57:039][632]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.19.57:039][632]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.19.57:039][632]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.19.57:039][632]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.19.57:039][632]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.19.57:039][632]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.19.57:039][632]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.19.57:039][632]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.19.57:040][632]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.19.57:040][632]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.19.57:040][632]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.19.57:042][632]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.19.57:054][632]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.19.57:056][632]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.19.57:056][632]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.19.57:056][632]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.19.57:056][632]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=72
+[2023.11.27-19.19.57:056][632]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=72
+[2023.11.27-19.19.57:058][632]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=72
+[2023.11.27-19.19.57:059][632]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=72
+[2023.11.27-19.19.57:059][632]LogInit: FAudioDevice initialized with ID 72.
+[2023.11.27-19.19.57:059][632]LogAudio: Display: Audio Device (ID: 72) registered with world 'Testing'.
+[2023.11.27-19.19.57:059][632]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 72
+[2023.11.27-19.19.57:083][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.19.57:262][632]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.19.57:264][632]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.19.57
+[2023.11.27-19.19.57:264][632]LogWorld: Bringing up level for play took: 0.001522
+[2023.11.27-19.19.57:266][632]LogOnline: OSS: Created online subsystem instance for: :Context_121
+[2023.11.27-19.19.57:282][632]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.19.57:282][632]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_70.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.19.57:282][632]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.19.57:282][632]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_70.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.19.57:282][632]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.19.57:282][632]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_70.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.19.57:282][632]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.19.57:282][632]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_70.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.19.57:284][632]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.19.57:284][632]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_70.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.19.57:284][632]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.19.57:284][632]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_70.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.19.57:284][632]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.19.57:284][632]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_70.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.19.57:284][632]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.19.57:284][632]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_70.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.19.57:322][632]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.19.57:328][632]PIE: Server logged in
+[2023.11.27-19.19.57:333][632]PIE: Play in editor total start time 0.33 seconds.
+[2023.11.27-19.19.57:340][632]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.19.57:349][633]LogHttp: Warning: 00000B8C73A80A00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.19.57:349][633]LogHttp: Warning: 00000B8C73A80A00: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.19.57:349][633]LogHttp: Warning: 00000B8C73A80A00: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.19.58:471][819]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.27-19.19.58:471][819]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.19.58:471][819]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.27-19.20.01:587][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.20.01:587][433]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.20.01:606][433]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.20.01:615][433]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.20.01:615][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.20.01:617][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.20.01:625][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.20.01:653][433]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-19.20.01:654][433]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 72
+[2023.11.27-19.20.01:654][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2023.11.27-19.20.01:656][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2023.11.27-19.20.01:665][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.11.27-19.20.01:685][434]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2023.11.27-19.20.03:218][526]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-19.20.03:327][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.27-19.20.40:809][662]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.20.40:817][662]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-19.20.40:819][662]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2023.11.27-19.20.40:820][662]LogPlayLevel: [PlayLevel]   Compiling PCCharacter as a dependent...
+[2023.11.27-19.20.41:042][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.20.41:162][662]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-19.20.41:163][662]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter6D41C5D94FF1CE3AE19EE29FAAD09C24.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-19.20.41:178][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 19.4 sec)
+[2023.11.27-19.20.41:212][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.11.27-19.20.41:214][662]LogPlayLevel: PlayLevel: Blueprint regeneration took 396 ms (2 blueprints)
+[2023.11.27-19.20.41:214][662]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:20:41 a.m.)
+[2023.11.27-19.20.41:214][662]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.20.41:218][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003388s)
+[2023.11.27-19.20.41:218][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003416s)
+[2023.11.27-19.20.41:218][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.20.41:218][662]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.20.41:218][662]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.20.41:219][662]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2023.11.27-19.20.41:247][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.11.27-19.20.41:248][662]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2023.11.27-19.20.41:248][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.20.41:248][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.20.41:248][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.20.41:248][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.20.41:249][662]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.20.41:249][662]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.20.41:249][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.20.41:249][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.20.41:249][662]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.20.41:249][662]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.20.41:249][662]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.20.41:251][662]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.20.41:264][662]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.20.41:264][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.20.41:264][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.20.41:264][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.20.41:265][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=73
+[2023.11.27-19.20.41:265][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=73
+[2023.11.27-19.20.41:267][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=73
+[2023.11.27-19.20.41:267][662]LogInit: FAudioDevice initialized with ID 73.
+[2023.11.27-19.20.41:267][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=73
+[2023.11.27-19.20.41:267][662]LogAudio: Display: Audio Device (ID: 73) registered with world 'Testing'.
+[2023.11.27-19.20.41:267][662]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 73
+[2023.11.27-19.20.41:291][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.20.41:510][662]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.20.41:512][662]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.20.41
+[2023.11.27-19.20.41:512][662]LogWorld: Bringing up level for play took: 0.001636
+[2023.11.27-19.20.41:514][662]LogOnline: OSS: Created online subsystem instance for: :Context_122
+[2023.11.27-19.20.41:541][662]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.20.41:541][662]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_71.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.20.41:541][662]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.20.41:541][662]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_71.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.20.41:541][662]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.20.41:541][662]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_71.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.20.41:541][662]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.20.41:541][662]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_71.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.20.41:543][662]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.20.41:543][662]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_71.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.20.41:543][662]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.20.41:543][662]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_71.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.20.41:543][662]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.20.41:543][662]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_71.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.20.41:543][662]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.20.41:543][662]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_71.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.20.41:591][662]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.20.41:594][662]PIE: Server logged in
+[2023.11.27-19.20.41:595][662]PIE: Play in editor total start time 0.778 seconds.
+[2023.11.27-19.20.41:600][662]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.20.41:610][663]LogHttp: Warning: 00000B8C6AAC8700: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.20.41:610][663]LogHttp: Warning: 00000B8C6AAC8700: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.20.41:610][663]LogHttp: Warning: 00000B8C6AAC8700: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.20.41:623][663]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-19.20.41:624][663]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-19.20.42:676][830]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.20.42:676][830]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.20.42:676][830]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.20.46:293][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.20.50:277][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.20.50:277][430]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.20.50:381][430]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.20.50:388][430]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.20.50:389][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.20.50:391][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.20.50:397][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.20.50:426][430]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 73
+[2023.11.27-19.20.50:426][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2023.11.27-19.20.50:428][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2023.11.27-19.20.50:434][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.27-19.20.50:457][431]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2023.11.27-19.21.33:671][770]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-19.21.33:782][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.11.27-19.21.33:937][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.21.34:061][770]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-19.21.34:062][770]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacterF5FB63294FC627CC559601B72A3B5A5E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-19.21.34:072][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 19.5 sec)
+[2023.11.27-19.21.34:081][770]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-19.21.34:081][770]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-19.21.55:438][945]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-19.21.55:554][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.11.27-19.21.55:706][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.21.55:828][945]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-19.21.55:829][945]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacterC2D3271F4D318F5FFD6C25B6BA3F4E56.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-19.21.55:838][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 19.6 sec)
+[2023.11.27-19.21.55:846][945]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-19.21.55:846][945]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-19.22.01:682][283]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.22.01:690][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-19.22.01:690][283]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:22:01 a.m.)
+[2023.11.27-19.22.01:690][283]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.22.01:693][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003188s)
+[2023.11.27-19.22.01:693][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003218s)
+[2023.11.27-19.22.01:693][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.22.01:693][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.22.01:694][283]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.22.01:694][283]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2023.11.27-19.22.01:723][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.27-19.22.01:726][283]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2023.11.27-19.22.01:726][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.22.01:726][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.22.01:726][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.22.01:726][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.22.01:726][283]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.22.01:726][283]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.22.01:726][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.22.01:726][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.22.01:727][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.22.01:727][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.22.01:727][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.22.01:728][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.22.01:741][283]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.22.01:741][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.22.01:741][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.22.01:741][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.22.01:741][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=74
+[2023.11.27-19.22.01:741][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=74
+[2023.11.27-19.22.01:743][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=74
+[2023.11.27-19.22.01:743][283]LogInit: FAudioDevice initialized with ID 74.
+[2023.11.27-19.22.01:743][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=74
+[2023.11.27-19.22.01:743][283]LogAudio: Display: Audio Device (ID: 74) registered with world 'Testing'.
+[2023.11.27-19.22.01:743][283]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 74
+[2023.11.27-19.22.01:777][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.01:997][283]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.22.01:999][283]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.22.01
+[2023.11.27-19.22.01:999][283]LogWorld: Bringing up level for play took: 0.001541
+[2023.11.27-19.22.02:001][283]LogOnline: OSS: Created online subsystem instance for: :Context_123
+[2023.11.27-19.22.02:017][283]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.02:017][283]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_72.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.02:017][283]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.02:018][283]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_72.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.02:018][283]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.02:018][283]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_72.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.02:018][283]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.02:018][283]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_72.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.02:019][283]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.02:019][283]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_72.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.02:019][283]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.02:019][283]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_72.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.02:019][283]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.02:019][283]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_72.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.02:019][283]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.02:019][283]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_72.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.02:074][283]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.22.02:081][283]PIE: Server logged in
+[2023.11.27-19.22.02:089][283]PIE: Play in editor total start time 0.399 seconds.
+[2023.11.27-19.22.02:096][283]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.22.02:111][284]LogHttp: Warning: 00000B8C35E88C00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.22.02:111][284]LogHttp: Warning: 00000B8C35E88C00: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.22.02:111][284]LogHttp: Warning: 00000B8C35E88C00: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.22.03:886][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.05:156][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.08:056][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.10:467][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.10:468][761]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.22.10:485][761]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.22.10:493][761]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.22.10:494][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.22.10:495][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.22.10:502][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.22.10:531][761]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-19.22.10:532][761]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 74
+[2023.11.27-19.22.10:532][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2023.11.27-19.22.10:534][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=74
+[2023.11.27-19.22.10:542][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.27-19.22.10:566][762]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2023.11.27-19.22.19:049][271]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-19.22.19:162][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.11.27-19.22.19:789][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.22.19:910][287]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-19.22.19:910][287]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter8F774B664613D0755C5F799E8CFBCBA9.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-19.22.19:923][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 19.8 sec)
+[2023.11.27-19.22.19:929][287]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-19.22.19:930][287]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-19.22.24:988][591]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.22.24:996][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-19.22.24:996][591]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:22:24 a.m.)
+[2023.11.27-19.22.24:996][591]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.22.24:999][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003096s)
+[2023.11.27-19.22.24:999][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003126s)
+[2023.11.27-19.22.24:999][591]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.22.24:999][591]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.22.24:999][591]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.22.24:999][591]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2023.11.27-19.22.25:030][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.11.27-19.22.25:033][591]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2023.11.27-19.22.25:033][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.22.25:033][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.22.25:033][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.22.25:033][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.22.25:033][591]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.22.25:033][591]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.22.25:033][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.22.25:033][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.22.25:033][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.22.25:033][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.22.25:033][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.22.25:035][591]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.22.25:046][591]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.22.25:047][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.22.25:047][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.22.25:047][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.22.25:047][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=75
+[2023.11.27-19.22.25:047][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=75
+[2023.11.27-19.22.25:049][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=75
+[2023.11.27-19.22.25:049][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=75
+[2023.11.27-19.22.25:049][591]LogInit: FAudioDevice initialized with ID 75.
+[2023.11.27-19.22.25:049][591]LogAudio: Display: Audio Device (ID: 75) registered with world 'Testing'.
+[2023.11.27-19.22.25:049][591]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 75
+[2023.11.27-19.22.25:077][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.25:283][591]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.22.25:284][591]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.22.25
+[2023.11.27-19.22.25:285][591]LogWorld: Bringing up level for play took: 0.001638
+[2023.11.27-19.22.25:287][591]LogOnline: OSS: Created online subsystem instance for: :Context_124
+[2023.11.27-19.22.25:302][591]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.25:302][591]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_73.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.25:302][591]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.25:302][591]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_73.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.25:302][591]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.25:302][591]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_73.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.25:302][591]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.25:302][591]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_73.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.25:304][591]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.25:304][591]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_73.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.25:304][591]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.25:304][591]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_73.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.25:304][591]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.25:304][591]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_73.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.25:304][591]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.25:304][591]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_73.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.25:350][591]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.22.25:357][591]PIE: Server logged in
+[2023.11.27-19.22.25:361][591]PIE: Play in editor total start time 0.366 seconds.
+[2023.11.27-19.22.25:369][591]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.22.25:379][592]LogHttp: Warning: 00000B8C69424600: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.22.25:379][592]LogHttp: Warning: 00000B8C69424600: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.22.25:379][592]LogHttp: Warning: 00000B8C69424600: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.22.32:681][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.35:167][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.35:847][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.35:847][550]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.22.35:869][550]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.22.35:877][550]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.22.35:877][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.22.35:880][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.22.35:887][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.22.35:915][550]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-19.22.35:917][550]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 75
+[2023.11.27-19.22.35:917][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2023.11.27-19.22.35:919][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2023.11.27-19.22.35:927][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.11.27-19.22.35:950][551]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2023.11.27-19.22.39:589][766]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.22.39:597][766]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-19.22.39:599][766]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2023.11.27-19.22.39:601][766]LogPlayLevel: [PlayLevel]   Compiling PCCharacter as a dependent...
+[2023.11.27-19.22.39:827][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.22.39:954][766]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-19.22.39:955][766]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter41590094403F7516859F27B5173BB01E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-19.22.39:964][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 19.9 sec)
+[2023.11.27-19.22.39:995][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.11.27-19.22.40:000][766]LogPlayLevel: PlayLevel: Blueprint regeneration took 402 ms (2 blueprints)
+[2023.11.27-19.22.40:000][766]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:22:40 a.m.)
+[2023.11.27-19.22.40:000][766]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.22.40:003][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003353s)
+[2023.11.27-19.22.40:003][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003382s)
+[2023.11.27-19.22.40:003][766]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.22.40:003][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.22.40:004][766]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.22.40:005][766]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2023.11.27-19.22.40:034][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.27-19.22.40:035][766]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2023.11.27-19.22.40:035][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.22.40:035][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.22.40:035][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.22.40:035][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.22.40:035][766]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.22.40:035][766]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.22.40:035][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.22.40:035][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.22.40:035][766]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.22.40:035][766]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.22.40:035][766]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.22.40:038][766]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.22.40:051][766]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.22.40:051][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.22.40:051][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.22.40:051][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.22.40:053][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=76
+[2023.11.27-19.22.40:053][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=76
+[2023.11.27-19.22.40:056][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=76
+[2023.11.27-19.22.40:056][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=76
+[2023.11.27-19.22.40:056][766]LogInit: FAudioDevice initialized with ID 76.
+[2023.11.27-19.22.40:056][766]LogAudio: Display: Audio Device (ID: 76) registered with world 'Testing'.
+[2023.11.27-19.22.40:056][766]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 76
+[2023.11.27-19.22.40:084][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.40:281][766]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.22.40:283][766]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.22.40
+[2023.11.27-19.22.40:285][766]LogWorld: Bringing up level for play took: 0.002456
+[2023.11.27-19.22.40:287][766]LogOnline: OSS: Created online subsystem instance for: :Context_125
+[2023.11.27-19.22.40:304][766]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.40:304][766]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.40:304][766]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.40:304][766]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.40:304][766]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.40:304][766]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.40:304][766]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.40:304][766]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.40:305][766]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.40:305][766]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.40:305][766]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.40:305][766]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.40:305][766]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.40:305][766]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.40:305][766]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.40:305][766]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.40:348][766]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.22.40:350][766]PIE: Server logged in
+[2023.11.27-19.22.40:351][766]PIE: Play in editor total start time 0.753 seconds.
+[2023.11.27-19.22.40:356][766]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.22.40:365][767]LogHttp: Warning: 00000B8C70CC0000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.22.40:365][767]LogHttp: Warning: 00000B8C70CC0000: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.22.40:365][767]LogHttp: Warning: 00000B8C70CC0000: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.22.40:377][767]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-19.22.40:377][767]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-19.22.41:118][878]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.27-19.22.41:118][878]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.22.41:118][878]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.27-19.22.43:502][368]LogNet: Browse: /Game/Levels/Testing?Game=/Game/VRTemplate/Blueprints/VRGameMode.VRGameMode_C
+[2023.11.27-19.22.43:502][368]LogLoad: LoadMap: /Game/Levels/Testing?Game=/Game/VRTemplate/Blueprints/VRGameMode.VRGameMode_C
+[2023.11.27-19.22.43:502][368]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.22.43:508][368]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.22.43:508][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.22.43:572][368]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-19.22.43:575][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.27-19.22.43:579][368]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.22.43:582][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003167s)
+[2023.11.27-19.22.43:582][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003208s)
+[2023.11.27-19.22.43:582][368]LogAudio: Display: Audio Device (ID: 76) registered with world 'Testing'.
+[2023.11.27-19.22.43:582][368]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.22.43:582][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.22.43:583][368]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.22.43:583][368]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2023.11.27-19.22.43:583][368]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.27-19.22.43:584][368]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.22.43
+[2023.11.27-19.22.43:584][368]LogWorld: Bringing up level for play took: 0.000701
+[2023.11.27-19.22.43:586][368]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.27-19.22.43:587][368]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.27-19.22.43:601][368]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.43:601][368]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.43:601][368]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.43:601][368]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.43:601][368]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.43:601][368]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.43:601][368]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.43:601][368]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.43:602][368]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.43:602][368]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.43:602][368]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.43:602][368]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.43:602][368]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.43:602][368]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.43:602][368]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.43:602][368]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_74.LearningPointWidget_C_3.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.43:796][368]vr.PixelDensity = "1"
+[2023.11.27-19.22.43:796][368]LogLoad: Took 0.294444 seconds to LoadMap(/Game/Levels/UEDPIE_0_Testing)
+[2023.11.27-19.22.43:800][368]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.11.27-19.22.43:809][368]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.11.27-19.22.43:824][368]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.11.27-19.22.43:846][369]LogHttp: Warning: 00000B8C64A9AA00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.22.43:846][369]LogHttp: Warning: 00000B8C64A9AA00: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.22.43:846][369]LogHttp: Warning: 00000B8C64A9AA00: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.22.45:878][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.45:878][616]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.22.46:012][616]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.22.46:021][616]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.22.46:022][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.22.46:025][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.22.46:032][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.22.46:070][616]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 76
+[2023.11.27-19.22.46:070][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2023.11.27-19.22.46:071][616]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2023.11.27-19.22.46:078][616]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.27-19.22.46:078][616]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.27-19.22.46:081][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.27-19.22.46:177][617]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2023.11.27-19.22.46:842][657]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.22.46:850][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-19.22.46:850][657]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:22:46 a.m.)
+[2023.11.27-19.22.46:850][657]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.22.46:853][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002829s)
+[2023.11.27-19.22.46:853][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.002857s)
+[2023.11.27-19.22.46:853][657]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.22.46:853][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.22.46:854][657]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.22.46:854][657]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2023.11.27-19.22.46:881][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.27-19.22.46:884][657]LogAudio: Display: Creating Audio Device:                 Id: 77, Scope: Unique, Realtime: True
+[2023.11.27-19.22.46:884][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.22.46:884][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.22.46:884][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.22.46:884][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.22.46:884][657]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.22.46:884][657]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.22.46:884][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.22.46:884][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.22.46:884][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.22.46:884][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.22.46:884][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.22.46:886][657]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.22.46:899][657]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.22.46:899][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.22.46:899][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.22.46:899][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.22.46:899][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=77
+[2023.11.27-19.22.46:899][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=77
+[2023.11.27-19.22.46:901][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=77
+[2023.11.27-19.22.46:901][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=77
+[2023.11.27-19.22.46:901][657]LogInit: FAudioDevice initialized with ID 77.
+[2023.11.27-19.22.46:901][657]LogAudio: Display: Audio Device (ID: 77) registered with world 'Testing'.
+[2023.11.27-19.22.46:901][657]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 77
+[2023.11.27-19.22.46:939][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.47:132][657]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.22.47:134][657]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.22.47
+[2023.11.27-19.22.47:134][657]LogWorld: Bringing up level for play took: 0.001948
+[2023.11.27-19.22.47:136][657]LogOnline: OSS: Created online subsystem instance for: :Context_126
+[2023.11.27-19.22.47:153][657]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.47:154][657]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_75.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.47:154][657]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.47:154][657]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_75.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.47:154][657]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.47:154][657]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_75.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.47:154][657]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.47:154][657]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_75.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.47:156][657]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.47:156][657]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_75.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.47:156][657]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.47:156][657]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_75.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.47:156][657]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.47:156][657]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_75.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.47:156][657]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.47:156][657]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_75.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.47:198][657]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.22.47:204][657]PIE: Server logged in
+[2023.11.27-19.22.47:207][657]PIE: Play in editor total start time 0.358 seconds.
+[2023.11.27-19.22.47:214][657]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.22.47:226][658]LogHttp: Warning: 00000B8C6AAC3200: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.22.47:226][658]LogHttp: Warning: 00000B8C6AAC3200: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.22.47:226][658]LogHttp: Warning: 00000B8C6AAC3200: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.22.47:963][782]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.27-19.22.47:963][782]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.22.47:963][782]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.27-19.22.49:926][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.49:926][162]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.22.49:944][162]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.22.49:953][162]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.22.49:953][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.22.49:956][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.22.49:963][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.22.49:993][162]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 77
+[2023.11.27-19.22.49:993][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2023.11.27-19.22.49:995][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=77
+[2023.11.27-19.22.50:002][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.27-19.22.50:027][163]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2023.11.27-19.22.56:099][527]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.22.56:107][527]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-19.22.56:109][527]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2023.11.27-19.22.56:110][527]LogPlayLevel: [PlayLevel]   Compiling PCCharacter as a dependent...
+[2023.11.27-19.22.56:340][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.22.56:481][527]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-19.22.56:482][527]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter5D599F7E4B44C552E29C548F8EFC7EF4.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-19.22.56:493][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 20.0 sec)
+[2023.11.27-19.22.56:526][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.11.27-19.22.56:529][527]LogPlayLevel: PlayLevel: Blueprint regeneration took 422 ms (2 blueprints)
+[2023.11.27-19.22.56:529][527]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:22:56 a.m.)
+[2023.11.27-19.22.56:529][527]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.22.56:533][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003530s)
+[2023.11.27-19.22.56:534][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003556s)
+[2023.11.27-19.22.56:534][527]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.22.56:534][527]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.22.56:534][527]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.22.56:534][527]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2023.11.27-19.22.56:562][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.11.27-19.22.56:565][527]LogAudio: Display: Creating Audio Device:                 Id: 78, Scope: Unique, Realtime: True
+[2023.11.27-19.22.56:565][527]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.22.56:565][527]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.22.56:565][527]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.22.56:565][527]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.22.56:565][527]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.22.56:565][527]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.22.56:565][527]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.22.56:565][527]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.22.56:566][527]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.22.56:566][527]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.22.56:566][527]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.22.56:568][527]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.22.56:580][527]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.22.56:581][527]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.22.56:581][527]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.22.56:581][527]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.22.56:581][527]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=78
+[2023.11.27-19.22.56:581][527]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=78
+[2023.11.27-19.22.56:583][527]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=78
+[2023.11.27-19.22.56:583][527]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=78
+[2023.11.27-19.22.56:583][527]LogInit: FAudioDevice initialized with ID 78.
+[2023.11.27-19.22.56:583][527]LogAudio: Display: Audio Device (ID: 78) registered with world 'Testing'.
+[2023.11.27-19.22.56:583][527]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 78
+[2023.11.27-19.22.56:608][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.56:808][527]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.22.56:810][527]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.22.56
+[2023.11.27-19.22.56:810][527]LogWorld: Bringing up level for play took: 0.001318
+[2023.11.27-19.22.56:812][527]LogOnline: OSS: Created online subsystem instance for: :Context_127
+[2023.11.27-19.22.56:829][527]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.56:829][527]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_76.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.56:829][527]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.56:829][527]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_76.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.56:829][527]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.56:829][527]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_76.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.56:829][527]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.56:829][527]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_76.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.56:830][527]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.56:830][527]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_76.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.56:830][527]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.56:830][527]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_76.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.56:830][527]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.56:831][527]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_76.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.56:831][527]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.22.56:831][527]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_76.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.22.56:874][527]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.22.56:877][527]PIE: Server logged in
+[2023.11.27-19.22.56:878][527]PIE: Play in editor total start time 0.771 seconds.
+[2023.11.27-19.22.56:883][527]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.22.56:893][528]LogHttp: Warning: 00000B8C6482CD00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.22.56:893][528]LogHttp: Warning: 00000B8C6482CD00: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.22.56:893][528]LogHttp: Warning: 00000B8C6482CD00: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.22.56:906][528]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-19.22.56:906][528]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-19.22.57:136][539]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.22.57:136][539]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.22.57:136][539]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.22.58:219][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.22.58:219][753]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-19.22.58:219][753]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-19.22.58:922][890]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.27-19.22.58:922][890]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.22.58:922][890]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.27-19.23.01:637][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.23.01:637][439]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.23.01:746][439]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.23.01:758][439]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.23.01:759][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.23.01:762][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.23.01:768][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.23.01:797][439]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 78
+[2023.11.27-19.23.01:797][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2023.11.27-19.23.01:798][439]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=78
+[2023.11.27-19.23.01:807][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.27-19.23.01:836][440]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2023.11.27-19.23.48:454][ 56]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-19.23.48:565][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.27-19.23.48:727][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.23.48:851][ 56]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-19.23.48:852][ 56]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter075905D4453BC686AA8BC497C8009535.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-19.23.48:861][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 20.2 sec)
+[2023.11.27-19.23.48:870][ 56]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-19.23.48:870][ 56]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-19.23.49:113][ 58]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.23.49:123][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-19.23.49:123][ 58]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:23:49 a.m.)
+[2023.11.27-19.23.49:123][ 58]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.23.49:126][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003099s)
+[2023.11.27-19.23.49:126][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003127s)
+[2023.11.27-19.23.49:126][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.23.49:126][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.23.49:126][ 58]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.23.49:127][ 58]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2023.11.27-19.23.49:156][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.27-19.23.49:159][ 58]LogAudio: Display: Creating Audio Device:                 Id: 79, Scope: Unique, Realtime: True
+[2023.11.27-19.23.49:159][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.23.49:159][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.23.49:159][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.23.49:159][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.23.49:159][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.23.49:159][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.23.49:159][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.23.49:159][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.23.49:159][ 58]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.23.49:159][ 58]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.23.49:159][ 58]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.23.49:162][ 58]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.23.49:173][ 58]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.23.49:173][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.23.49:173][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.23.49:173][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.23.49:173][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=79
+[2023.11.27-19.23.49:173][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=79
+[2023.11.27-19.23.49:175][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=79
+[2023.11.27-19.23.49:175][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=79
+[2023.11.27-19.23.49:175][ 58]LogInit: FAudioDevice initialized with ID 79.
+[2023.11.27-19.23.49:175][ 58]LogAudio: Display: Audio Device (ID: 79) registered with world 'Testing'.
+[2023.11.27-19.23.49:175][ 58]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 79
+[2023.11.27-19.23.49:201][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.23.49:392][ 58]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.23.49:394][ 58]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.23.49
+[2023.11.27-19.23.49:394][ 58]LogWorld: Bringing up level for play took: 0.002229
+[2023.11.27-19.23.49:396][ 58]LogOnline: OSS: Created online subsystem instance for: :Context_128
+[2023.11.27-19.23.49:414][ 58]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.23.49:415][ 58]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_77.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.23.49:415][ 58]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.23.49:415][ 58]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_77.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.23.49:415][ 58]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.23.49:415][ 58]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_77.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.23.49:415][ 58]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.23.49:415][ 58]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_77.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.23.49:416][ 58]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.23.49:416][ 58]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_77.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.23.49:416][ 58]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.23.49:416][ 58]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_77.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.23.49:416][ 58]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.23.49:416][ 58]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_77.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.23.49:416][ 58]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.23.49:416][ 58]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_77.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_2.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.23.49:458][ 58]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.23.49:466][ 58]PIE: Server logged in
+[2023.11.27-19.23.49:471][ 58]PIE: Play in editor total start time 0.349 seconds.
+[2023.11.27-19.23.49:478][ 58]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.23.49:488][ 59]LogHttp: Warning: 00000B8C7174CD00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.23.49:489][ 59]LogHttp: Warning: 00000B8C7174CD00: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.23.49:489][ 59]LogHttp: Warning: 00000B8C7174CD00: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.23.50:010][138]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.23.50:010][138]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.23.50:010][138]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.23.53:335][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.23.53:335][833]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-19.23.53:335][833]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-19.23.54:452][ 43]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.23.54:452][ 43]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.23.55:788][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.23.55:788][330]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-19.23.55:788][330]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-19.23.56:905][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.23.56:905][546]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.23.56:924][546]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.23.56:933][546]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.23.56:933][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.23.56:936][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.23.56:943][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.23.56:972][546]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 79
+[2023.11.27-19.23.56:972][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2023.11.27-19.23.56:974][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=79
+[2023.11.27-19.23.56:984][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.27-19.23.57:006][547]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2023.11.27-19.23.58:289][624]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-19.23.58:400][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.11.27-19.23.58:800][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.23.58:921][626]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-19.23.58:921][626]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter4901E2DA4E4790B7355A008BBE31257D.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-19.23.58:930][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 20.3 sec)
+[2023.11.27-19.23.58:938][626]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-19.23.58:939][626]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-19.24.38:003][571]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.24.38:011][571]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-19.24.38:337][571]LogPlayLevel: [PlayLevel] Compiling LA-GameInstance before play...
+[2023.11.27-19.24.38:694][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.24.38:773][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/LA-GameInstance" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LA-GameInstance.uasset" SILENT=true
+[2023.11.27-19.24.38:802][571]LogSavePackage: Moving output files for package: /Game/Misc/LA-GameInstance
+[2023.11.27-19.24.38:803][571]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LA-GameInstance6E1D2F924B1C9E9BCF0629AAC98ABCEC.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LA-GameInstance.uasset'
+[2023.11.27-19.24.38:812][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 20.4 sec)
+[2023.11.27-19.24.38:847][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.11.27-19.24.38:850][571]LogPlayLevel: PlayLevel: Blueprint regeneration took 838 ms (1 blueprints)
+[2023.11.27-19.24.38:850][571]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:24:38 a.m.)
+[2023.11.27-19.24.38:851][571]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.24.38:853][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002935s)
+[2023.11.27-19.24.38:853][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.002960s)
+[2023.11.27-19.24.38:853][571]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.24.38:853][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.24.38:854][571]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.24.38:854][571]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2023.11.27-19.24.38:882][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.11.27-19.24.38:884][571]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2023.11.27-19.24.38:884][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.24.38:884][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.24.38:884][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.24.38:884][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.24.38:884][571]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.24.38:884][571]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.24.38:884][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.24.38:884][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.24.38:885][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.24.38:885][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.24.38:885][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.24.38:887][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.24.38:899][571]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.24.38:899][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.24.38:899][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.24.38:899][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.24.38:899][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2023.11.27-19.24.38:899][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2023.11.27-19.24.38:901][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2023.11.27-19.24.38:901][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=80
+[2023.11.27-19.24.38:901][571]LogInit: FAudioDevice initialized with ID 80.
+[2023.11.27-19.24.38:901][571]LogAudio: Display: Audio Device (ID: 80) registered with world 'Testing'.
+[2023.11.27-19.24.38:901][571]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 80
+[2023.11.27-19.24.38:927][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.24.39:166][571]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.24.39:167][571]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.24.39
+[2023.11.27-19.24.39:167][571]LogWorld: Bringing up level for play took: 0.001138
+[2023.11.27-19.24.39:170][571]LogOnline: OSS: Created online subsystem instance for: :Context_129
+[2023.11.27-19.24.39:188][571]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.24.39:188][571]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_78.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.24.39:188][571]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.24.39:188][571]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_78.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.24.39:188][571]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.24.39:188][571]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_78.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.24.39:188][571]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.24.39:188][571]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_78.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.24.39:226][571]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.24.39:229][571]PIE: Server logged in
+[2023.11.27-19.24.39:230][571]PIE: Play in editor total start time 1.219 seconds.
+[2023.11.27-19.24.39:237][571]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.24.39:247][572]LogHttp: Warning: 00000B8C4DE4C800: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.24.39:247][572]LogHttp: Warning: 00000B8C4DE4C800: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.24.39:247][572]LogHttp: Warning: 00000B8C4DE4C800: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.24.39:364][572]AssetCheck: New page: Asset Save: LA-GameInstance
+[2023.11.27-19.24.39:364][572]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/LA-GameInstance.LA-GameInstance
+[2023.11.27-19.24.40:508][699]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.24.40:508][699]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.24.40:508][699]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.24.46:925][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.24.46:925][ 62]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.24.46:964][ 62]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.24.46:970][ 62]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.24.46:970][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.24.46:972][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.24.46:979][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.24.47:013][ 62]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 80
+[2023.11.27-19.24.47:013][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2023.11.27-19.24.47:015][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2023.11.27-19.24.47:023][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.11.27-19.24.47:057][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2023.11.27-19.25.00:611][861]BlueprintLog: New page: Compile PauseMenu
+[2023.11.27-19.25.00:668][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.11.27-19.25.00:705][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.25.00:772][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/PauseMenu.uasset" SILENT=true
+[2023.11.27-19.25.00:782][861]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu
+[2023.11.27-19.25.00:782][861]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PauseMenu5AEA65A5483AB85134CBEAB778BBA8B9.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/PauseMenu.uasset'
+[2023.11.27-19.25.00:791][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 20.5 sec)
+[2023.11.27-19.25.00:803][861]AssetCheck: New page: Asset Save: PauseMenu
+[2023.11.27-19.25.00:803][861]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu.PauseMenu
+[2023.11.27-19.25.08:881][332]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.25.08:889][332]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-19.25.08:890][332]LogPlayLevel: [PlayLevel] Compiling PauseMenu before play...
+[2023.11.27-19.25.08:951][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.25.09:016][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/PauseMenu.uasset" SILENT=true
+[2023.11.27-19.25.09:025][332]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu
+[2023.11.27-19.25.09:026][332]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PauseMenuECD1A6D645A83AF9760457ABBB33FEC5.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/PauseMenu.uasset'
+[2023.11.27-19.25.09:035][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 20.6 sec)
+[2023.11.27-19.25.09:065][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.27-19.25.09:069][332]LogPlayLevel: PlayLevel: Blueprint regeneration took 180 ms (1 blueprints)
+[2023.11.27-19.25.09:069][332]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:25:09 a.m.)
+[2023.11.27-19.25.09:069][332]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.25.09:072][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002775s)
+[2023.11.27-19.25.09:072][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.002801s)
+[2023.11.27-19.25.09:072][332]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.25.09:072][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.25.09:073][332]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.25.09:073][332]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2023.11.27-19.25.09:100][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.27-19.25.09:102][332]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2023.11.27-19.25.09:103][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.25.09:103][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.25.09:103][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.25.09:103][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.25.09:103][332]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.25.09:103][332]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.25.09:103][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.25.09:103][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.25.09:103][332]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.25.09:103][332]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.25.09:103][332]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.25.09:105][332]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.25.09:118][332]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.25.09:118][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.25.09:118][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.25.09:118][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.25.09:119][332]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2023.11.27-19.25.09:119][332]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2023.11.27-19.25.09:121][332]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2023.11.27-19.25.09:121][332]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2023.11.27-19.25.09:121][332]LogInit: FAudioDevice initialized with ID 81.
+[2023.11.27-19.25.09:121][332]LogAudio: Display: Audio Device (ID: 81) registered with world 'Testing'.
+[2023.11.27-19.25.09:121][332]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 81
+[2023.11.27-19.25.09:147][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.25.09:350][332]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.25.09:352][332]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.25.09
+[2023.11.27-19.25.09:352][332]LogWorld: Bringing up level for play took: 0.001329
+[2023.11.27-19.25.09:354][332]LogOnline: OSS: Created online subsystem instance for: :Context_130
+[2023.11.27-19.25.09:370][332]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.25.09:370][332]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_79.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.25.09:370][332]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.25.09:370][332]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_79.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.25.09:370][332]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.25.09:370][332]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_79.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.25.09:370][332]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.25.09:370][332]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_79.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.25.09:409][332]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.25.09:410][332]PIE: Server logged in
+[2023.11.27-19.25.09:412][332]PIE: Play in editor total start time 0.523 seconds.
+[2023.11.27-19.25.09:417][332]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.25.09:429][333]LogHttp: Warning: 00000B8C3BA99100: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-19.25.09:429][333]LogHttp: Warning: 00000B8C3BA99100: libcurl info message cache 0 (Couldn't open file /)
+[2023.11.27-19.25.09:429][333]LogHttp: Warning: 00000B8C3BA99100: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-19.25.09:440][333]AssetCheck: New page: Asset Save: PauseMenu
+[2023.11.27-19.25.09:440][333]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu.PauseMenu
+[2023.11.27-19.25.10:602][527]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.25.10:602][527]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.25.10:602][527]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.25.16:655][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.25.16:655][811]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.25.16:699][811]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.25.16:706][811]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.25.16:706][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.25.16:709][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.25.16:716][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.25.16:753][811]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 81
+[2023.11.27-19.25.16:753][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2023.11.27-19.25.16:755][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2023.11.27-19.25.16:764][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.11.27-19.25.16:792][812]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2023.11.27-19.25.19:432][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.25.19:481][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/PauseMenu.uasset" SILENT=true
+[2023.11.27-19.25.19:490][968]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu
+[2023.11.27-19.25.19:490][968]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PauseMenu5FE806204306483E2223E9AFF863EE85.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/PauseMenu.uasset'
+[2023.11.27-19.25.19:499][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 20.7 sec)
+[2023.11.27-19.25.19:507][968]AssetCheck: New page: Asset Save: PauseMenu
+[2023.11.27-19.25.19:507][968]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu.PauseMenu
