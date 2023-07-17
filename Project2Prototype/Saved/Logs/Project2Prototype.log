@@ -28789,3 +28789,330 @@ Validity of PCM data in memory: Valid, number of PCM frames: 1024, PCM data size
 [2023.12.01-05.27.59:731][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 8.86 sec)
 [2023.12.01-05.27.59:739][ 52]AssetCheck: New page: Asset Save: LearningPointWidget
 [2023.12.01-05.27.59:739][ 52]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.12.01-05.30.15:527][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.12.01-05.30.15:641][760]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/IrvingHouse_Auto3
+[2023.12.01-05.30.15:641][760]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse_Auto3E476943844F1DAF6C199609018B7269D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Saved/Autosaves/Game/Levels/IrvingHouse_Auto3.umap'
+[2023.12.01-05.30.15:653][760]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/IrvingHouse' took 0.152
+[2023.12.01-05.30.15:653][760]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.152
+[2023.12.01-05.33.05:137][499]BlueprintLog: New page: Compile LearningPointWidget
+[2023.12.01-05.33.05:290][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.12.01-05.33.10:263][806]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2023.12.01-05.33.10:263][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.33.11:893][985]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.01-05.33.11:893][985]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.12.01-05.33.11:893][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.33.16:230][484]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.12.01-05.33.16:230][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.33.16:237][484]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.12.01-05.33.16:237][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.36.40:855][743]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlueprintInterfaces/BPI_Player.BPI_Player
+[2023.12.01-05.36.40:855][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.01-05.36.40:856][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.01-05.36.48:358][624]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlueprintInterfaces/BPI_SaveGame.BPI_SaveGame
+[2023.12.01-05.36.48:358][624]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.01-05.36.48:358][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.01-05.37.01:413][172]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlueprintInterfaces/BPI_Getters.BPI_Getters
+[2023.12.01-05.37.01:414][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.01-05.37.01:414][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.01-05.37.04:684][556]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlueprintInterfaces/BPI_Widgets.BPI_Widgets
+[2023.12.01-05.37.04:685][556]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.01-05.37.04:685][556]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.01-05.37.09:572][126]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2023.12.01-05.37.09:573][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.37.10:629][247]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.12.01-05.37.10:629][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.37.11:816][383]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.12.01-05.37.11:816][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.37.13:470][575]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.12.01-05.37.13:470][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.37.15:639][830]BlueprintLog: New page: Compile LearningPageTemplate
+[2023.12.01-05.37.15:750][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.12.01-05.37.16:237][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.01-05.37.16:321][860]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPageTemplate
+[2023.12.01-05.37.16:321][860]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LearningPageTemplateBA1A61674601550ED3EC3D9466859502.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LearningPoint/LearningPageTemplate.uasset'
+[2023.12.01-05.37.16:329][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 8.96 sec)
+[2023.12.01-05.37.16:337][860]AssetCheck: New page: Asset Save: LearningPageTemplate
+[2023.12.01-05.37.16:337][860]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPageTemplate.LearningPageTemplate
+[2023.12.01-05.37.18:417][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.01-05.37.18:485][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.01-05.37.18:504][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.01-05.37.18:621][104]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse
+[2023.12.01-05.37.18:622][104]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouseF7315BF24C8D9EDB2633F28AB9F9F6B1.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse.umap'
+[2023.12.01-05.37.18:630][104]LogFileHelpers: No new changes to save!
+[2023.12.01-05.37.18:630][104]LogFileHelpers: Saving map 'IrvingHouse' took 0.147
+[2023.12.01-05.37.18:637][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 9.18 sec)
+[2023.12.01-05.37.18:646][104]AssetCheck: New page: Asset Save: IrvingHouse
+[2023.12.01-05.37.18:646][104]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse.IrvingHouse
+[2023.12.01-05.42.29:845][567]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.12.01-05.42.29:853][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.01-05.42.29:853][567]PIE: New page: PIE session: IrvingHouse (Nov 30, 2023, 1:42:29 PM)
+[2023.12.01-05.42.29:853][567]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse
+[2023.12.01-05.42.29:959][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106301s)
+[2023.12.01-05.42.29:959][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse.IrvingHouse to /Game/Levels/UEDPIE_0_IrvingHouse.IrvingHouse (0.106345s)
+[2023.12.01-05.42.29:959][567]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.01-05.42.29:959][567]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.01-05.42.29:960][567]LogAIModule: Creating AISystem for world IrvingHouse
+[2023.12.01-05.42.29:960][567]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2023.12.01-05.42.29:978][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.12.01-05.42.29:980][567]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2023.12.01-05.42.29:980][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.01-05.42.29:980][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.01-05.42.29:980][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.01-05.42.29:980][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.01-05.42.29:981][567]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.01-05.42.29:981][567]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.01-05.42.29:981][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.01-05.42.29:981][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.01-05.42.29:981][567]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.01-05.42.29:981][567]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.01-05.42.29:981][567]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.01-05.42.29:983][567]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.01-05.42.30:000][567]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.12.01-05.42.30:000][567]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.01-05.42.30:000][567]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.01-05.42.30:000][567]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.01-05.42.30:001][567]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2023.12.01-05.42.30:001][567]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2023.12.01-05.42.30:002][567]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2023.12.01-05.42.30:002][567]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2023.12.01-05.42.30:002][567]LogInit: FAudioDevice initialized with ID 51.
+[2023.12.01-05.42.30:002][567]LogAudio: Display: Audio Device (ID: 51) registered with world 'IrvingHouse'.
+[2023.12.01-05.42.30:002][567]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2023.12.01-05.42.30:022][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.01-05.42.30:213][567]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.01-05.42.30:219][567]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse.IrvingHouse up for play (max tick rate 0) at 2023.11.30-21.42.30
+[2023.12.01-05.42.30:219][567]LogWorld: Bringing up level for play took: 0.006192
+[2023.12.01-05.42.30:221][567]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2023.12.01-05.42.30:280][567]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.12.01-05.42.30:285][567]PIE: Server logged in
+[2023.12.01-05.42.30:287][567]PIE: Play in editor total start time 0.435 seconds.
+[2023.12.01-05.42.30:294][567]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.12.01-05.42.31:559][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.01-05.42.31:559][822]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse
+[2023.12.01-05.42.31:600][822]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.91.0)' being destroyed
+[2023.12.01-05.42.31:603][822]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2023.12.01-05.42.31:604][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.42.31:606][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.01-05.42.31:611][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.42.31:633][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.01-05.42.31:634][822]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2023.12.01-05.42.31:634][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2023.12.01-05.42.31:636][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2023.12.01-05.42.31:644][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.12.01-05.42.31:677][823]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.12.01-05.42.44:629][ 80]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.12.01-05.42.44:636][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.01-05.42.44:636][ 80]PIE: New page: PIE session: IrvingHouse (Nov 30, 2023, 1:42:44 PM)
+[2023.12.01-05.42.44:636][ 80]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse
+[2023.12.01-05.42.44:740][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103744s)
+[2023.12.01-05.42.44:740][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse.IrvingHouse to /Game/Levels/UEDPIE_0_IrvingHouse.IrvingHouse (0.103775s)
+[2023.12.01-05.42.44:740][ 80]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.01-05.42.44:740][ 80]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.01-05.42.44:741][ 80]LogAIModule: Creating AISystem for world IrvingHouse
+[2023.12.01-05.42.44:741][ 80]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2023.12.01-05.42.44:759][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.12.01-05.42.44:763][ 80]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2023.12.01-05.42.44:763][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.01-05.42.44:763][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.01-05.42.44:763][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.01-05.42.44:763][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.01-05.42.44:763][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.01-05.42.44:763][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.01-05.42.44:763][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.01-05.42.44:763][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.01-05.42.44:764][ 80]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.01-05.42.44:764][ 80]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.01-05.42.44:764][ 80]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.01-05.42.44:766][ 80]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.01-05.42.44:781][ 80]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.12.01-05.42.44:781][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.01-05.42.44:781][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.01-05.42.44:781][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.01-05.42.44:782][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2023.12.01-05.42.44:782][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2023.12.01-05.42.44:783][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2023.12.01-05.42.44:783][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2023.12.01-05.42.44:783][ 80]LogInit: FAudioDevice initialized with ID 52.
+[2023.12.01-05.42.44:783][ 80]LogAudio: Display: Audio Device (ID: 52) registered with world 'IrvingHouse'.
+[2023.12.01-05.42.44:783][ 80]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2023.12.01-05.42.44:801][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.01-05.42.44:988][ 80]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.01-05.42.44:994][ 80]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse.IrvingHouse up for play (max tick rate 0) at 2023.11.30-21.42.44
+[2023.12.01-05.42.44:994][ 80]LogWorld: Bringing up level for play took: 0.006054
+[2023.12.01-05.42.44:996][ 80]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2023.12.01-05.42.45:058][ 80]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.12.01-05.42.45:062][ 80]PIE: Server logged in
+[2023.12.01-05.42.45:064][ 80]PIE: Play in editor total start time 0.428 seconds.
+[2023.12.01-05.42.45:071][ 80]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.12.01-05.42.48:669][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.01-05.42.48:669][849]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse
+[2023.12.01-05.42.48:703][849]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.91.0)' being destroyed
+[2023.12.01-05.42.48:706][849]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2023.12.01-05.42.48:708][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.42.48:710][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.01-05.42.48:717][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.42.48:742][849]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2023.12.01-05.42.48:742][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2023.12.01-05.42.48:744][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2023.12.01-05.42.48:752][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.12.01-05.42.48:772][850]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.12.01-05.42.51:373][158]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.12.01-05.42.51:379][158]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.01-05.42.51:414][158]LogPlayLevel: [PlayLevel] Compiling LA-GameInstance before play...
+[2023.12.01-05.42.51:532][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.01-05.42.51:591][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/LA-GameInstance" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Misc/LA-GameInstance.uasset" SILENT=true
+[2023.12.01-05.42.51:615][158]LogSavePackage: Moving output files for package: /Game/Misc/LA-GameInstance
+[2023.12.01-05.42.51:615][158]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LA-GameInstance09C664F34BAD639D0678E3B409FE379C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Misc/LA-GameInstance.uasset'
+[2023.12.01-05.42.51:622][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 9.27 sec)
+[2023.12.01-05.42.51:646][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.01-05.42.51:657][158]LogPlayLevel: PlayLevel: Blueprint regeneration took 277 ms (1 blueprints)
+[2023.12.01-05.42.51:657][158]PIE: New page: PIE session: IrvingHouse (Nov 30, 2023, 1:42:51 PM)
+[2023.12.01-05.42.51:657][158]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse
+[2023.12.01-05.42.51:763][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106540s)
+[2023.12.01-05.42.51:763][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse.IrvingHouse to /Game/Levels/UEDPIE_0_IrvingHouse.IrvingHouse (0.106576s)
+[2023.12.01-05.42.51:763][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.01-05.42.51:763][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.01-05.42.51:764][158]LogAIModule: Creating AISystem for world IrvingHouse
+[2023.12.01-05.42.51:764][158]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2023.12.01-05.42.51:782][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.12.01-05.42.51:785][158]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2023.12.01-05.42.51:785][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.01-05.42.51:785][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.01-05.42.51:785][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.01-05.42.51:785][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.01-05.42.51:785][158]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.01-05.42.51:785][158]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.01-05.42.51:785][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.01-05.42.51:785][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.01-05.42.51:785][158]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.01-05.42.51:785][158]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.01-05.42.51:785][158]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.01-05.42.51:787][158]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.01-05.42.51:802][158]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.12.01-05.42.51:803][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.01-05.42.51:803][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.01-05.42.51:803][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.01-05.42.51:803][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2023.12.01-05.42.51:803][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2023.12.01-05.42.51:805][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2023.12.01-05.42.51:805][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2023.12.01-05.42.51:805][158]LogInit: FAudioDevice initialized with ID 53.
+[2023.12.01-05.42.51:805][158]LogAudio: Display: Audio Device (ID: 53) registered with world 'IrvingHouse'.
+[2023.12.01-05.42.51:805][158]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2023.12.01-05.42.51:820][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.01-05.42.52:016][158]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.01-05.42.52:022][158]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse.IrvingHouse up for play (max tick rate 0) at 2023.11.30-21.42.52
+[2023.12.01-05.42.52:023][158]LogWorld: Bringing up level for play took: 0.006524
+[2023.12.01-05.42.52:025][158]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2023.12.01-05.42.52:089][158]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.12.01-05.42.52:092][158]PIE: Server logged in
+[2023.12.01-05.42.52:093][158]PIE: Play in editor total start time 0.713 seconds.
+[2023.12.01-05.42.52:099][158]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.12.01-05.42.52:113][159]LogHttp: Warning: 0000097A0D793200: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.01-05.42.52:113][159]LogHttp: Warning: 0000097A0D793200: libcurl info message cache 0 (Couldn't open file /)
+[2023.12.01-05.42.52:113][159]LogHttp: Warning: 0000097A0D793200: libcurl info message cache 1 (Closing connection -1)
+[2023.12.01-05.42.52:140][159]AssetCheck: New page: Asset Save: LA-GameInstance
+[2023.12.01-05.42.52:140][159]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/LA-GameInstance.LA-GameInstance
+[2023.12.01-05.42.53:963][533]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.01-05.42.53:963][533]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.12.01-05.42.53:963][533]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.01-05.43.32:174][949]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.01-05.43.32:174][949]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.01-05.43.32:175][949]LogBlueprintUserMessages: [LA-GameInstance_C_51] saving
+[2023.12.01-05.43.53:721][827]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.01-05.43.53:721][827]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.01-05.43.57:823][742]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.01-05.43.57:823][742]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.01-05.43.57:824][742]LogBlueprintUserMessages: [LA-GameInstance_C_51] saving
+[2023.12.01-05.44.03:079][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.01-05.44.03:079][920]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse
+[2023.12.01-05.44.03:130][920]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.91.0)' being destroyed
+[2023.12.01-05.44.03:134][920]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2023.12.01-05.44.03:135][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.44.03:138][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.01-05.44.03:144][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.44.03:164][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.01-05.44.03:165][920]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2023.12.01-05.44.03:165][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2023.12.01-05.44.03:167][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2023.12.01-05.44.03:176][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.12.01-05.44.03:201][921]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2023.12.01-05.44.06:916][361]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.12.01-05.44.06:923][361]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.01-05.44.06:935][361]LogPlayLevel: [PlayLevel] Compiling LA-GameInstance before play...
+[2023.12.01-05.44.07:065][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.01-05.44.07:137][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/LA-GameInstance" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Misc/LA-GameInstance.uasset" SILENT=true
+[2023.12.01-05.44.07:161][361]LogSavePackage: Moving output files for package: /Game/Misc/LA-GameInstance
+[2023.12.01-05.44.07:162][361]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LA-GameInstanceAAC5074547AB0B9600F579B4B0A57F48.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Misc/LA-GameInstance.uasset'
+[2023.12.01-05.44.07:168][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 9.37 sec)
+[2023.12.01-05.44.07:195][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.12.01-05.44.07:200][361]LogPlayLevel: PlayLevel: Blueprint regeneration took 277 ms (1 blueprints)
+[2023.12.01-05.44.07:200][361]PIE: New page: PIE session: IrvingHouse (Nov 30, 2023, 1:44:07 PM)
+[2023.12.01-05.44.07:201][361]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse
+[2023.12.01-05.44.07:311][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.109935s)
+[2023.12.01-05.44.07:311][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse.IrvingHouse to /Game/Levels/UEDPIE_0_IrvingHouse.IrvingHouse (0.109971s)
+[2023.12.01-05.44.07:311][361]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.01-05.44.07:311][361]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.01-05.44.07:311][361]LogAIModule: Creating AISystem for world IrvingHouse
+[2023.12.01-05.44.07:312][361]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2023.12.01-05.44.07:330][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.01-05.44.07:332][361]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2023.12.01-05.44.07:332][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.01-05.44.07:332][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.01-05.44.07:332][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.01-05.44.07:332][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.01-05.44.07:332][361]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.01-05.44.07:332][361]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.01-05.44.07:332][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.01-05.44.07:332][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.01-05.44.07:333][361]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.01-05.44.07:333][361]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.01-05.44.07:333][361]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.01-05.44.07:335][361]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.01-05.44.07:351][361]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.12.01-05.44.07:351][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.01-05.44.07:351][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.01-05.44.07:351][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.01-05.44.07:352][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2023.12.01-05.44.07:352][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2023.12.01-05.44.07:354][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2023.12.01-05.44.07:354][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2023.12.01-05.44.07:354][361]LogInit: FAudioDevice initialized with ID 54.
+[2023.12.01-05.44.07:354][361]LogAudio: Display: Audio Device (ID: 54) registered with world 'IrvingHouse'.
+[2023.12.01-05.44.07:354][361]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2023.12.01-05.44.07:370][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.01-05.44.07:562][361]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.01-05.44.07:568][361]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse.IrvingHouse up for play (max tick rate 0) at 2023.11.30-21.44.07
+[2023.12.01-05.44.07:568][361]LogWorld: Bringing up level for play took: 0.006322
+[2023.12.01-05.44.07:571][361]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2023.12.01-05.44.07:633][361]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.12.01-05.44.07:637][361]PIE: Server logged in
+[2023.12.01-05.44.07:637][361]PIE: Play in editor total start time 0.714 seconds.
+[2023.12.01-05.44.07:643][361]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.12.01-05.44.07:656][362]LogHttp: Warning: 0000097A26ED1400: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.01-05.44.07:656][362]LogHttp: Warning: 0000097A26ED1400: libcurl info message cache 0 (Couldn't open file /)
+[2023.12.01-05.44.07:656][362]LogHttp: Warning: 0000097A26ED1400: libcurl info message cache 1 (Closing connection -1)
+[2023.12.01-05.44.07:680][362]AssetCheck: New page: Asset Save: LA-GameInstance
+[2023.12.01-05.44.07:680][362]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/LA-GameInstance.LA-GameInstance
+[2023.12.01-05.44.12:898][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.01-05.44.12:898][498]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse
+[2023.12.01-05.44.12:957][498]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.91.0)' being destroyed
+[2023.12.01-05.44.12:960][498]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2023.12.01-05.44.12:961][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.44.12:964][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.01-05.44.12:969][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.01-05.44.12:994][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2023.12.01-05.44.12:994][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.12.01-05.44.12:995][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.12.01-05.44.13:003][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.12.01-05.44.13:034][499]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2023.12.01-05.44.49:148][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.01-05.44.49:210][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.01-05.44.49:229][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.12.01-05.44.49:337][543]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse
+[2023.12.01-05.44.49:338][543]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse600C14D84B80C66097EB84AD7F125C66.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse.umap'
+[2023.12.01-05.44.49:347][543]LogFileHelpers: No new changes to save!
+[2023.12.01-05.44.49:347][543]LogFileHelpers: Saving map 'IrvingHouse' took 0.138
+[2023.12.01-05.44.49:356][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 9.58 sec)
+[2023.12.01-05.44.49:365][543]AssetCheck: New page: Asset Save: IrvingHouse
+[2023.12.01-05.44.49:365][543]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse.IrvingHouse
