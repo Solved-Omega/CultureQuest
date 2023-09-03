@@ -26,8 +26,13 @@
 		},
 		{
 			"Name": "AzSpeech",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/94ad3e51c6f443718cdb312b48742bb3"
+		},
+		{
+			"Name": "TTSUniversalPluginMeoPlay",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/fcc4de68b1134d99b4f20e57456953aa"
 		}
 	],
 	"TargetPlatforms": [
