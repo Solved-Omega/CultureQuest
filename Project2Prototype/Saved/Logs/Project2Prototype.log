@@ -4599,3 +4599,242 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.25-17.03.47:227][549]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/InformationPoint/NewPanelTemplate_Auto3
 [2023.10.25-17.03.47:227][549]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/NewPanelTemplate_Auto3A0F60BE14960C0FF1764DE951237C486.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Autosaves/Game/Widgets/InformationPoint/NewPanelTemplate_Auto3.uasset'
 [2023.10.25-17.03.47:227][549]LogFileHelpers: Auto-saving content packages took 0.013
+[2023.10.25-17.05.58:342][311]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.25-17.05.58:350][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.25-17.05.58:350][311]PIE: New page: PIE session: VRTemplateMap (Oct. 25, 2023, 3:05:58 a.m.)
+[2023.10.25-17.05.58:350][311]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.25-17.05.58:356][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005195s)
+[2023.10.25-17.05.58:356][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.005228s)
+[2023.10.25-17.05.58:356][311]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.25-17.05.58:356][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-17.05.58:357][311]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.10.25-17.05.58:357][311]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2023.10.25-17.05.58:383][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.10.25-17.05.58:385][311]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.10.25-17.05.58:385][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.25-17.05.58:385][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.25-17.05.58:385][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.25-17.05.58:385][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.25-17.05.58:385][311]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.25-17.05.58:385][311]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.25-17.05.58:385][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.25-17.05.58:385][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.25-17.05.58:386][311]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.25-17.05.58:386][311]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.25-17.05.58:386][311]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.25-17.05.58:389][311]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.25-17.05.58:402][311]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.25-17.05.58:402][311]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.25-17.05.58:402][311]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.25-17.05.58:402][311]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.25-17.05.58:403][311]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.10.25-17.05.58:403][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.10.25-17.05.58:404][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.10.25-17.05.58:405][311]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.10.25-17.05.58:405][311]LogInit: FAudioDevice initialized with ID 40.
+[2023.10.25-17.05.58:405][311]LogAudio: Display: Audio Device (ID: 40) registered with world 'VRTemplateMap'.
+[2023.10.25-17.05.58:405][311]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2023.10.25-17.05.58:430][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.25-17.05.58:622][311]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.25-17.05.58:623][311]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.10.25-10.05.58
+[2023.10.25-17.05.58:623][311]LogWorld: Bringing up level for play took: 0.001363
+[2023.10.25-17.05.58:625][311]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.10.25-17.05.58:627][311]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.25-17.05.58:629][311]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.25-17.05.58:629][311]vr.PixelDensity = "1"
+[2023.10.25-17.05.58:634][311]PIE: Server logged in
+[2023.10.25-17.05.58:638][311]PIE: Play in editor total start time 0.287 seconds.
+[2023.10.25-17.05.58:648][311]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.25-17.05.58:662][311]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.25-17.05.58:683][312]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.25-17.06.03:227][700]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.25-17.06.12:717][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.25-17.06.12:717][379]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.10.25-17.06.12:775][379]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.25-17.06.12:777][379]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.06.12:777][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.06.12:780][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.25-17.06.12:786][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.06.12:813][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-17.06.12:813][379]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2023.10.25-17.06.12:814][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.10.25-17.06.12:816][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.10.25-17.06.12:823][379]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.25-17.06.12:823][379]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.25-17.06.12:825][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.10.25-17.06.12:851][380]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.10.25-17.06.14:402][512]BlueprintLog: New page: Compile LA-GameInstance
+[2023.10.25-17.06.14:439][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.10.25-17.06.15:091][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-17.06.15:148][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/LA-GameInstance" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LA-GameInstance.uasset" SILENT=true
+[2023.10.25-17.06.15:150][547]LogSavePackage: Moving output files for package: /Game/Misc/LA-GameInstance
+[2023.10.25-17.06.15:150][547]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LA-GameInstance5DBE0AC04AE915AED9096BAF69963F7C.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LA-GameInstance.uasset'
+[2023.10.25-17.06.15:159][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 5.87 sec)
+[2023.10.25-17.06.15:167][547]AssetCheck: New page: Asset Save: LA-GameInstance
+[2023.10.25-17.06.15:167][547]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/LA-GameInstance.LA-GameInstance
+[2023.10.25-17.06.45:129][ 89]BlueprintLog: New page: Compile TextPanelTemplate
+[2023.10.25-17.06.45:191][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.10.25-17.06.45:828][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-17.06.45:891][131]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/TextPanelTemplate
+[2023.10.25-17.06.45:892][131]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextPanelTemplate72F8A0A24BCE7297C5FAAE864E79091E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/TextPanelTemplate.uasset'
+[2023.10.25-17.06.45:902][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 5.94 sec)
+[2023.10.25-17.06.45:915][131]AssetCheck: New page: Asset Save: TextPanelTemplate
+[2023.10.25-17.06.45:915][131]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/TextPanelTemplate.TextPanelTemplate
+[2023.10.25-17.07.08:527][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-17.07.08:589][199]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/TextPanelTemplate
+[2023.10.25-17.07.08:590][199]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextPanelTemplate1B94C53F46D4556A74ADF09699C1BE79.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/TextPanelTemplate.uasset'
+[2023.10.25-17.07.08:599][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 6.01 sec)
+[2023.10.25-17.07.08:606][199]AssetCheck: New page: Asset Save: TextPanelTemplate
+[2023.10.25-17.07.08:606][199]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/TextPanelTemplate.TextPanelTemplate
+[2023.10.25-17.07.12:749][572]LogSlate: Window 'LA-GameInstance' being destroyed
+[2023.10.25-17.07.12:754][572]LogSlate: Window 'LA-GameInstance' being destroyed
+[2023.10.25-17.07.12:870][572]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.07.12:870][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.07.12:877][572]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.07.12:877][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.07.12:965][572]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.07.12:965][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.07.12:971][572]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.07.12:971][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.07.13:016][572]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.07.13:016][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.07.13:022][572]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.07.13:023][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.07.13:086][572]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.07.13:086][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.07.13:093][572]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.07.13:093][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.07.13:177][572]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.07.13:177][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.07.13:184][572]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.07.13:184][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.07.13:218][572]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.07.13:218][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.07.20:070][293]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.10.25-17.07.20:070][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.25-17.07.20:070][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-17.07.20:077][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.25-17.07.20:077][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-17.07.23:672][610]BlueprintLog: New page: Compile LearningPointWidget
+[2023.10.25-17.07.23:889][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.10.25-17.07.25:734][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-17.07.25:800][782]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPointWidget
+[2023.10.25-17.07.25:800][782]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointWidgetB8DD2B9C4AE723241FD9529C81603610.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningPointWidget.uasset'
+[2023.10.25-17.07.25:808][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 6.09 sec)
+[2023.10.25-17.07.25:814][782]AssetCheck: New page: Asset Save: LearningPointWidget
+[2023.10.25-17.07.25:814][782]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.10.25-17.07.41:713][268]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/QuestionPanel.QuestionPanel
+[2023.10.25-17.07.41:713][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.25-17.07.41:713][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-17.07.41:718][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.25-17.07.41:718][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-17.07.54:842][261]BlueprintLog: New page: Compile QuestionPanel
+[2023.10.25-17.07.54:919][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.25-17.07.55:489][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-17.07.55:559][290]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionPanel
+[2023.10.25-17.07.55:559][290]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionPanelC63646534DEBB8FFD35DBE8B956BA2F6.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionPanel.uasset'
+[2023.10.25-17.07.55:567][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 6.17 sec)
+[2023.10.25-17.07.55:574][290]AssetCheck: New page: Asset Save: QuestionPanel
+[2023.10.25-17.07.55:574][290]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionPanel.QuestionPanel
+[2023.10.25-17.08.30:857][355]BlueprintLog: New page: Compile QuestionPanel
+[2023.10.25-17.08.30:906][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.10.25-17.08.31:348][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-17.08.31:414][385]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionPanel
+[2023.10.25-17.08.31:415][385]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionPanelC422A11C439C832C4DFFFAADDACECAD8.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionPanel.uasset'
+[2023.10.25-17.08.31:424][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 6.24 sec)
+[2023.10.25-17.08.31:431][385]AssetCheck: New page: Asset Save: QuestionPanel
+[2023.10.25-17.08.31:431][385]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionPanel.QuestionPanel
+[2023.10.25-17.08.47:476][809]BlueprintLog: New page: Compile QuestionPanel
+[2023.10.25-17.08.47:531][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.10.25-17.08.48:276][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-17.08.48:335][872]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionPanel
+[2023.10.25-17.08.48:335][872]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionPanelF8602A22449A2648E02C43A32F6FCDAA.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionPanel.uasset'
+[2023.10.25-17.08.48:344][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 6.31 sec)
+[2023.10.25-17.08.48:351][872]AssetCheck: New page: Asset Save: QuestionPanel
+[2023.10.25-17.08.48:351][872]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionPanel.QuestionPanel
+[2023.10.25-17.08.49:463][973]BlueprintLog: New page: Compile QuestionPanel
+[2023.10.25-17.08.49:513][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.25-17.09.56:844][328]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.10.25-17.09.56:852][328]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.25-17.09.56:857][328]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.25-17.09.56:867][329]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.25-17.10.02:343][982]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2023.10.25-17.10.02:356][982]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.25-17.10.25:255][698]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> AddQuestionType
+[2023.10.25-17.10.25:276][698]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2023.10.25-17.10.25:281][698]LogMetaData: Removing '/Game/Widgets/LearningPoint/AddQuestionType.SKEL_AddQuestionType_C' ref from Metadata '/Game/Widgets/LearningPoint/NewWidgetBlueprint.PackageMetaData'
+[2023.10.25-17.10.25:281][698]LogMetaData: Removing '/Game/Widgets/LearningPoint/AddQuestionType.AddQuestionType_C' ref from Metadata '/Game/Widgets/LearningPoint/NewWidgetBlueprint.PackageMetaData'
+[2023.10.25-17.10.25:281][698]LogMetaData: Removing '/Game/Widgets/LearningPoint/AddQuestionType.AddQuestionType:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Widgets/LearningPoint/NewWidgetBlueprint.PackageMetaData'
+[2023.10.25-17.10.25:281][698]LogMetaData: Removing '/Game/Widgets/LearningPoint/AddQuestionType.AddQuestionType:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Widgets/LearningPoint/NewWidgetBlueprint.PackageMetaData'
+[2023.10.25-17.10.25:281][698]LogMetaData: Removing '/Game/Widgets/LearningPoint/AddQuestionType.AddQuestionType:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Widgets/LearningPoint/NewWidgetBlueprint.PackageMetaData'
+[2023.10.25-17.10.25:289][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-17.10.25:351][698]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/AddQuestionType
+[2023.10.25-17.10.25:351][698]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/AddQuestionTypeE20CBDAD46C7E5CBFDD0FBA9B0DE6FA7.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/AddQuestionType.uasset'
+[2023.10.25-17.10.25:365][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 6.38 sec)
+[2023.10.25-17.10.25:406][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.10.25-17.10.25:437][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.25-17.10.25:461][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.10.25-17.10.25:469][698]AssetCheck: New page: Asset Save: AddQuestionType
+[2023.10.25-17.10.25:469][698]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/AddQuestionType.AddQuestionType
+[2023.10.25-17.10.30:949][206]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.10.25-17.10.30:956][206]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.25-17.10.30:960][206]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.25-17.10.30:971][207]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.25-17.10.37:705][  7]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> AddAnswerType
+[2023.10.25-17.10.37:712][  7]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.25-17.10.39:348][195]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/AddQuestionType.AddQuestionType
+[2023.10.25-17.10.39:348][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.25-17.10.39:348][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-17.10.39:355][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.25-17.10.39:355][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-17.10.47:814][ 17]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/AddAnswerType.AddAnswerType
+[2023.10.25-17.10.47:814][ 17]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.25-17.10.47:814][ 17]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-17.10.47:822][ 17]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.25-17.10.47:822][ 17]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-17.10.53:030][502]BlueprintLog: New page: Compile AddAnswerType
+[2023.10.25-17.10.53:074][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.10.25-17.10.55:041][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.10.25-17.10.55:046][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-17.10.55:128][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.25-17.10.55:154][676]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.10.25-17.10.55:154][676]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/VRTemplateMap5D69D50B4BE84826F78943B7CCF8BC06.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.10.25-17.10.55:161][676]LogFileHelpers: Saving map 'VRTemplateMap' took 0.059
+[2023.10.25-17.10.55:171][676]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/NewPanelTemplate
+[2023.10.25-17.10.55:172][676]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/NewPanelTemplate2C9ADDBF4FB0BF9FAACCCDADA7CE7CA5.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/NewPanelTemplate.uasset'
+[2023.10.25-17.10.55:178][676]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/AddQuestionType
+[2023.10.25-17.10.55:179][676]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/AddQuestionTypeBE194ACE462E09137353ED9DA466936D.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/AddQuestionType.uasset'
+[2023.10.25-17.10.55:185][676]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/AddAnswerType
+[2023.10.25-17.10.55:185][676]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/AddAnswerType75E188374655C14609FEB9BA5048B99E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/AddAnswerType.uasset'
+[2023.10.25-17.10.55:196][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 6.53 sec)
+[2023.10.25-17.10.55:204][676]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.25-17.10.55:204][676]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.10.25-17.10.55:204][676]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/NewPanelTemplate.NewPanelTemplate
+[2023.10.25-17.10.55:204][676]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/AddQuestionType.AddQuestionType
+[2023.10.25-17.10.55:204][676]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/AddAnswerType.AddAnswerType
+[2023.10.25-17.11.03:265][406]BlueprintLog: New page: Compile LearningPointWidget
+[2023.10.25-17.11.03:326][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.25-17.11.03:994][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-17.11.04:047][454]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPointWidget
+[2023.10.25-17.11.04:048][454]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointWidget398E39E94917C60FD310D5A350525AA9.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningPointWidget.uasset'
+[2023.10.25-17.11.04:055][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 6.60 sec)
+[2023.10.25-17.11.04:062][454]AssetCheck: New page: Asset Save: LearningPointWidget
+[2023.10.25-17.11.04:062][454]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.10.25-17.11.06:062][637]LogSlate: Window 'AddAnswerType' being destroyed
+[2023.10.25-17.11.06:066][637]LogSlate: Window 'AddAnswerType' being destroyed
+[2023.10.25-17.11.06:105][637]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.11.06:105][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.11.06:111][637]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.11.06:111][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.11.06:202][637]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.11.06:202][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.11.06:208][637]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.11.06:208][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.11.06:295][637]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.11.06:296][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.11.06:302][637]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.11.06:302][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.11.06:352][637]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.11.06:352][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-17.11.06:358][637]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-17.11.06:358][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
