@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Marketplace/RuntimeSpeechRecognizer/Content/LanguageModel.uasset",
+				"C:/Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LA-GameInstance.uasset",
+				"C:/Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/InformationPointWidget.uasset",
+				"C:/Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/NewPageTemplate.uasset",
+				"C:/Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/NewPanelTemplate.uasset",
+				"C:/Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/ImagePanelTemplate.uasset",
+				"C:/Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/TextPanelTemplate.uasset",
 				"D:/UE_5.2/Engine/Plugins/Marketplace/RuntimeSpeechRecognizer/Content/LanguageModel.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/LearningPointActor.uasset",
