@@ -1691,3 +1691,166 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.06-19.44.46:041][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.28 sec)
 [2023.11.06-19.44.46:047][730]AssetCheck: New page: Asset Save: TextQuestionTemplate
 [2023.11.06-19.44.46:047][730]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.45.32:107][509]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/QuestionPanel.QuestionPanel
+[2023.11.06-19.45.32:108][509]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.06-19.45.32:108][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.06-19.45.32:115][509]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.06-19.45.32:115][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.06-19.46.05:165][530]BlueprintLog: New page: Compile TextQuestionTemplate
+[2023.11.06-19.46.05:213][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.06-19.46.06:036][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.46.06:103][571]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate
+[2023.11.06-19.46.06:104][571]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextQuestionTemplate6A49E7DF43D271B144CA178C5D862E81.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.uasset'
+[2023.11.06-19.46.06:111][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 2.36 sec)
+[2023.11.06-19.46.06:117][571]AssetCheck: New page: Asset Save: TextQuestionTemplate
+[2023.11.06-19.46.06:117][571]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.46.50:706][229]LogEditorTransaction: Undo Duplicate selection
+[2023.11.06-19.50.49:788][584]BlueprintLog: New page: Compile TextQuestionTemplate
+[2023.11.06-19.50.49:843][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.06-19.51.09:836][867]BlueprintLog: New page: Compile TextQuestionTemplate
+[2023.11.06-19.51.09:871][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.06-19.51.10:503][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.51.10:569][894]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate
+[2023.11.06-19.51.10:570][894]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextQuestionTemplate6D67148646D19853402F12BE01A6B2B8.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.uasset'
+[2023.11.06-19.51.10:576][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.43 sec)
+[2023.11.06-19.51.10:583][894]AssetCheck: New page: Asset Save: TextQuestionTemplate
+[2023.11.06-19.51.10:583][894]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.51.20:781][520]BlueprintLog: New page: Compile TextQuestionTemplate
+[2023.11.06-19.51.20:828][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.06-19.51.21:408][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.51.21:472][550]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate
+[2023.11.06-19.51.21:473][550]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextQuestionTemplate4C3526214E2B9C6E5C4C318B21326EB9.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.uasset'
+[2023.11.06-19.51.21:480][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.50 sec)
+[2023.11.06-19.51.21:486][550]AssetCheck: New page: Asset Save: TextQuestionTemplate
+[2023.11.06-19.51.21:486][550]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.51.32:672][270]BlueprintLog: New page: Compile TextQuestionTemplate
+[2023.11.06-19.51.32:721][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.06-19.51.33:402][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.51.33:467][307]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate
+[2023.11.06-19.51.33:467][307]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextQuestionTemplate70BC16F34110B7F9A6CAE8A920FCDEF8.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.uasset'
+[2023.11.06-19.51.33:474][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 2.57 sec)
+[2023.11.06-19.51.33:481][307]AssetCheck: New page: Asset Save: TextQuestionTemplate
+[2023.11.06-19.51.33:481][307]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.51.59:312][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.06-19.51.59:331][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Testing_Auto2
+[2023.11.06-19.51.59:331][ 53]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Testing_Auto2ADA098A74C69B4210F51C7B25CF3B16F.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Autosaves/Game/Levels/Testing_Auto2.umap'
+[2023.11.06-19.51.59:338][ 53]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Testing' took 0.050
+[2023.11.06-19.51.59:338][ 53]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2023.11.06-19.51.59:338][ 53]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/LearningPoint/QuestionPanel] ([2] browsable assets)...
+[2023.11.06-19.51.59:341][ 53]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/LearningPoint/QuestionPanel.QuestionPanel]
+[2023.11.06-19.51.59:341][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/LearningPoint/QuestionPanel]
+[2023.11.06-19.51.59:356][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/LearningPoint/QuestionPanel_Auto2
+[2023.11.06-19.51.59:356][ 53]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionPanel_Auto2E59C76B54A9876F59E285FB53AECB117.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Autosaves/Game/Widgets/LearningPoint/QuestionPanel_Auto2.uasset'
+[2023.11.06-19.51.59:357][ 53]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.11.06-19.52.57:648][255]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.06-19.53.01:876][604]BlueprintLog: New page: Compile TextQuestionTemplate
+[2023.11.06-19.53.01:913][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.06-19.53.02:490][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.53.02:554][643]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate
+[2023.11.06-19.53.02:555][643]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextQuestionTemplate6A869FE04D9447216560F8AB03E7765A.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.uasset'
+[2023.11.06-19.53.02:562][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.65 sec)
+[2023.11.06-19.53.02:569][643]AssetCheck: New page: Asset Save: TextQuestionTemplate
+[2023.11.06-19.53.02:569][643]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.54.47:868][799]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.06-19.54.52:216][147]BlueprintLog: New page: Compile TextQuestionTemplate
+[2023.11.06-19.54.52:268][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.11.06-19.54.52:773][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.54.52:842][179]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate
+[2023.11.06-19.54.52:843][179]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextQuestionTemplate4FDD48C34F66F150B54EAFB87775FB7B.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.uasset'
+[2023.11.06-19.54.52:850][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.72 sec)
+[2023.11.06-19.54.52:858][179]AssetCheck: New page: Asset Save: TextQuestionTemplate
+[2023.11.06-19.54.52:858][179]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.55.00:136][769]BlueprintLog: New page: Compile TextQuestionTemplate
+[2023.11.06-19.55.00:185][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.11.06-19.55.00:884][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.55.00:947][813]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate
+[2023.11.06-19.55.00:948][813]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextQuestionTemplate86AEAB3A4A29060AD61953A582CF53A7.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.uasset'
+[2023.11.06-19.55.00:955][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.80 sec)
+[2023.11.06-19.55.00:962][813]AssetCheck: New page: Asset Save: TextQuestionTemplate
+[2023.11.06-19.55.00:962][813]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.55.10:295][548]BlueprintLog: New page: Compile TextQuestionTemplate
+[2023.11.06-19.55.10:345][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.06-19.55.10:814][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.55.10:875][576]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate
+[2023.11.06-19.55.10:876][576]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextQuestionTemplate4862853D40A21538835311BB55726B26.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.uasset'
+[2023.11.06-19.55.10:883][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.86 sec)
+[2023.11.06-19.55.10:889][576]AssetCheck: New page: Asset Save: TextQuestionTemplate
+[2023.11.06-19.55.10:889][576]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.56.01:777][662]BlueprintLog: New page: Compile TextQuestionTemplate
+[2023.11.06-19.56.01:830][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.06-19.56.02:437][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.56.02:508][694]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate
+[2023.11.06-19.56.02:508][694]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextQuestionTemplate6FD3AD374D73EBE77349CEA9B257D4A5.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.uasset'
+[2023.11.06-19.56.02:516][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.94 sec)
+[2023.11.06-19.56.02:523][694]AssetCheck: New page: Asset Save: TextQuestionTemplate
+[2023.11.06-19.56.02:523][694]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.56.04:294][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.56.04:354][814]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate
+[2023.11.06-19.56.04:355][814]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextQuestionTemplate3231F71A4DDAE53ABE89CC9F0D42009C.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.uasset'
+[2023.11.06-19.56.04:361][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 3.01 sec)
+[2023.11.06-19.56.04:367][814]AssetCheck: New page: Asset Save: TextQuestionTemplate
+[2023.11.06-19.56.04:368][814]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.56.20:486][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.56.20:548][880]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate
+[2023.11.06-19.56.20:549][880]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextQuestionTemplateE1084A674FC0A0CDDF6548B914DCF572.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.uasset'
+[2023.11.06-19.56.20:555][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 3.08 sec)
+[2023.11.06-19.56.20:562][880]AssetCheck: New page: Asset Save: TextQuestionTemplate
+[2023.11.06-19.56.20:562][880]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.56.27:799][352]BlueprintLog: New page: Compile TextQuestionTemplate
+[2023.11.06-19.56.27:849][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.11.06-19.56.28:448][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.56.28:514][384]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate
+[2023.11.06-19.56.28:515][384]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/TextQuestionTemplateE7B9037F4A2D3F4502F596843BEFF590.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.uasset'
+[2023.11.06-19.56.28:521][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.15 sec)
+[2023.11.06-19.56.28:527][384]AssetCheck: New page: Asset Save: TextQuestionTemplate
+[2023.11.06-19.56.28:527][384]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/TextQuestionTemplate.TextQuestionTemplate
+[2023.11.06-19.57.32:271][ 97]BlueprintLog: New page: Compile AudioQuestionTemplate
+[2023.11.06-19.57.32:310][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.11.06-19.57.33:009][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.57.33:075][128]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate
+[2023.11.06-19.57.33:075][128]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/AudioQuestionTemplateD670033F4A76240B72DB92B0CD3D27E9.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate.uasset'
+[2023.11.06-19.57.33:083][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.23 sec)
+[2023.11.06-19.57.33:090][128]AssetCheck: New page: Asset Save: AudioQuestionTemplate
+[2023.11.06-19.57.33:090][128]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate.AudioQuestionTemplate
+[2023.11.06-19.58.24:241][849]BlueprintLog: New page: Compile AudioQuestionTemplate
+[2023.11.06-19.58.24:312][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.11.06-19.58.25:371][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.58.25:446][894]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate
+[2023.11.06-19.58.25:446][894]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/AudioQuestionTemplate53213711400BF3443966E89CEB162642.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate.uasset'
+[2023.11.06-19.58.25:454][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 3.31 sec)
+[2023.11.06-19.58.25:461][894]AssetCheck: New page: Asset Save: AudioQuestionTemplate
+[2023.11.06-19.58.25:461][894]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate.AudioQuestionTemplate
+[2023.11.06-19.59.32:914][726]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.06-19.59.36:371][  5]BlueprintLog: New page: Compile AudioQuestionTemplate
+[2023.11.06-19.59.36:426][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.11.06-19.59.37:017][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.59.37:076][ 46]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate
+[2023.11.06-19.59.37:077][ 46]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/AudioQuestionTemplate0104D1684D6D73D9BC33BDB9730FD17B.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate.uasset'
+[2023.11.06-19.59.37:084][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 3.38 sec)
+[2023.11.06-19.59.37:091][ 46]AssetCheck: New page: Asset Save: AudioQuestionTemplate
+[2023.11.06-19.59.37:091][ 46]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate.AudioQuestionTemplate
+[2023.11.06-19.59.41:894][447]BlueprintLog: New page: Compile AudioQuestionTemplate
+[2023.11.06-19.59.41:945][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.11.06-19.59.42:367][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-19.59.42:427][473]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate
+[2023.11.06-19.59.42:428][473]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/AudioQuestionTemplateD35CF17B4BC3F55D926C7D87ABEF0081.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate.uasset'
+[2023.11.06-19.59.42:435][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 3.44 sec)
+[2023.11.06-19.59.42:442][473]AssetCheck: New page: Asset Save: AudioQuestionTemplate
+[2023.11.06-19.59.42:442][473]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate.AudioQuestionTemplate
+[2023.11.06-20.00.50:924][ 39]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.06-20.00.51:898][110]BlueprintLog: New page: Compile AudioQuestionTemplate
+[2023.11.06-20.00.51:952][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.06-20.00.53:429][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-20.00.53:492][216]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate
+[2023.11.06-20.00.53:492][216]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/AudioQuestionTemplate795F0F8B4145020FA23BD2A074D3F15E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate.uasset'
+[2023.11.06-20.00.53:500][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 3.51 sec)
+[2023.11.06-20.00.53:507][216]AssetCheck: New page: Asset Save: AudioQuestionTemplate
+[2023.11.06-20.00.53:507][216]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate.AudioQuestionTemplate
+[2023.11.06-20.00.59:563][691]BlueprintLog: New page: Compile AudioQuestionTemplate
+[2023.11.06-20.00.59:616][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.11.06-20.01.00:192][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.06-20.01.00:257][727]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate
+[2023.11.06-20.01.00:258][727]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/AudioQuestionTemplateA6674E5A41A8C8AE69DABBA6B90295E4.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate.uasset'
+[2023.11.06-20.01.00:265][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 3.59 sec)
+[2023.11.06-20.01.00:272][727]AssetCheck: New page: Asset Save: AudioQuestionTemplate
+[2023.11.06-20.01.00:272][727]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/AudioQuestionTemplate.AudioQuestionTemplate
