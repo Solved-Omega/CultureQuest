@@ -4454,3 +4454,501 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.10-18.12.48:783][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 8.05 sec)
 [2023.11.10-18.12.48:790][ 11]AssetCheck: New page: Asset Save: LearningPoint
 [2023.11.10-18.12.48:790][ 11]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2023.11.10-18.13.55:264][335]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.10-18.13.55:271][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.10-18.13.55:272][335]PIE: New page: PIE session: Testing (Nov. 10, 2023, 2:13:55 a.m.)
+[2023.11.10-18.13.55:272][335]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.10-18.13.55:277][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005191s)
+[2023.11.10-18.13.55:277][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005248s)
+[2023.11.10-18.13.55:277][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.10-18.13.55:277][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-18.13.55:278][335]LogAIModule: Creating AISystem for world Testing
+[2023.11.10-18.13.55:278][335]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2023.11.10-18.13.55:304][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.11.10-18.13.55:309][335]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.11.10-18.13.55:309][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.10-18.13.55:309][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.10-18.13.55:309][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.10-18.13.55:309][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.10-18.13.55:309][335]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.10-18.13.55:309][335]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.10-18.13.55:309][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.10-18.13.55:309][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.10-18.13.55:309][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.10-18.13.55:309][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.10-18.13.55:309][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.10-18.13.55:311][335]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.10-18.13.55:323][335]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.10-18.13.55:323][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.10-18.13.55:324][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.10-18.13.55:324][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.10-18.13.55:324][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.11.10-18.13.55:324][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.11.10-18.13.55:326][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.11.10-18.13.55:326][335]LogInit: FAudioDevice initialized with ID 21.
+[2023.11.10-18.13.55:326][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.11.10-18.13.55:326][335]LogAudio: Display: Audio Device (ID: 21) registered with world 'Testing'.
+[2023.11.10-18.13.55:326][335]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.11.10-18.13.55:352][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-18.13.55:539][335]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.10-18.13.55:540][335]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.10-10.13.55
+[2023.11.10-18.13.55:540][335]LogWorld: Bringing up level for play took: 0.001204
+[2023.11.10-18.13.55:544][335]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.11.10-18.13.55:547][335]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.10-18.13.55:549][335]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.10-18.13.55:555][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.13.55:555][335]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.13.55:555][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_2' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.13.55:555][335]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.13.55:555][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.13.55:555][335]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.13.55:556][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.13.55:556][335]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.13.55:557][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.13.55:557][335]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.13.55:557][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_2' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.13.55:557][335]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.13.55:557][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.13.55:557][335]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.13.55:557][335]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.13.55:557][335]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.13.55:558][335]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/SaveGames/Map Data.sav' error.
+[2023.11.10-18.13.55:558][335]vr.PixelDensity = "1"
+[2023.11.10-18.13.55:566][335]PIE: Server logged in
+[2023.11.10-18.13.55:572][335]PIE: Play in editor total start time 0.3 seconds.
+[2023.11.10-18.13.55:584][335]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.11.10-18.13.55:590][335]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.11.10-18.14.01:427][751]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.14.02:522][823]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.14.25:210][285]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.14.25:868][326]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.14.27:774][447]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.14.28:148][471]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.14.28:969][526]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.14.54:928][155]LogBlueprintUserMessages: [VRPawn_C_0] saving
+[2023.11.10-18.14.54:929][155]LogBlueprintUserMessages: [LA-GameInstance_C_19] saved
+[2023.11.10-18.14.54:929][155]LogBlueprintUserMessages: [LA-GameInstance_C_19] saved
+[2023.11.10-18.14.54:943][156]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.11.10-18.14.56:108][228]LogNet: Browse: /Game/Levels/Testing
+[2023.11.10-18.14.56:108][228]LogLoad: LoadMap: /Game/Levels/Testing
+[2023.11.10-18.14.56:108][228]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.10-18.14.56:111][228]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-18.14.56:111][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-18.14.56:138][228]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.10-18.14.56:139][228]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.10-18.14.56:139][228]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.10-18.14.56:141][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.11.10-18.14.56:143][228]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.10-18.14.56:148][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004699s)
+[2023.11.10-18.14.56:148][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.004743s)
+[2023.11.10-18.14.56:148][228]LogAudio: Display: Audio Device (ID: 21) registered with world 'Testing'.
+[2023.11.10-18.14.56:148][228]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.10-18.14.56:148][228]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-18.14.56:149][228]LogAIModule: Creating AISystem for world Testing
+[2023.11.10-18.14.56:149][228]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2023.11.10-18.14.56:149][228]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.10-18.14.56:150][228]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.10-10.14.56
+[2023.11.10-18.14.56:150][228]LogWorld: Bringing up level for play took: 0.000770
+[2023.11.10-18.14.56:151][228]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.10-18.14.56:154][228]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.10-18.14.56:160][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.14.56:160][228]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.14.56:160][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_2' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.14.56:160][228]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.14.56:160][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.14.56:160][228]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.14.56:161][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.14.56:161][228]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.14.56:162][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.14.56:162][228]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.14.56:162][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_2' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.14.56:162][228]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.14.56:162][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.14.56:162][228]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.14.56:162][228]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.14.56:162][228]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.14.56:176][228]vr.PixelDensity = "1"
+[2023.11.10-18.14.56:176][228]LogLoad: Took 0.068749 seconds to LoadMap(/Game/Levels/UEDPIE_0_Testing)
+[2023.11.10-18.14.59:575][444]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.15.00:105][479]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.15.03:836][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-18.15.03:836][735]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.10-18.15.03:908][735]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.10-18.15.03:911][735]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-18.15.03:911][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-18.15.03:914][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.10-18.15.03:920][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-18.15.03:947][735]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.10-18.15.03:947][735]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.11.10-18.15.03:947][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.10-18.15.03:950][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.11.10-18.15.03:957][735]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.10-18.15.03:957][735]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.10-18.15.03:958][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.10-18.15.04:008][736]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.11.10-18.15.06:178][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.10-18.15.06:226][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/LearningPoint" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset" SILENT=true
+[2023.11.10-18.15.06:248][883]LogSavePackage: Moving output files for package: /Game/Actors/LearningPoint
+[2023.11.10-18.15.06:249][883]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPoint1F5F9CDB46F30675DF6E70B05C8E4CC5.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset'
+[2023.11.10-18.15.06:258][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 8.13 sec)
+[2023.11.10-18.15.06:264][883]AssetCheck: New page: Asset Save: LearningPoint
+[2023.11.10-18.15.06:264][883]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2023.11.10-18.15.09:814][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.10-18.15.09:872][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/LearningPoint" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset" SILENT=true
+[2023.11.10-18.15.09:895][135]LogSavePackage: Moving output files for package: /Game/Actors/LearningPoint
+[2023.11.10-18.15.09:896][135]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPoint054B966D44BC84FFDD1CA983F0E56F05.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset'
+[2023.11.10-18.15.09:902][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 8.22 sec)
+[2023.11.10-18.15.09:910][135]AssetCheck: New page: Asset Save: LearningPoint
+[2023.11.10-18.15.09:910][135]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2023.11.10-18.16.14:220][658]BlueprintLog: New page: Compile LearningPoint
+[2023.11.10-18.16.14:289][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.11.10-18.16.15:655][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.10-18.16.15:711][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/LearningPoint" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset" SILENT=true
+[2023.11.10-18.16.15:732][733]LogSavePackage: Moving output files for package: /Game/Actors/LearningPoint
+[2023.11.10-18.16.15:733][733]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPoint33120ED045E70A83A90176A236C969EE.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset'
+[2023.11.10-18.16.15:741][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 8.31 sec)
+[2023.11.10-18.16.15:749][733]AssetCheck: New page: Asset Save: LearningPoint
+[2023.11.10-18.16.15:749][733]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2023.11.10-18.16.26:873][482]BlueprintLog: New page: Compile LearningPoint
+[2023.11.10-18.16.26:940][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.10-18.16.27:343][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.10-18.16.27:406][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/LearningPoint" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset" SILENT=true
+[2023.11.10-18.16.27:428][492]LogSavePackage: Moving output files for package: /Game/Actors/LearningPoint
+[2023.11.10-18.16.27:429][492]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPoint83D83D4B44D50DA4E4588D818A03BA0A.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset'
+[2023.11.10-18.16.27:438][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 8.40 sec)
+[2023.11.10-18.16.27:445][492]AssetCheck: New page: Asset Save: LearningPoint
+[2023.11.10-18.16.27:445][492]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2023.11.10-18.16.32:856][846]BlueprintLog: New page: Compile LearningPoint
+[2023.11.10-18.16.32:923][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.11.10-18.17.37:318][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.10-18.17.37:346][ 79]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Testing_Auto3
+[2023.11.10-18.17.37:346][ 79]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Testing_Auto3277743E94BFE4583DF5A79A8A45FC52E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Autosaves/Game/Levels/Testing_Auto3.umap'
+[2023.11.10-18.17.37:355][ 79]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Testing' took 0.062
+[2023.11.10-18.17.37:355][ 79]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2023.11.10-18.17.37:356][ 79]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Misc/MapDataSave] ([2] browsable assets)...
+[2023.11.10-18.17.37:356][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Misc/MapDataSave]
+[2023.11.10-18.17.37:358][ 79]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Misc/MapDataSave_Auto3
+[2023.11.10-18.17.37:359][ 79]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/MapDataSave_Auto3BD75270B4994041BB82BE89B9F54F454.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Autosaves/Game/Misc/MapDataSave_Auto3.uasset'
+[2023.11.10-18.17.37:360][ 79]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.11.10-18.24.17:927][ 97]LogDerivedDataCache: C:/Users/300339869/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.246 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3949 files in 5481 folders with total size 1748 MiB.
+[2023.11.10-18.26.57:027][599]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2023.11.10-18.28.34:182][508]BlueprintLog: New page: Compile LearningPoint
+[2023.11.10-18.28.34:305][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.10-18.28.35:922][593]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.10-18.28.35:930][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.10-18.28.35:930][593]PIE: New page: PIE session: Testing (Nov. 10, 2023, 2:28:35 a.m.)
+[2023.11.10-18.28.35:930][593]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.10-18.28.35:935][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004634s)
+[2023.11.10-18.28.35:935][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.004668s)
+[2023.11.10-18.28.35:935][593]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.10-18.28.35:935][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-18.28.35:936][593]LogAIModule: Creating AISystem for world Testing
+[2023.11.10-18.28.35:936][593]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2023.11.10-18.28.35:960][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.10-18.28.35:965][593]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.11.10-18.28.35:965][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.10-18.28.35:965][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.10-18.28.35:965][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.10-18.28.35:966][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.10-18.28.35:966][593]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.10-18.28.35:966][593]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.10-18.28.35:966][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.10-18.28.35:966][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.10-18.28.35:966][593]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.10-18.28.35:966][593]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.10-18.28.35:966][593]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.10-18.28.35:967][593]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.10-18.28.35:980][593]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.10-18.28.35:981][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.10-18.28.35:981][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.10-18.28.35:981][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.10-18.28.35:981][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.11.10-18.28.35:982][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.11.10-18.28.35:984][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.11.10-18.28.35:984][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.11.10-18.28.35:984][593]LogInit: FAudioDevice initialized with ID 22.
+[2023.11.10-18.28.35:984][593]LogAudio: Display: Audio Device (ID: 22) registered with world 'Testing'.
+[2023.11.10-18.28.35:984][593]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.11.10-18.28.36:011][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-18.28.36:231][593]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.10-18.28.36:233][593]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.10-10.28.36
+[2023.11.10-18.28.36:233][593]LogWorld: Bringing up level for play took: 0.001687
+[2023.11.10-18.28.36:235][593]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.11.10-18.28.36:238][593]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.10-18.28.36:241][593]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.10-18.28.36:247][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.28.36:247][593]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.28.36:247][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_2' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.28.36:247][593]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.28.36:247][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.28.36:247][593]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.28.36:248][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.28.36:248][593]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.28.36:249][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.28.36:249][593]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.28.36:249][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_2' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.28.36:249][593]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.28.36:249][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.28.36:249][593]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.28.36:249][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.28.36:249][593]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.28.36:268][593]vr.PixelDensity = "1"
+[2023.11.10-18.28.36:276][593]PIE: Server logged in
+[2023.11.10-18.28.36:283][593]PIE: Play in editor total start time 0.353 seconds.
+[2023.11.10-18.28.36:296][593]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.11.10-18.28.36:300][593]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.11.10-18.28.41:922][989]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.28.53:950][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-18.28.53:950][802]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.10-18.28.54:017][802]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.10-18.28.54:019][802]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-18.28.54:020][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-18.28.54:023][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.10-18.28.54:029][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-18.28.54:055][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.10-18.28.54:056][802]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.11.10-18.28.54:056][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.10-18.28.54:059][802]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.11.10-18.28.54:065][802]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.10-18.28.54:065][802]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.10-18.28.54:066][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.10-18.28.54:113][803]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.11.10-18.29.13:947][479]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.11.10-18.29.13:947][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.10-18.29.13:947][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-18.29.13:954][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.10-18.29.13:954][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-18.29.28:454][316]BlueprintLog: New page: Compile LearningPointWidget
+[2023.11.10-18.29.28:600][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.10-18.29.29:289][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.10-18.29.29:363][339]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPointWidget
+[2023.11.10-18.29.29:363][339]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointWidget9CCFF3A744270B763CA2D1918638DBA5.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningPointWidget.uasset'
+[2023.11.10-18.29.29:372][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 8.48 sec)
+[2023.11.10-18.29.29:379][339]AssetCheck: New page: Asset Save: LearningPointWidget
+[2023.11.10-18.29.29:379][339]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.11.10-18.29.39:217][ 97]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.10-18.29.39:224][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.10-18.29.39:224][ 97]PIE: New page: PIE session: Testing (Nov. 10, 2023, 2:29:39 a.m.)
+[2023.11.10-18.29.39:224][ 97]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.10-18.29.39:229][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004660s)
+[2023.11.10-18.29.39:229][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.004690s)
+[2023.11.10-18.29.39:229][ 97]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.10-18.29.39:229][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-18.29.39:230][ 97]LogAIModule: Creating AISystem for world Testing
+[2023.11.10-18.29.39:230][ 97]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2023.11.10-18.29.39:254][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.10-18.29.39:258][ 97]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.11.10-18.29.39:258][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.10-18.29.39:258][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.10-18.29.39:258][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.10-18.29.39:258][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.10-18.29.39:258][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.10-18.29.39:258][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.10-18.29.39:258][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.10-18.29.39:258][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.10-18.29.39:259][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.10-18.29.39:259][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.10-18.29.39:259][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.10-18.29.39:261][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.10-18.29.39:273][ 97]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.10-18.29.39:273][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.10-18.29.39:273][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.10-18.29.39:273][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.10-18.29.39:273][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.11.10-18.29.39:273][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.11.10-18.29.39:275][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.11.10-18.29.39:275][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.11.10-18.29.39:275][ 97]LogInit: FAudioDevice initialized with ID 23.
+[2023.11.10-18.29.39:275][ 97]LogAudio: Display: Audio Device (ID: 23) registered with world 'Testing'.
+[2023.11.10-18.29.39:275][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.11.10-18.29.39:301][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-18.29.39:497][ 97]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.10-18.29.39:498][ 97]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.10-10.29.39
+[2023.11.10-18.29.39:498][ 97]LogWorld: Bringing up level for play took: 0.001245
+[2023.11.10-18.29.39:501][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.11.10-18.29.39:503][ 97]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.10-18.29.39:504][ 97]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.10-18.29.39:511][ 97]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.29.39:511][ 97]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.29.39:511][ 97]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_2' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.29.39:511][ 97]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.29.39:511][ 97]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.29.39:511][ 97]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.29.39:511][ 97]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.29.39:511][ 97]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.29.39:513][ 97]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.29.39:513][ 97]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.29.39:513][ 97]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_2' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.29.39:513][ 97]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.29.39:513][ 97]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.29.39:513][ 97]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.29.39:513][ 97]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.29.39:513][ 97]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.29.39:527][ 97]vr.PixelDensity = "1"
+[2023.11.10-18.29.39:533][ 97]PIE: Server logged in
+[2023.11.10-18.29.39:536][ 97]PIE: Play in editor total start time 0.312 seconds.
+[2023.11.10-18.29.39:542][ 97]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.11.10-18.29.39:549][ 97]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.11.10-18.29.49:509][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-18.29.49:509][877]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.10-18.29.49:541][877]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.10-18.29.49:544][877]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-18.29.49:545][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-18.29.49:548][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.10-18.29.49:552][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-18.29.49:580][877]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.10-18.29.49:580][877]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.11.10-18.29.49:580][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.11.10-18.29.49:582][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.11.10-18.29.49:591][877]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.10-18.29.49:591][877]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.10-18.29.49:592][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.10-18.29.49:634][878]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2023.11.10-18.30.00:177][592]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-18.30.00:177][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-18.30.00:184][592]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-18.30.00:184][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-18.30.05:609][118]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/InformationPoint/InformationPointWidget.InformationPointWidget
+[2023.11.10-18.30.05:609][118]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.10-18.30.05:609][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-18.30.05:615][118]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.10-18.30.05:615][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-18.30.13:084][551]BlueprintLog: New page: Compile InformationPointWidget
+[2023.11.10-18.30.13:148][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.10-18.30.13:743][590]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.10-18.30.13:823][590]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/InformationPointWidget
+[2023.11.10-18.30.13:825][590]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/InformationPointWidgetD33D07484A3D7BC051891691C86C5D3C.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/InformationPointWidget.uasset'
+[2023.11.10-18.30.13:833][590]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 8.57 sec)
+[2023.11.10-18.30.13:839][590]AssetCheck: New page: Asset Save: InformationPointWidget
+[2023.11.10-18.30.13:840][590]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/InformationPointWidget.InformationPointWidget
+[2023.11.10-18.30.14:707][657]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.10-18.30.14:715][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.10-18.30.14:715][657]PIE: New page: PIE session: Testing (Nov. 10, 2023, 2:30:14 a.m.)
+[2023.11.10-18.30.14:715][657]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.10-18.30.14:720][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004705s)
+[2023.11.10-18.30.14:720][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.004742s)
+[2023.11.10-18.30.14:720][657]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.10-18.30.14:721][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-18.30.14:721][657]LogAIModule: Creating AISystem for world Testing
+[2023.11.10-18.30.14:721][657]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2023.11.10-18.30.14:746][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.10-18.30.14:749][657]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.11.10-18.30.14:749][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.10-18.30.14:749][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.10-18.30.14:749][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.10-18.30.14:749][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.10-18.30.14:749][657]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.10-18.30.14:749][657]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.10-18.30.14:749][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.10-18.30.14:749][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.10-18.30.14:750][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.10-18.30.14:750][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.10-18.30.14:750][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.10-18.30.14:752][657]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.10-18.30.14:763][657]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.10-18.30.14:763][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.10-18.30.14:763][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.10-18.30.14:763][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.10-18.30.14:764][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.11.10-18.30.14:764][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.11.10-18.30.14:766][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.11.10-18.30.14:766][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.11.10-18.30.14:766][657]LogInit: FAudioDevice initialized with ID 24.
+[2023.11.10-18.30.14:766][657]LogAudio: Display: Audio Device (ID: 24) registered with world 'Testing'.
+[2023.11.10-18.30.14:766][657]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.11.10-18.30.14:791][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-18.30.14:980][657]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.10-18.30.14:981][657]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.10-10.30.14
+[2023.11.10-18.30.14:982][657]LogWorld: Bringing up level for play took: 0.001577
+[2023.11.10-18.30.14:983][657]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2023.11.10-18.30.14:986][657]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.10-18.30.14:987][657]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.10-18.30.14:993][657]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.14:993][657]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.30.14:993][657]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_2' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.14:993][657]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.30.14:993][657]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.14:993][657]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.30.14:994][657]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.14:994][657]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.30.14:996][657]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.14:996][657]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.30.14:996][657]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_2' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.14:996][657]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.30.14:996][657]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.14:996][657]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.30.14:996][657]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.14:996][657]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.30.15:010][657]vr.PixelDensity = "1"
+[2023.11.10-18.30.15:015][657]PIE: Server logged in
+[2023.11.10-18.30.15:017][657]PIE: Play in editor total start time 0.302 seconds.
+[2023.11.10-18.30.15:027][657]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.11.10-18.30.15:034][657]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.11.10-18.30.21:289][149]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.30.21:633][172]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.30.28:700][634]LogBlueprintUserMessages: [VRPawn_C_0] saving
+[2023.11.10-18.30.28:700][634]LogBlueprintUserMessages: [LA-GameInstance_C_22] saved
+[2023.11.10-18.30.28:700][634]LogBlueprintUserMessages: [LA-GameInstance_C_22] saved
+[2023.11.10-18.30.28:717][635]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.11.10-18.30.29:182][665]LogNet: Browse: /Game/Levels/Testing
+[2023.11.10-18.30.29:182][665]LogLoad: LoadMap: /Game/Levels/Testing
+[2023.11.10-18.30.29:182][665]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.10-18.30.29:185][665]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-18.30.29:185][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-18.30.29:237][665]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.10-18.30.29:239][665]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.10-18.30.29:239][665]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.10-18.30.29:241][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.10-18.30.29:244][665]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.10-18.30.29:249][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004973s)
+[2023.11.10-18.30.29:249][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.005022s)
+[2023.11.10-18.30.29:249][665]LogAudio: Display: Audio Device (ID: 24) registered with world 'Testing'.
+[2023.11.10-18.30.29:249][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.10-18.30.29:249][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.10-18.30.29:249][665]LogAIModule: Creating AISystem for world Testing
+[2023.11.10-18.30.29:250][665]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2023.11.10-18.30.29:250][665]LogLoad: Game class is 'VRGameMode_C'
+[2023.11.10-18.30.29:251][665]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.10-10.30.29
+[2023.11.10-18.30.29:251][665]LogWorld: Bringing up level for play took: 0.000858
+[2023.11.10-18.30.29:253][665]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.11.10-18.30.29:255][665]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.11.10-18.30.29:263][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.29:263][665]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.30.29:263][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_2' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.29:263][665]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.30.29:263][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.29:263][665]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.30.29:264][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.29:264][665]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_1
+[2023.11.10-18.30.29:265][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.29:265][665]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.30.29:265][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values_2' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.29:265][665]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.30.29:266][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Keys_Keys_1' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.29:266][665]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.30.29:266][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Actors/LearningPoint.LearningPoint_C:ExecuteUbergraph_LearningPoint'!
+[2023.11.10-18.30.29:266][665]LogScript: Warning: Script Msg called by: LearningPoint_C /Game/Levels/UEDPIE_0_Testing.Testing:PersistentLevel.LearningPoint_C_0
+[2023.11.10-18.30.29:282][665]vr.PixelDensity = "1"
+[2023.11.10-18.30.29:282][665]LogLoad: Took 0.100701 seconds to LoadMap(/Game/Levels/UEDPIE_0_Testing)
+[2023.11.10-18.30.29:967][710]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.30.30:883][772]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.11.10-18.30.33:919][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.10-18.30.33:919][983]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.10-18.30.33:970][983]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.10-18.30.33:972][983]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.10-18.30.33:973][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-18.30.33:975][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.10-18.30.33:984][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.10-18.30.34:012][983]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.10-18.30.34:012][983]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.11.10-18.30.34:012][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.10-18.30.34:014][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.11.10-18.30.34:023][983]LogSlate: Slate User Unregistered.  User Index 8
+[2023.11.10-18.30.34:023][983]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.11.10-18.30.34:024][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.10-18.30.34:075][984]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.11.10-18.31.00:644][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.10-18.31.00:666][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Testing_Auto4
+[2023.11.10-18.31.00:667][165]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Testing_Auto42EC5E0B144331A85FDAB158722B9F0B1.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Autosaves/Game/Levels/Testing_Auto4.umap'
+[2023.11.10-18.31.00:673][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Testing' took 0.055
+[2023.11.10-18.31.00:673][165]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
