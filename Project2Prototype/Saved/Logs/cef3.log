@@ -1,3 +1,1 @@
-[1120/100955.243:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[1120/102751.465:ERROR:dns_config_service.cc(259)] DNS config watch failed.
-[1120/102751.465:ERROR:dns_config_service.cc(259)] DNS config watch failed.
+[1120/114730.622:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
