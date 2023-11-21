@@ -3107,3 +3107,83 @@ Make sure 'VRPawn_C' has been compiled for  Load User Data
 [2023.11.27-17.58.41:896][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
 [2023.11.27-17.58.41:903][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2023.11.27-17.58.41:922][284]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.11.27-18.01.14:553][360]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-18.01.14:658][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.11.27-18.01.14:750][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.01.14:867][360]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-18.01.14:867][360]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter31BDFCE14F8D297CBD0102A64D447C0F.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-18.01.14:875][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 7.31 sec)
+[2023.11.27-18.01.14:886][360]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-18.01.14:886][360]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-18.01.15:133][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.01.15:208][369]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-18.01.15:209][369]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter6B65062A444DA6BA63FE8A80A27C7262.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-18.01.15:216][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 7.39 sec)
+[2023.11.27-18.01.15:225][369]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-18.01.15:225][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-18.01.15:882][409]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-18.01.15:890][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-18.01.15:890][409]PIE: New page: PIE session: Testing (Nov. 27, 2023, 2:01:15 a.m.)
+[2023.11.27-18.01.15:890][409]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-18.01.15:894][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003178s)
+[2023.11.27-18.01.15:894][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003215s)
+[2023.11.27-18.01.15:894][409]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-18.01.15:894][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-18.01.15:894][409]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-18.01.15:894][409]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2023.11.27-18.01.15:925][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.11.27-18.01.15:926][409]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.11.27-18.01.15:926][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-18.01.15:926][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-18.01.15:926][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-18.01.15:926][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-18.01.15:926][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-18.01.15:926][409]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-18.01.15:926][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-18.01.15:926][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-18.01.15:927][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-18.01.15:927][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-18.01.15:928][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-18.01.15:930][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-18.01.15:947][409]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-18.01.15:947][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-18.01.15:947][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-18.01.15:947][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-18.01.15:949][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.11.27-18.01.15:949][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.11.27-18.01.15:950][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.11.27-18.01.15:950][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.11.27-18.01.15:950][409]LogInit: FAudioDevice initialized with ID 19.
+[2023.11.27-18.01.15:950][409]LogAudio: Display: Audio Device (ID: 19) registered with world 'Testing'.
+[2023.11.27-18.01.15:950][409]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.11.27-18.01.15:978][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-18.01.16:170][409]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-18.01.16:172][409]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-10.01.16
+[2023.11.27-18.01.16:172][409]LogWorld: Bringing up level for play took: 0.001432
+[2023.11.27-18.01.16:174][409]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.11.27-18.01.16:226][409]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-18.01.16:233][409]PIE: Server logged in
+[2023.11.27-18.01.16:237][409]PIE: Play in editor total start time 0.347 seconds.
+[2023.11.27-18.01.16:243][409]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-18.01.20:565][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-18.01.22:305][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-18.01.22:305][662]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-18.01.22:325][662]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-18.01.22:330][662]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-18.01.22:330][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-18.01.22:333][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-18.01.22:339][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-18.01.22:366][662]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-18.01.22:367][662]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.11.27-18.01.22:367][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.27-18.01.22:370][662]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.27-18.01.22:377][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.27-18.01.22:401][663]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.11.27-18.01.24:452][786]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-18.01.24:554][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.27-18.01.24:980][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-18.01.25:102][800]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-18.01.25:102][800]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter2585C49F4D6F6FD29A4EFAB41650B69B.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-18.01.25:110][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 7.52 sec)
+[2023.11.27-18.01.25:117][800]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-18.01.25:117][800]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
