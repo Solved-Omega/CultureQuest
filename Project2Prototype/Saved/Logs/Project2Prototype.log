@@ -11200,3 +11200,1479 @@ Script Stack (0 frames) :
 [2023.11.27-19.36.43:644][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.11.27-19.36.43:653][142]LogWorld: UWorld::CleanupWorld for World_151, bSessionEnded=true, bCleanupResources=true
 [2023.11.27-19.36.43:653][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.37.26:532][595]LogDerivedDataCache: C:/Users/300339869/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.127 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4849 files in 6497 folders with total size 1804 MiB.
+[2023.11.27-19.38.01:153][232]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/LearningQuestionType.LearningQuestionType
+[2023.11.27-19.38.01:153][232]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.38.01:153][232]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.38.01:159][232]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.38.01:159][232]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.39.32:715][126]BlueprintLog: New page: Compile LearningQuestionType
+[2023.11.27-19.39.32:721][126]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\CultureQuest\Project2Prototype\Content\Widgets\LearningPoint\LearningQuestionType.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Question Image Text Template Object Reference is not compatible with Question Text Template Object Reference.' at  Create Widget
+[2023.11.27-19.39.32:785][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.11.27-19.39.32:834][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.39.32:907][126]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningQuestionType
+[2023.11.27-19.39.32:908][126]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningQuestionType2DE6918444E09DF154ED5780DA452084.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningQuestionType.uasset'
+[2023.11.27-19.39.32:917][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 22.8 sec)
+[2023.11.27-19.39.32:931][126]AssetCheck: New page: Asset Save: LearningQuestionType
+[2023.11.27-19.39.32:931][126]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningQuestionType.LearningQuestionType
+[2023.11.27-19.39.35:913][299]LogBlueprint: Warning: [AssetLog] C:\Users\300339869\Documents\GitHub\CultureQuest\Project2Prototype\Content\Widgets\LearningPoint\QuestionTemplates\QuestionImageTextTemplate.uasset: [Compiler] Variable Image File Path is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.11.27-19.39.37:598][395]BlueprintLog: New page: Compile QuestionImageTextTemplate
+[2023.11.27-19.39.37:675][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.11.27-19.39.37:713][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.39.37:785][395]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate
+[2023.11.27-19.39.37:785][395]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplate81867C16497DE04F5FD326A38F5A172F.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.uasset'
+[2023.11.27-19.39.37:796][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 22.8 sec)
+[2023.11.27-19.39.37:804][395]AssetCheck: New page: Asset Save: QuestionImageTextTemplate
+[2023.11.27-19.39.37:804][395]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate
+[2023.11.27-19.39.39:451][487]BlueprintLog: New page: Compile LearningQuestionType
+[2023.11.27-19.39.39:456][487]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\CultureQuest\Project2Prototype\Content\Widgets\LearningPoint\LearningQuestionType.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Question Image Text Template Object Reference is not compatible with Question Text Template Object Reference.' at  Create Widget
+[2023.11.27-19.39.39:519][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.27-19.39.58:740][593]BlueprintLog: New page: Compile LearningQuestionType
+[2023.11.27-19.39.58:745][593]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\CultureQuest\Project2Prototype\Content\Widgets\LearningPoint\LearningQuestionType.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Question Image Text Template Object Reference is not compatible with Question Text Template Object Reference.' at  Create Widget
+[2023.11.27-19.39.58:805][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.11.27-19.39.58:837][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.39.58:908][593]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningQuestionType
+[2023.11.27-19.39.58:909][593]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningQuestionTypeEF7BB1884417AAA2B5F1F69C870D7B90.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningQuestionType.uasset'
+[2023.11.27-19.39.58:918][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 22.9 sec)
+[2023.11.27-19.39.58:925][593]AssetCheck: New page: Asset Save: LearningQuestionType
+[2023.11.27-19.39.58:925][593]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningQuestionType.LearningQuestionType
+[2023.11.27-19.40.05:326][967]BlueprintLog: New page: Compile LearningQuestionType
+[2023.11.27-19.40.05:331][967]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\CultureQuest\Project2Prototype\Content\Widgets\LearningPoint\LearningQuestionType.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Question Image Text Template Object Reference is not compatible with Question Text Template Object Reference.' at  Create Widget
+[2023.11.27-19.40.05:392][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.27-19.40.05:423][967]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.40.05:494][967]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningQuestionType
+[2023.11.27-19.40.05:495][967]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningQuestionType671B858B4F77B94BED7B9D947F3E25A7.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningQuestionType.uasset'
+[2023.11.27-19.40.05:505][967]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 23.0 sec)
+[2023.11.27-19.40.05:513][967]AssetCheck: New page: Asset Save: LearningQuestionType
+[2023.11.27-19.40.05:513][967]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningQuestionType.LearningQuestionType
+[2023.11.27-19.40.41:046][ 59]BlueprintLog: New page: Compile LearningQuestionType
+[2023.11.27-19.40.41:116][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.11.27-19.40.41:149][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.40.41:229][ 59]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningQuestionType
+[2023.11.27-19.40.41:230][ 59]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningQuestionType43C5C5A143821565BE3C9F9B1744CD8E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningQuestionType.uasset'
+[2023.11.27-19.40.41:238][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 23.1 sec)
+[2023.11.27-19.40.41:246][ 59]AssetCheck: New page: Asset Save: LearningQuestionType
+[2023.11.27-19.40.41:246][ 59]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningQuestionType.LearningQuestionType
+[2023.11.27-19.40.41:695][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.40.41:751][ 81]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningQuestionType
+[2023.11.27-19.40.41:752][ 81]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningQuestionType415C31CA4C68865A5FCD469A0EA98E0D.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningQuestionType.uasset'
+[2023.11.27-19.40.41:763][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 23.2 sec)
+[2023.11.27-19.40.41:770][ 81]AssetCheck: New page: Asset Save: LearningQuestionType
+[2023.11.27-19.40.41:770][ 81]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningQuestionType.LearningQuestionType
+[2023.11.27-19.40.53:607][789]LogWorld: UWorld::CleanupWorld for World_167, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.40.53:607][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.40.53:616][789]LogWorld: UWorld::CleanupWorld for World_166, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.40.53:616][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.40.54:574][843]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.40.54:582][843]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-19.40.54:583][843]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2023.11.27-19.40.54:622][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.11.27-19.40.54:628][843]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2023.11.27-19.40.54:628][843]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:40:54 a.m.)
+[2023.11.27-19.40.54:628][843]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.40.54:632][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003131s)
+[2023.11.27-19.40.54:632][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003160s)
+[2023.11.27-19.40.54:632][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.40.54:632][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.40.54:632][843]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.40.54:633][843]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2023.11.27-19.40.54:661][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.27-19.40.54:662][843]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2023.11.27-19.40.54:662][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.40.54:662][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.40.54:662][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.40.54:662][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.40.54:662][843]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.40.54:662][843]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.40.54:662][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.40.54:662][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.40.54:663][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.40.54:663][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.40.54:663][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.40.54:665][843]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.40.54:678][843]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.40.54:678][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.40.54:678][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.40.54:678][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.40.54:679][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2023.11.27-19.40.54:679][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=85
+[2023.11.27-19.40.54:681][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2023.11.27-19.40.54:681][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2023.11.27-19.40.54:681][843]LogInit: FAudioDevice initialized with ID 85.
+[2023.11.27-19.40.54:681][843]LogAudio: Display: Audio Device (ID: 85) registered with world 'Testing'.
+[2023.11.27-19.40.54:681][843]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 85
+[2023.11.27-19.40.54:705][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.40.54:916][843]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.40.54:918][843]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.40.54
+[2023.11.27-19.40.54:918][843]LogWorld: Bringing up level for play took: 0.001490
+[2023.11.27-19.40.54:920][843]LogOnline: OSS: Created online subsystem instance for: :Context_143
+[2023.11.27-19.40.54:981][843]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.40.54:984][843]PIE: Server logged in
+[2023.11.27-19.40.54:985][843]PIE: Play in editor total start time 0.403 seconds.
+[2023.11.27-19.40.54:993][843]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.41.00:974][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.41.00:974][ 74]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.41.00:992][ 74]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.41.00:997][ 74]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.41.00:998][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.41.01:000][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.41.01:007][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.41.01:041][ 74]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 85
+[2023.11.27-19.41.01:041][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2023.11.27-19.41.01:042][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2023.11.27-19.41.01:053][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2023.11.27-19.41.01:073][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2023.11.27-19.41.12:816][208]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.41.12:825][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-19.41.12:825][208]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:41:12 a.m.)
+[2023.11.27-19.41.12:825][208]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.41.12:828][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003013s)
+[2023.11.27-19.41.12:828][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003042s)
+[2023.11.27-19.41.12:828][208]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.41.12:828][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.41.12:829][208]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.41.12:829][208]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2023.11.27-19.41.12:855][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.27-19.41.12:858][208]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2023.11.27-19.41.12:858][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.41.12:858][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.41.12:858][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.41.12:858][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.41.12:858][208]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.41.12:858][208]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.41.12:858][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.41.12:858][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.41.12:858][208]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.41.12:858][208]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.41.12:858][208]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.41.12:862][208]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.41.12:876][208]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.41.12:876][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.41.12:876][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.41.12:876][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.41.12:877][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=86
+[2023.11.27-19.41.12:877][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=86
+[2023.11.27-19.41.12:879][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=86
+[2023.11.27-19.41.12:879][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=86
+[2023.11.27-19.41.12:879][208]LogInit: FAudioDevice initialized with ID 86.
+[2023.11.27-19.41.12:879][208]LogAudio: Display: Audio Device (ID: 86) registered with world 'Testing'.
+[2023.11.27-19.41.12:879][208]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 86
+[2023.11.27-19.41.12:922][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.41.13:107][208]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.41.13:108][208]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.41.13
+[2023.11.27-19.41.13:109][208]LogWorld: Bringing up level for play took: 0.001539
+[2023.11.27-19.41.13:110][208]LogOnline: OSS: Created online subsystem instance for: :Context_144
+[2023.11.27-19.41.13:117][208]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/SaveGames/Information Points.sav' error.
+[2023.11.27-19.41.13:117][208]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/SaveGames/Learning Points - Student.sav' error.
+[2023.11.27-19.41.13:117][208]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/SaveGames/User Save.sav' error.
+[2023.11.27-19.41.13:162][208]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.41.13:166][208]PIE: Server logged in
+[2023.11.27-19.41.13:166][208]PIE: Play in editor total start time 0.342 seconds.
+[2023.11.27-19.41.13:173][208]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.41.14:863][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.41.14:863][534]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.41.14:882][534]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.41.14:887][534]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.41.14:887][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.41.14:889][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.41.14:896][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.41.14:929][534]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 86
+[2023.11.27-19.41.14:929][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2023.11.27-19.41.14:931][534]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2023.11.27-19.41.14:938][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.27-19.41.14:958][535]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2023.11.27-19.41.17:803][704]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.41.17:811][704]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-19.41.17:944][704]LogPlayLevel: [PlayLevel] Compiling LA-GameInstance before play...
+[2023.11.27-19.41.18:064][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.41.18:118][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/LA-GameInstance" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LA-GameInstance.uasset" SILENT=true
+[2023.11.27-19.41.18:145][704]LogSavePackage: Moving output files for package: /Game/Misc/LA-GameInstance
+[2023.11.27-19.41.18:145][704]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LA-GameInstance49C33809472F27E8B546278068DC476E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LA-GameInstance.uasset'
+[2023.11.27-19.41.18:152][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 23.2 sec)
+[2023.11.27-19.41.18:185][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.11.27-19.41.18:191][704]LogPlayLevel: PlayLevel: Blueprint regeneration took 380 ms (1 blueprints)
+[2023.11.27-19.41.18:191][704]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:41:18 a.m.)
+[2023.11.27-19.41.18:192][704]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.41.18:195][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003311s)
+[2023.11.27-19.41.18:195][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003379s)
+[2023.11.27-19.41.18:195][704]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.41.18:195][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.41.18:195][704]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.41.18:195][704]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2023.11.27-19.41.18:225][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.11.27-19.41.18:228][704]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2023.11.27-19.41.18:228][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.41.18:228][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.41.18:228][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.41.18:228][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.41.18:228][704]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.41.18:228][704]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.41.18:228][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.41.18:228][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.41.18:229][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.41.18:229][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.41.18:229][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.41.18:231][704]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.41.18:249][704]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.41.18:250][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.41.18:250][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.41.18:250][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.41.18:250][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=87
+[2023.11.27-19.41.18:250][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=87
+[2023.11.27-19.41.18:252][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=87
+[2023.11.27-19.41.18:252][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=87
+[2023.11.27-19.41.18:252][704]LogInit: FAudioDevice initialized with ID 87.
+[2023.11.27-19.41.18:252][704]LogAudio: Display: Audio Device (ID: 87) registered with world 'Testing'.
+[2023.11.27-19.41.18:252][704]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 87
+[2023.11.27-19.41.18:278][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.41.18:479][704]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.41.18:480][704]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.41.18
+[2023.11.27-19.41.18:481][704]LogWorld: Bringing up level for play took: 0.001707
+[2023.11.27-19.41.18:483][704]LogOnline: OSS: Created online subsystem instance for: :Context_145
+[2023.11.27-19.41.18:489][704]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/SaveGames/Information Points.sav' error.
+[2023.11.27-19.41.18:489][704]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/SaveGames/Learning Points - Instructor.sav' error.
+[2023.11.27-19.41.18:489][704]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/SaveGames/User Save.sav' error.
+[2023.11.27-19.41.18:522][704]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.41.18:524][704]PIE: Server logged in
+[2023.11.27-19.41.18:525][704]PIE: Play in editor total start time 0.715 seconds.
+[2023.11.27-19.41.18:532][704]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.41.18:553][705]AssetCheck: New page: Asset Save: LA-GameInstance
+[2023.11.27-19.41.18:553][705]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/LA-GameInstance.LA-GameInstance
+[2023.11.27-19.41.19:430][862]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.41.19:430][862]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.41.19:430][862]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.41.23:903][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.41.23:903][818]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.41.23:940][818]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.41.23:944][818]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.41.23:945][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.41.23:947][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.41.23:954][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.41.23:993][818]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 87
+[2023.11.27-19.41.23:993][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2023.11.27-19.41.23:995][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2023.11.27-19.41.24:004][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.27-19.41.24:031][819]LogPlayLevel: Display: Destroying online subsystem :Context_145
+[2023.11.27-19.41.28:032][ 54]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/LearningQuestionType.LearningQuestionType
+[2023.11.27-19.41.28:032][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.41.28:032][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.41.28:039][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.41.28:039][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.41.39:048][669]BlueprintLog: New page: Compile LearningQuestionType
+[2023.11.27-19.41.39:118][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.11.27-19.41.39:170][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.41.39:239][669]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningQuestionType
+[2023.11.27-19.41.39:240][669]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningQuestionType2944070E48A890CC0ADA5E8727ADF802.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningQuestionType.uasset'
+[2023.11.27-19.41.39:249][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 23.3 sec)
+[2023.11.27-19.41.39:258][669]AssetCheck: New page: Asset Save: LearningQuestionType
+[2023.11.27-19.41.39:258][669]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningQuestionType.LearningQuestionType
+[2023.11.27-19.41.39:707][691]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.41.39:717][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-19.41.39:717][691]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:41:39 a.m.)
+[2023.11.27-19.41.39:717][691]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.41.39:720][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002987s)
+[2023.11.27-19.41.39:720][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003020s)
+[2023.11.27-19.41.39:720][691]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.41.39:720][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.41.39:720][691]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.41.39:720][691]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2023.11.27-19.41.39:749][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.27-19.41.39:754][691]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2023.11.27-19.41.39:754][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.41.39:754][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.41.39:754][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.41.39:754][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.41.39:754][691]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.41.39:754][691]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.41.39:754][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.41.39:754][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.41.39:754][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.41.39:754][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.41.39:754][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.41.39:756][691]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.41.39:768][691]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.41.39:768][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.41.39:768][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.41.39:768][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.41.39:769][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2023.11.27-19.41.39:769][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=88
+[2023.11.27-19.41.39:771][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2023.11.27-19.41.39:771][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2023.11.27-19.41.39:771][691]LogInit: FAudioDevice initialized with ID 88.
+[2023.11.27-19.41.39:771][691]LogAudio: Display: Audio Device (ID: 88) registered with world 'Testing'.
+[2023.11.27-19.41.39:771][691]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 88
+[2023.11.27-19.41.39:794][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.41.39:982][691]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.41.39:984][691]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.41.39
+[2023.11.27-19.41.39:984][691]LogWorld: Bringing up level for play took: 0.001571
+[2023.11.27-19.41.39:986][691]LogOnline: OSS: Created online subsystem instance for: :Context_148
+[2023.11.27-19.41.39:992][691]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/SaveGames/Information Points.sav' error.
+[2023.11.27-19.41.39:992][691]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/SaveGames/Learning Points - Instructor.sav' error.
+[2023.11.27-19.41.39:992][691]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/SaveGames/User Save.sav' error.
+[2023.11.27-19.41.40:043][691]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.41.40:046][691]PIE: Server logged in
+[2023.11.27-19.41.40:047][691]PIE: Play in editor total start time 0.331 seconds.
+[2023.11.27-19.41.40:057][691]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.41.40:613][781]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.41.40:613][781]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.41.40:613][781]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.45.13:843][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.45.13:843][460]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-19.45.13:843][460]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-19.45.14:683][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.45.14:683][614]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.45.14:702][614]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.45.14:711][614]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.45.14:711][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.45.14:714][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.45.14:721][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.45.14:753][614]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-19.45.14:753][614]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 88
+[2023.11.27-19.45.14:753][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2023.11.27-19.45.14:755][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2023.11.27-19.45.14:762][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.27-19.45.14:782][615]LogPlayLevel: Display: Destroying online subsystem :Context_148
+[2023.11.27-19.45.47:101][362]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.InformationImageTemplate
+[2023.11.27-19.45.47:101][362]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.45.47:101][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.45.47:108][362]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.45.47:109][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.46.14:750][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.11.27-19.46.14:753][997]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Testing' took 0.033
+[2023.11.27-19.46.14:754][997]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate] ([2] browsable assets)...
+[2023.11.27-19.46.14:758][997]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate]
+[2023.11.27-19.46.14:758][997]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate]
+[2023.11.27-19.46.14:776][997]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate_Auto4
+[2023.11.27-19.46.14:776][997]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplate_Auto44A46AA434DEEF9BE178D929AAC2E6B34.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Autosaves/Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate_Auto4.uasset'
+[2023.11.27-19.46.14:777][997]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.11.27-19.50.06:253][329]BlueprintLog: New page: Compile LearningQuestionType
+[2023.11.27-19.50.06:311][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.11.27-19.50.06:873][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.50.06:946][352]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningQuestionType
+[2023.11.27-19.50.06:946][352]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningQuestionType82FAA4CD488130852D1D0EA65AFFABAD.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningQuestionType.uasset'
+[2023.11.27-19.50.06:956][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 23.4 sec)
+[2023.11.27-19.50.06:966][352]AssetCheck: New page: Asset Save: LearningQuestionType
+[2023.11.27-19.50.06:966][352]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningQuestionType.LearningQuestionType
+[2023.11.27-19.50.45:128][599]BlueprintLog: New page: Compile QuestionImageTextTemplate
+[2023.11.27-19.50.45:210][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.11.27-19.50.45:234][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.50.45:323][599]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate
+[2023.11.27-19.50.45:324][599]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplateD4CC2447472240F7F3FA73A8AADAAC3F.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.uasset'
+[2023.11.27-19.50.45:332][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 23.5 sec)
+[2023.11.27-19.50.45:340][599]AssetCheck: New page: Asset Save: QuestionImageTextTemplate
+[2023.11.27-19.50.45:340][599]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate
+[2023.11.27-19.52.29:597][538]BlueprintLog: New page: Compile QuestionImageTextTemplate
+[2023.11.27-19.52.29:665][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.27-19.52.29:729][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.52.29:816][538]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate
+[2023.11.27-19.52.29:817][538]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplate854FCE764A620C7484FD43974AA4F23D.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.uasset'
+[2023.11.27-19.52.29:826][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 23.6 sec)
+[2023.11.27-19.52.29:834][538]AssetCheck: New page: Asset Save: QuestionImageTextTemplate
+[2023.11.27-19.52.29:834][538]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate
+[2023.11.27-19.52.45:631][716]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.52.45:640][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-19.52.45:640][716]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:52:45 a.m.)
+[2023.11.27-19.52.45:640][716]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.52.45:643][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003384s)
+[2023.11.27-19.52.45:643][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003418s)
+[2023.11.27-19.52.45:643][716]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.52.45:643][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.52.45:643][716]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.52.45:644][716]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2023.11.27-19.52.45:672][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.27-19.52.45:676][716]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2023.11.27-19.52.45:676][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.52.45:676][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.52.45:676][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.52.45:676][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.52.45:676][716]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.52.45:676][716]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.52.45:676][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.52.45:676][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.52.45:677][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.52.45:677][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.52.45:677][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.52.45:678][716]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.52.45:692][716]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.52.45:692][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.52.45:693][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.52.45:693][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.52.45:693][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=89
+[2023.11.27-19.52.45:693][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=89
+[2023.11.27-19.52.45:695][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=89
+[2023.11.27-19.52.45:695][716]LogInit: FAudioDevice initialized with ID 89.
+[2023.11.27-19.52.45:695][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=89
+[2023.11.27-19.52.45:695][716]LogAudio: Display: Audio Device (ID: 89) registered with world 'Testing'.
+[2023.11.27-19.52.45:695][716]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 89
+[2023.11.27-19.52.45:720][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.52.45:941][716]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.52.45:943][716]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.52.45
+[2023.11.27-19.52.45:943][716]LogWorld: Bringing up level for play took: 0.001709
+[2023.11.27-19.52.45:945][716]LogOnline: OSS: Created online subsystem instance for: :Context_151
+[2023.11.27-19.52.46:027][716]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.52.46:031][716]PIE: Server logged in
+[2023.11.27-19.52.46:033][716]PIE: Play in editor total start time 0.394 seconds.
+[2023.11.27-19.52.46:039][716]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.52.47:799][ 31]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.52.47:799][ 31]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.52.47:799][ 31]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.52.56:432][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.52.56:432][860]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.52.56:449][860]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.52.56:454][860]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.52.56:454][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.52.56:457][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.52.56:464][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.52.56:500][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-19.52.56:501][860]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 89
+[2023.11.27-19.52.56:501][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2023.11.27-19.52.56:503][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=89
+[2023.11.27-19.52.56:511][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.11.27-19.52.56:535][861]LogPlayLevel: Display: Destroying online subsystem :Context_151
+[2023.11.27-19.53.07:901][491]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.53.07:909][491]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-19.53.07:911][491]LogPlayLevel: [PlayLevel] Compiling QuestionImageTextTemplate before play...
+[2023.11.27-19.53.08:015][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.53.08:096][491]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate
+[2023.11.27-19.53.08:096][491]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplateF98D1F6F46DB615EB1707A94AFCAAB9E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.uasset'
+[2023.11.27-19.53.08:105][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 23.7 sec)
+[2023.11.27-19.53.08:135][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.11.27-19.53.08:138][491]LogPlayLevel: PlayLevel: Blueprint regeneration took 229 ms (1 blueprints)
+[2023.11.27-19.53.08:138][491]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:53:08 a.m.)
+[2023.11.27-19.53.08:138][491]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.53.08:141][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002805s)
+[2023.11.27-19.53.08:141][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.002833s)
+[2023.11.27-19.53.08:142][491]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.53.08:142][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.53.08:142][491]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.53.08:142][491]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2023.11.27-19.53.08:169][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.27-19.53.08:171][491]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2023.11.27-19.53.08:171][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.53.08:171][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.53.08:171][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.53.08:171][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.53.08:171][491]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.53.08:171][491]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.53.08:171][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.53.08:171][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.53.08:172][491]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.53.08:172][491]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.53.08:172][491]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.53.08:174][491]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.53.08:186][491]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.53.08:187][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.53.08:187][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.53.08:187][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.53.08:188][491]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=90
+[2023.11.27-19.53.08:188][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=90
+[2023.11.27-19.53.08:189][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=90
+[2023.11.27-19.53.08:189][491]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=90
+[2023.11.27-19.53.08:189][491]LogInit: FAudioDevice initialized with ID 90.
+[2023.11.27-19.53.08:189][491]LogAudio: Display: Audio Device (ID: 90) registered with world 'Testing'.
+[2023.11.27-19.53.08:189][491]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 90
+[2023.11.27-19.53.08:216][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.53.08:429][491]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.53.08:430][491]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.53.08
+[2023.11.27-19.53.08:430][491]LogWorld: Bringing up level for play took: 0.001234
+[2023.11.27-19.53.08:433][491]LogOnline: OSS: Created online subsystem instance for: :Context_152
+[2023.11.27-19.53.08:498][491]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.53.08:499][491]PIE: Server logged in
+[2023.11.27-19.53.08:500][491]PIE: Play in editor total start time 0.591 seconds.
+[2023.11.27-19.53.08:506][491]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.53.08:526][492]AssetCheck: New page: Asset Save: QuestionImageTextTemplate
+[2023.11.27-19.53.08:526][492]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate
+[2023.11.27-19.53.09:079][567]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.53.09:079][567]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.53.09:079][567]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.53.17:403][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.53.17:403][315]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.53.17:487][315]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.53.17:492][315]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.53.17:492][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.53.17:494][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.53.17:501][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.53.17:543][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 90
+[2023.11.27-19.53.17:543][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2023.11.27-19.53.17:546][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2023.11.27-19.53.17:553][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.11.27-19.53.17:578][316]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2023.11.27-19.53.27:570][853]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.53.27:578][853]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-19.53.27:580][853]LogPlayLevel: [PlayLevel] Compiling QuestionImageTextTemplate before play...
+[2023.11.27-19.53.27:690][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.53.27:774][853]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate
+[2023.11.27-19.53.27:774][853]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplate9DBE27844B1748032D76BB8B675AB422.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.uasset'
+[2023.11.27-19.53.27:782][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 23.8 sec)
+[2023.11.27-19.53.27:814][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.11.27-19.53.27:817][853]LogPlayLevel: PlayLevel: Blueprint regeneration took 238 ms (1 blueprints)
+[2023.11.27-19.53.27:817][853]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:53:27 a.m.)
+[2023.11.27-19.53.27:818][853]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.53.27:821][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002919s)
+[2023.11.27-19.53.27:821][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.002993s)
+[2023.11.27-19.53.27:821][853]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.53.27:821][853]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.53.27:821][853]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.53.27:821][853]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2023.11.27-19.53.27:849][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.11.27-19.53.27:853][853]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2023.11.27-19.53.27:853][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.53.27:853][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.53.27:853][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.53.27:853][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.53.27:853][853]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.53.27:853][853]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.53.27:853][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.53.27:853][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.53.27:853][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.53.27:853][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.53.27:853][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.53.27:856][853]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.53.27:867][853]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.53.27:867][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.53.27:867][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.53.27:867][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.53.27:868][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=91
+[2023.11.27-19.53.27:868][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=91
+[2023.11.27-19.53.27:870][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=91
+[2023.11.27-19.53.27:870][853]LogInit: FAudioDevice initialized with ID 91.
+[2023.11.27-19.53.27:870][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=91
+[2023.11.27-19.53.27:870][853]LogAudio: Display: Audio Device (ID: 91) registered with world 'Testing'.
+[2023.11.27-19.53.27:870][853]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 91
+[2023.11.27-19.53.27:895][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.53.28:087][853]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.53.28:090][853]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.53.28
+[2023.11.27-19.53.28:090][853]LogWorld: Bringing up level for play took: 0.002123
+[2023.11.27-19.53.28:091][853]LogOnline: OSS: Created online subsystem instance for: :Context_153
+[2023.11.27-19.53.28:150][853]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.53.28:152][853]PIE: Server logged in
+[2023.11.27-19.53.28:153][853]PIE: Play in editor total start time 0.574 seconds.
+[2023.11.27-19.53.28:159][853]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.53.28:179][854]AssetCheck: New page: Asset Save: QuestionImageTextTemplate
+[2023.11.27-19.53.28:179][854]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate
+[2023.11.27-19.53.28:739][929]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.53.28:739][929]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.53.28:739][929]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.53.35:018][290]LogBlueprintUserMessages: [QuestionImageTextTemplate_C_0] s
+[2023.11.27-19.53.37:024][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.53.37:024][717]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.53.37:105][717]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.53.37:109][717]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.53.37:109][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.53.37:112][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.53.37:119][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.53.37:157][717]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 91
+[2023.11.27-19.53.37:157][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2023.11.27-19.53.37:158][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2023.11.27-19.53.37:166][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.27-19.53.37:192][718]LogPlayLevel: Display: Destroying online subsystem :Context_153
+[2023.11.27-19.53.50:959][539]BlueprintLog: New page: Compile QuestionImageTextTemplate
+[2023.11.27-19.53.51:030][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.11.27-19.53.51:103][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.53.51:182][539]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate
+[2023.11.27-19.53.51:182][539]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplate80BAEFF446EA77B222B448B1808D02A2.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.uasset'
+[2023.11.27-19.53.51:190][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 23.9 sec)
+[2023.11.27-19.53.51:199][539]AssetCheck: New page: Asset Save: QuestionImageTextTemplate
+[2023.11.27-19.53.51:199][539]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate
+[2023.11.27-19.56.28:475][656]BlueprintLog: New page: Compile QuestionImageTextTemplate
+[2023.11.27-19.56.28:550][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.27-19.56.28:623][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.56.28:712][656]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate
+[2023.11.27-19.56.28:713][656]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplateEE269BFE4B04ABC5D1EF01AFF50D447D.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.uasset'
+[2023.11.27-19.56.28:724][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 24.0 sec)
+[2023.11.27-19.56.28:731][656]AssetCheck: New page: Asset Save: QuestionImageTextTemplate
+[2023.11.27-19.56.28:731][656]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate
+[2023.11.27-19.56.29:127][670]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.56.29:135][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-19.56.29:135][670]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:56:29 a.m.)
+[2023.11.27-19.56.29:135][670]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.56.29:139][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003204s)
+[2023.11.27-19.56.29:139][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003236s)
+[2023.11.27-19.56.29:139][670]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.56.29:139][670]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.56.29:139][670]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.56.29:140][670]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2023.11.27-19.56.29:168][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.11.27-19.56.29:170][670]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2023.11.27-19.56.29:170][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.56.29:170][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.56.29:170][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.56.29:170][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.56.29:170][670]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.56.29:170][670]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.56.29:170][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.56.29:170][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.56.29:171][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.56.29:171][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.56.29:171][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.56.29:172][670]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.56.29:186][670]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.56.29:186][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.56.29:186][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.56.29:186][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.56.29:187][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=92
+[2023.11.27-19.56.29:187][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=92
+[2023.11.27-19.56.29:189][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=92
+[2023.11.27-19.56.29:189][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=92
+[2023.11.27-19.56.29:189][670]LogInit: FAudioDevice initialized with ID 92.
+[2023.11.27-19.56.29:189][670]LogAudio: Display: Audio Device (ID: 92) registered with world 'Testing'.
+[2023.11.27-19.56.29:189][670]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 92
+[2023.11.27-19.56.29:213][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.56.29:416][670]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.56.29:418][670]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.56.29
+[2023.11.27-19.56.29:419][670]LogWorld: Bringing up level for play took: 0.001636
+[2023.11.27-19.56.29:421][670]LogOnline: OSS: Created online subsystem instance for: :Context_154
+[2023.11.27-19.56.29:483][670]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.56.29:486][670]PIE: Server logged in
+[2023.11.27-19.56.29:488][670]PIE: Play in editor total start time 0.353 seconds.
+[2023.11.27-19.56.29:494][670]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.56.29:913][731]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.56.29:913][731]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.56.29:913][731]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.56.33:868][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.56.33:868][557]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.56.33:884][557]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.56.33:889][557]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.56.33:889][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.56.33:892][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.56.33:900][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.56.33:938][557]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-19.56.33:939][557]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 92
+[2023.11.27-19.56.33:939][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2023.11.27-19.56.33:941][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2023.11.27-19.56.33:949][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.11.27-19.56.33:974][558]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2023.11.27-19.56.44:725][690]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.56.44:734][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-19.56.44:734][690]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:56:44 a.m.)
+[2023.11.27-19.56.44:734][690]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.56.44:737][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003204s)
+[2023.11.27-19.56.44:737][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003232s)
+[2023.11.27-19.56.44:737][690]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.56.44:737][690]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.56.44:738][690]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.56.44:738][690]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2023.11.27-19.56.44:765][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.27-19.56.44:767][690]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2023.11.27-19.56.44:767][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.56.44:767][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.56.44:767][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.56.44:767][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.56.44:767][690]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.56.44:767][690]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.56.44:767][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.56.44:767][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.56.44:767][690]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.56.44:767][690]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.56.44:767][690]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.56.44:769][690]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.56.44:780][690]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.56.44:781][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.56.44:781][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.56.44:781][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.56.44:781][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=93
+[2023.11.27-19.56.44:781][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=93
+[2023.11.27-19.56.44:783][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=93
+[2023.11.27-19.56.44:783][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=93
+[2023.11.27-19.56.44:783][690]LogInit: FAudioDevice initialized with ID 93.
+[2023.11.27-19.56.44:783][690]LogAudio: Display: Audio Device (ID: 93) registered with world 'Testing'.
+[2023.11.27-19.56.44:783][690]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 93
+[2023.11.27-19.56.44:818][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.56.45:006][690]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.56.45:007][690]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.56.45
+[2023.11.27-19.56.45:008][690]LogWorld: Bringing up level for play took: 0.001707
+[2023.11.27-19.56.45:010][690]LogOnline: OSS: Created online subsystem instance for: :Context_155
+[2023.11.27-19.56.45:081][690]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.56.45:085][690]PIE: Server logged in
+[2023.11.27-19.56.45:087][690]PIE: Play in editor total start time 0.353 seconds.
+[2023.11.27-19.56.45:092][690]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.56.45:563][765]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.56.45:563][765]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.56.45:563][765]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.56.47:839][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.56.47:839][239]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.56.47:856][239]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.56.47:862][239]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.56.47:863][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.56.47:865][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.56.47:873][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.56.47:913][239]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 93
+[2023.11.27-19.56.47:913][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2023.11.27-19.56.47:915][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2023.11.27-19.56.47:923][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.11.27-19.56.47:946][240]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2023.11.27-19.56.54:297][604]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.56.54:305][604]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-19.56.54:306][604]LogPlayLevel: [PlayLevel] Compiling QuestionImageTextTemplate before play...
+[2023.11.27-19.56.54:413][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.56.54:499][604]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate
+[2023.11.27-19.56.54:500][604]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplate9304ECEA4B94ED86E6D4EFA1CFFD5558.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.uasset'
+[2023.11.27-19.56.54:510][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 24.1 sec)
+[2023.11.27-19.56.54:540][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.11.27-19.56.54:543][604]LogPlayLevel: PlayLevel: Blueprint regeneration took 238 ms (1 blueprints)
+[2023.11.27-19.56.54:543][604]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:56:54 a.m.)
+[2023.11.27-19.56.54:543][604]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.56.54:546][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003098s)
+[2023.11.27-19.56.54:546][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003127s)
+[2023.11.27-19.56.54:546][604]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.56.54:547][604]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.56.54:547][604]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.56.54:547][604]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2023.11.27-19.56.54:576][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.27-19.56.54:578][604]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2023.11.27-19.56.54:578][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.56.54:578][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.56.54:578][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.56.54:578][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.56.54:578][604]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.56.54:578][604]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.56.54:578][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.56.54:578][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.56.54:579][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.56.54:579][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.56.54:579][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.56.54:581][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.56.54:592][604]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.56.54:593][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.56.54:593][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.56.54:593][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.56.54:594][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=94
+[2023.11.27-19.56.54:594][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=94
+[2023.11.27-19.56.54:595][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=94
+[2023.11.27-19.56.54:595][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=94
+[2023.11.27-19.56.54:595][604]LogInit: FAudioDevice initialized with ID 94.
+[2023.11.27-19.56.54:595][604]LogAudio: Display: Audio Device (ID: 94) registered with world 'Testing'.
+[2023.11.27-19.56.54:596][604]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 94
+[2023.11.27-19.56.54:622][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.56.54:828][604]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.56.54:830][604]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.56.54
+[2023.11.27-19.56.54:830][604]LogWorld: Bringing up level for play took: 0.001880
+[2023.11.27-19.56.54:832][604]LogOnline: OSS: Created online subsystem instance for: :Context_156
+[2023.11.27-19.56.54:889][604]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.56.54:893][604]PIE: Server logged in
+[2023.11.27-19.56.54:896][604]PIE: Play in editor total start time 0.591 seconds.
+[2023.11.27-19.56.54:903][604]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.56.54:973][605]AssetCheck: New page: Asset Save: QuestionImageTextTemplate
+[2023.11.27-19.56.54:973][605]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate
+[2023.11.27-19.56.55:609][694]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.56.55:609][694]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.56.55:609][694]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.57.03:380][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.57.03:380][281]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.57.03:480][281]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.57.03:486][281]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.57.03:487][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.57.03:489][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.57.03:495][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.57.03:528][281]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 94
+[2023.11.27-19.57.03:528][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2023.11.27-19.57.03:530][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2023.11.27-19.57.03:536][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.27-19.57.03:562][282]LogPlayLevel: Display: Destroying online subsystem :Context_156
+[2023.11.27-19.57.28:375][705]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.57.28:383][705]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-19.57.28:384][705]LogPlayLevel: [PlayLevel] Compiling QuestionImageTextTemplate before play...
+[2023.11.27-19.57.28:501][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-19.57.28:588][705]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate
+[2023.11.27-19.57.28:588][705]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplate6B06640D4EBEFEB255A1D682D5FBDAE4.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.uasset'
+[2023.11.27-19.57.28:597][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 24.2 sec)
+[2023.11.27-19.57.28:627][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.27-19.57.28:631][705]LogPlayLevel: PlayLevel: Blueprint regeneration took 247 ms (1 blueprints)
+[2023.11.27-19.57.28:631][705]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:57:28 a.m.)
+[2023.11.27-19.57.28:631][705]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.57.28:633][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002886s)
+[2023.11.27-19.57.28:633][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.002911s)
+[2023.11.27-19.57.28:633][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.57.28:633][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.57.28:634][705]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.57.28:634][705]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2023.11.27-19.57.28:663][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.27-19.57.28:665][705]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2023.11.27-19.57.28:665][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.57.28:665][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.57.28:665][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.57.28:665][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.57.28:665][705]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.57.28:665][705]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.57.28:665][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.57.28:665][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.57.28:665][705]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.57.28:665][705]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.57.28:665][705]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.57.28:668][705]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.57.28:680][705]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.57.28:680][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.57.28:680][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.57.28:681][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.57.28:682][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=95
+[2023.11.27-19.57.28:682][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=95
+[2023.11.27-19.57.28:683][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=95
+[2023.11.27-19.57.28:683][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=95
+[2023.11.27-19.57.28:683][705]LogInit: FAudioDevice initialized with ID 95.
+[2023.11.27-19.57.28:683][705]LogAudio: Display: Audio Device (ID: 95) registered with world 'Testing'.
+[2023.11.27-19.57.28:683][705]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 95
+[2023.11.27-19.57.28:709][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.57.28:916][705]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.57.28:917][705]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.57.28
+[2023.11.27-19.57.28:917][705]LogWorld: Bringing up level for play took: 0.001671
+[2023.11.27-19.57.28:920][705]LogOnline: OSS: Created online subsystem instance for: :Context_157
+[2023.11.27-19.57.28:978][705]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.57.28:981][705]PIE: Server logged in
+[2023.11.27-19.57.28:981][705]PIE: Play in editor total start time 0.598 seconds.
+[2023.11.27-19.57.28:987][705]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.57.29:005][706]AssetCheck: New page: Asset Save: QuestionImageTextTemplate
+[2023.11.27-19.57.29:006][706]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate
+[2023.11.27-19.57.29:574][787]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-19.57.29:574][787]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-19.57.29:574][787]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-19.57.49:232][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.57.49:232][ 39]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-19.57.49:232][ 39]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-19.57.50:022][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.57.50:022][191]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.57.50:095][191]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.57.50:100][191]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.57.50:100][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.57.50:103][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.57.50:112][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.57.50:147][191]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 95
+[2023.11.27-19.57.50:147][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2023.11.27-19.57.50:148][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2023.11.27-19.57.50:156][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.27-19.57.50:177][192]LogPlayLevel: Display: Destroying online subsystem :Context_157
+[2023.11.27-19.57.50:867][233]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-19.57.50:875][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-19.57.50:875][233]PIE: New page: PIE session: Testing (Nov. 27, 2023, 3:57:50 a.m.)
+[2023.11.27-19.57.50:875][233]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.57.50:878][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003332s)
+[2023.11.27-19.57.50:878][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003361s)
+[2023.11.27-19.57.50:879][233]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.57.50:879][233]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.57.50:879][233]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-19.57.50:879][233]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2023.11.27-19.57.50:908][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.11.27-19.57.50:910][233]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2023.11.27-19.57.50:910][233]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-19.57.50:910][233]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-19.57.50:910][233]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-19.57.50:910][233]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-19.57.50:910][233]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-19.57.50:910][233]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-19.57.50:910][233]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-19.57.50:910][233]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-19.57.50:911][233]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-19.57.50:911][233]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-19.57.50:911][233]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-19.57.50:913][233]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-19.57.50:924][233]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-19.57.50:925][233]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-19.57.50:925][233]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-19.57.50:925][233]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-19.57.50:925][233]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=96
+[2023.11.27-19.57.50:925][233]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=96
+[2023.11.27-19.57.50:927][233]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=96
+[2023.11.27-19.57.50:927][233]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=96
+[2023.11.27-19.57.50:927][233]LogInit: FAudioDevice initialized with ID 96.
+[2023.11.27-19.57.50:927][233]LogAudio: Display: Audio Device (ID: 96) registered with world 'Testing'.
+[2023.11.27-19.57.50:927][233]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 96
+[2023.11.27-19.57.50:964][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.57.51:150][233]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-19.57.51:152][233]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-11.57.51
+[2023.11.27-19.57.51:152][233]LogWorld: Bringing up level for play took: 0.001791
+[2023.11.27-19.57.51:154][233]LogOnline: OSS: Created online subsystem instance for: :Context_158
+[2023.11.27-19.57.51:168][233]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.57.51:168][233]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_94.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.57.51:168][233]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.57.51:168][233]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_94.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.57.51:168][233]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.57.51:168][233]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_94.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.57.51:168][233]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-19.57.51:168][233]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_94.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-19.57.51:218][233]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-19.57.51:222][233]PIE: Server logged in
+[2023.11.27-19.57.51:224][233]PIE: Play in editor total start time 0.348 seconds.
+[2023.11.27-19.57.51:229][233]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-19.57.52:402][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-19.57.52:403][444]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-19.57.52:417][444]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-19.57.52:422][444]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.57.52:422][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.57.52:424][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-19.57.52:431][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.57.52:466][444]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 96
+[2023.11.27-19.57.52:466][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2023.11.27-19.57.52:468][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2023.11.27-19.57.52:477][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.11.27-19.57.52:506][445]LogPlayLevel: Display: Destroying online subsystem :Context_158
+[2023.11.27-19.58.48:121][776]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.11.27-19.58.48:121][776]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.58.48:121][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.58.48:125][776]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.58.48:125][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.58.52:788][ 37]LogWorld: UWorld::CleanupWorld for World_189, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.58.52:788][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.58.52:799][ 37]LogWorld: UWorld::CleanupWorld for World_188, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.58.52:799][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.58.55:628][200]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/LearningPageTemplate.LearningPageTemplate
+[2023.11.27-19.58.55:629][200]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.58.55:629][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.58.55:634][200]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.58.55:634][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.59.04:401][703]LogWorld: UWorld::CleanupWorld for World_191, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.59.04:401][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.59.04:410][703]LogWorld: UWorld::CleanupWorld for World_190, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.59.04:410][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.59.08:659][946]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/InformationPoint.InformationPoint
+[2023.11.27-19.59.08:659][946]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.59.08:659][946]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.59.10:506][ 47]LogWorld: UWorld::CleanupWorld for World_192, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.59.10:506][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.59.11:465][ 99]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2023.11.27-19.59.11:465][ 99]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.59.11:465][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.59.22:785][769]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlueprintInterfaces/BPI_SaveGame.BPI_SaveGame
+[2023.11.27-19.59.22:785][769]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.59.22:785][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.59.24:277][853]LogWorld: UWorld::CleanupWorld for World_194, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-19.59.24:277][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-19.59.41:680][892]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.11.27-19.59.41:681][892]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.59.41:681][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-19.59.41:686][892]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-19.59.41:686][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-20.00.56:718][266]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Misc/LearningPointSave.LearningPointSave
+[2023.11.27-20.00.56:718][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-20.00.56:718][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-20.00.59:224][410]LogWorld: UWorld::CleanupWorld for World_197, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-20.00.59:224][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.01.02:105][579]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Misc/Structs/LearningPointStruct.LearningPointStruct
+[2023.11.27-20.01.32:169][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.01.32:230][331]LogSavePackage: Moving output files for package: /Game/Misc/Structs/LearningPointStruct
+[2023.11.27-20.01.32:231][331]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointStruct865BEB8C4B510CBB6CF2589AA22FB60F.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/Structs/LearningPointStruct.uasset'
+[2023.11.27-20.01.32:239][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 24.2 sec)
+[2023.11.27-20.01.32:248][331]AssetCheck: New page: Asset Save: LearningPointStruct
+[2023.11.27-20.01.32:248][331]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Misc/Structs/LearningPointStruct.LearningPointStruct
+[2023.11.27-20.01.51:045][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.01.51:103][447]LogSavePackage: Moving output files for package: /Game/Misc/Structs/LearningPointStruct
+[2023.11.27-20.01.51:103][447]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointStruct098E288B4E7B801E9BFA23BCC827B18D.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/Structs/LearningPointStruct.uasset'
+[2023.11.27-20.01.51:112][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 24.3 sec)
+[2023.11.27-20.01.51:119][447]AssetCheck: New page: Asset Save: LearningPointStruct
+[2023.11.27-20.01.51:119][447]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Misc/Structs/LearningPointStruct.LearningPointStruct
+[2023.11.27-20.01.53:041][563]BlueprintLog: New page: Compile LearningPointWidget
+[2023.11.27-20.01.53:413][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.11.27-20.01.53:438][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.01.53:562][563]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPointWidget
+[2023.11.27-20.01.53:562][563]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointWidgetFBBC2DA34D9CD9481250CC94449A52D6.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningPointWidget.uasset'
+[2023.11.27-20.01.53:571][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 24.4 sec)
+[2023.11.27-20.01.53:580][563]AssetCheck: New page: Asset Save: LearningPointWidget
+[2023.11.27-20.01.53:580][563]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.11.27-20.02.12:119][617]BlueprintLog: New page: Compile LearningPointWidget
+[2023.11.27-20.02.12:491][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.11.27-20.02.12:514][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.02.12:640][617]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPointWidget
+[2023.11.27-20.02.12:641][617]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointWidgetFDC5F9F3416CE8910C1E579837EBF9D0.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningPointWidget.uasset'
+[2023.11.27-20.02.12:651][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 24.6 sec)
+[2023.11.27-20.02.12:660][617]AssetCheck: New page: Asset Save: LearningPointWidget
+[2023.11.27-20.02.12:660][617]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.11.27-20.03.08:551][848]BlueprintLog: New page: Compile LearningPointWidget
+[2023.11.27-20.03.08:930][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.11.27-20.03.08:954][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.03.09:081][848]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPointWidget
+[2023.11.27-20.03.09:082][848]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointWidgetCB597F6C4F97DA2A70E266AC9BEB5167.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningPointWidget.uasset'
+[2023.11.27-20.03.09:092][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 24.7 sec)
+[2023.11.27-20.03.09:101][848]AssetCheck: New page: Asset Save: LearningPointWidget
+[2023.11.27-20.03.09:101][848]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.11.27-20.03.19:624][442]BlueprintLog: New page: Compile LearningPointWidget
+[2023.11.27-20.03.20:001][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.11.27-20.03.20:025][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.03.20:151][442]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPointWidget
+[2023.11.27-20.03.20:152][442]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointWidget88A8A0CC458A76E9CB447DBE674EEFFB.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningPointWidget.uasset'
+[2023.11.27-20.03.20:163][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 24.9 sec)
+[2023.11.27-20.03.20:171][442]AssetCheck: New page: Asset Save: LearningPointWidget
+[2023.11.27-20.03.20:171][442]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.11.27-20.04.58:829][265]LogEditorTransaction: Undo Move Node
+[2023.11.27-20.05.57:900][713]BlueprintLog: New page: Compile QuestionImageTextTemplate
+[2023.11.27-20.05.58:004][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.27-20.05.58:084][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.05.58:172][713]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate
+[2023.11.27-20.05.58:173][713]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplateE331A13F47168EB90228D08C4C3246FE.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.uasset'
+[2023.11.27-20.05.58:182][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 25.0 sec)
+[2023.11.27-20.05.58:190][713]AssetCheck: New page: Asset Save: QuestionImageTextTemplate
+[2023.11.27-20.05.58:190][713]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate
+[2023.11.27-20.05.59:203][761]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-20.05.59:212][761]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-20.05.59:658][761]LogPlayLevel: [PlayLevel] Compiling LA-GameInstance before play...
+[2023.11.27-20.05.59:788][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.05.59:838][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/LA-GameInstance" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LA-GameInstance.uasset" SILENT=true
+[2023.11.27-20.05.59:866][761]LogSavePackage: Moving output files for package: /Game/Misc/LA-GameInstance
+[2023.11.27-20.05.59:866][761]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LA-GameInstance947EE6454AFB9A5BE01BCFBCEBD02E08.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LA-GameInstance.uasset'
+[2023.11.27-20.05.59:876][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 25.0 sec)
+[2023.11.27-20.05.59:879][761]LogPlayLevel: [PlayLevel] Compiling LearningPoint before play...
+[2023.11.27-20.05.59:951][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.06.00:049][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/LearningPoint" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset" SILENT=true
+[2023.11.27-20.06.00:059][761]LogSavePackage: Moving output files for package: /Game/Actors/LearningPoint
+[2023.11.27-20.06.00:059][761]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointFC0CC5A14FF6B1E26642B9BABC7C0F91.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset'
+[2023.11.27-20.06.00:070][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 25.2 sec)
+[2023.11.27-20.06.00:073][761]LogPlayLevel: [PlayLevel] Compiling LearningPointSave before play...
+[2023.11.27-20.06.00:089][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.06.00:145][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/LearningPointSave" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LearningPointSave.uasset" SILENT=true
+[2023.11.27-20.06.00:147][761]LogSavePackage: Moving output files for package: /Game/Misc/LearningPointSave
+[2023.11.27-20.06.00:148][761]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointSaveE2A08B9344B9780367DADF919751F0AE.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LearningPointSave.uasset'
+[2023.11.27-20.06.00:156][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 25.2 sec)
+[2023.11.27-20.06.00:160][761]LogPlayLevel: [PlayLevel] Compiling LearningPointWidget before play...
+[2023.11.27-20.06.00:265][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.06.00:399][761]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPointWidget
+[2023.11.27-20.06.00:400][761]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointWidget7CF677674B962B359E1B0ABA77640075.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningPointWidget.uasset'
+[2023.11.27-20.06.00:411][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 25.4 sec)
+[2023.11.27-20.06.00:449][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.11.27-20.06.00:452][761]LogPlayLevel: PlayLevel: Blueprint regeneration took 1241 ms (4 blueprints)
+[2023.11.27-20.06.00:452][761]PIE: New page: PIE session: Testing (Nov. 27, 2023, 4:06:00 a.m.)
+[2023.11.27-20.06.00:452][761]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-20.06.00:456][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003196s)
+[2023.11.27-20.06.00:456][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003227s)
+[2023.11.27-20.06.00:456][761]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-20.06.00:456][761]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-20.06.00:457][761]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-20.06.00:457][761]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2023.11.27-20.06.00:486][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.27-20.06.00:488][761]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2023.11.27-20.06.00:488][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-20.06.00:488][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-20.06.00:488][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-20.06.00:488][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-20.06.00:488][761]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-20.06.00:488][761]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-20.06.00:488][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-20.06.00:488][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-20.06.00:489][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-20.06.00:489][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-20.06.00:489][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-20.06.00:490][761]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-20.06.00:503][761]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-20.06.00:503][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-20.06.00:503][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-20.06.00:503][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-20.06.00:504][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=97
+[2023.11.27-20.06.00:504][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=97
+[2023.11.27-20.06.00:506][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=97
+[2023.11.27-20.06.00:506][761]LogInit: FAudioDevice initialized with ID 97.
+[2023.11.27-20.06.00:506][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=97
+[2023.11.27-20.06.00:506][761]LogAudio: Display: Audio Device (ID: 97) registered with world 'Testing'.
+[2023.11.27-20.06.00:506][761]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 97
+[2023.11.27-20.06.00:535][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.06.00:747][761]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-20.06.00:749][761]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-12.06.00
+[2023.11.27-20.06.00:749][761]LogWorld: Bringing up level for play took: 0.001336
+[2023.11.27-20.06.00:752][761]LogOnline: OSS: Created online subsystem instance for: :Context_169
+[2023.11.27-20.06.00:775][761]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ImageFilePath_55_1BEA277245745948039B488DB78381C7' of length 0 in '/Game/Misc/Structs/LearningPointStruct.LearningPointStruct'!
+[2023.11.27-20.06.00:775][761]LogScript: Warning: Script Msg called by: LearningPointWidget_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_95.LearningPointWidget_C_1
+[2023.11.27-20.06.00:777][761]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.06.00:777][761]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_95.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.06.00:777][761]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.06.00:777][761]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_95.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.06.00:777][761]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.06.00:777][761]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_95.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.06.00:777][761]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.06.00:777][761]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_95.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.06.00:817][761]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-20.06.00:819][761]PIE: Server logged in
+[2023.11.27-20.06.00:819][761]PIE: Play in editor total start time 1.609 seconds.
+[2023.11.27-20.06.00:826][761]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-20.06.00:849][762]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.27-20.06.00:849][762]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/LA-GameInstance.LA-GameInstance
+[2023.11.27-20.06.00:849][762]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2023.11.27-20.06.00:849][762]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/LearningPointSave.LearningPointSave
+[2023.11.27-20.06.00:849][762]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.11.27-20.06.03:862][285]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-20.06.03:862][285]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-20.06.03:862][285]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-20.06.06:403][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.06.06:403][830]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-20.06.06:403][830]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-20.06.08:609][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.06.08:609][250]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-20.06.08:689][250]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-20.06.08:693][250]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-20.06.08:693][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.06.08:696][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-20.06.08:703][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.06.08:738][250]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 97
+[2023.11.27-20.06.08:738][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2023.11.27-20.06.08:739][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2023.11.27-20.06.08:747][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.11.27-20.06.08:774][251]LogPlayLevel: Display: Destroying online subsystem :Context_169
+[2023.11.27-20.06.09:518][295]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-20.06.09:526][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-20.06.09:526][295]PIE: New page: PIE session: Testing (Nov. 27, 2023, 4:06:09 a.m.)
+[2023.11.27-20.06.09:526][295]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-20.06.09:529][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003019s)
+[2023.11.27-20.06.09:529][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003047s)
+[2023.11.27-20.06.09:529][295]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-20.06.09:529][295]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-20.06.09:529][295]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-20.06.09:530][295]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2023.11.27-20.06.09:558][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.27-20.06.09:560][295]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2023.11.27-20.06.09:560][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-20.06.09:560][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-20.06.09:560][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-20.06.09:560][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-20.06.09:560][295]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-20.06.09:560][295]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-20.06.09:560][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-20.06.09:560][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-20.06.09:560][295]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-20.06.09:560][295]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-20.06.09:560][295]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-20.06.09:562][295]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-20.06.09:573][295]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-20.06.09:574][295]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-20.06.09:574][295]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-20.06.09:574][295]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-20.06.09:574][295]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=98
+[2023.11.27-20.06.09:574][295]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=98
+[2023.11.27-20.06.09:576][295]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=98
+[2023.11.27-20.06.09:576][295]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=98
+[2023.11.27-20.06.09:576][295]LogInit: FAudioDevice initialized with ID 98.
+[2023.11.27-20.06.09:576][295]LogAudio: Display: Audio Device (ID: 98) registered with world 'Testing'.
+[2023.11.27-20.06.09:576][295]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 98
+[2023.11.27-20.06.09:614][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.06.09:805][295]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-20.06.09:807][295]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-12.06.09
+[2023.11.27-20.06.09:807][295]LogWorld: Bringing up level for play took: 0.001845
+[2023.11.27-20.06.09:809][295]LogOnline: OSS: Created online subsystem instance for: :Context_170
+[2023.11.27-20.06.09:824][295]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.06.09:824][295]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_96.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.06.09:824][295]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.06.09:824][295]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_96.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.06.09:824][295]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.06.09:824][295]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_96.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.06.09:824][295]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.06.09:824][295]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_96.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.06.09:862][295]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-20.06.09:868][295]PIE: Server logged in
+[2023.11.27-20.06.09:871][295]PIE: Play in editor total start time 0.345 seconds.
+[2023.11.27-20.06.09:877][295]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-20.06.10:979][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.06.10:979][467]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-20.06.10:998][467]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-20.06.11:003][467]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-20.06.11:003][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.06.11:005][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-20.06.11:012][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.06.11:048][467]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 98
+[2023.11.27-20.06.11:048][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98
+[2023.11.27-20.06.11:050][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98
+[2023.11.27-20.06.11:058][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.27-20.06.11:084][468]LogPlayLevel: Display: Destroying online subsystem :Context_170
+[2023.11.27-20.06.28:869][480]LogWorld: UWorld::CleanupWorld for World_196, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-20.06.28:869][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.06.28:879][480]LogWorld: UWorld::CleanupWorld for World_195, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-20.06.28:879][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.06.48:013][599]LogWorld: UWorld::CleanupWorld for World_193, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-20.06.48:013][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.06.55:888][ 62]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.11.27-20.06.55:889][ 62]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-20.06.55:889][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-20.06.55:894][ 62]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-20.06.55:894][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-20.07.02:167][397]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-20.07.02:177][397]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-20.07.02:181][397]LogPlayLevel: [PlayLevel] Compiling LearningPointWidget before play...
+[2023.11.27-20.07.02:561][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.07.02:688][397]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPointWidget
+[2023.11.27-20.07.02:688][397]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPointWidget24DF125843F04996DCFC0BA5E58D5F07.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningPointWidget.uasset'
+[2023.11.27-20.07.02:700][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 25.5 sec)
+[2023.11.27-20.07.02:723][397]LogPlayLevel: [PlayLevel] Compiling QuestionImageTextTemplate before play...
+[2023.11.27-20.07.02:867][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.07.02:952][397]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate
+[2023.11.27-20.07.02:952][397]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplate56D80C064161B6FBE19F2E9DD1E0C3E7.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.uasset'
+[2023.11.27-20.07.02:963][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 25.6 sec)
+[2023.11.27-20.07.02:998][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.11.27-20.07.03:001][397]LogPlayLevel: PlayLevel: Blueprint regeneration took 824 ms (2 blueprints)
+[2023.11.27-20.07.03:001][397]PIE: New page: PIE session: Testing (Nov. 27, 2023, 4:07:03 a.m.)
+[2023.11.27-20.07.03:001][397]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-20.07.03:005][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003224s)
+[2023.11.27-20.07.03:005][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003252s)
+[2023.11.27-20.07.03:005][397]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-20.07.03:005][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-20.07.03:005][397]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-20.07.03:005][397]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2023.11.27-20.07.03:034][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.27-20.07.03:037][397]LogAudio: Display: Creating Audio Device:                 Id: 99, Scope: Unique, Realtime: True
+[2023.11.27-20.07.03:037][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-20.07.03:037][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-20.07.03:038][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-20.07.03:038][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-20.07.03:038][397]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-20.07.03:038][397]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-20.07.03:038][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-20.07.03:038][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-20.07.03:038][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-20.07.03:038][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-20.07.03:038][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-20.07.03:040][397]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-20.07.03:053][397]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-20.07.03:053][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-20.07.03:053][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-20.07.03:053][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-20.07.03:054][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=99
+[2023.11.27-20.07.03:054][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=99
+[2023.11.27-20.07.03:057][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=99
+[2023.11.27-20.07.03:057][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=99
+[2023.11.27-20.07.03:057][397]LogInit: FAudioDevice initialized with ID 99.
+[2023.11.27-20.07.03:057][397]LogAudio: Display: Audio Device (ID: 99) registered with world 'Testing'.
+[2023.11.27-20.07.03:057][397]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 99
+[2023.11.27-20.07.03:082][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.07.03:284][397]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-20.07.03:286][397]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-12.07.03
+[2023.11.27-20.07.03:286][397]LogWorld: Bringing up level for play took: 0.001899
+[2023.11.27-20.07.03:289][397]LogOnline: OSS: Created online subsystem instance for: :Context_173
+[2023.11.27-20.07.03:306][397]LogBlueprintUserMessages: [QuestionImageTextTemplate_C_0] Hello
+[2023.11.27-20.07.03:307][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.03:307][397]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_97.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.03:307][397]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.03:307][397]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_97.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.03:307][397]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.03:307][397]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_97.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.03:307][397]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.03:307][397]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_97.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.03:357][397]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-20.07.03:359][397]PIE: Server logged in
+[2023.11.27-20.07.03:361][397]PIE: Play in editor total start time 1.184 seconds.
+[2023.11.27-20.07.03:366][397]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-20.07.03:390][398]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.27-20.07.03:390][398]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2023.11.27-20.07.03:390][398]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate
+[2023.11.27-20.07.04:228][512]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-20.07.04:228][512]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-20.07.04:228][512]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-20.07.06:652][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.07.06:652][ 18]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-20.07.06:652][ 18]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-20.07.07:070][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.07.07:070][ 89]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-20.07.07:263][ 89]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-20.07.07:270][ 89]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-20.07.07:271][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.07.07:275][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-20.07.07:281][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.07.07:316][ 89]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 99
+[2023.11.27-20.07.07:316][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=99
+[2023.11.27-20.07.07:318][ 89]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=99
+[2023.11.27-20.07.07:325][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.11.27-20.07.07:352][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_173
+[2023.11.27-20.07.07:861][120]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-20.07.07:869][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-20.07.07:869][120]PIE: New page: PIE session: Testing (Nov. 27, 2023, 4:07:07 a.m.)
+[2023.11.27-20.07.07:869][120]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-20.07.07:872][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003142s)
+[2023.11.27-20.07.07:872][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003176s)
+[2023.11.27-20.07.07:872][120]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-20.07.07:872][120]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-20.07.07:873][120]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-20.07.07:873][120]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2023.11.27-20.07.07:900][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.27-20.07.07:902][120]LogAudio: Display: Creating Audio Device:                 Id: 100, Scope: Unique, Realtime: True
+[2023.11.27-20.07.07:902][120]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-20.07.07:902][120]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-20.07.07:902][120]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-20.07.07:902][120]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-20.07.07:902][120]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-20.07.07:902][120]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-20.07.07:902][120]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-20.07.07:902][120]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-20.07.07:902][120]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-20.07.07:902][120]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-20.07.07:902][120]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-20.07.07:904][120]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-20.07.07:916][120]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-20.07.07:917][120]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-20.07.07:917][120]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-20.07.07:917][120]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-20.07.07:917][120]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=100
+[2023.11.27-20.07.07:917][120]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=100
+[2023.11.27-20.07.07:919][120]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=100
+[2023.11.27-20.07.07:919][120]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=100
+[2023.11.27-20.07.07:919][120]LogInit: FAudioDevice initialized with ID 100.
+[2023.11.27-20.07.07:919][120]LogAudio: Display: Audio Device (ID: 100) registered with world 'Testing'.
+[2023.11.27-20.07.07:919][120]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 100
+[2023.11.27-20.07.07:957][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.07.08:157][120]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-20.07.08:158][120]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-12.07.08
+[2023.11.27-20.07.08:158][120]LogWorld: Bringing up level for play took: 0.002198
+[2023.11.27-20.07.08:161][120]LogOnline: OSS: Created online subsystem instance for: :Context_174
+[2023.11.27-20.07.08:176][120]LogBlueprintUserMessages: [QuestionImageTextTemplate_C_0] Hello
+[2023.11.27-20.07.08:177][120]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.08:177][120]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_98.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.08:177][120]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.08:177][120]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_98.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.08:177][120]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.08:177][120]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_98.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.08:177][120]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.08:177][120]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_98.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.08:218][120]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-20.07.08:230][120]PIE: Server logged in
+[2023.11.27-20.07.08:238][120]PIE: Play in editor total start time 0.37 seconds.
+[2023.11.27-20.07.08:246][120]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-20.07.09:879][377]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-20.07.09:879][377]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-20.07.09:879][377]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-20.07.15:625][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.07.15:625][469]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-20.07.15:625][469]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-20.07.16:111][550]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-20.07.16:111][550]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-20.07.16:809][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.07.16:809][687]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-20.07.16:809][687]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-20.07.17:151][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.07.17:151][739]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-20.07.17:176][739]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-20.07.17:180][739]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-20.07.17:180][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.07.17:183][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-20.07.17:190][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.07.17:229][739]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 100
+[2023.11.27-20.07.17:229][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=100
+[2023.11.27-20.07.17:231][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=100
+[2023.11.27-20.07.17:238][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.11.27-20.07.17:271][740]LogPlayLevel: Display: Destroying online subsystem :Context_174
+[2023.11.27-20.07.18:119][791]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-20.07.18:127][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-20.07.18:127][791]PIE: New page: PIE session: Testing (Nov. 27, 2023, 4:07:18 a.m.)
+[2023.11.27-20.07.18:127][791]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-20.07.18:130][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003085s)
+[2023.11.27-20.07.18:130][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003115s)
+[2023.11.27-20.07.18:130][791]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-20.07.18:130][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-20.07.18:131][791]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-20.07.18:131][791]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2023.11.27-20.07.18:160][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.11.27-20.07.18:162][791]LogAudio: Display: Creating Audio Device:                 Id: 101, Scope: Unique, Realtime: True
+[2023.11.27-20.07.18:162][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-20.07.18:162][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-20.07.18:162][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-20.07.18:162][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-20.07.18:162][791]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-20.07.18:162][791]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-20.07.18:162][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-20.07.18:162][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-20.07.18:162][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-20.07.18:162][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-20.07.18:162][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-20.07.18:164][791]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-20.07.18:176][791]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-20.07.18:176][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-20.07.18:176][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-20.07.18:176][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-20.07.18:176][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=101
+[2023.11.27-20.07.18:176][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=101
+[2023.11.27-20.07.18:178][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=101
+[2023.11.27-20.07.18:178][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=101
+[2023.11.27-20.07.18:178][791]LogInit: FAudioDevice initialized with ID 101.
+[2023.11.27-20.07.18:178][791]LogAudio: Display: Audio Device (ID: 101) registered with world 'Testing'.
+[2023.11.27-20.07.18:178][791]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 101
+[2023.11.27-20.07.18:218][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.07.18:415][791]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-20.07.18:417][791]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-12.07.18
+[2023.11.27-20.07.18:417][791]LogWorld: Bringing up level for play took: 0.001815
+[2023.11.27-20.07.18:420][791]LogOnline: OSS: Created online subsystem instance for: :Context_175
+[2023.11.27-20.07.18:434][791]LogBlueprintUserMessages: [QuestionImageTextTemplate_C_0] Hello
+[2023.11.27-20.07.18:435][791]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.18:435][791]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_99.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.18:435][791]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.18:435][791]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_99.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.18:435][791]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.18:435][791]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_99.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.18:435][791]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.18:435][791]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_99.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.18:470][791]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-20.07.18:480][791]PIE: Server logged in
+[2023.11.27-20.07.18:487][791]PIE: Play in editor total start time 0.36 seconds.
+[2023.11.27-20.07.18:496][791]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-20.07.19:801][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.07.19:801][991]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-20.07.19:820][991]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-20.07.19:824][991]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-20.07.19:824][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.07.19:827][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-20.07.19:833][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.07.19:869][991]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 101
+[2023.11.27-20.07.19:870][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=101
+[2023.11.27-20.07.19:872][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=101
+[2023.11.27-20.07.19:879][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.27-20.07.19:906][992]LogPlayLevel: Display: Destroying online subsystem :Context_175
+[2023.11.27-20.07.43:683][380]BlueprintLog: New page: Compile QuestionImageTextTemplate
+[2023.11.27-20.07.44:057][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.27-20.07.44:158][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-20.07.44:250][380]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate
+[2023.11.27-20.07.44:251][380]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/QuestionImageTextTemplate200B7CF043897A1ED3674192806B0639.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.uasset'
+[2023.11.27-20.07.44:265][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 25.7 sec)
+[2023.11.27-20.07.44:274][380]AssetCheck: New page: Asset Save: QuestionImageTextTemplate
+[2023.11.27-20.07.44:274][380]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/QuestionTemplates/QuestionImageTextTemplate.QuestionImageTextTemplate
+[2023.11.27-20.07.45:604][447]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-20.07.45:611][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-20.07.45:611][447]PIE: New page: PIE session: Testing (Nov. 27, 2023, 4:07:45 a.m.)
+[2023.11.27-20.07.45:611][447]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-20.07.45:615][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003005s)
+[2023.11.27-20.07.45:615][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003032s)
+[2023.11.27-20.07.45:615][447]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-20.07.45:615][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-20.07.45:616][447]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-20.07.45:616][447]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2023.11.27-20.07.45:644][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.11.27-20.07.45:649][447]LogAudio: Display: Creating Audio Device:                 Id: 102, Scope: Unique, Realtime: True
+[2023.11.27-20.07.45:649][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-20.07.45:649][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-20.07.45:649][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-20.07.45:649][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-20.07.45:649][447]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-20.07.45:649][447]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-20.07.45:649][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-20.07.45:649][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-20.07.45:649][447]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-20.07.45:649][447]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-20.07.45:649][447]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-20.07.45:651][447]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-20.07.45:662][447]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-20.07.45:663][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-20.07.45:663][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-20.07.45:663][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-20.07.45:663][447]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=102
+[2023.11.27-20.07.45:663][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=102
+[2023.11.27-20.07.45:666][447]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=102
+[2023.11.27-20.07.45:666][447]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=102
+[2023.11.27-20.07.45:666][447]LogInit: FAudioDevice initialized with ID 102.
+[2023.11.27-20.07.45:666][447]LogAudio: Display: Audio Device (ID: 102) registered with world 'Testing'.
+[2023.11.27-20.07.45:666][447]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 102
+[2023.11.27-20.07.45:690][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.07.45:880][447]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-20.07.45:881][447]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-12.07.45
+[2023.11.27-20.07.45:881][447]LogWorld: Bringing up level for play took: 0.001261
+[2023.11.27-20.07.45:884][447]LogOnline: OSS: Created online subsystem instance for: :Context_176
+[2023.11.27-20.07.45:899][447]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.45:899][447]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_100.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.45:899][447]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.45:899][447]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_100.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.45:899][447]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.45:899][447]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_100.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.45:899][447]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'CallFunc_Map_Values_Values' of length 0 in '/Game/Widgets/LearningPoint/AnswerTemplates/AnswerMCTemplate.AnswerMCTemplate_C:Get MC Answer'!
+[2023.11.27-20.07.45:899][447]LogScript: Warning: Script Msg called by: AnswerMCTemplate_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_100.LearningPointWidget_C_1.WidgetTree_0.LearningPageTemplate_C_1.WidgetTree_0.LearningAnswerTypes_C_0.WidgetTree_0.AnswerMCTemplate_C_0
+[2023.11.27-20.07.45:961][447]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-20.07.45:968][447]PIE: Server logged in
+[2023.11.27-20.07.45:971][447]PIE: Play in editor total start time 0.359 seconds.
+[2023.11.27-20.07.45:980][447]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.11.27-20.07.47:480][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-20.07.47:480][680]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-20.07.47:500][680]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-20.07.47:504][680]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-20.07.47:505][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.07.47:508][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-20.07.47:515][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-20.07.47:550][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-20.07.47:550][680]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 102
+[2023.11.27-20.07.47:550][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=102
+[2023.11.27-20.07.47:552][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=102
+[2023.11.27-20.07.47:558][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.27-20.07.47:581][681]LogPlayLevel: Display: Destroying online subsystem :Context_176
