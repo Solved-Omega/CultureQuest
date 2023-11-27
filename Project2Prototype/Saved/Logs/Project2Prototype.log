@@ -4731,3 +4731,1085 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.27-16.59.01:256][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
 [2023.11.27-16.59.01:262][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
 [2023.11.27-16.59.01:282][454]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.11.27-16.59.30:409][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.27-16.59.30:423][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Testing_Auto1
+[2023.11.27-16.59.30:424][752]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Testing_Auto1B70AA88B47AD349ECDAD579ED8F1EC98.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Autosaves/Game/Levels/Testing_Auto1.umap'
+[2023.11.27-16.59.30:433][752]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Testing' took 0.052
+[2023.11.27-16.59.30:433][752]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2023.11.27-16.59.30:434][752]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Misc/LA-GameInstance] ([2] browsable assets)...
+[2023.11.27-16.59.30:434][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/Misc/LA-GameInstance]
+[2023.11.27-16.59.30:459][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Misc/LA-GameInstance_Auto1
+[2023.11.27-16.59.30:461][752]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LA-GameInstance_Auto1C8B03CC14691FF5B9B598884DA91706E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Autosaves/Game/Misc/LA-GameInstance_Auto1.uasset'
+[2023.11.27-16.59.30:468][752]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2023.11.27-16.59.30:514][752]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2023.11.27-16.59.30:514][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2023.11.27-16.59.30:610][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto1
+[2023.11.27-16.59.30:611][752]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/VRPawn_Auto199BA2D2B48ECC0C525976B8240D12CCC.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto1.uasset'
+[2023.11.27-16.59.30:619][752]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/LearningPoint/LearningPageTemplate] ([2] browsable assets)...
+[2023.11.27-16.59.30:622][752]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/LearningPoint/LearningPageTemplate.LearningPageTemplate]
+[2023.11.27-16.59.30:622][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/LearningPoint/LearningPageTemplate]
+[2023.11.27-16.59.30:647][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/LearningPoint/LearningPageTemplate_Auto1
+[2023.11.27-16.59.30:647][752]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPageTemplate_Auto12274E80048BE69A36CD83FB5AA72B361.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Autosaves/Game/Widgets/LearningPoint/LearningPageTemplate_Auto1.uasset'
+[2023.11.27-16.59.30:650][752]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FPS/FirstPerson/Blueprints/PCCharacter] ([2] browsable assets)...
+[2023.11.27-16.59.30:667][752]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter]
+[2023.11.27-16.59.30:667][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/FirstPerson/Blueprints/PCCharacter]
+[2023.11.27-16.59.30:694][752]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/FirstPerson/Blueprints/PCCharacter_Auto1
+[2023.11.27-16.59.30:694][752]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter_Auto1CF0DB6D3478948EFFF1124BCA1D19CB0.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Autosaves/Game/FPS/FirstPerson/Blueprints/PCCharacter_Auto1.uasset'
+[2023.11.27-16.59.30:695][752]LogFileHelpers: Auto-saving content packages took 0.261
+[2023.11.27-17.01.01:196][712]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-17.01.01:531][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.11.27-17.01.02:543][757]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-17.01.02:550][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-17.01.02:550][757]PIE: New page: PIE session: Testing (Nov. 27, 2023, 1:01:02 a.m.)
+[2023.11.27-17.01.02:550][757]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.01.02:554][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003597s)
+[2023.11.27-17.01.02:554][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003652s)
+[2023.11.27-17.01.02:554][757]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.01.02:554][757]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.01.02:554][757]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-17.01.02:556][757]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2023.11.27-17.01.02:583][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.27-17.01.02:587][757]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2023.11.27-17.01.02:587][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-17.01.02:587][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-17.01.02:587][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-17.01.02:587][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-17.01.02:587][757]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-17.01.02:587][757]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-17.01.02:587][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-17.01.02:587][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-17.01.02:587][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-17.01.02:587][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-17.01.02:587][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-17.01.02:589][757]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-17.01.02:601][757]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-17.01.02:601][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-17.01.02:602][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-17.01.02:602][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-17.01.02:602][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2023.11.27-17.01.02:602][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2023.11.27-17.01.02:605][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2023.11.27-17.01.02:605][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2023.11.27-17.01.02:605][757]LogInit: FAudioDevice initialized with ID 47.
+[2023.11.27-17.01.02:605][757]LogAudio: Display: Audio Device (ID: 47) registered with world 'Testing'.
+[2023.11.27-17.01.02:605][757]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2023.11.27-17.01.02:632][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.01.02:830][757]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-17.01.02:831][757]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-09.01.02
+[2023.11.27-17.01.02:833][757]LogWorld: Bringing up level for play took: 0.001366
+[2023.11.27-17.01.02:835][757]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.11.27-17.01.02:846][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.01.02:846][757]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-17.01.02:889][757]PIE: Server logged in
+[2023.11.27-17.01.02:893][757]PIE: Play in editor total start time 0.343 seconds.
+[2023.11.27-17.01.02:899][757]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-17.01.05:893][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.01.05:893][335]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.01.05:911][335]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-17.01.05:915][335]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.01.05:915][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.01.05:917][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-17.01.05:924][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.01.05:952][335]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-17.01.05:953][335]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2023.11.27-17.01.05:953][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.11.27-17.01.05:955][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2023.11.27-17.01.05:963][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.11.27-17.01.05:983][336]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.11.27-17.01.50:677][979]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.11.27-17.01.50:686][979]LogContentBrowser: Creating deferred item: NewInterface
+[2023.11.27-17.01.50:698][980]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2023.11.27-17.01.55:890][292]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Widgets
+[2023.11.27-17.01.55:896][292]LogContentBrowser: End creating deferred item NewInterface
+[2023.11.27-17.01.57:233][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BlueprintInterfaces/BPI_Widgets.BPI_Widgets
+[2023.11.27-17.01.57:233][368]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.01.57:234][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.02.03:586][745]BlueprintLog: New page: Compile BPI_Widgets
+[2023.11.27-17.02.03:617][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.27-17.02.04:158][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.02.04:210][773]LogSavePackage: Moving output files for package: /Game/BlueprintInterfaces/BPI_Widgets
+[2023.11.27-17.02.04:210][773]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/BPI_Widgets7B4557944E8962D31A046DAF3B8BF463.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/BlueprintInterfaces/BPI_Widgets.uasset'
+[2023.11.27-17.02.04:220][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 3.97 sec)
+[2023.11.27-17.02.04:226][773]AssetCheck: New page: Asset Save: BPI_Widgets
+[2023.11.27-17.02.04:226][773]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BlueprintInterfaces/BPI_Widgets.BPI_Widgets
+[2023.11.27-17.02.21:705][802]LogSlate: Took 0.005703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.27-17.02.30:616][303]BlueprintLog: New page: Compile BPI_Widgets
+[2023.11.27-17.02.30:647][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.11.27-17.02.31:210][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.02.31:264][332]LogSavePackage: Moving output files for package: /Game/BlueprintInterfaces/BPI_Widgets
+[2023.11.27-17.02.31:265][332]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/BPI_Widgets68846B8D4334E4E67645EF9C45BAD242.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/BlueprintInterfaces/BPI_Widgets.uasset'
+[2023.11.27-17.02.31:274][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 4.03 sec)
+[2023.11.27-17.02.31:280][332]AssetCheck: New page: Asset Save: BPI_Widgets
+[2023.11.27-17.02.31:280][332]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BlueprintInterfaces/BPI_Widgets.BPI_Widgets
+[2023.11.27-17.02.39:907][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.02.39:991][850]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPageTemplate
+[2023.11.27-17.02.39:992][850]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPageTemplateA14045A747FBEE265E67A4B700811F29.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/LearningPoint/LearningPageTemplate.uasset'
+[2023.11.27-17.02.40:001][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 4.13 sec)
+[2023.11.27-17.02.40:008][850]AssetCheck: New page: Asset Save: LearningPageTemplate
+[2023.11.27-17.02.40:008][850]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPageTemplate.LearningPageTemplate
+[2023.11.27-17.02.40:826][898]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.02.40:826][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.02.40:834][898]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.02.40:834][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.03.14:024][865]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/InformationPoint.InformationPoint
+[2023.11.27-17.03.14:024][865]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.03.14:024][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.03.27:746][663]BlueprintLog: New page: Compile InformationPoint
+[2023.11.27-17.03.27:807][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.11.27-17.03.28:371][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.03.28:464][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/InformationPoint" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/InformationPoint.uasset" SILENT=true
+[2023.11.27-17.03.28:476][690]LogSavePackage: Moving output files for package: /Game/Actors/InformationPoint
+[2023.11.27-17.03.28:476][690]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/InformationPoint76090E0E42AB1C32FD076194F3CF9837.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/InformationPoint.uasset'
+[2023.11.27-17.03.28:484][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 4.24 sec)
+[2023.11.27-17.03.28:492][690]AssetCheck: New page: Asset Save: InformationPoint
+[2023.11.27-17.03.28:492][690]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/InformationPoint.InformationPoint
+[2023.11.27-17.03.46:475][755]BlueprintLog: New page: Compile InformationPoint
+[2023.11.27-17.03.46:535][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.11.27-17.03.57:894][423]BlueprintLog: New page: Compile LearningPoint
+[2023.11.27-17.03.58:270][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.11.27-17.03.58:760][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.03.58:856][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/LearningPoint" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset" SILENT=true
+[2023.11.27-17.03.58:866][446]LogSavePackage: Moving output files for package: /Game/Actors/LearningPoint
+[2023.11.27-17.03.58:866][446]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPoint0D3636344F16AF4CC8B20F8E51CA5292.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset'
+[2023.11.27-17.03.58:874][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 4.36 sec)
+[2023.11.27-17.03.58:882][446]AssetCheck: New page: Asset Save: LearningPoint
+[2023.11.27-17.03.58:882][446]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2023.11.27-17.04.05:028][815]BlueprintLog: New page: Compile BPI_Widgets
+[2023.11.27-17.04.05:066][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.27-17.04.05:844][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.04.05:897][856]LogSavePackage: Moving output files for package: /Game/BlueprintInterfaces/BPI_Widgets
+[2023.11.27-17.04.05:898][856]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/BPI_WidgetsFC0745074C3E733A7E2A27ADF5B1D0F0.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/BlueprintInterfaces/BPI_Widgets.uasset'
+[2023.11.27-17.04.05:907][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 4.42 sec)
+[2023.11.27-17.04.05:913][856]AssetCheck: New page: Asset Save: BPI_Widgets
+[2023.11.27-17.04.05:913][856]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BlueprintInterfaces/BPI_Widgets.BPI_Widgets
+[2023.11.27-17.04.41:335][922]BlueprintLog: New page: Compile InformationPoint
+[2023.11.27-17.04.41:397][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.27-17.04.41:891][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.04.41:989][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/InformationPoint" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/InformationPoint.uasset" SILENT=true
+[2023.11.27-17.04.42:000][946]LogSavePackage: Moving output files for package: /Game/Actors/InformationPoint
+[2023.11.27-17.04.42:000][946]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/InformationPointD684E2C74F297EEFF9A61282E6CA8C05.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/InformationPoint.uasset'
+[2023.11.27-17.04.42:011][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 4.54 sec)
+[2023.11.27-17.04.42:018][946]AssetCheck: New page: Asset Save: InformationPoint
+[2023.11.27-17.04.42:018][946]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/InformationPoint.InformationPoint
+[2023.11.27-17.04.43:141][ 14]BlueprintLog: New page: Compile LearningPoint
+[2023.11.27-17.04.43:530][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.11.27-17.04.50:620][429]BlueprintLog: New page: Compile LearningPoint
+[2023.11.27-17.04.50:681][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.11.27-17.04.50:717][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.04.50:806][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/LearningPoint" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset" SILENT=true
+[2023.11.27-17.04.50:816][429]LogSavePackage: Moving output files for package: /Game/Actors/LearningPoint
+[2023.11.27-17.04.50:816][429]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LearningPoint805373FD4E7D42FC0D4CC7B9F8C4E364.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Actors/LearningPoint.uasset'
+[2023.11.27-17.04.50:824][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 4.65 sec)
+[2023.11.27-17.04.50:831][429]AssetCheck: New page: Asset Save: LearningPoint
+[2023.11.27-17.04.50:831][429]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2023.11.27-17.04.58:080][845]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-17.04.58:339][845]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\CultureQuest\Project2Prototype\Content\FPS\FirstPerson\Blueprints\PCCharacter.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2023.11.27-17.04.58:418][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.11.27-17.04.58:541][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.04.58:655][845]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-17.04.58:656][845]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacterCB13DE954911E234B0FE2B9596BD2126.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-17.04.58:664][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 4.77 sec)
+[2023.11.27-17.04.58:672][845]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-17.04.58:672][845]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-17.05.18:818][ 24]BlueprintLog: New page: Compile BPI_Widgets
+[2023.11.27-17.05.18:958][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.11.27-17.05.18:998][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.05.19:055][ 24]LogSavePackage: Moving output files for package: /Game/BlueprintInterfaces/BPI_Widgets
+[2023.11.27-17.05.19:055][ 24]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/BPI_Widgets6D82208A4A56CD806333B5B2F8E41395.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/BlueprintInterfaces/BPI_Widgets.uasset'
+[2023.11.27-17.05.19:065][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 4.83 sec)
+[2023.11.27-17.05.19:074][ 24]AssetCheck: New page: Asset Save: BPI_Widgets
+[2023.11.27-17.05.19:074][ 24]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BlueprintInterfaces/BPI_Widgets.BPI_Widgets
+[2023.11.27-17.05.19:344][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.05.19:404][ 36]LogSavePackage: Moving output files for package: /Game/BlueprintInterfaces/BPI_Widgets
+[2023.11.27-17.05.19:405][ 36]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/BPI_WidgetsB7ABDB0644C8353B4CA4699B8E38CD5F.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/BlueprintInterfaces/BPI_Widgets.uasset'
+[2023.11.27-17.05.19:414][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 4.90 sec)
+[2023.11.27-17.05.19:420][ 36]AssetCheck: New page: Asset Save: BPI_Widgets
+[2023.11.27-17.05.19:420][ 36]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BlueprintInterfaces/BPI_Widgets.BPI_Widgets
+[2023.11.27-17.05.21:522][162]BlueprintLog: New page: Compile InformationPoint
+[2023.11.27-17.05.21:584][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.11.27-17.05.30:088][647]LogEditorTransaction: Undo Straighten Connection(s)
+[2023.11.27-17.05.33:640][841]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-17.05.33:973][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.27-17.05.34:104][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.05.34:216][841]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-17.05.34:217][841]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter1FDB10FB46AA14145DAAEFAD30EACA3B.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-17.05.34:227][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 5.03 sec)
+[2023.11.27-17.05.34:236][841]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-17.05.34:236][841]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-17.05.45:471][507]BlueprintLog: New page: Compile PCCharacter
+[2023.11.27-17.05.45:580][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.11.27-17.05.45:711][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.05.45:833][507]LogSavePackage: Moving output files for package: /Game/FPS/FirstPerson/Blueprints/PCCharacter
+[2023.11.27-17.05.45:834][507]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/PCCharacter50AC005D48293AB4E85723A2AEC21A91.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/FPS/FirstPerson/Blueprints/PCCharacter.uasset'
+[2023.11.27-17.05.45:844][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 5.16 sec)
+[2023.11.27-17.05.45:852][507]AssetCheck: New page: Asset Save: PCCharacter
+[2023.11.27-17.05.45:852][507]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FPS/FirstPerson/Blueprints/PCCharacter.PCCharacter
+[2023.11.27-17.05.46:248][525]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-17.05.46:257][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-17.05.46:258][525]PIE: New page: PIE session: Testing (Nov. 27, 2023, 1:05:46 a.m.)
+[2023.11.27-17.05.46:258][525]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.05.46:260][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003072s)
+[2023.11.27-17.05.46:260][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003103s)
+[2023.11.27-17.05.46:260][525]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.05.46:260][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.05.46:261][525]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-17.05.46:261][525]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2023.11.27-17.05.46:290][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.11.27-17.05.46:295][525]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.11.27-17.05.46:295][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-17.05.46:295][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-17.05.46:295][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-17.05.46:295][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-17.05.46:295][525]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-17.05.46:295][525]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-17.05.46:295][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-17.05.46:295][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-17.05.46:295][525]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-17.05.46:295][525]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-17.05.46:295][525]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-17.05.46:297][525]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-17.05.46:310][525]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-17.05.46:310][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-17.05.46:310][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-17.05.46:310][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-17.05.46:311][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2023.11.27-17.05.46:311][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2023.11.27-17.05.46:312][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2023.11.27-17.05.46:313][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2023.11.27-17.05.46:313][525]LogInit: FAudioDevice initialized with ID 48.
+[2023.11.27-17.05.46:313][525]LogAudio: Display: Audio Device (ID: 48) registered with world 'Testing'.
+[2023.11.27-17.05.46:313][525]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2023.11.27-17.05.46:348][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.05.46:568][525]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-17.05.46:569][525]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-09.05.46
+[2023.11.27-17.05.46:570][525]LogWorld: Bringing up level for play took: 0.001507
+[2023.11.27-17.05.46:571][525]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2023.11.27-17.05.46:595][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.05.46:595][525]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-17.05.46:641][525]PIE: Server logged in
+[2023.11.27-17.05.46:645][525]PIE: Play in editor total start time 0.387 seconds.
+[2023.11.27-17.05.46:652][525]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-17.05.47:130][600]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.05.47:131][600]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-17.05.47:131][600]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.05.48:809][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.05.48:810][981]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.05.48:810][981]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.05.50:162][245]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.05.50:162][245]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.05.59:269][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.05.59:269][272]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.05.59:269][272]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.06.01:864][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.01:864][796]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.06.01:888][796]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-17.06.01:893][796]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.06.01:893][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.06.01:896][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-17.06.01:902][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.06.01:931][796]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-17.06.01:932][796]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2023.11.27-17.06.01:932][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.11.27-17.06.01:933][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2023.11.27-17.06.01:941][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.27-17.06.01:964][797]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.11.27-17.06.02:747][844]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-17.06.02:754][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-17.06.02:754][844]PIE: New page: PIE session: Testing (Nov. 27, 2023, 1:06:02 a.m.)
+[2023.11.27-17.06.02:754][844]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.06.02:757][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002964s)
+[2023.11.27-17.06.02:757][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.002995s)
+[2023.11.27-17.06.02:757][844]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.06.02:757][844]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.06.02:757][844]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-17.06.02:757][844]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2023.11.27-17.06.02:786][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.11.27-17.06.02:788][844]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2023.11.27-17.06.02:788][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-17.06.02:788][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-17.06.02:788][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-17.06.02:788][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-17.06.02:788][844]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-17.06.02:788][844]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-17.06.02:788][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-17.06.02:788][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-17.06.02:788][844]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-17.06.02:788][844]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-17.06.02:788][844]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-17.06.02:790][844]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-17.06.02:801][844]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-17.06.02:801][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-17.06.02:801][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-17.06.02:801][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-17.06.02:801][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2023.11.27-17.06.02:801][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2023.11.27-17.06.02:805][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2023.11.27-17.06.02:805][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2023.11.27-17.06.02:805][844]LogInit: FAudioDevice initialized with ID 49.
+[2023.11.27-17.06.02:805][844]LogAudio: Display: Audio Device (ID: 49) registered with world 'Testing'.
+[2023.11.27-17.06.02:805][844]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2023.11.27-17.06.02:844][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.03:040][844]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-17.06.03:041][844]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-09.06.03
+[2023.11.27-17.06.03:041][844]LogWorld: Bringing up level for play took: 0.001700
+[2023.11.27-17.06.03:043][844]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2023.11.27-17.06.03:057][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.03:057][844]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-17.06.03:107][844]PIE: Server logged in
+[2023.11.27-17.06.03:110][844]PIE: Play in editor total start time 0.357 seconds.
+[2023.11.27-17.06.03:118][844]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-17.06.03:128][845]LogHttp: Warning: 00000662EE634B00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-17.06.03:128][845]LogHttp: Warning: 00000662EE634B00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\dfs)
+[2023.11.27-17.06.03:128][845]LogHttp: Warning: 00000662EE634B00: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-17.06.03:443][892]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.06.03:443][892]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-17.06.03:443][892]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.06.04:102][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.04:102][ 33]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.06.04:102][ 33]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.06.08:646][957]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.06.08:646][957]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.06.13:981][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.13:981][ 85]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.06.13:981][ 85]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.06.16:315][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.17:464][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.17:464][780]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.06.17:483][780]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-17.06.17:489][780]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.06.17:489][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.06.17:492][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-17.06.17:498][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.06.17:526][780]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2023.11.27-17.06.17:526][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.11.27-17.06.17:528][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2023.11.27-17.06.17:535][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.27-17.06.17:564][781]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.11.27-17.06.18:346][828]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-17.06.18:354][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-17.06.18:354][828]PIE: New page: PIE session: Testing (Nov. 27, 2023, 1:06:18 a.m.)
+[2023.11.27-17.06.18:354][828]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.06.18:358][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003397s)
+[2023.11.27-17.06.18:358][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003428s)
+[2023.11.27-17.06.18:358][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.06.18:358][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.06.18:359][828]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-17.06.18:359][828]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2023.11.27-17.06.18:387][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.27-17.06.18:388][828]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2023.11.27-17.06.18:388][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-17.06.18:388][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-17.06.18:388][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-17.06.18:388][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-17.06.18:388][828]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-17.06.18:388][828]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-17.06.18:388][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-17.06.18:388][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-17.06.18:389][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-17.06.18:389][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-17.06.18:389][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-17.06.18:390][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-17.06.18:402][828]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-17.06.18:402][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-17.06.18:402][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-17.06.18:402][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-17.06.18:403][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2023.11.27-17.06.18:403][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2023.11.27-17.06.18:405][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2023.11.27-17.06.18:405][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2023.11.27-17.06.18:405][828]LogInit: FAudioDevice initialized with ID 50.
+[2023.11.27-17.06.18:405][828]LogAudio: Display: Audio Device (ID: 50) registered with world 'Testing'.
+[2023.11.27-17.06.18:405][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2023.11.27-17.06.18:444][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.18:650][828]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-17.06.18:652][828]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-09.06.18
+[2023.11.27-17.06.18:652][828]LogWorld: Bringing up level for play took: 0.001444
+[2023.11.27-17.06.18:654][828]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2023.11.27-17.06.18:669][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.18:669][828]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-17.06.18:712][828]PIE: Server logged in
+[2023.11.27-17.06.18:716][828]PIE: Play in editor total start time 0.361 seconds.
+[2023.11.27-17.06.18:723][828]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-17.06.18:731][829]LogHttp: Warning: 00000662BD95F500: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-17.06.18:731][829]LogHttp: Warning: 00000662BD95F500: libcurl info message cache 0 (Couldn't open file C:\Users\macap\dfs)
+[2023.11.27-17.06.18:731][829]LogHttp: Warning: 00000662BD95F500: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-17.06.20:843][233]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.06.20:843][233]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-17.06.20:843][233]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.06.27:474][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.27:474][654]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.06.27:474][654]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.06.28:419][842]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.06.28:419][842]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.06.28:942][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.28:942][951]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.06.28:942][951]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.06.29:953][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.29:953][150]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.06.29:969][150]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-17.06.29:974][150]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.06.29:974][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.06.29:977][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-17.06.29:983][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.06.30:014][150]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2023.11.27-17.06.30:014][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2023.11.27-17.06.30:016][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2023.11.27-17.06.30:023][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.27-17.06.30:047][151]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2023.11.27-17.06.30:946][205]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-17.06.30:954][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-17.06.30:954][205]PIE: New page: PIE session: Testing (Nov. 27, 2023, 1:06:30 a.m.)
+[2023.11.27-17.06.30:954][205]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.06.30:958][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003278s)
+[2023.11.27-17.06.30:958][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003311s)
+[2023.11.27-17.06.30:958][205]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.06.30:958][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.06.30:958][205]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-17.06.30:959][205]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2023.11.27-17.06.30:984][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.27-17.06.30:985][205]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2023.11.27-17.06.30:985][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-17.06.30:985][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-17.06.30:985][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-17.06.30:985][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-17.06.30:985][205]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-17.06.30:985][205]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-17.06.30:985][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-17.06.30:985][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-17.06.30:986][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-17.06.30:986][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-17.06.30:986][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-17.06.30:988][205]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-17.06.30:999][205]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-17.06.30:999][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-17.06.30:999][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-17.06.30:999][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-17.06.31:000][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2023.11.27-17.06.31:000][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2023.11.27-17.06.31:002][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2023.11.27-17.06.31:002][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2023.11.27-17.06.31:002][205]LogInit: FAudioDevice initialized with ID 51.
+[2023.11.27-17.06.31:002][205]LogAudio: Display: Audio Device (ID: 51) registered with world 'Testing'.
+[2023.11.27-17.06.31:002][205]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2023.11.27-17.06.31:042][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.31:233][205]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-17.06.31:235][205]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-09.06.31
+[2023.11.27-17.06.31:235][205]LogWorld: Bringing up level for play took: 0.001487
+[2023.11.27-17.06.31:237][205]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2023.11.27-17.06.31:250][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.31:250][205]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-17.06.31:358][205]PIE: Server logged in
+[2023.11.27-17.06.31:362][205]PIE: Play in editor total start time 0.408 seconds.
+[2023.11.27-17.06.31:369][205]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-17.06.31:378][206]LogHttp: Warning: 00000662BBED7D00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-17.06.31:378][206]LogHttp: Warning: 00000662BBED7D00: libcurl info message cache 0 (Couldn't open file C:\Us)
+[2023.11.27-17.06.31:378][206]LogHttp: Warning: 00000662BBED7D00: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-17.06.33:494][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.34:015][724]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.06.34:015][724]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-17.06.34:015][724]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.06.38:756][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.38:756][739]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.06.38:756][739]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.06.39:114][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.39:295][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.39:522][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.40:058][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.40:371][ 65]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.06.40:371][ 65]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.06.40:684][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.40:684][132]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.06.40:684][132]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.06.40:991][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.41:473][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.41:473][292]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.06.41:491][292]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-17.06.41:496][292]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.06.41:496][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.06.41:498][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-17.06.41:504][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.06.41:534][292]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2023.11.27-17.06.41:534][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2023.11.27-17.06.41:536][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2023.11.27-17.06.41:543][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.27-17.06.41:563][293]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2023.11.27-17.06.42:314][338]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-17.06.42:322][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-17.06.42:322][338]PIE: New page: PIE session: Testing (Nov. 27, 2023, 1:06:42 a.m.)
+[2023.11.27-17.06.42:322][338]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.06.42:325][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003104s)
+[2023.11.27-17.06.42:325][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003139s)
+[2023.11.27-17.06.42:326][338]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.06.42:326][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.06.42:326][338]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-17.06.42:326][338]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2023.11.27-17.06.42:352][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.27-17.06.42:354][338]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2023.11.27-17.06.42:354][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-17.06.42:354][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-17.06.42:354][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-17.06.42:354][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-17.06.42:354][338]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-17.06.42:354][338]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-17.06.42:354][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-17.06.42:354][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-17.06.42:354][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-17.06.42:354][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-17.06.42:354][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-17.06.42:356][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-17.06.42:369][338]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-17.06.42:369][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-17.06.42:369][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-17.06.42:369][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-17.06.42:369][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2023.11.27-17.06.42:369][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2023.11.27-17.06.42:371][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2023.11.27-17.06.42:371][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2023.11.27-17.06.42:371][338]LogInit: FAudioDevice initialized with ID 52.
+[2023.11.27-17.06.42:371][338]LogAudio: Display: Audio Device (ID: 52) registered with world 'Testing'.
+[2023.11.27-17.06.42:371][338]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2023.11.27-17.06.42:410][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.42:602][338]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-17.06.42:603][338]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-09.06.42
+[2023.11.27-17.06.42:604][338]LogWorld: Bringing up level for play took: 0.001440
+[2023.11.27-17.06.42:606][338]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2023.11.27-17.06.42:620][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.42:620][338]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-17.06.42:668][338]PIE: Server logged in
+[2023.11.27-17.06.42:672][338]PIE: Play in editor total start time 0.349 seconds.
+[2023.11.27-17.06.42:678][338]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-17.06.42:688][339]LogHttp: Warning: 00000662E029E600: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-17.06.42:688][339]LogHttp: Warning: 00000662E029E600: libcurl info message cache 0 (Couldn't open file C:\Us)
+[2023.11.27-17.06.42:688][339]LogHttp: Warning: 00000662E029E600: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-17.06.42:799][349]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.06.42:799][349]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-17.06.42:799][349]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.06.43:474][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.43:474][493]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.06.43:474][493]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.06.45:443][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.06.45:443][880]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.06.45:461][880]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-17.06.45:467][880]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.06.45:467][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.06.45:470][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-17.06.45:476][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.06.45:504][880]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2023.11.27-17.06.45:505][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2023.11.27-17.06.45:506][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2023.11.27-17.06.45:514][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.27-17.06.45:534][881]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2023.11.27-17.07.09:398][309]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-17.07.09:406][309]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-17.07.09:709][309]LogPlayLevel: [PlayLevel] Compiling LA-GameInstance before play...
+[2023.11.27-17.07.09:826][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.07.09:885][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/LA-GameInstance" FILE="../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LA-GameInstance.uasset" SILENT=true
+[2023.11.27-17.07.09:907][309]LogSavePackage: Moving output files for package: /Game/Misc/LA-GameInstance
+[2023.11.27-17.07.09:908][309]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/LA-GameInstance5CB6D9824FE8B30DFCF080B50550A01D.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Misc/LA-GameInstance.uasset'
+[2023.11.27-17.07.09:917][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 5.25 sec)
+[2023.11.27-17.07.09:948][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.11.27-17.07.09:956][309]LogPlayLevel: PlayLevel: Blueprint regeneration took 550 ms (1 blueprints)
+[2023.11.27-17.07.09:956][309]PIE: New page: PIE session: Testing (Nov. 27, 2023, 1:07:09 a.m.)
+[2023.11.27-17.07.09:956][309]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.07.09:960][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003203s)
+[2023.11.27-17.07.09:960][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003266s)
+[2023.11.27-17.07.09:960][309]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.07.09:960][309]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.07.09:961][309]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-17.07.09:961][309]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2023.11.27-17.07.09:986][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.27-17.07.09:988][309]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2023.11.27-17.07.09:988][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-17.07.09:988][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-17.07.09:988][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-17.07.09:988][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-17.07.09:988][309]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-17.07.09:988][309]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-17.07.09:988][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-17.07.09:988][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-17.07.09:988][309]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-17.07.09:988][309]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-17.07.09:988][309]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-17.07.09:990][309]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-17.07.10:003][309]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-17.07.10:003][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-17.07.10:003][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-17.07.10:003][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-17.07.10:003][309]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2023.11.27-17.07.10:003][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2023.11.27-17.07.10:005][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2023.11.27-17.07.10:005][309]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2023.11.27-17.07.10:005][309]LogInit: FAudioDevice initialized with ID 53.
+[2023.11.27-17.07.10:005][309]LogAudio: Display: Audio Device (ID: 53) registered with world 'Testing'.
+[2023.11.27-17.07.10:005][309]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2023.11.27-17.07.10:032][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.07.10:234][309]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-17.07.10:235][309]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-09.07.10
+[2023.11.27-17.07.10:236][309]LogWorld: Bringing up level for play took: 0.001606
+[2023.11.27-17.07.10:238][309]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2023.11.27-17.07.10:297][309]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-17.07.10:300][309]PIE: Server logged in
+[2023.11.27-17.07.10:301][309]PIE: Play in editor total start time 0.895 seconds.
+[2023.11.27-17.07.10:307][309]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-17.07.10:316][310]LogHttp: Warning: 00000662CA0D8C00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-17.07.10:316][310]LogHttp: Warning: 00000662CA0D8C00: libcurl info message cache 0 (Couldn't open file C:\Us)
+[2023.11.27-17.07.10:316][310]LogHttp: Warning: 00000662CA0D8C00: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-17.07.10:325][310]AssetCheck: New page: Asset Save: LA-GameInstance
+[2023.11.27-17.07.10:325][310]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/LA-GameInstance.LA-GameInstance
+[2023.11.27-17.07.11:879][604]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.07.11:880][604]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-17.07.11:880][604]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.07.17:360][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.07.17:360][778]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.07.17:360][778]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.07.18:922][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.07.19:434][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.07.19:434][204]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.07.19:474][204]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-17.07.19:478][204]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.07.19:478][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.07.19:481][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-17.07.19:487][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.07.19:516][204]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2023.11.27-17.07.19:516][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2023.11.27-17.07.19:518][204]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2023.11.27-17.07.19:524][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.27-17.07.19:549][205]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2023.11.27-17.07.20:440][258]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-17.07.20:447][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-17.07.20:447][258]PIE: New page: PIE session: Testing (Nov. 27, 2023, 1:07:20 a.m.)
+[2023.11.27-17.07.20:447][258]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.07.20:451][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002948s)
+[2023.11.27-17.07.20:451][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.002978s)
+[2023.11.27-17.07.20:451][258]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.07.20:451][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.07.20:451][258]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-17.07.20:452][258]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2023.11.27-17.07.20:478][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.11.27-17.07.20:479][258]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2023.11.27-17.07.20:479][258]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-17.07.20:479][258]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-17.07.20:479][258]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-17.07.20:479][258]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-17.07.20:479][258]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-17.07.20:479][258]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-17.07.20:479][258]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-17.07.20:479][258]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-17.07.20:480][258]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-17.07.20:480][258]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-17.07.20:480][258]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-17.07.20:483][258]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-17.07.20:494][258]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-17.07.20:494][258]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-17.07.20:494][258]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-17.07.20:494][258]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-17.07.20:495][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2023.11.27-17.07.20:495][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2023.11.27-17.07.20:497][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2023.11.27-17.07.20:497][258]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2023.11.27-17.07.20:497][258]LogInit: FAudioDevice initialized with ID 54.
+[2023.11.27-17.07.20:497][258]LogAudio: Display: Audio Device (ID: 54) registered with world 'Testing'.
+[2023.11.27-17.07.20:497][258]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2023.11.27-17.07.20:537][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.07.20:722][258]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-17.07.20:724][258]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-09.07.20
+[2023.11.27-17.07.20:724][258]LogWorld: Bringing up level for play took: 0.001731
+[2023.11.27-17.07.20:726][258]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2023.11.27-17.07.20:780][258]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-17.07.20:783][258]PIE: Server logged in
+[2023.11.27-17.07.20:786][258]PIE: Play in editor total start time 0.339 seconds.
+[2023.11.27-17.07.20:792][258]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-17.07.20:802][259]LogHttp: Warning: 00000662C902B900: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-17.07.20:802][259]LogHttp: Warning: 00000662C902B900: libcurl info message cache 0 (Couldn't open file C:\Users\mac)
+[2023.11.27-17.07.20:802][259]LogHttp: Warning: 00000662C902B900: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-17.07.21:081][300]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.07.21:081][300]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-17.07.21:081][300]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.07.21:782][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.07.21:782][447]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.07.21:782][447]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.07.25:701][206]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.07.25:701][206]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.07.27:094][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.07.27:094][506]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.07.27:113][506]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-17.07.27:119][506]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.07.27:119][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.07.27:122][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-17.07.27:127][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.07.27:161][506]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2023.11.27-17.07.27:161][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.11.27-17.07.27:163][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2023.11.27-17.07.27:170][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.27-17.07.27:192][507]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2023.11.27-17.07.34:263][929]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.07.34:263][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.07.34:272][929]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.07.34:272][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.07.35:841][ 21]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.07.35:841][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.07.36:649][ 63]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.07.36:649][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.07.48:099][747]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.27-17.07.48:100][747]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.07.48:100][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.07.54:452][123]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.InformationImageTemplate
+[2023.11.27-17.07.54:452][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.07.54:452][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.07.54:458][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.07.54:458][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.07.57:433][291]LogSlate: Took 0.007783 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.11.27-17.08.10:063][ 29]BlueprintLog: New page: Compile InformationImageTemplate
+[2023.11.27-17.08.10:123][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.27-17.08.10:192][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.08.10:270][ 29]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate
+[2023.11.27-17.08.10:270][ 29]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/InformationImageTemplate9BBD81254F8529B04BDD3A849A75A774.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.uasset'
+[2023.11.27-17.08.10:283][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 5.34 sec)
+[2023.11.27-17.08.10:291][ 29]AssetCheck: New page: Asset Save: InformationImageTemplate
+[2023.11.27-17.08.10:291][ 29]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.InformationImageTemplate
+[2023.11.27-17.08.10:884][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.08.10:953][ 59]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate
+[2023.11.27-17.08.10:954][ 59]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/InformationImageTemplate974DE5094E4D970506076E81A727E1C6.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.uasset'
+[2023.11.27-17.08.10:963][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 5.42 sec)
+[2023.11.27-17.08.10:971][ 59]AssetCheck: New page: Asset Save: InformationImageTemplate
+[2023.11.27-17.08.10:971][ 59]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.InformationImageTemplate
+[2023.11.27-17.08.36:851][607]BlueprintLog: New page: Compile InformationImageTemplate
+[2023.11.27-17.08.36:911][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.27-17.08.36:979][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.08.37:068][607]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate
+[2023.11.27-17.08.37:068][607]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/InformationImageTemplateE89439E94F1A3946EBDB6BA29BD93B94.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.uasset'
+[2023.11.27-17.08.37:076][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 5.52 sec)
+[2023.11.27-17.08.37:085][607]AssetCheck: New page: Asset Save: InformationImageTemplate
+[2023.11.27-17.08.37:085][607]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.InformationImageTemplate
+[2023.11.27-17.08.37:422][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.08.37:493][624]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate
+[2023.11.27-17.08.37:494][624]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/InformationImageTemplateA485175A415FF68A3D76BD81986A8A47.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.uasset'
+[2023.11.27-17.08.37:505][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 5.60 sec)
+[2023.11.27-17.08.37:512][624]AssetCheck: New page: Asset Save: InformationImageTemplate
+[2023.11.27-17.08.37:512][624]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.InformationImageTemplate
+[2023.11.27-17.08.46:641][146]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-17.08.46:648][146]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.27-17.08.46:652][146]LogPlayLevel: [PlayLevel] Compiling InformationImageTemplate before play...
+[2023.11.27-17.08.46:746][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.08.46:826][146]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate
+[2023.11.27-17.08.46:827][146]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/InformationImageTemplateEA3047C74C97C3C5140FFD8D18A4ADB6.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.uasset'
+[2023.11.27-17.08.46:836][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 5.69 sec)
+[2023.11.27-17.08.46:864][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.27-17.08.46:869][146]LogPlayLevel: PlayLevel: Blueprint regeneration took 220 ms (1 blueprints)
+[2023.11.27-17.08.46:869][146]PIE: New page: PIE session: Testing (Nov. 27, 2023, 1:08:46 a.m.)
+[2023.11.27-17.08.46:869][146]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.08.46:872][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003030s)
+[2023.11.27-17.08.46:872][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003062s)
+[2023.11.27-17.08.46:872][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.08.46:872][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.08.46:873][146]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-17.08.46:873][146]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2023.11.27-17.08.46:900][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.11.27-17.08.46:901][146]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2023.11.27-17.08.46:901][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-17.08.46:901][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-17.08.46:901][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-17.08.46:901][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-17.08.46:901][146]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-17.08.46:901][146]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-17.08.46:901][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-17.08.46:901][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-17.08.46:901][146]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-17.08.46:902][146]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-17.08.46:902][146]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-17.08.46:904][146]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-17.08.46:915][146]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-17.08.46:915][146]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-17.08.46:915][146]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-17.08.46:915][146]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-17.08.46:917][146]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2023.11.27-17.08.46:917][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2023.11.27-17.08.46:918][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2023.11.27-17.08.46:918][146]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2023.11.27-17.08.46:918][146]LogInit: FAudioDevice initialized with ID 55.
+[2023.11.27-17.08.46:918][146]LogAudio: Display: Audio Device (ID: 55) registered with world 'Testing'.
+[2023.11.27-17.08.46:918][146]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2023.11.27-17.08.46:947][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.08.47:142][146]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-17.08.47:144][146]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-09.08.47
+[2023.11.27-17.08.47:144][146]LogWorld: Bringing up level for play took: 0.001636
+[2023.11.27-17.08.47:146][146]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2023.11.27-17.08.47:203][146]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-17.08.47:205][146]PIE: Server logged in
+[2023.11.27-17.08.47:207][146]PIE: Play in editor total start time 0.558 seconds.
+[2023.11.27-17.08.47:211][146]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-17.08.47:222][147]LogHttp: Warning: 00000662EEAFB900: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-17.08.47:222][147]LogHttp: Warning: 00000662EEAFB900: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Downloads\Map.jpg)
+[2023.11.27-17.08.47:222][147]LogHttp: Warning: 00000662EEAFB900: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-17.08.47:232][147]AssetCheck: New page: Asset Save: InformationImageTemplate
+[2023.11.27-17.08.47:232][147]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.InformationImageTemplate
+[2023.11.27-17.08.48:351][354]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.08.48:351][354]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-17.08.48:352][354]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.08.49:880][694]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.08.50:307][790]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.08.50:355][801]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.08.50:394][810]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.08.50:573][850]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.08.50:704][880]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.08.50:913][927]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.08.51:550][ 71]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.08.52:642][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.08.52:642][317]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.08.52:642][317]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.08.53:313][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.08.53:313][455]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.08.53:393][455]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-17.08.53:398][455]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.08.53:398][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.08.53:401][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-17.08.53:406][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.08.53:436][455]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2023.11.27-17.08.53:437][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2023.11.27-17.08.53:438][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2023.11.27-17.08.53:445][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.27-17.08.53:471][456]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2023.11.27-17.08.54:093][493]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-17.08.54:100][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-17.08.54:100][493]PIE: New page: PIE session: Testing (Nov. 27, 2023, 1:08:54 a.m.)
+[2023.11.27-17.08.54:100][493]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.08.54:103][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003041s)
+[2023.11.27-17.08.54:103][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003071s)
+[2023.11.27-17.08.54:103][493]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.08.54:103][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.08.54:104][493]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-17.08.54:104][493]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2023.11.27-17.08.54:130][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.27-17.08.54:131][493]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.11.27-17.08.54:131][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-17.08.54:131][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-17.08.54:131][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-17.08.54:131][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-17.08.54:131][493]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-17.08.54:131][493]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-17.08.54:131][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-17.08.54:131][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-17.08.54:132][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-17.08.54:132][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-17.08.54:132][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-17.08.54:134][493]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-17.08.54:146][493]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-17.08.54:146][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-17.08.54:146][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-17.08.54:146][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-17.08.54:146][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2023.11.27-17.08.54:147][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2023.11.27-17.08.54:149][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2023.11.27-17.08.54:149][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2023.11.27-17.08.54:149][493]LogInit: FAudioDevice initialized with ID 56.
+[2023.11.27-17.08.54:149][493]LogAudio: Display: Audio Device (ID: 56) registered with world 'Testing'.
+[2023.11.27-17.08.54:149][493]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2023.11.27-17.08.54:188][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.08.54:382][493]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-17.08.54:383][493]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-09.08.54
+[2023.11.27-17.08.54:384][493]LogWorld: Bringing up level for play took: 0.001469
+[2023.11.27-17.08.54:386][493]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2023.11.27-17.08.54:432][493]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-17.08.54:437][493]PIE: Server logged in
+[2023.11.27-17.08.54:439][493]PIE: Play in editor total start time 0.34 seconds.
+[2023.11.27-17.08.54:447][493]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-17.08.54:458][494]LogHttp: Warning: 0000066294D66E00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-17.08.54:458][494]LogHttp: Warning: 0000066294D66E00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Downloads\Map.jpg)
+[2023.11.27-17.08.54:458][494]LogHttp: Warning: 0000066294D66E00: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-17.08.56:473][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.08.56:473][855]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.08.56:492][855]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-17.08.56:497][855]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.08.56:498][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.08.56:501][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-17.08.56:507][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.08.56:535][855]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2023.11.27-17.08.56:535][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.11.27-17.08.56:537][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.11.27-17.08.56:545][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.11.27-17.08.56:568][856]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2023.11.27-17.10.00:022][308]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/InformationPoint.InformationPoint
+[2023.11.27-17.10.00:022][308]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.10.00:022][308]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.10.17:094][321]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/InformationPoint/InformationPointWidget.InformationPointWidget
+[2023.11.27-17.10.17:094][321]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.10.17:095][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.10.17:104][321]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.10.17:104][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.11.44:366][447]BlueprintLog: New page: Compile InformationImageTemplate
+[2023.11.27-17.11.44:604][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.27-17.11.44:677][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.11.44:765][447]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate
+[2023.11.27-17.11.44:766][447]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/InformationImageTemplate470409E644F702D167454DBE0ACE605A.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.uasset'
+[2023.11.27-17.11.44:777][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 5.79 sec)
+[2023.11.27-17.11.44:783][447]AssetCheck: New page: Asset Save: InformationImageTemplate
+[2023.11.27-17.11.44:783][447]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.InformationImageTemplate
+[2023.11.27-17.11.44:922][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.11.44:998][448]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate
+[2023.11.27-17.11.44:999][448]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/InformationImageTemplate31AD7324414F0E38515A2684DD5E50E2.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.uasset'
+[2023.11.27-17.11.45:008][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.88 sec)
+[2023.11.27-17.11.45:016][448]AssetCheck: New page: Asset Save: InformationImageTemplate
+[2023.11.27-17.11.45:016][448]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.InformationImageTemplate
+[2023.11.27-17.11.46:821][556]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-17.11.46:828][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-17.11.46:828][556]PIE: New page: PIE session: Testing (Nov. 27, 2023, 1:11:46 a.m.)
+[2023.11.27-17.11.46:829][556]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.11.46:831][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003030s)
+[2023.11.27-17.11.46:831][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003064s)
+[2023.11.27-17.11.46:831][556]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.11.46:831][556]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.11.46:833][556]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-17.11.46:833][556]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2023.11.27-17.11.46:862][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.11.27-17.11.46:865][556]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2023.11.27-17.11.46:865][556]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-17.11.46:865][556]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-17.11.46:865][556]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-17.11.46:865][556]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-17.11.46:865][556]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-17.11.46:865][556]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-17.11.46:865][556]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-17.11.46:865][556]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-17.11.46:866][556]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-17.11.46:866][556]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-17.11.46:866][556]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-17.11.46:868][556]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-17.11.46:879][556]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-17.11.46:879][556]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-17.11.46:879][556]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-17.11.46:879][556]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-17.11.46:880][556]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2023.11.27-17.11.46:880][556]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2023.11.27-17.11.46:882][556]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2023.11.27-17.11.46:882][556]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2023.11.27-17.11.46:882][556]LogInit: FAudioDevice initialized with ID 57.
+[2023.11.27-17.11.46:882][556]LogAudio: Display: Audio Device (ID: 57) registered with world 'Testing'.
+[2023.11.27-17.11.46:882][556]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2023.11.27-17.11.46:910][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.11.47:099][556]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-17.11.47:100][556]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-09.11.47
+[2023.11.27-17.11.47:100][556]LogWorld: Bringing up level for play took: 0.001202
+[2023.11.27-17.11.47:103][556]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2023.11.27-17.11.47:150][556]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-17.11.47:155][556]PIE: Server logged in
+[2023.11.27-17.11.47:158][556]PIE: Play in editor total start time 0.329 seconds.
+[2023.11.27-17.11.47:165][556]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-17.11.47:175][557]LogHttp: Warning: 00000662D10BDC00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-17.11.47:175][557]LogHttp: Warning: 00000662D10BDC00: libcurl info message cache 0 (Couldn't open file /sdfsd)
+[2023.11.27-17.11.47:175][557]LogHttp: Warning: 00000662D10BDC00: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-17.11.48:755][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.11.49:450][966]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.27-17.11.49:450][966]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.11.27-17.11.49:450][966]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.11.27-17.11.50:937][284]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.11.51:675][444]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.11.52:761][680]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.11.53:331][805]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.11.53:436][828]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.11.53:528][848]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.11.53:628][870]LogBlueprintUserMessages: [InformationImageTemplate_C_0] Hello
+[2023.11.27-17.11.54:794][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.11.54:794][123]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.27-17.11.54:794][123]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.11.27-17.11.55:965][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.11.55:965][336]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.11.55:983][336]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-17.11.55:988][336]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.11.55:988][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.11.55:991][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-17.11.55:998][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.11.56:029][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.27-17.11.56:029][336]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2023.11.27-17.11.56:029][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2023.11.27-17.11.56:031][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2023.11.27-17.11.56:037][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.27-17.11.56:061][337]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2023.11.27-17.11.56:744][378]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.11.27-17.11.56:751][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.27-17.11.56:751][378]PIE: New page: PIE session: Testing (Nov. 27, 2023, 1:11:56 a.m.)
+[2023.11.27-17.11.56:751][378]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.11.56:754][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002921s)
+[2023.11.27-17.11.56:754][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.002950s)
+[2023.11.27-17.11.56:754][378]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.27-17.11.56:754][378]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.27-17.11.56:755][378]LogAIModule: Creating AISystem for world Testing
+[2023.11.27-17.11.56:755][378]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2023.11.27-17.11.56:782][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.11.27-17.11.56:783][378]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2023.11.27-17.11.56:783][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.27-17.11.56:783][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.27-17.11.56:783][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.27-17.11.56:783][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.27-17.11.56:783][378]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.27-17.11.56:783][378]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.27-17.11.56:783][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.27-17.11.56:783][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.27-17.11.56:784][378]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.27-17.11.56:784][378]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.27-17.11.56:784][378]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.27-17.11.56:785][378]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.27-17.11.56:797][378]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.11.27-17.11.56:797][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.27-17.11.56:797][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.27-17.11.56:797][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.27-17.11.56:798][378]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2023.11.27-17.11.56:798][378]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2023.11.27-17.11.56:800][378]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2023.11.27-17.11.56:800][378]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2023.11.27-17.11.56:800][378]LogInit: FAudioDevice initialized with ID 58.
+[2023.11.27-17.11.56:800][378]LogAudio: Display: Audio Device (ID: 58) registered with world 'Testing'.
+[2023.11.27-17.11.56:800][378]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2023.11.27-17.11.56:840][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.11.57:025][378]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.27-17.11.57:027][378]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.11.27-09.11.57
+[2023.11.27-17.11.57:027][378]LogWorld: Bringing up level for play took: 0.001372
+[2023.11.27-17.11.57:029][378]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2023.11.27-17.11.57:108][378]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.27-17.11.57:113][378]PIE: Server logged in
+[2023.11.27-17.11.57:116][378]PIE: Play in editor total start time 0.365 seconds.
+[2023.11.27-17.11.57:122][378]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.11.27-17.11.57:132][379]LogHttp: Warning: 00000662D4B84B00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.11.27-17.11.57:132][379]LogHttp: Warning: 00000662D4B84B00: libcurl info message cache 0 (Couldn't open file /C:test)
+[2023.11.27-17.11.57:132][379]LogHttp: Warning: 00000662D4B84B00: libcurl info message cache 1 (Closing connection -1)
+[2023.11.27-17.11.58:335][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.27-17.11.58:335][586]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.11.27-17.11.58:350][586]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.11.27-17.11.58:355][586]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-17.11.58:355][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.11.58:357][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.27-17.11.58:364][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-17.11.58:392][586]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2023.11.27-17.11.58:392][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2023.11.27-17.11.58:394][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2023.11.27-17.11.58:402][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.11.27-17.11.58:424][587]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2023.11.27-17.12.02:638][837]BlueprintLog: New page: Compile InformationImageTemplate
+[2023.11.27-17.12.02:685][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.11.27-17.12.02:762][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.12.02:849][837]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate
+[2023.11.27-17.12.02:849][837]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/InformationImageTemplateAD33C84744E6D161EFF9C9A999ACD0CE.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.uasset'
+[2023.11.27-17.12.02:861][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 5.98 sec)
+[2023.11.27-17.12.02:868][837]AssetCheck: New page: Asset Save: InformationImageTemplate
+[2023.11.27-17.12.02:868][837]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.InformationImageTemplate
+[2023.11.27-17.12.03:292][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.12.03:363][855]LogSavePackage: Moving output files for package: /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate
+[2023.11.27-17.12.03:364][855]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/InformationImageTemplate707D81564ADD481B16DCFD945AA66889.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.uasset'
+[2023.11.27-17.12.03:374][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 6.06 sec)
+[2023.11.27-17.12.03:382][855]AssetCheck: New page: Asset Save: InformationImageTemplate
+[2023.11.27-17.12.03:382][855]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/InformationPoint/PanelTypes/InformationImageTemplate.InformationImageTemplate
+[2023.11.27-17.12.17:012][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.12.17:091][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.27-17.12.17:109][671]LogSavePackage: Moving output files for package: /Game/Levels/Testing
+[2023.11.27-17.12.17:109][671]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Testing1B0D292C47790DBD8B5397A56BD901C0.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Levels/Testing.umap'
+[2023.11.27-17.12.17:117][671]LogFileHelpers: Saving map 'Testing' took 0.055
+[2023.11.27-17.12.17:126][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 6.17 sec)
+[2023.11.27-17.12.17:134][671]AssetCheck: New page: Asset Save: Testing
+[2023.11.27-17.12.17:134][671]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Testing.Testing
+[2023.11.27-17.12.21:011][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.27-17.12.21:086][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.27-17.12.21:100][904]LogSavePackage: Moving output files for package: /Game/Levels/Testing
+[2023.11.27-17.12.21:100][904]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Saved/Testing0DED94714AED57630CAB299836439B14.tmp' to '../../../../../../Users/300339869/Documents/GitHub/CultureQuest/Project2Prototype/Content/Levels/Testing.umap'
+[2023.11.27-17.12.21:108][904]LogFileHelpers: Saving map 'Testing' took 0.049
+[2023.11.27-17.12.21:117][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 6.28 sec)
+[2023.11.27-17.12.21:125][904]AssetCheck: New page: Asset Save: Testing
+[2023.11.27-17.12.21:125][904]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Testing.Testing
