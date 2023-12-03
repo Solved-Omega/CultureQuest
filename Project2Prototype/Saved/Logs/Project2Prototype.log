@@ -5098,3 +5098,756 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.18-00.59.14:333][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2023.12.18-00.59.14:339][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
 [2023.12.18-00.59.14:358][990]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.12.18-00.59.41:812][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.18-00.59.41:826][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lobby" FILE="../../../../Download/CultureQuerst/Project2Prototype/Saved/Autosaves/Game/Levels/Lobby_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.12.18-00.59.41:835][349]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Lobby_Auto1
+[2023.12.18-00.59.41:835][349]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Lobby_Auto187554840408A8412A0D011A87E6F7666.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Saved/Autosaves/Game/Levels/Lobby_Auto1.umap'
+[2023.12.18-00.59.41:842][349]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lobby' took 0.049
+[2023.12.18-00.59.41:842][349]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2023.12.18-01.01.16:126][244]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.12.18-01.01.16:132][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.18-01.01.16:132][244]PIE: New page: PIE session: Lobby (Dec 17, 2023, 9:01:16 AM)
+[2023.12.18-01.01.16:133][244]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2023.12.18-01.01.16:134][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001753s)
+[2023.12.18-01.01.16:134][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.001789s)
+[2023.12.18-01.01.16:134][244]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.01.16:134][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.01.16:135][244]LogAIModule: Creating AISystem for world Lobby
+[2023.12.18-01.01.16:136][244]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2023.12.18-01.01.16:154][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.12.18-01.01.16:155][244]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.12.18-01.01.16:155][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.18-01.01.16:155][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.18-01.01.16:155][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.18-01.01.16:155][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.18-01.01.16:155][244]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.18-01.01.16:155][244]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.18-01.01.16:155][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.18-01.01.16:155][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.18-01.01.16:155][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.18-01.01.16:155][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.18-01.01.16:155][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.18-01.01.16:157][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.18-01.01.16:172][244]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.12.18-01.01.16:173][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.18-01.01.16:173][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.18-01.01.16:173][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.18-01.01.16:173][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.12.18-01.01.16:173][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.12.18-01.01.16:175][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.12.18-01.01.16:175][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.12.18-01.01.16:175][244]LogInit: FAudioDevice initialized with ID 6.
+[2023.12.18-01.01.16:175][244]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lobby'.
+[2023.12.18-01.01.16:175][244]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.12.18-01.01.16:189][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-01.01.16:372][244]LogLoad: Game class is 'Gamemode_PC_C'
+[2023.12.18-01.01.16:373][244]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2023.12.17-17.01.16
+[2023.12.18-01.01.16:373][244]LogWorld: Bringing up level for play took: 0.000816
+[2023.12.18-01.01.16:375][244]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.12.18-01.01.16:377][244]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Testing.sav' error.
+[2023.12.18-01.01.16:378][244]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2023.12.18-01.01.16:378][244]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.18-01.01.16:378][244]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.12.18-01.01.16:378][244]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.18-01.01.16:378][244]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2023.12.18-01.01.16:378][244]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Instructor.sav' error.
+[2023.12.18-01.01.16:378][244]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2023.12.18-01.01.16:428][244]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.18-01.01.16:428][244]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.18-01.01.16:437][244]PIE: Server logged in
+[2023.12.18-01.01.16:442][244]PIE: Play in editor total start time 0.309 seconds.
+[2023.12.18-01.01.16:447][244]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.12.18-01.01.17:165][457]LogNet: Browse: /Game/Levels/IrvingHouse??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2023.12.18-01.01.17:165][457]LogLoad: LoadMap: /Game/Levels/IrvingHouse??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2023.12.18-01.01.17:165][457]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2023.12.18-01.01.17:166][457]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-01.01.17:166][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.01.17:213][457]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.18-01.01.17:214][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.12.18-01.01.17:327][457]LogAudio: Display: Audio Device (ID: 6) registered with world 'IrvingHouse'.
+[2023.12.18-01.01.17:327][457]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.01.17:327][457]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.01.17:328][457]LogAIModule: Creating AISystem for world IrvingHouse
+[2023.12.18-01.01.17:328][457]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2023.12.18-01.01.17:328][457]LogLoad: Game class is 'Gamemode_PC_C'
+[2023.12.18-01.01.17:335][457]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse.IrvingHouse up for play (max tick rate 0) at 2023.12.17-17.01.17
+[2023.12.18-01.01.17:336][457]LogWorld: Bringing up level for play took: 0.007316
+[2023.12.18-01.01.17:348][457]LogLoad: Took 0.183194 seconds to LoadMap(/Game/Levels/IrvingHouse)
+[2023.12.18-01.01.17:361][458]LogHttp: Warning: 0000090CF7698C00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.18-01.01.17:361][458]LogHttp: Warning: 0000090CF7698C00: libcurl info message cache 0 (Couldn't open file C:\Users\300339869\Downloads\irving-house.png)
+[2023.12.18-01.01.17:361][458]LogHttp: Warning: 0000090CF7698C00: libcurl info message cache 1 (Closing connection -1)
+[2023.12.18-01.01.17:361][458]LogHttp: Warning: 0000090CF5FB1E00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.18-01.01.17:361][458]LogHttp: Warning: 0000090CF5FB1E00: libcurl info message cache 0 (Couldn't open file C:\Users\300339869\Downloads\irving-house.png)
+[2023.12.18-01.01.17:361][458]LogHttp: Warning: 0000090CF5FB1E00: libcurl info message cache 1 (Closing connection -1)
+[2023.12.18-01.01.17:841][564]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.18-01.01.17:841][564]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.18-01.01.18:193][658]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.18-01.01.18:193][658]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.18-01.01.18:468][731]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.18-01.01.18:468][731]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.18-01.01.27:792][182]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.18-01.01.27:792][182]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.18-01.01.32:605][482]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.18-01.01.32:605][482]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.18-01.01.33:552][730]LogNet: Browse: /Game/Levels/Lobby
+[2023.12.18-01.01.33:552][730]LogLoad: LoadMap: /Game/Levels/Lobby
+[2023.12.18-01.01.33:552][730]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse
+[2023.12.18-01.01.33:554][730]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-01.01.33:555][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.01.33:598][730]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.18-01.01.33:603][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.18-01.01.33:606][730]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2023.12.18-01.01.33:607][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001673s)
+[2023.12.18-01.01.33:607][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.001732s)
+[2023.12.18-01.01.33:607][730]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lobby'.
+[2023.12.18-01.01.33:607][730]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.01.33:607][730]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.01.33:608][730]LogAIModule: Creating AISystem for world Lobby
+[2023.12.18-01.01.33:608][730]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2023.12.18-01.01.33:608][730]LogLoad: Game class is 'Gamemode_PC_C'
+[2023.12.18-01.01.33:608][730]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2023.12.17-17.01.33
+[2023.12.18-01.01.33:608][730]LogWorld: Bringing up level for play took: 0.000411
+[2023.12.18-01.01.33:610][730]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Testing.sav' error.
+[2023.12.18-01.01.33:610][730]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2023.12.18-01.01.33:611][730]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2023.12.18-01.01.33:611][730]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Instructor.sav' error.
+[2023.12.18-01.01.33:611][730]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2023.12.18-01.01.33:611][730]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.18-01.01.33:611][730]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.18-01.01.33:611][730]LogLoad: Took 0.058852 seconds to LoadMap(/Game/Levels/UEDPIE_0_Lobby)
+[2023.12.18-01.01.35:007][257]Cmd: quit
+[2023.12.18-01.01.35:007][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-01.01.35:007][257]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2023.12.18-01.01.35:043][257]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2023.12.18-01.01.35:077][257]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-01.01.35:077][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.01.35:079][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.18-01.01.35:084][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.01.35:101][257]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.12.18-01.01.35:101][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.12.18-01.01.35:102][257]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.12.18-01.01.35:108][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.12.18-01.01.35:132][258]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.12.18-01.06.44:836][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.06.44:902][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lobby" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.18-01.06.44:924][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.12.18-01.06.44:934][546]LogSavePackage: Moving output files for package: /Game/Levels/Lobby
+[2023.12.18-01.06.44:934][546]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LobbyDDF3F2C647F79E28D65459B5D73FAC54.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Lobby.umap'
+[2023.12.18-01.06.44:940][546]LogFileHelpers: Saving map 'Lobby' took 0.039
+[2023.12.18-01.06.44:953][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 3.21 sec)
+[2023.12.18-01.06.44:960][546]AssetCheck: New page: Asset Save: Lobby
+[2023.12.18-01.06.44:960][546]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Lobby.Lobby
+[2023.12.18-01.06.46:036][672]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.12.18-01.06.46:043][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.18-01.06.46:043][672]PIE: New page: PIE session: Lobby (Dec 17, 2023, 9:06:46 AM)
+[2023.12.18-01.06.46:043][672]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2023.12.18-01.06.46:044][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001691s)
+[2023.12.18-01.06.46:044][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.001723s)
+[2023.12.18-01.06.46:044][672]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.06.46:044][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.06.46:045][672]LogAIModule: Creating AISystem for world Lobby
+[2023.12.18-01.06.46:045][672]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2023.12.18-01.06.46:064][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.12.18-01.06.46:065][672]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.12.18-01.06.46:065][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.18-01.06.46:065][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.18-01.06.46:065][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.18-01.06.46:065][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.18-01.06.46:065][672]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.18-01.06.46:065][672]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.18-01.06.46:065][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.18-01.06.46:065][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.18-01.06.46:066][672]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.18-01.06.46:066][672]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.18-01.06.46:066][672]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.18-01.06.46:068][672]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.18-01.06.46:084][672]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.12.18-01.06.46:084][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.18-01.06.46:084][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.18-01.06.46:084][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.18-01.06.46:085][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.12.18-01.06.46:085][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.12.18-01.06.46:087][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.12.18-01.06.46:087][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.12.18-01.06.46:087][672]LogInit: FAudioDevice initialized with ID 7.
+[2023.12.18-01.06.46:087][672]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lobby'.
+[2023.12.18-01.06.46:087][672]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.12.18-01.06.46:101][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-01.06.46:279][672]LogLoad: Game class is 'Gamemode_PC_C'
+[2023.12.18-01.06.46:280][672]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2023.12.17-17.06.46
+[2023.12.18-01.06.46:281][672]LogWorld: Bringing up level for play took: 0.001382
+[2023.12.18-01.06.46:283][672]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.12.18-01.06.46:285][672]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Testing.sav' error.
+[2023.12.18-01.06.46:285][672]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2023.12.18-01.06.46:285][672]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.18-01.06.46:285][672]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.12.18-01.06.46:285][672]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.18-01.06.46:285][672]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2023.12.18-01.06.46:285][672]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Instructor.sav' error.
+[2023.12.18-01.06.46:285][672]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2023.12.18-01.06.46:336][672]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.18-01.06.46:336][672]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.18-01.06.46:340][672]PIE: Server logged in
+[2023.12.18-01.06.46:342][672]PIE: Play in editor total start time 0.299 seconds.
+[2023.12.18-01.06.46:345][672]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.12.18-01.07.10:341][ 18]LogNet: Browse: /Game/Levels/IrvingHouse??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2023.12.18-01.07.10:341][ 18]LogLoad: LoadMap: /Game/Levels/IrvingHouse??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2023.12.18-01.07.10:341][ 18]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2023.12.18-01.07.10:342][ 18]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-01.07.10:342][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.07.10:394][ 18]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.18-01.07.10:396][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.18-01.07.10:517][ 18]LogAudio: Display: Audio Device (ID: 7) registered with world 'IrvingHouse'.
+[2023.12.18-01.07.10:517][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.07.10:518][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.07.10:518][ 18]LogAIModule: Creating AISystem for world IrvingHouse
+[2023.12.18-01.07.10:518][ 18]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2023.12.18-01.07.10:518][ 18]LogLoad: Game class is 'Gamemode_PC_C'
+[2023.12.18-01.07.10:526][ 18]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse.IrvingHouse up for play (max tick rate 0) at 2023.12.17-17.07.10
+[2023.12.18-01.07.10:526][ 18]LogWorld: Bringing up level for play took: 0.007509
+[2023.12.18-01.07.10:540][ 18]LogLoad: Took 0.198881 seconds to LoadMap(/Game/Levels/IrvingHouse)
+[2023.12.18-01.07.10:557][ 20]LogHttp: Warning: 0000090CF6AB1400: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.18-01.07.10:557][ 20]LogHttp: Warning: 0000090CF6AB1400: libcurl info message cache 0 (Couldn't open file C:\Users\300339869\Downloads\irving-house.png)
+[2023.12.18-01.07.10:557][ 20]LogHttp: Warning: 0000090CF6AB1400: libcurl info message cache 1 (Closing connection -1)
+[2023.12.18-01.07.10:558][ 20]LogHttp: Warning: 0000090CF59AA500: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.18-01.07.10:558][ 20]LogHttp: Warning: 0000090CF59AA500: libcurl info message cache 0 (Couldn't open file C:\Users\300339869\Downloads\irving-house.png)
+[2023.12.18-01.07.10:558][ 20]LogHttp: Warning: 0000090CF59AA500: libcurl info message cache 1 (Closing connection -1)
+[2023.12.18-01.07.27:456][989]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.18-01.07.27:457][989]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.18-01.07.30:397][631]LogNet: Browse: /Game/Levels/IrvingHouse??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2023.12.18-01.07.30:397][631]LogLoad: LoadMap: /Game/Levels/IrvingHouse??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2023.12.18-01.07.30:397][631]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse
+[2023.12.18-01.07.30:399][631]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-01.07.30:400][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.07.30:454][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.18-01.07.30:459][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.18-01.07.30:582][631]LogAudio: Display: Audio Device (ID: 7) registered with world 'IrvingHouse'.
+[2023.12.18-01.07.30:582][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.07.30:582][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.07.30:583][631]LogAIModule: Creating AISystem for world IrvingHouse
+[2023.12.18-01.07.30:583][631]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2023.12.18-01.07.32:286][631]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/MannequinsXR/Animations/A_MannequinsXR_Idle_Right.A_MannequinsXR_Idle_Right
+[2023.12.18-01.07.32:569][631]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.12.18-01.07.33:285][631]LogLoad: Game class is 'Gamemode_VR_C'
+[2023.12.18-01.07.33:291][631]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/MannequinsXR/Animations/A_MannequinsXR_ThumbUp_Right.A_MannequinsXR_ThumbUp_Right
+[2023.12.18-01.07.33:298][631]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/MannequinsXR/Animations/A_MannequinsXR_Grasp_Right.A_MannequinsXR_Grasp_Right
+[2023.12.18-01.07.33:303][631]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/MannequinsXR/Animations/A_MannequinsXR_Point_Right.A_MannequinsXR_Point_Right
+[2023.12.18-01.07.33:308][631]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/MannequinsXR/Animations/A_MannequinsXR_IndexCurl_Right.A_MannequinsXR_IndexCurl_Right
+[2023.12.18-01.07.33:356][631]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse.IrvingHouse up for play (max tick rate 0) at 2023.12.17-17.07.33
+[2023.12.18-01.07.33:357][631]LogWorld: Bringing up level for play took: 0.007638
+[2023.12.18-01.07.33:438][631]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.12.18-01.07.33:439][631]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.12.18-01.07.33:622][631]vr.PixelDensity = "1"
+[2023.12.18-01.07.33:622][631]LogLoad: Took 3.226037 seconds to LoadMap(/Game/Levels/IrvingHouse)
+[2023.12.18-01.07.33:684][631]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.12.18-01.07.33:689][631]LogRenderer: Warning: Resizing VR buffer to 2848 by 1440
+[2023.12.18-01.07.33:691][631]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2023.12.18-01.07.33:715][631]LogSlate: Took 0.003742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.12.18-01.07.33:762][631]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.12.18-01.07.33:791][632]LogHttp: Warning: 0000090CF3D9F500: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.18-01.07.33:791][632]LogHttp: Warning: 0000090CF3D9F500: libcurl info message cache 0 (Couldn't open file C:\Users\300339869\Downloads\irving-house.png)
+[2023.12.18-01.07.33:791][632]LogHttp: Warning: 0000090CF3D9F500: libcurl info message cache 1 (Closing connection -1)
+[2023.12.18-01.07.33:791][632]LogHttp: Warning: 0000090CF3AB6900: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.18-01.07.33:791][632]LogHttp: Warning: 0000090CF3AB6900: libcurl info message cache 0 (Couldn't open file C:\Users\300339869\Downloads\irving-house.png)
+[2023.12.18-01.07.33:791][632]LogHttp: Warning: 0000090CF3AB6900: libcurl info message cache 1 (Closing connection -1)
+[2023.12.18-01.07.33:792][632]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.12.18-01.07.33:809][632]LogShaderCompilers: Display: ================================================
+[2023.12.18-01.07.33:809][632]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.18-01.07.33:809][632]LogShaderCompilers: Display: Total job queries 40, among them cache hits 14 (35.00%)
+[2023.12.18-01.07.33:809][632]LogShaderCompilers: Display: Tracking 26 distinct input hashes that result in 20 distinct outputs (76.92%)
+[2023.12.18-01.07.33:809][632]LogShaderCompilers: Display: RAM used: 812.22 KiB of 1.60 GiB budget. Usage: 0.05%
+[2023.12.18-01.07.33:809][632]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.18-01.07.33:809][632]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.18-01.07.33:809][632]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.12.18-01.07.33:809][632]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.18-01.07.33:809][632]LogShaderCompilers: Display: ================================================
+[2023.12.18-01.07.33:816][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.07.37:437][  3]LogLinker: Warning: Failed to load '/Game/VRTemplate/Input/PMI_VRTemplate': Can't find file.
+[2023.12.18-01.07.37:437][  3]LogLinker: Warning: Failed to load '/Game/VRTemplate/Input/PMI_VRTemplate': Can't find file.
+[2023.12.18-01.07.37:437][  3]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VRTemplate/Input/PMI_VRTemplate.PMI_VRTemplate'
+[2023.12.18-01.07.37:437][  3]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2023.12.18-01.07.40:922][317]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.12.18-01.07.59:662][821]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.12.18-01.08.11:927][844]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.12.18-01.08.53:317][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-01.08.53:317][403]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse
+[2023.12.18-01.08.53:395][403]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2023.12.18-01.08.53:399][403]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-01.08.53:400][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.08.53:403][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.18-01.08.53:408][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.08.53:429][403]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.12.18-01.08.53:429][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.18-01.08.53:431][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.18-01.08.53:440][403]LogSlate: Slate User Unregistered.  User Index 8
+[2023.12.18-01.08.53:440][403]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.12.18-01.08.53:442][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.12.18-01.08.53:552][404]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.12.18-01.09.02:314][443]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.09.02:314][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.09.02:314][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.09.02:319][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.09.02:319][443]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.09.30:216][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.09.30:263][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.09.30:279][758]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.09.30:279][758]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget0D43FFBF43FBDB9002CF53ACF83BA6F0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.09.30:286][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 3.28 sec)
+[2023.12.18-01.09.30:293][758]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.09.30:293][758]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.10.34:278][364]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.10.34:334][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.18-01.10.34:455][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.10.34:505][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.10.34:519][364]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.10.34:519][364]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidgetE1E0332240F450BB52BFEF8658AE1FF7.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.10.34:527][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 3.35 sec)
+[2023.12.18-01.10.34:549][364]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.10.34:549][364]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.10.34:938][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.10.35:013][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.10.35:029][399]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.10.35:030][399]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget99FDD71B434841693BD8D092A604A4EC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.10.35:037][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 3.45 sec)
+[2023.12.18-01.10.35:045][399]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.10.35:045][399]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.10.41:772][193]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.10.41:823][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.12.18-01.10.41:943][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.10.42:008][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.10.42:023][193]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.10.42:023][193]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget6F921C9E4FB35CEE88D16188727401D7.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.10.42:031][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 3.54 sec)
+[2023.12.18-01.10.42:058][193]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.10.42:058][193]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.10.42:373][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.10.42:454][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.10.42:471][220]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.10.42:472][220]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget0666EA2A40F7706B65453CB216791438.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.10.42:481][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 3.65 sec)
+[2023.12.18-01.10.42:489][220]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.10.42:489][220]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.11.08:934][378]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.11.08:985][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.18-01.11.09:624][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.11.09:678][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.11.09:694][428]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.11.09:694][428]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget6D6BF0B245BE1542A33100B39DA97550.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.11.09:701][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 3.73 sec)
+[2023.12.18-01.11.09:708][428]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.11.09:708][428]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.11.54:735][719]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.11.54:786][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.18-01.11.54:891][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.11.54:954][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.11.54:970][719]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.11.54:971][719]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget0FACBC7E440A7E06A21A8EBAB0790A43.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.11.54:978][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 3.81 sec)
+[2023.12.18-01.11.55:003][719]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.11.55:004][719]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.11.55:355][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.11.55:426][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.11.55:442][752]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.11.55:442][752]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget448211B94687BE3E43D9B5BE070B03BE.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.11.55:450][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 3.91 sec)
+[2023.12.18-01.11.55:457][752]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.11.55:457][752]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.12.25:592][354]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.12.25:640][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.18-01.12.25:717][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.12.25:787][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.12.25:803][354]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.12.25:803][354]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget1B63F0804A94EDB1D612C99BBEBBB89F.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.12.25:809][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 4.00 sec)
+[2023.12.18-01.12.25:831][354]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.12.25:831][354]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.12.26:384][408]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.12.26:423][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.12.26:438][408]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.12.26:439][408]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget3FF04FA5406FD9FFBF0C45BC5832414D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.12.26:445][408]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 4.06 sec)
+[2023.12.18-01.12.26:452][408]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.12.26:452][408]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.14.45:887][707]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.18-01.18.52:680][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.12.18-01.18.52:682][469]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lobby' took 0.024
+[2023.12.18-01.18.52:683][469]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/PauseMenu/ControlTypeWidget] ([2] browsable assets)...
+[2023.12.18-01.18.52:687][469]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget]
+[2023.12.18-01.18.52:687][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/PauseMenu/ControlTypeWidget]
+[2023.12.18-01.18.52:704][469]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/PauseMenu/ControlTypeWidget_Auto2
+[2023.12.18-01.18.52:705][469]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget_Auto28E7EBA6F4BAB4186C20AA4B5EE02EEAA.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Saved/Autosaves/Game/Widgets/PauseMenu/ControlTypeWidget_Auto2.uasset'
+[2023.12.18-01.18.52:705][469]LogFileHelpers: Auto-saving content packages took 0.022
+[2023.12.18-01.24.17:147][384]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.24.17:198][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.12.18-01.24.17:305][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.24.17:366][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.24.17:383][384]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.24.17:383][384]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidgetC0FCCD314A6C41C608EEAAA1F96ABC8A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.24.17:390][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 4.15 sec)
+[2023.12.18-01.24.17:418][384]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.24.17:418][384]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.24.17:723][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.24.17:783][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.24.17:800][410]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.24.17:800][410]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget5881F6C248EDCFB174DBDF81EBB0D942.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.24.17:809][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 4.23 sec)
+[2023.12.18-01.24.17:815][410]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.24.17:815][410]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.24.37:461][742]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.24.37:512][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.12.18-01.24.37:614][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.24.37:676][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.24.37:693][742]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.24.37:693][742]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget0A33D44C469CBEC6883D1EB57F1CAA70.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.24.37:700][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 4.32 sec)
+[2023.12.18-01.24.37:726][742]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.24.37:726][742]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.24.38:041][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.24.38:115][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.24.38:131][770]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.24.38:131][770]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidgetE6D5F4DF4B76662CF2DC4EB88F5AD6DF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.24.38:140][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 4.42 sec)
+[2023.12.18-01.24.38:149][770]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.24.38:149][770]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.24.49:450][118]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.24.49:502][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.18-01.24.50:096][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.24.50:145][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.24.50:161][168]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.24.50:161][168]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget5210970546252D3505C01D9D4913CF9C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.24.50:169][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.49 sec)
+[2023.12.18-01.24.50:176][168]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.24.50:176][168]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.25.44:027][615]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.25.44:076][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.12.18-01.25.44:739][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.25.44:793][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.25.44:809][671]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.25.44:809][671]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget7049F0D344B0F3A5DC83E4B0EFD59474.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.25.44:817][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 4.57 sec)
+[2023.12.18-01.25.44:825][671]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.25.44:825][671]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.25.51:716][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.25.51:783][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.25.51:800][481]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.25.51:800][481]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidgetA210EBAE4BBC3C17045CDBA09ECB86EB.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.25.51:807][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 4.66 sec)
+[2023.12.18-01.25.51:816][481]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.25.51:816][481]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.25.52:117][515]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.25.52:172][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.18-01.26.21:812][ 48]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.26.21:865][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.12.18-01.26.22:401][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.26.22:467][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.26.22:482][ 90]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.26.22:482][ 90]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidgetA6DF0C17444127660B53028FC065C050.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.26.22:490][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 4.75 sec)
+[2023.12.18-01.26.22:498][ 90]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.26.22:498][ 90]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.26.26:035][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.26.26:079][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.26.26:095][506]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.26.26:095][506]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidgetAB4935D34594C49A31E3F395167129BE.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.26.26:103][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 4.81 sec)
+[2023.12.18-01.26.26:111][506]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.26.26:111][506]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.26.30:902][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.26.30:959][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.26.30:975][ 73]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.26.30:975][ 73]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidgetF8565F14412D15E8B74CEE97DAD46FDD.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.26.30:984][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 4.90 sec)
+[2023.12.18-01.26.30:991][ 73]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.26.30:991][ 73]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.26.51:375][452]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.26.51:432][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.18-01.26.51:524][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.26.51:592][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.26.51:607][452]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.26.51:607][452]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget665F70F84EAC38A2500DEC9A75EC1296.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.26.51:615][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.99 sec)
+[2023.12.18-01.26.51:638][452]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.26.51:638][452]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.27.39:291][872]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.27.39:350][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.12.18-01.27.39:455][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.27.39:524][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.27.39:542][872]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.27.39:542][872]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget0D9AF21246ADF3739EB10DAD7B7A76F1.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.27.39:548][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 5.08 sec)
+[2023.12.18-01.27.39:576][872]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.27.39:576][872]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.27.40:003][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.27.40:064][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.27.40:082][913]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.27.40:082][913]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget201724C64CC78855F245CDB901D1ECBE.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.27.40:088][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 5.17 sec)
+[2023.12.18-01.27.40:096][913]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.27.40:096][913]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.27.41:760][ 97]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.12.18-01.27.41:767][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.18-01.27.41:767][ 97]PIE: New page: PIE session: Lobby (Dec 17, 2023, 9:27:41 AM)
+[2023.12.18-01.27.41:768][ 97]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2023.12.18-01.27.41:770][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002240s)
+[2023.12.18-01.27.41:770][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.002287s)
+[2023.12.18-01.27.41:771][ 97]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.27.41:771][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.27.41:771][ 97]LogAIModule: Creating AISystem for world Lobby
+[2023.12.18-01.27.41:771][ 97]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2023.12.18-01.27.41:794][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.18-01.27.41:796][ 97]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.12.18-01.27.41:796][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.18-01.27.41:796][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.18-01.27.41:796][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.18-01.27.41:796][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.18-01.27.41:796][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.18-01.27.41:796][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.18-01.27.41:796][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.18-01.27.41:796][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.18-01.27.41:796][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.18-01.27.41:796][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.18-01.27.41:796][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.18-01.27.41:798][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.18-01.27.41:816][ 97]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.12.18-01.27.41:816][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.18-01.27.41:816][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.18-01.27.41:816][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.18-01.27.41:818][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.12.18-01.27.41:818][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.12.18-01.27.41:819][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.12.18-01.27.41:819][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.12.18-01.27.41:819][ 97]LogInit: FAudioDevice initialized with ID 8.
+[2023.12.18-01.27.41:819][ 97]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lobby'.
+[2023.12.18-01.27.41:819][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.18-01.27.41:840][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-01.27.42:039][ 97]LogLoad: Game class is 'Gamemode_PC_C'
+[2023.12.18-01.27.42:040][ 97]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2023.12.17-17.27.42
+[2023.12.18-01.27.42:040][ 97]LogWorld: Bringing up level for play took: 0.000821
+[2023.12.18-01.27.42:043][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.12.18-01.27.42:046][ 97]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Testing.sav' error.
+[2023.12.18-01.27.42:046][ 97]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2023.12.18-01.27.42:046][ 97]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.18-01.27.42:046][ 97]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.12.18-01.27.42:046][ 97]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.18-01.27.42:046][ 97]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2023.12.18-01.27.42:046][ 97]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Instructor.sav' error.
+[2023.12.18-01.27.42:046][ 97]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2023.12.18-01.27.42:099][ 97]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.18-01.27.42:099][ 97]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.18-01.27.42:103][ 97]PIE: Server logged in
+[2023.12.18-01.27.42:104][ 97]PIE: Play in editor total start time 0.336 seconds.
+[2023.12.18-01.27.42:108][ 97]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.12.18-01.27.44:236][106]Cmd: quit
+[2023.12.18-01.27.44:237][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-01.27.44:237][106]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2023.12.18-01.27.44:262][106]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2023.12.18-01.27.44:297][106]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-01.27.44:297][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.27.44:299][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.18-01.27.44:305][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.27.44:324][106]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.18-01.27.44:324][106]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.18-01.27.44:324][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.18-01.27.44:326][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.18-01.27.44:332][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.18-01.27.44:353][107]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.12.18-01.27.48:550][588]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.12.18-01.27.48:558][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.18-01.27.48:558][588]PIE: New page: PIE session: Lobby (Dec 17, 2023, 9:27:48 AM)
+[2023.12.18-01.27.48:558][588]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2023.12.18-01.27.48:559][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001732s)
+[2023.12.18-01.27.48:559][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.001763s)
+[2023.12.18-01.27.48:560][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.27.48:560][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.27.48:561][588]LogAIModule: Creating AISystem for world Lobby
+[2023.12.18-01.27.48:561][588]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2023.12.18-01.27.48:582][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.18-01.27.48:584][588]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.12.18-01.27.48:584][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.18-01.27.48:584][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.18-01.27.48:584][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.18-01.27.48:584][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.18-01.27.48:584][588]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.18-01.27.48:584][588]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.18-01.27.48:584][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.18-01.27.48:584][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.18-01.27.48:585][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.18-01.27.48:585][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.18-01.27.48:585][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.18-01.27.48:587][588]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.18-01.27.48:604][588]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.12.18-01.27.48:605][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.18-01.27.48:605][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.18-01.27.48:605][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.18-01.27.48:605][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.12.18-01.27.48:605][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.12.18-01.27.48:607][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.12.18-01.27.48:607][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.12.18-01.27.48:607][588]LogInit: FAudioDevice initialized with ID 9.
+[2023.12.18-01.27.48:607][588]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lobby'.
+[2023.12.18-01.27.48:607][588]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.12.18-01.27.48:632][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-01.27.48:827][588]LogLoad: Game class is 'Gamemode_PC_C'
+[2023.12.18-01.27.48:828][588]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2023.12.17-17.27.48
+[2023.12.18-01.27.48:828][588]LogWorld: Bringing up level for play took: 0.000950
+[2023.12.18-01.27.48:831][588]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.12.18-01.27.48:836][588]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Testing.sav' error.
+[2023.12.18-01.27.48:836][588]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2023.12.18-01.27.48:836][588]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.18-01.27.48:836][588]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.12.18-01.27.48:836][588]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.12.18-01.27.48:836][588]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2023.12.18-01.27.48:836][588]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Instructor.sav' error.
+[2023.12.18-01.27.48:836][588]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2023.12.18-01.27.48:897][588]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.18-01.27.48:897][588]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.18-01.27.48:901][588]PIE: Server logged in
+[2023.12.18-01.27.48:903][588]PIE: Play in editor total start time 0.346 seconds.
+[2023.12.18-01.27.48:908][588]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2023.12.18-01.27.49:639][861]LogNet: Browse: /Game/Levels/IrvingHouse??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2023.12.18-01.27.49:640][861]LogLoad: LoadMap: /Game/Levels/IrvingHouse??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2023.12.18-01.27.49:640][861]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2023.12.18-01.27.49:640][861]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-01.27.49:640][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.27.49:691][861]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.18-01.27.49:693][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.12.18-01.27.49:837][861]LogAudio: Display: Audio Device (ID: 9) registered with world 'IrvingHouse'.
+[2023.12.18-01.27.49:837][861]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.27.49:837][861]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.27.49:838][861]LogAIModule: Creating AISystem for world IrvingHouse
+[2023.12.18-01.27.49:838][861]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2023.12.18-01.27.49:838][861]LogLoad: Game class is 'Gamemode_VR_C'
+[2023.12.18-01.27.49:848][861]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse.IrvingHouse up for play (max tick rate 0) at 2023.12.17-17.27.49
+[2023.12.18-01.27.49:848][861]LogWorld: Bringing up level for play took: 0.009963
+[2023.12.18-01.27.49:852][861]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.12.18-01.27.49:853][861]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.12.18-01.27.50:034][861]vr.PixelDensity = "1"
+[2023.12.18-01.27.50:034][861]LogLoad: Took 0.395437 seconds to LoadMap(/Game/Levels/IrvingHouse)
+[2023.12.18-01.27.50:039][861]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.12.18-01.27.50:046][861]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2023.12.18-01.27.50:078][861]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.12.18-01.27.50:101][862]LogHttp: Warning: 0000090CE73DF000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.18-01.27.50:102][862]LogHttp: Warning: 0000090CE73DF000: libcurl info message cache 0 (Couldn't open file C:\Users\300339869\Downloads\irving-house.png)
+[2023.12.18-01.27.50:102][862]LogHttp: Warning: 0000090CE73DF000: libcurl info message cache 1 (Closing connection -1)
+[2023.12.18-01.27.50:102][862]LogHttp: Warning: 0000090CF5BB7800: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.18-01.27.50:102][862]LogHttp: Warning: 0000090CF5BB7800: libcurl info message cache 0 (Couldn't open file C:\Users\300339869\Downloads\irving-house.png)
+[2023.12.18-01.27.50:102][862]LogHttp: Warning: 0000090CF5BB7800: libcurl info message cache 1 (Closing connection -1)
+[2023.12.18-01.27.50:102][862]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.12.18-01.27.53:757][434]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2023.12.18-01.27.56:244][646]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.12.18-01.28.38:587][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.18-01.28.38:587][378]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse
+[2023.12.18-01.28.38:624][378]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2023.12.18-01.28.38:632][378]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2023.12.18-01.28.38:633][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.28.38:637][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.18-01.28.38:642][378]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.18-01.28.38:664][378]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.18-01.28.38:664][378]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.12.18-01.28.38:664][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.12.18-01.28.38:667][378]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.12.18-01.28.38:676][378]LogSlate: Slate User Unregistered.  User Index 8
+[2023.12.18-01.28.38:676][378]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.12.18-01.28.38:678][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.12.18-01.28.38:757][379]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.12.18-01.28.40:971][641]BlueprintLog: New page: Compile PauseMenu
+[2023.12.18-01.28.41:010][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.12.18-01.28.41:716][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.28.41:788][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/PauseMenu" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/PauseMenu.uasset" SILENT=true
+[2023.12.18-01.28.41:808][705]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/PauseMenu
+[2023.12.18-01.28.41:808][705]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/PauseMenu5562CDD6409D52EF655D97BE72C77755.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/PauseMenu.uasset'
+[2023.12.18-01.28.41:814][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 5.26 sec)
+[2023.12.18-01.28.41:823][705]AssetCheck: New page: Asset Save: PauseMenu
+[2023.12.18-01.28.41:823][705]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/PauseMenu.PauseMenu
+[2023.12.18-01.28.46:047][200]BlueprintLog: New page: Compile PauseMenu
+[2023.12.18-01.28.46:095][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.18-01.29.43:827][179]BlueprintLog: New page: Compile PauseMenu
+[2023.12.18-01.29.43:880][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.12.18-01.29.44:381][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.29.44:438][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/PauseMenu" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/PauseMenu.uasset" SILENT=true
+[2023.12.18-01.29.44:460][224]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/PauseMenu
+[2023.12.18-01.29.44:460][224]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/PauseMenu3B6A2407462B32C3F4CBC29BBEC6C6E0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/PauseMenu.uasset'
+[2023.12.18-01.29.44:466][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 5.35 sec)
+[2023.12.18-01.29.44:474][224]AssetCheck: New page: Asset Save: PauseMenu
+[2023.12.18-01.29.44:474][224]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/PauseMenu.PauseMenu
+[2023.12.18-01.31.00:099][529]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/PauseMenu/SwitchGamemodeWidget.SwitchGamemodeWidget
+[2023.12.18-01.31.00:099][529]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.31.00:099][529]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.31.00:105][529]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.18-01.31.00:105][529]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.18-01.31.06:864][316]BlueprintLog: New page: Compile SwitchGamemodeWidget
+[2023.12.18-01.31.06:936][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.12.18-01.31.07:022][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.31.07:092][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/SwitchGamemodeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/SwitchGamemodeWidget.uasset" SILENT=true
+[2023.12.18-01.31.07:105][316]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/SwitchGamemodeWidget
+[2023.12.18-01.31.07:105][316]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/SwitchGamemodeWidgetE5CF1D5D4A4230E2E55B498A7195E25E.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/SwitchGamemodeWidget.uasset'
+[2023.12.18-01.31.07:112][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 5.44 sec)
+[2023.12.18-01.31.07:131][316]AssetCheck: New page: Asset Save: SwitchGamemodeWidget
+[2023.12.18-01.31.07:131][316]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/SwitchGamemodeWidget.SwitchGamemodeWidget
+[2023.12.18-01.31.33:008][332]BlueprintLog: New page: Compile SwitchGamemodeWidget
+[2023.12.18-01.31.33:069][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.12.18-01.31.33:158][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.31.33:226][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/SwitchGamemodeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/SwitchGamemodeWidget.uasset" SILENT=true
+[2023.12.18-01.31.33:240][332]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/SwitchGamemodeWidget
+[2023.12.18-01.31.33:240][332]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/SwitchGamemodeWidget6774C09444257BA6CD63A389CE385BE0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/SwitchGamemodeWidget.uasset'
+[2023.12.18-01.31.33:246][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.53 sec)
+[2023.12.18-01.31.33:264][332]AssetCheck: New page: Asset Save: SwitchGamemodeWidget
+[2023.12.18-01.31.33:264][332]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/SwitchGamemodeWidget.SwitchGamemodeWidget
+[2023.12.18-01.31.33:415][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.31.33:475][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/SwitchGamemodeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/SwitchGamemodeWidget.uasset" SILENT=true
+[2023.12.18-01.31.33:487][339]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/SwitchGamemodeWidget
+[2023.12.18-01.31.33:487][339]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/SwitchGamemodeWidget0BCF549045E16F6FD877578AC6AA4046.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/SwitchGamemodeWidget.uasset'
+[2023.12.18-01.31.33:493][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 5.60 sec)
+[2023.12.18-01.31.33:502][339]AssetCheck: New page: Asset Save: SwitchGamemodeWidget
+[2023.12.18-01.31.33:502][339]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/SwitchGamemodeWidget.SwitchGamemodeWidget
+[2023.12.18-01.31.53:262][651]BlueprintLog: New page: Compile PauseMenu
+[2023.12.18-01.31.53:308][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.12.18-01.31.53:362][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.31.53:434][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/PauseMenu" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/PauseMenu.uasset" SILENT=true
+[2023.12.18-01.31.53:453][651]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/PauseMenu
+[2023.12.18-01.31.53:454][651]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/PauseMenu2B7CACC8488DFD412C780E80CB6770DD.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/PauseMenu.uasset'
+[2023.12.18-01.31.53:462][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 5.70 sec)
+[2023.12.18-01.31.53:477][651]AssetCheck: New page: Asset Save: PauseMenu
+[2023.12.18-01.31.53:477][651]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/PauseMenu.PauseMenu
+[2023.12.18-01.31.54:036][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.31.54:092][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/PauseMenu" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/PauseMenu.uasset" SILENT=true
+[2023.12.18-01.31.54:111][704]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/PauseMenu
+[2023.12.18-01.31.54:111][704]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/PauseMenu0537C1F64D676681DCCA448799532EB6.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/PauseMenu.uasset'
+[2023.12.18-01.31.54:118][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 5.79 sec)
+[2023.12.18-01.31.54:128][704]AssetCheck: New page: Asset Save: PauseMenu
+[2023.12.18-01.31.54:128][704]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/PauseMenu.PauseMenu
+[2023.12.18-01.32.29:039][421]BlueprintLog: New page: Compile PauseMenu
+[2023.12.18-01.32.29:084][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.12.18-01.32.29:639][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.32.29:705][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/PauseMenu" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/PauseMenu.uasset" SILENT=true
+[2023.12.18-01.32.29:724][462]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/PauseMenu
+[2023.12.18-01.32.29:725][462]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/PauseMenu36C2B27149651B579591D09F236485AB.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/PauseMenu.uasset'
+[2023.12.18-01.32.29:731][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 5.88 sec)
+[2023.12.18-01.32.29:741][462]AssetCheck: New page: Asset Save: PauseMenu
+[2023.12.18-01.32.29:741][462]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/PauseMenu.PauseMenu
+[2023.12.18-01.32.53:835][277]BlueprintLog: New page: Compile ControlTypeWidget
+[2023.12.18-01.32.53:909][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.12.18-01.32.54:019][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.32.54:093][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.32.54:112][277]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.32.54:113][277]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget6D6D8D424811AF05F25AE5BDCC1F0A8E.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.32.54:120][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 5.98 sec)
+[2023.12.18-01.32.54:143][277]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.32.54:143][277]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.32.54:409][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.32.54:468][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2023.12.18-01.32.54:487][296]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2023.12.18-01.32.54:487][296]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidgetD9E0188E45A676C4D85D07B3969E11CF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2023.12.18-01.32.54:495][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 6.07 sec)
+[2023.12.18-01.32.54:504][296]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2023.12.18-01.32.54:504][296]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2023.12.18-01.32.57:552][645]BlueprintLog: New page: Compile PauseMenu
+[2023.12.18-01.32.57:601][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.12.18-01.32.58:174][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.18-01.32.58:238][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/PauseMenu" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/PauseMenu.uasset" SILENT=true
+[2023.12.18-01.32.58:259][693]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/PauseMenu
+[2023.12.18-01.32.58:259][693]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/PauseMenu5055A5C947096DCF37AF4EA0BD39D1D2.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/PauseMenu.uasset'
+[2023.12.18-01.32.58:264][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 6.16 sec)
+[2023.12.18-01.32.58:275][693]AssetCheck: New page: Asset Save: PauseMenu
+[2023.12.18-01.32.58:275][693]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/PauseMenu.PauseMenu
+[2023.12.18-01.33.05:587][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
