@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\download\\culturequerst\\project2prototype\\intermediate\\source\\project2prototype.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\download\\culturequerst\\project2prototype\\intermediate\\build\\win64\\x64\\project2prototype\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\download\\culturequerst\\project2prototype\\intermediate\\build\\win64\\x64\\unrealgame\\development\\project2prototype\\definitions.project2prototype.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
