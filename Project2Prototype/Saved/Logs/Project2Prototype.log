@@ -2038,3 +2038,352 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.26-18.33.27:568][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
 [2023.12.26-18.33.27:586][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_13
 [2023.12.26-18.33.32:512][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.26-18.34.22:123][442]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactable.Interactable
+[2023.12.26-18.34.22:124][442]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-18.34.22:124][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-18.34.46:609][351]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.12.26-18.34.46:609][351]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.12.26-18.35.10:628][232]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.12.26-18.35.33:957][791]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.26-18.35.33:964][791]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.26-18.35.33:967][791]LogPlayLevel: [PlayLevel] Compiling Interactable before play...
+[2023.12.26-18.35.34:012][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-18.35.34:081][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactable" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactable.uasset" SILENT=true
+[2023.12.26-18.35.34:090][791]LogSavePackage: Moving output files for package: /Game/Actors/Interactable
+[2023.12.26-18.35.34:091][791]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractableAB558087425F8624AC966D84C0190E84.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactable.uasset'
+[2023.12.26-18.35.34:097][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.58 sec)
+[2023.12.26-18.35.34:120][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.12.26-18.35.34:122][791]LogPlayLevel: PlayLevel: Blueprint regeneration took 157 ms (1 blueprints)
+[2023.12.26-18.35.34:122][791]PIE: New page: PIE session: Testing (Dec 26, 2023, 2:35:34 AM)
+[2023.12.26-18.35.34:122][791]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.12.26-18.35.34:126][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003646s)
+[2023.12.26-18.35.34:126][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003683s)
+[2023.12.26-18.35.34:126][791]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-18.35.34:126][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-18.35.34:126][791]LogAIModule: Creating AISystem for world Testing
+[2023.12.26-18.35.34:126][791]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2023.12.26-18.35.34:145][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.26-18.35.34:146][791]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.12.26-18.35.34:146][791]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-18.35.34:146][791]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-18.35.34:146][791]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-18.35.34:146][791]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-18.35.34:146][791]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-18.35.34:146][791]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.26-18.35.34:146][791]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-18.35.34:146][791]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-18.35.34:146][791]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-18.35.34:146][791]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-18.35.34:146][791]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-18.35.34:148][791]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-18.35.34:182][791]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.12.26-18.35.34:182][791]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-18.35.34:182][791]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-18.35.34:182][791]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-18.35.34:184][791]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.12.26-18.35.34:184][791]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.12.26-18.35.34:186][791]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.12.26-18.35.34:186][791]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.12.26-18.35.34:186][791]LogInit: FAudioDevice initialized with ID 9.
+[2023.12.26-18.35.34:186][791]LogAudio: Display: Audio Device (ID: 9) registered with world 'Testing'.
+[2023.12.26-18.35.34:186][791]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.12.26-18.35.34:217][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-18.35.34:217][791]LogLoad: Game class is 'Gamemode_PC_C'
+[2023.12.26-18.35.34:218][791]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.12.26-10.35.34
+[2023.12.26-18.35.34:218][791]LogWorld: Bringing up level for play took: 0.001308
+[2023.12.26-18.35.34:221][791]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.12.26-18.35.34:241][791]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.12.26-18.35.34:243][791]PIE: Server logged in
+[2023.12.26-18.35.34:243][791]PIE: Play in editor total start time 0.279 seconds.
+[2023.12.26-18.35.34:274][791]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.12.26-18.35.34:292][792]LogHttp: Warning: 000004ED81CBE100: request failed, libcurl error: 3 (URL using bad/illegal format or missing URL)
+[2023.12.26-18.35.34:292][792]LogHttp: Warning: 000004ED81CBE100: libcurl info message cache 0 (Closing connection -1)
+[2023.12.26-18.35.34:299][792]LogHttp: Warning: 000004ED81CB4600: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.26-18.35.34:299][792]LogHttp: Warning: 000004ED81CB4600: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Downloads\)
+[2023.12.26-18.35.34:299][792]LogHttp: Warning: 000004ED81CB4600: libcurl info message cache 1 (Closing connection -1)
+[2023.12.26-18.35.34:308][792]AssetCheck: New page: Asset Save: Interactable
+[2023.12.26-18.35.34:309][792]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactable.Interactable
+[2023.12.26-18.35.36:626][ 58]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-18.35.36:626][ 58]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.12.26-18.35.36:626][ 58]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.26-18.35.37:493][162]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.26-18.35.37:493][162]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.26-18.35.38:279][256]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-18.35.38:279][256]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.26-18.35.39:584][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-18.35.39:584][408]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.12.26-18.35.39:585][408]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.12.26-18.35.39:590][408]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-18.35.39:591][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-18.35.39:594][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-18.35.39:599][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-18.35.39:622][408]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.12.26-18.35.39:622][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.12.26-18.35.39:624][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.12.26-18.35.39:632][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.26-18.35.39:660][409]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.12.26-18.35.56:258][325]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.26-18.35.56:265][325]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.26-18.35.56:268][325]LogPlayLevel: [PlayLevel] Compiling Interactable before play...
+[2023.12.26-18.35.56:308][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-18.35.56:362][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactable" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactable.uasset" SILENT=true
+[2023.12.26-18.35.56:371][325]LogSavePackage: Moving output files for package: /Game/Actors/Interactable
+[2023.12.26-18.35.56:372][325]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractableA113A1F647FFFC0C7C7AC0BA9F254D44.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactable.uasset'
+[2023.12.26-18.35.56:377][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.65 sec)
+[2023.12.26-18.35.56:398][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.26-18.35.56:400][325]LogPlayLevel: PlayLevel: Blueprint regeneration took 133 ms (1 blueprints)
+[2023.12.26-18.35.56:400][325]PIE: New page: PIE session: Testing (Dec 26, 2023, 2:35:56 AM)
+[2023.12.26-18.35.56:400][325]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.12.26-18.35.56:403][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003142s)
+[2023.12.26-18.35.56:403][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003172s)
+[2023.12.26-18.35.56:403][325]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-18.35.56:403][325]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-18.35.56:404][325]LogAIModule: Creating AISystem for world Testing
+[2023.12.26-18.35.56:404][325]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2023.12.26-18.35.56:424][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.12.26-18.35.56:424][325]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.12.26-18.35.56:424][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-18.35.56:424][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-18.35.56:424][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-18.35.56:425][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-18.35.56:425][325]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-18.35.56:425][325]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.26-18.35.56:425][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-18.35.56:425][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-18.35.56:425][325]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-18.35.56:425][325]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-18.35.56:425][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-18.35.56:427][325]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-18.35.56:446][325]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.12.26-18.35.56:446][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-18.35.56:446][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-18.35.56:446][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-18.35.56:447][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.12.26-18.35.56:447][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.12.26-18.35.56:449][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.12.26-18.35.56:449][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.12.26-18.35.56:449][325]LogInit: FAudioDevice initialized with ID 10.
+[2023.12.26-18.35.56:449][325]LogAudio: Display: Audio Device (ID: 10) registered with world 'Testing'.
+[2023.12.26-18.35.56:449][325]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.12.26-18.35.56:502][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-18.35.56:502][325]LogLoad: Game class is 'Gamemode_PC_C'
+[2023.12.26-18.35.56:503][325]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.12.26-10.35.56
+[2023.12.26-18.35.56:504][325]LogWorld: Bringing up level for play took: 0.001149
+[2023.12.26-18.35.56:506][325]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.12.26-18.35.56:548][325]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.12.26-18.35.56:549][325]PIE: Server logged in
+[2023.12.26-18.35.56:550][325]PIE: Play in editor total start time 0.284 seconds.
+[2023.12.26-18.35.56:586][325]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.12.26-18.35.56:601][326]LogHttp: Warning: 000004ED7FFBFA00: request failed, libcurl error: 3 (URL using bad/illegal format or missing URL)
+[2023.12.26-18.35.56:601][326]LogHttp: Warning: 000004ED7FFBFA00: libcurl info message cache 0 (Closing connection -1)
+[2023.12.26-18.35.56:601][326]LogHttp: Warning: 000004ED7FFBAF00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.26-18.35.56:601][326]LogHttp: Warning: 000004ED7FFBAF00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Downloads\)
+[2023.12.26-18.35.56:601][326]LogHttp: Warning: 000004ED7FFBAF00: libcurl info message cache 1 (Closing connection -1)
+[2023.12.26-18.35.56:616][326]AssetCheck: New page: Asset Save: Interactable
+[2023.12.26-18.35.56:616][326]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactable.Interactable
+[2023.12.26-18.35.57:472][425]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-18.35.57:473][425]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.12.26-18.35.57:473][425]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.26-18.35.58:131][504]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.26-18.35.58:131][504]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.26-18.36.01:090][859]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-18.36.01:090][859]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.26-18.36.01:856][951]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.26-18.36.01:856][951]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.26-18.36.02:299][  4]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-18.36.02:299][  4]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.26-18.36.02:674][ 49]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.26-18.36.02:674][ 49]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.26-18.36.03:744][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-18.36.03:744][173]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.12.26-18.36.03:744][173]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.12.26-18.36.03:750][173]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-18.36.03:750][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-18.36.03:753][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-18.36.03:759][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-18.36.03:779][173]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.12.26-18.36.03:779][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.12.26-18.36.03:781][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.12.26-18.36.03:789][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.12.26-18.36.03:820][175]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.12.26-18.36.18:679][952]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.26-18.36.18:686][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.26-18.36.18:686][952]PIE: New page: PIE session: Testing (Dec 26, 2023, 2:36:18 AM)
+[2023.12.26-18.36.18:686][952]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.12.26-18.36.18:689][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002936s)
+[2023.12.26-18.36.18:689][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.002962s)
+[2023.12.26-18.36.18:689][952]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-18.36.18:689][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-18.36.18:689][952]LogAIModule: Creating AISystem for world Testing
+[2023.12.26-18.36.18:689][952]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2023.12.26-18.36.18:710][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.12.26-18.36.18:711][952]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.12.26-18.36.18:711][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-18.36.18:711][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-18.36.18:711][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-18.36.18:711][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-18.36.18:711][952]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-18.36.18:711][952]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.26-18.36.18:711][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-18.36.18:711][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-18.36.18:711][952]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-18.36.18:711][952]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-18.36.18:711][952]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-18.36.18:713][952]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-18.36.18:729][952]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.12.26-18.36.18:729][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-18.36.18:729][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-18.36.18:729][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-18.36.18:730][952]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.12.26-18.36.18:730][952]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.12.26-18.36.18:732][952]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.12.26-18.36.18:732][952]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.12.26-18.36.18:732][952]LogInit: FAudioDevice initialized with ID 11.
+[2023.12.26-18.36.18:732][952]LogAudio: Display: Audio Device (ID: 11) registered with world 'Testing'.
+[2023.12.26-18.36.18:732][952]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.26-18.36.18:787][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-18.36.18:787][952]LogLoad: Game class is 'Gamemode_PC_C'
+[2023.12.26-18.36.18:789][952]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.12.26-10.36.18
+[2023.12.26-18.36.18:789][952]LogWorld: Bringing up level for play took: 0.001137
+[2023.12.26-18.36.18:791][952]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.12.26-18.36.18:808][952]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.12.26-18.36.18:809][952]PIE: Server logged in
+[2023.12.26-18.36.18:811][952]PIE: Play in editor total start time 0.125 seconds.
+[2023.12.26-18.36.18:819][952]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.12.26-18.36.18:832][953]LogHttp: Warning: 000004ED7A779100: request failed, libcurl error: 3 (URL using bad/illegal format or missing URL)
+[2023.12.26-18.36.18:832][953]LogHttp: Warning: 000004ED7A779100: libcurl info message cache 0 (Closing connection -1)
+[2023.12.26-18.36.18:838][953]LogHttp: Warning: 000004ED78013700: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.26-18.36.18:838][953]LogHttp: Warning: 000004ED78013700: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Downloads\)
+[2023.12.26-18.36.18:838][953]LogHttp: Warning: 000004ED78013700: libcurl info message cache 1 (Closing connection -1)
+[2023.12.26-18.36.19:426][ 15]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-18.36.19:426][ 15]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.12.26-18.36.19:426][ 15]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.26-18.36.19:907][ 72]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.26-18.36.19:907][ 72]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.26-18.36.20:833][183]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-18.36.20:833][183]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.26-18.36.21:884][309]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.26-18.36.21:884][309]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.26-18.36.22:594][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-18.36.22:594][389]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.12.26-18.36.22:595][389]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.12.26-18.36.22:601][389]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-18.36.22:601][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-18.36.22:604][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-18.36.22:609][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-18.36.22:631][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.12.26-18.36.22:631][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.26-18.36.22:633][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.26-18.36.22:640][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.12.26-18.36.22:662][390]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.12.26-18.37.46:304][704]BlueprintLog: New page: Compile Interactable
+[2023.12.26-18.37.46:344][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.12.26-18.37.46:363][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-18.37.46:431][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactable" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactable.uasset" SILENT=true
+[2023.12.26-18.37.46:440][704]LogSavePackage: Moving output files for package: /Game/Actors/Interactable
+[2023.12.26-18.37.46:440][704]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactable1656D1C54A0119F9F704BAA117080D46.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactable.uasset'
+[2023.12.26-18.37.46:446][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.73 sec)
+[2023.12.26-18.37.46:453][704]AssetCheck: New page: Asset Save: Interactable
+[2023.12.26-18.37.46:453][704]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactable.Interactable
+[2023.12.26-18.37.46:817][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-18.37.46:884][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactable" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactable.uasset" SILENT=true
+[2023.12.26-18.37.46:892][741]LogSavePackage: Moving output files for package: /Game/Actors/Interactable
+[2023.12.26-18.37.46:893][741]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractableA35A7FD04A3962F8629489B9BCA30477.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactable.uasset'
+[2023.12.26-18.37.46:899][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.81 sec)
+[2023.12.26-18.37.46:907][741]AssetCheck: New page: Asset Save: Interactable
+[2023.12.26-18.37.46:907][741]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactable.Interactable
+[2023.12.26-18.37.47:565][820]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.26-18.37.47:572][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.26-18.37.47:572][820]PIE: New page: PIE session: Testing (Dec 26, 2023, 2:37:47 AM)
+[2023.12.26-18.37.47:572][820]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2023.12.26-18.37.47:575][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002983s)
+[2023.12.26-18.37.47:575][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003012s)
+[2023.12.26-18.37.47:575][820]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.26-18.37.47:575][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.26-18.37.47:575][820]LogAIModule: Creating AISystem for world Testing
+[2023.12.26-18.37.47:576][820]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2023.12.26-18.37.47:595][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.12.26-18.37.47:597][820]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.12.26-18.37.47:597][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.26-18.37.47:597][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.26-18.37.47:597][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.26-18.37.47:597][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.26-18.37.47:597][820]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.26-18.37.47:597][820]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.26-18.37.47:597][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.26-18.37.47:597][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.26-18.37.47:597][820]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.26-18.37.47:597][820]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.26-18.37.47:597][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.26-18.37.47:599][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.26-18.37.47:615][820]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.12.26-18.37.47:615][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.26-18.37.47:615][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.26-18.37.47:615][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.26-18.37.47:616][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.12.26-18.37.47:616][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.12.26-18.37.47:617][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.12.26-18.37.47:617][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.12.26-18.37.47:617][820]LogInit: FAudioDevice initialized with ID 12.
+[2023.12.26-18.37.47:617][820]LogAudio: Display: Audio Device (ID: 12) registered with world 'Testing'.
+[2023.12.26-18.37.47:617][820]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.26-18.37.47:651][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-18.37.47:651][820]LogLoad: Game class is 'Gamemode_PC_C'
+[2023.12.26-18.37.47:652][820]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2023.12.26-10.37.47
+[2023.12.26-18.37.47:653][820]LogWorld: Bringing up level for play took: 0.001214
+[2023.12.26-18.37.47:655][820]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.12.26-18.37.47:672][820]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.12.26-18.37.47:675][820]PIE: Server logged in
+[2023.12.26-18.37.47:676][820]PIE: Play in editor total start time 0.104 seconds.
+[2023.12.26-18.37.47:683][820]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2023.12.26-18.37.47:707][822]LogHttp: Warning: 000004ED7A933200: request failed, libcurl error: 3 (URL using bad/illegal format or missing URL)
+[2023.12.26-18.37.47:707][822]LogHttp: Warning: 000004ED7A933200: libcurl info message cache 0 (Closing connection -1)
+[2023.12.26-18.37.47:714][822]LogHttp: Warning: 000004ED81F45000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.12.26-18.37.47:714][822]LogHttp: Warning: 000004ED81F45000: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Downloads\)
+[2023.12.26-18.37.47:714][822]LogHttp: Warning: 000004ED81F45000: libcurl info message cache 1 (Closing connection -1)
+[2023.12.26-18.37.50:306][131]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-18.37.50:306][131]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.12.26-18.37.50:306][131]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.26-18.37.50:898][202]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.26-18.37.50:898][202]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.26-18.37.52:881][440]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-18.37.52:881][440]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.26-18.37.53:247][484]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.26-18.37.53:247][484]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.26-18.37.54:407][623]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-18.37.54:407][623]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.26-18.37.54:814][672]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.26-18.37.54:814][672]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.26-18.37.55:773][787]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.26-18.37.55:773][787]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.12.26-18.37.56:448][868]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.26-18.37.56:448][868]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.12.26-18.37.57:394][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.26-18.37.57:394][976]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2023.12.26-18.37.57:395][976]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.12.26-18.37.57:400][976]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2023.12.26-18.37.57:400][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-18.37.57:403][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.26-18.37.57:408][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.26-18.37.57:430][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.26-18.37.57:430][976]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.12.26-18.37.57:430][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.26-18.37.57:432][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.26-18.37.57:438][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.26-18.37.57:454][977]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.12.26-18.38.05:111][860]BlueprintLog: New page: Compile PCCharacter
+[2023.12.26-18.38.05:199][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.12.26-18.38.05:233][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-18.38.05:289][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PCCharacter" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/PCCharacter.uasset" SILENT=true
+[2023.12.26-18.38.05:324][860]LogSavePackage: Moving output files for package: /Game/Blueprints/PCCharacter
+[2023.12.26-18.38.05:325][860]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/PCCharacter45BF3029468C9E412D4004A4A62FD533.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/PCCharacter.uasset'
+[2023.12.26-18.38.05:335][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 1.92 sec)
+[2023.12.26-18.38.05:378][860]AssetCheck: New page: Asset Save: PCCharacter
+[2023.12.26-18.38.05:379][860]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PCCharacter.PCCharacter
+[2023.12.26-18.38.05:787][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.26-18.38.05:861][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PCCharacter" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/PCCharacter.uasset" SILENT=true
+[2023.12.26-18.38.05:899][888]LogSavePackage: Moving output files for package: /Game/Blueprints/PCCharacter
+[2023.12.26-18.38.05:899][888]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/PCCharacter3A1FF16244EA6C250C81E8B4E6456DE7.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/PCCharacter.uasset'
+[2023.12.26-18.38.05:905][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.03 sec)
+[2023.12.26-18.38.05:912][888]AssetCheck: New page: Asset Save: PCCharacter
+[2023.12.26-18.38.05:912][888]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PCCharacter.PCCharacter
