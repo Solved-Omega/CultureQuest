@@ -2235,3 +2235,379 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.17-03.38.02:004][886]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
 [2024.01.17-03.38.06:580][  6]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
 [2024.01.17-03.38.06:589][  7]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.07:222][672]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.07:230][673]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.07:239][674]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.07:247][675]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.07:255][676]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.07:263][677]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.07:272][678]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.07:280][679]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:830][340]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:840][341]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:848][342]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:857][343]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:866][344]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:873][345]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:882][346]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:891][347]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:899][348]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:907][349]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:915][350]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:924][351]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:932][352]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:940][353]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:949][354]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:958][355]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:965][356]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:974][357]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:982][358]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:991][359]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.12:999][360]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:008][361]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:015][362]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:024][363]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:033][364]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:040][365]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:049][366]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:057][367]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:092][368]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:101][369]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:207][380]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:215][381]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:227][382]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:238][383]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:247][384]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:255][385]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:264][386]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LevelSelectorEntry.LevelSelectorEntry
+[2024.01.17-03.40.13:264][386]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-03.40.13:264][386]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-03.40.13:269][386]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-03.40.13:269][386]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-03.40.13:277][386]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.01.17-03.40.13:342][386]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:367][386]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.01.17-03.40.13:368][386]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.17-03.40.13:370][386]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:387][387]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.13:394][387]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.01.17-03.40.15:359][615]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-03.40.15:359][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-03.40.15:367][615]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-03.40.15:367][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-03.40.15:387][615]LogViewport: Scene viewport resized to 1073x618, mode Windowed.
+[2024.01.17-03.40.15:414][616]LogViewport: Scene viewport resized to 1073x610, mode Windowed.
+[2024.01.17-03.40.15:463][617]LogViewport: Scene viewport resized to 1073x597, mode Windowed.
+[2024.01.17-03.40.15:487][618]LogViewport: Scene viewport resized to 1073x592, mode Windowed.
+[2024.01.17-03.40.15:897][665]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.15:906][666]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.15:915][667]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.15:923][668]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.15:932][669]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.15:941][670]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.15:950][671]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.15:958][672]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.15:968][673]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.15:976][674]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.15:985][675]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.15:993][676]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:002][677]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:010][678]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:019][679]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:054][680]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:063][681]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:085][682]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:096][683]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:105][684]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:115][685]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:124][686]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:134][687]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:143][688]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:153][689]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:163][690]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:172][691]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:182][692]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:192][693]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:203][694]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:214][695]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:223][696]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:233][697]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:243][698]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:253][699]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:262][700]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:272][701]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:281][702]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:289][703]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:299][704]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:308][705]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:317][706]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:326][707]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:335][708]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:344][709]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:353][710]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:362][711]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:370][712]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:379][713]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:388][714]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:396][715]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:504][728]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:512][729]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:521][730]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:529][731]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:538][732]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:545][733]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.01.17-03.40.16:545][733]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-03.40.16:545][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-03.40.16:551][733]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-03.40.16:551][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-03.40.16:621][733]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:648][733]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:667][734]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:675][734]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.16:679][735]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.17:837][870]LogSlate: Took 0.001064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.01.17-03.40.31:409][472]LogContentBrowser: Attempting asset rename: Day_Map -> IrvingHouse2
+[2024.01.17-03.40.31:589][472]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-03.40.31:889][472]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.01.17-03.40.32:927][472]LogMetaData: Removing '/Game/Levels/IrvingHouse2.IrvingHouse2_C' ref from Metadata '/Game/Levels/Day_Map.PackageMetaData'
+[2024.01.17-03.40.32:927][472]LogMetaData: Removing '/Game/Levels/IrvingHouse2.SKEL_IrvingHouse2_C' ref from Metadata '/Game/Levels/Day_Map.PackageMetaData'
+[2024.01.17-03.40.32:929][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-03.40.33:005][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-03.40.33:096][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.17-03.40.33:124][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.17-03.40.33:888][472]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.01.17-03.40.33:888][472]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2544B99844454B4DDFA2E4E8AA018707A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.01.17-03.40.33:945][472]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Levels/IrvingHouse2_BuiltData
+[2024.01.17-03.40.33:945][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-03.40.33:946][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2_BuiltData" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2_BuiltData.uasset" SILENT=true
+[2024.01.17-03.40.34:294][472]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2_BuiltData
+[2024.01.17-03.40.34:294][472]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2_BuiltDataD5E5DE8E4213E2CAD5B10783587027D3.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2_BuiltData.uasset'
+[2024.01.17-03.40.34:295][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 349 ms (total: 4.44 sec)
+[2024.01.17-03.40.34:295][472]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Levels/IrvingHouse2_BuiltData
+[2024.01.17-03.40.34:345][472]LogFileHelpers: Saving map 'IrvingHouse2' took 1.346
+[2024.01.17-03.40.34:345][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2_BuiltData" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2_BuiltData.uasset" SILENT=true
+[2024.01.17-03.40.34:672][472]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2_BuiltData
+[2024.01.17-03.40.34:672][472]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2_BuiltData8ED743DF463BF332CEFE008FF89DE653.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2_BuiltData.uasset'
+[2024.01.17-03.40.34:686][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.75 sec (total: 6.20 sec)
+[2024.01.17-03.40.34:728][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.17-03.40.34:753][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.17-03.40.34:774][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.17-03.40.34:979][472]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.17-03.40.34:979][472]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.01.17-03.40.34:979][472]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Levels/IrvingHouse2_BuiltData.IrvingHouse2_BuiltData
+[2024.01.17-03.40.36:625][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.17-03.40.36:629][653]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.01.17-03.40.36:631][653]Cmd: MAP LOAD FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.17-03.40.36:631][653]LightingResults: New page: Lighting Build
+[2024.01.17-03.40.36:634][653]LoadErrors: New page: Loading map: IrvingHouse2.umap
+[2024.01.17-03.40.36:640][653]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-03.40.36:640][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-03.40.36:640][653]MapCheck: New page: Map Check
+[2024.01.17-03.40.36:640][653]LightingResults: New page: Lighting Build
+[2024.01.17-03.40.36:664][653]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.17-03.40.36:672][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.17-03.40.36:680][653]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-03.40.36:687][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-03.40.36:738][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.17-03.40.36:765][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.01.17-03.40.36:947][653]LogAudio: Display: Audio Device (ID: 1) registered with world 'IrvingHouse2'.
+[2024.01.17-03.40.36:948][653]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-03.40.36:948][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-03.40.36:948][653]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.17-03.40.37:488][653]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.17-03.40.37:568][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.17-03.40.37:574][653]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.17-03.40.37:575][653]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.533ms to complete.
+[2024.01.17-03.40.37:575][653]LogFileHelpers: Loading map 'IrvingHouse2' took 0.944
+[2024.01.17-03.40.45:908][619]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.40.45:920][619]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.45:939][621]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.57:733][ 30]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.40.57:734][ 30]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.40.57:760][ 33]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.02:946][649]BlueprintLog: New page: Compile LevelSelectorWidget
+[2024.01.17-03.41.02:982][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.17-03.41.03:020][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-03.41.03:108][649]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.03:108][649]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.03:111][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/LevelSelectorWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset" SILENT=true
+[2024.01.17-03.41.03:117][649]LogSavePackage: Moving output files for package: /Game/Widgets/LevelSelectorWidget
+[2024.01.17-03.41.03:117][649]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LevelSelectorWidget43A2EEB04ADB688EDF27EA81126BBF60.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset'
+[2024.01.17-03.41.03:124][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 6.30 sec)
+[2024.01.17-03.41.03:141][649]AssetCheck: New page: Asset Save: LevelSelectorWidget
+[2024.01.17-03.41.03:141][649]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.01.17-03.41.03:143][649]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.03:143][649]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.03:144][649]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.03:144][649]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.03:190][649]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.03:190][649]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.03:226][651]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.03:226][651]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.03:682][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-03.41.03:750][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/LevelSelectorWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset" SILENT=true
+[2024.01.17-03.41.03:756][704]LogSavePackage: Moving output files for package: /Game/Widgets/LevelSelectorWidget
+[2024.01.17-03.41.03:756][704]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LevelSelectorWidget7C62979E47CF9F0654C0D190282253FC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset'
+[2024.01.17-03.41.03:763][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 6.39 sec)
+[2024.01.17-03.41.03:774][704]AssetCheck: New page: Asset Save: LevelSelectorWidget
+[2024.01.17-03.41.03:774][704]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.01.17-03.41.03:796][706]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.03:796][706]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.13:711][888]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.13:712][888]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.13:712][888]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.13:739][891]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.13:739][891]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.21:749][847]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.21:749][847]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.21:760][848]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.21:760][848]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.23:627][ 72]BlueprintLog: New page: Compile LevelSelectorWidget
+[2024.01.17-03.41.23:664][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.01.17-03.41.23:673][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-03.41.23:758][ 72]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.23:758][ 72]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.23:761][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/LevelSelectorWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset" SILENT=true
+[2024.01.17-03.41.23:767][ 72]LogSavePackage: Moving output files for package: /Game/Widgets/LevelSelectorWidget
+[2024.01.17-03.41.23:767][ 72]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LevelSelectorWidget4A54111A48F5CFDC953C51B09A66429A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset'
+[2024.01.17-03.41.23:773][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 6.49 sec)
+[2024.01.17-03.41.23:785][ 72]AssetCheck: New page: Asset Save: LevelSelectorWidget
+[2024.01.17-03.41.23:785][ 72]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.01.17-03.41.23:787][ 72]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.23:787][ 72]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.23:788][ 72]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.23:788][ 72]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.23:820][ 72]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.23:820][ 72]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.23:833][ 74]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.23:833][ 74]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.41.24:250][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-03.41.24:328][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/LevelSelectorWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset" SILENT=true
+[2024.01.17-03.41.24:334][117]LogSavePackage: Moving output files for package: /Game/Widgets/LevelSelectorWidget
+[2024.01.17-03.41.24:335][117]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LevelSelectorWidget1A5846B0464D3B41DB0D0CA2B72DAE9C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset'
+[2024.01.17-03.41.24:341][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 6.58 sec)
+[2024.01.17-03.41.24:353][117]AssetCheck: New page: Asset Save: LevelSelectorWidget
+[2024.01.17-03.41.24:353][117]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.01.17-03.41.24:361][118]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.41.24:361][118]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.44.15:375][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.01.17-03.44.15:456][630]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-03.44.15:457][630]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Lobby.Lobby
+[2024.01.17-03.44.15:458][630]Cmd: MAP LOAD FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.17-03.44.15:458][630]LightingResults: New page: Lighting Build
+[2024.01.17-03.44.15:458][630]LoadErrors: New page: Loading map: Lobby.umap
+[2024.01.17-03.44.15:534][630]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-03.44.15:535][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-03.44.15:536][630]MapCheck: New page: Map Check
+[2024.01.17-03.44.15:536][630]LightingResults: New page: Lighting Build
+[2024.01.17-03.44.15:562][630]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.17-03.44.15:595][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.01.17-03.44.15:605][630]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-03.44.15:605][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-03.44.15:627][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.17-03.44.15:650][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.17-03.44.15:660][630]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lobby'.
+[2024.01.17-03.44.15:660][630]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-03.44.15:660][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-03.44.15:661][630]LogAIModule: Creating AISystem for world Lobby
+[2024.01.17-03.44.15:692][630]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.17-03.44.15:711][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.17-03.44.15:718][630]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.17-03.44.15:718][630]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2024.01.17-03.44.15:718][630]LogFileHelpers: Loading map 'Lobby' took 0.261
+[2024.01.17-03.44.16:770][750]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.17-03.44.16:777][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.17-03.44.16:777][750]PIE: New page: PIE session: Lobby (Jan 16, 2024, 11:44:16 AM)
+[2024.01.17-03.44.16:803][750]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2024.01.17-03.44.16:805][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001961s)
+[2024.01.17-03.44.16:805][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.002006s)
+[2024.01.17-03.44.16:805][750]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-03.44.16:805][750]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-03.44.16:805][750]LogAIModule: Creating AISystem for world Lobby
+[2024.01.17-03.44.16:805][750]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2024.01.17-03.44.16:830][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.01.17-03.44.16:833][750]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.01.17-03.44.16:833][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-03.44.16:833][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-03.44.16:833][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-03.44.16:833][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-03.44.16:833][750]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.17-03.44.16:833][750]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.17-03.44.16:833][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.17-03.44.16:833][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-03.44.16:834][750]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-03.44.16:834][750]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-03.44.16:834][750]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-03.44.16:836][750]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-03.44.16:858][750]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.17-03.44.16:859][750]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-03.44.16:859][750]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-03.44.16:859][750]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-03.44.16:859][750]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.01.17-03.44.16:859][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.01.17-03.44.16:862][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.01.17-03.44.16:862][750]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.01.17-03.44.16:862][750]LogInit: FAudioDevice initialized with ID 4.
+[2024.01.17-03.44.16:862][750]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lobby'.
+[2024.01.17-03.44.16:862][750]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.17-03.44.16:885][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-03.44.17:093][750]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.01.17-03.44.17:094][750]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2024.01.16-19.44.17
+[2024.01.17-03.44.17:094][750]LogWorld: Bringing up level for play took: 0.000817
+[2024.01.17-03.44.17:098][750]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.01.17-03.44.17:100][750]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.01.17-03.44.17:100][750]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.44.17:100][750]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.01.17-03.44.17:100][750]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.01.17-03.44.17:100][750]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.01.17-03.44.17:100][750]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2024.01.17-03.44.17:100][750]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Instructor.sav' error.
+[2024.01.17-03.44.17:100][750]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - Lobby.sav' error.
+[2024.01.17-03.44.17:100][750]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.17-03.44.17:155][750]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.01.17-03.44.17:155][750]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.01.17-03.44.17:160][750]PIE: Server logged in
+[2024.01.17-03.44.17:162][750]PIE: Play in editor total start time 0.385 seconds.
+[2024.01.17-03.44.17:168][750]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.01.17-03.44.19:655][933]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.01.17-03.44.19:655][933]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.01.17-03.44.19:655][933]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2024.01.17-03.44.19:656][933]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-03.44.19:656][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-03.44.19:713][933]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.17-03.44.19:716][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.17-03.44.20:014][933]LogAudio: Display: Audio Device (ID: 4) registered with world 'IrvingHouse2'.
+[2024.01.17-03.44.20:014][933]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-03.44.20:014][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-03.44.20:014][933]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.17-03.44.20:016][933]LogPlayLevel: PIE: World Init took: (0.002457s)
+[2024.01.17-03.44.20:016][933]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.17-03.44.20:176][933]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.16-19.44.20
+[2024.01.17-03.44.20:177][933]LogWorld: Bringing up level for play took: 0.159356
+[2024.01.17-03.44.20:180][933]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.17-03.44.20:181][933]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.17-03.44.20:357][933]vr.PixelDensity = "1"
+[2024.01.17-03.44.20:357][933]LogLoad: Took 0.701882 seconds to LoadMap(/Game/Levels/IrvingHouse2)
+[2024.01.17-03.44.20:468][933]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.17-03.44.20:506][933]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.17-03.44.20:526][933]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.17-03.44.20:560][934]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.17-03.44.25:863][414]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.17-03.44.44:782][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-03.44.44:783][570]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.17-03.44.44:841][570]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.17-03.44.44:849][570]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-03.44.44:868][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-03.44.44:871][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-03.44.44:886][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-03.44.44:921][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.17-03.44.44:921][570]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.17-03.44.44:921][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.17-03.44.44:923][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.17-03.44.44:950][570]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.17-03.44.44:950][570]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.17-03.44.44:955][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.01.17-03.44.45:051][571]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.01.17-03.44.47:760][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
