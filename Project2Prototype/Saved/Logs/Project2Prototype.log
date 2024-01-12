@@ -2327,3 +2327,503 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.17-04.52.04:097][981]LogPlayLevel: Display: Destroying online subsystem :Context_14
 [2024.01.17-04.52.06:824][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2024.01.17-04.52.08:223][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.17-04.56.54:837][509]BlueprintLog: New page: Compile VRPawn
+[2024.01.17-04.56.54:957][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.01.17-04.56.55:770][597]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.17-04.56.55:778][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.17-04.56.55:778][597]PIE: New page: PIE session: IrvingHouse2 (Jan 16, 2024, 12:56:55 PM)
+[2024.01.17-04.56.55:779][597]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.17-04.56.55:970][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.192129s)
+[2024.01.17-04.56.55:971][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.192167s)
+[2024.01.17-04.56.55:971][597]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-04.56.55:971][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-04.56.55:971][597]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.17-04.56.55:972][597]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2024.01.17-04.56.55:995][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.17-04.56.55:999][597]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.01.17-04.56.55:999][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-04.56.55:999][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-04.56.55:999][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-04.56.55:999][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-04.56.55:999][597]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.17-04.56.55:999][597]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.17-04.56.55:999][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.17-04.56.55:999][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-04.56.55:999][597]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-04.56.55:999][597]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-04.56.55:999][597]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-04.56.56:001][597]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-04.56.56:017][597]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.17-04.56.56:018][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-04.56.56:018][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-04.56.56:018][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-04.56.56:018][597]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.01.17-04.56.56:018][597]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.01.17-04.56.56:020][597]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.01.17-04.56.56:021][597]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.01.17-04.56.56:021][597]LogInit: FAudioDevice initialized with ID 12.
+[2024.01.17-04.56.56:021][597]LogAudio: Display: Audio Device (ID: 12) registered with world 'IrvingHouse2'.
+[2024.01.17-04.56.56:021][597]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.01.17-04.56.56:056][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-04.56.56:249][597]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.17-04.56.56:330][597]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.16-20.56.56
+[2024.01.17-04.56.56:332][597]LogWorld: Bringing up level for play took: 0.082726
+[2024.01.17-04.56.56:334][597]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.01.17-04.56.56:336][597]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.17-04.56.56:338][597]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.17-04.56.56:342][597]vr.PixelDensity = "1"
+[2024.01.17-04.56.56:345][597]PIE: Server logged in
+[2024.01.17-04.56.56:347][597]PIE: Play in editor total start time 0.569 seconds.
+[2024.01.17-04.56.56:401][597]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.17-04.56.56:441][597]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.17-04.56.56:544][600]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.17-04.57.00:675][ 66]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.17-04.57.03:167][295]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-04.57.09:198][627]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-04.57.19:802][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-04.57.19:802][258]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.17-04.57.19:852][258]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.17-04.57.19:866][258]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-04.57.19:877][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-04.57.19:882][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-04.57.19:890][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-04.57.19:917][258]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.17-04.57.19:925][258]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.01.17-04.57.19:925][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.01.17-04.57.19:928][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.01.17-04.57.19:952][258]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.17-04.57.19:952][258]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.17-04.57.19:955][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.01.17-04.57.20:070][259]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.01.17-04.58.34:007][408]BlueprintLog: New page: Compile VRPawn
+[2024.01.17-04.58.34:135][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.17-04.58.39:281][992]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-04.58.51:788][404]BlueprintLog: New page: Compile VRPawn
+[2024.01.17-04.58.51:948][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.01.17-04.58.52:520][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-04.58.52:621][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.17-04.58.52:713][455]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.17-04.58.52:713][455]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawnFCF17D7F48D9A3BBFD6183B9289B9FBF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.17-04.58.52:719][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 4.29 sec)
+[2024.01.17-04.58.52:729][455]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.17-04.58.52:729][455]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.17-04.59.13:763][868]BlueprintLog: New page: Compile VRPawn
+[2024.01.17-04.59.13:921][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.01.17-04.59.22:043][684]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: ================================================
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Total job queries 155, among them cache hits 28 (18.06%)
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Tracking 123 distinct input hashes that result in 97 distinct outputs (78.86%)
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: RAM used: 4.13 MiB of 1.60 GiB budget. Usage: 0.25%
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Job execution time: average 1.95 s, max 2.03 s
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Job life time (pending + execution): average 2.00 s, max 2.13
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.05 s
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Average processing rate: 0.99 jobs/sec
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Total thread time: 7.24 s
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Total thread preprocess time: 0.089 s
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Percentage time preprocessing: 1.22%
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Effective parallelization: 1.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 1.82 sec, max 1.82 sec, min 1.81 sec)
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 1.80 sec, max 1.87 sec, min 1.74 sec)
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 50.15% of total time (compiled    2 times, average 1.82 sec, max 1.82 sec, min 1.81 sec)
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 49.85% of total time (compiled    2 times, average 1.80 sec, max 1.87 sec, min 1.74 sec)
+[2024.01.17-04.59.22:065][685]LogShaderCompilers: Display: ================================================
+[2024.01.17-04.59.28:573][378]Cmd: DELETE
+[2024.01.17-04.59.28:573][378]Cmd: ACTOR DELETE
+[2024.01.17-04.59.28:607][378]LogEditorActor: Deleted Actor: BP_Door_02_C
+[2024.01.17-04.59.28:636][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.17-04.59.28:645][378]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2024.01.17-04.59.30:298][544]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-04.59.30:298][544]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-04.59.30:302][544]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_0
+[2024.01.17-04.59.30:306][544]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_0
+[2024.01.17-04.59.30:342][544]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.17-04.59.31:150][599]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-04.59.31:150][599]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-04.59.31:157][599]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_1
+[2024.01.17-04.59.31:161][599]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_1
+[2024.01.17-05.00.06:306][152]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.00.06:310][152]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_8
+[2024.01.17-05.00.06:341][152]EditorErrors: New page: Actor Reattachment
+[2024.01.17-05.00.18:917][409]Cmd: TRANSACTION UNDO
+[2024.01.17-05.00.18:917][409]LogEditorTransaction: Undo Rotate Elements
+[2024.01.17-05.00.19:686][438]Cmd: TRANSACTION UNDO
+[2024.01.17-05.00.19:686][438]LogEditorTransaction: Undo Replace Actor(s)
+[2024.01.17-05.00.29:488][515]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.00.29:492][515]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_8
+[2024.01.17-05.00.29:506][515]EditorErrors: New page: Actor Reattachment
+[2024.01.17-05.00.33:340][887]Cmd: TRANSACTION UNDO
+[2024.01.17-05.00.33:340][887]LogEditorTransaction: Undo Replace Actor(s)
+[2024.01.17-05.00.36:064][122]Cmd: TRANSACTION REDO
+[2024.01.17-05.00.36:064][122]LogEditorTransaction: Redo Replace Actor(s)
+[2024.01.17-05.01.04:619][832]Cmd: TRANSACTION UNDO
+[2024.01.17-05.01.04:619][832]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.17-05.01.05:070][837]Cmd: TRANSACTION UNDO
+[2024.01.17-05.01.05:070][837]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.17-05.01.14:247][708]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01
+[2024.01.17-05.01.14:247][708]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-05.01.14:247][708]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-05.01.15:865][783]LogViewport: Scene viewport resized to 1069x691, mode Windowed.
+[2024.01.17-05.01.23:799][259]BlueprintLog: New page: Compile BP_Door_01
+[2024.01.17-05.01.23:932][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.01.17-05.01.23:966][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-05.01.24:039][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door_01" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset" SILENT=true
+[2024.01.17-05.01.24:047][259]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Door_01
+[2024.01.17-05.01.24:047][259]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/BP_Door_01DCBD6612446B9E3369126AAC52813480.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset'
+[2024.01.17-05.01.24:061][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 4.39 sec)
+[2024.01.17-05.01.24:087][259]AssetCheck: New page: Asset Save: BP_Door_01
+[2024.01.17-05.01.24:087][259]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01
+[2024.01.17-05.01.31:948][742]LogSlate: Window 'BP_Door_01' being destroyed
+[2024.01.17-05.01.31:969][742]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-05.01.31:969][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-05.02.00:125][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.02.00:130][662]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_4
+[2024.01.17-05.02.00:143][662]EditorErrors: New page: Actor Reattachment
+[2024.01.17-05.02.18:911][746]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.17-05.02.18:924][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.17-05.02.18:924][746]PIE: New page: PIE session: IrvingHouse2 (Jan 16, 2024, 1:02:18 PM)
+[2024.01.17-05.02.18:924][746]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.17-05.02.19:156][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.232540s)
+[2024.01.17-05.02.19:156][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.232578s)
+[2024.01.17-05.02.19:156][746]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-05.02.19:156][746]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-05.02.19:157][746]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.17-05.02.19:158][746]LogPlayLevel: PIE: World Init took: (0.001848s)
+[2024.01.17-05.02.19:183][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.17-05.02.19:195][746]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.17-05.02.19:195][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-05.02.19:195][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-05.02.19:195][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-05.02.19:195][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-05.02.19:195][746]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.17-05.02.19:195][746]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.17-05.02.19:195][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.17-05.02.19:195][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-05.02.19:195][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-05.02.19:195][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-05.02.19:195][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-05.02.19:198][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-05.02.19:215][746]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.17-05.02.19:215][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-05.02.19:215][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-05.02.19:215][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-05.02.19:216][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.01.17-05.02.19:216][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.01.17-05.02.19:218][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.01.17-05.02.19:218][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.01.17-05.02.19:218][746]LogInit: FAudioDevice initialized with ID 13.
+[2024.01.17-05.02.19:218][746]LogAudio: Display: Audio Device (ID: 13) registered with world 'IrvingHouse2'.
+[2024.01.17-05.02.19:218][746]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.17-05.02.19:240][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-05.02.19:435][746]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.17-05.02.19:516][746]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.16-21.02.19
+[2024.01.17-05.02.19:517][746]LogWorld: Bringing up level for play took: 0.083255
+[2024.01.17-05.02.19:520][746]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.01.17-05.02.19:524][746]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.17-05.02.19:526][746]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.17-05.02.19:530][746]vr.PixelDensity = "1"
+[2024.01.17-05.02.19:538][746]PIE: Server logged in
+[2024.01.17-05.02.19:541][746]PIE: Play in editor total start time 0.618 seconds.
+[2024.01.17-05.02.19:599][746]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.17-05.02.19:641][746]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.17-05.02.19:737][749]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.17-05.02.22:362][ 25]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.17-05.02.25:957][257]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.26:853][297]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.27:491][326]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.27:898][344]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.28:735][380]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.29:718][423]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.30:477][459]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.30:941][482]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.31:427][511]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.32:164][561]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.32:529][586]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.33:190][624]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.33:989][671]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.38:277][927]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.38:811][959]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.42:292][150]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.42:990][190]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.43:515][223]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.44:779][300]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.02.50:683][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-05.02.50:683][651]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.17-05.02.50:741][651]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.17-05.02.50:766][651]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-05.02.50:778][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-05.02.50:781][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-05.02.50:793][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-05.02.50:831][651]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.17-05.02.50:832][651]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.17-05.02.50:832][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.17-05.02.50:834][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.17-05.02.50:876][651]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.17-05.02.50:876][651]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.17-05.02.50:880][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.01.17-05.02.50:930][652]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.01.17-05.02.56:267][244]LogWindows: LaunchURL https://docs.unrealengine.com/5.2/en/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2024.01.17-05.03.09:081][116]Cmd: TRANSACTION UNDO
+[2024.01.17-05.03.09:081][116]LogEditorTransaction: Undo Move Elements
+[2024.01.17-05.03.13:774][546]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.17-05.03.13:783][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.17-05.03.13:783][546]PIE: New page: PIE session: IrvingHouse2 (Jan 16, 2024, 1:03:13 PM)
+[2024.01.17-05.03.13:812][546]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.17-05.03.14:066][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.254003s)
+[2024.01.17-05.03.14:066][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.254052s)
+[2024.01.17-05.03.14:066][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-05.03.14:066][546]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-05.03.14:067][546]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.17-05.03.14:067][546]LogPlayLevel: PIE: World Init took: (0.001690s)
+[2024.01.17-05.03.14:094][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.17-05.03.14:098][546]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.17-05.03.14:098][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-05.03.14:098][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-05.03.14:099][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-05.03.14:099][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-05.03.14:099][546]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.17-05.03.14:099][546]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.17-05.03.14:099][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.17-05.03.14:099][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-05.03.14:099][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-05.03.14:099][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-05.03.14:099][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-05.03.14:102][546]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-05.03.14:120][546]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.17-05.03.14:120][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-05.03.14:120][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-05.03.14:120][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-05.03.14:121][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.01.17-05.03.14:121][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.01.17-05.03.14:123][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.01.17-05.03.14:123][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.01.17-05.03.14:123][546]LogInit: FAudioDevice initialized with ID 14.
+[2024.01.17-05.03.14:123][546]LogAudio: Display: Audio Device (ID: 14) registered with world 'IrvingHouse2'.
+[2024.01.17-05.03.14:123][546]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.17-05.03.14:142][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-05.03.14:350][546]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.17-05.03.14:432][546]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.16-21.03.14
+[2024.01.17-05.03.14:434][546]LogWorld: Bringing up level for play took: 0.083996
+[2024.01.17-05.03.14:436][546]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.01.17-05.03.14:440][546]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.17-05.03.14:443][546]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.17-05.03.14:446][546]vr.PixelDensity = "1"
+[2024.01.17-05.03.14:453][546]PIE: Server logged in
+[2024.01.17-05.03.14:457][546]PIE: Play in editor total start time 0.675 seconds.
+[2024.01.17-05.03.14:516][546]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.17-05.03.14:554][546]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.17-05.03.14:648][549]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.17-05.03.17:519][818]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.17-05.03.21:699][115]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.21:986][129]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.22:177][138]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.22:524][155]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.22:999][180]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.23:521][206]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.24:943][279]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.26:061][352]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.27:104][415]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.27:606][445]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.28:475][497]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.29:660][568]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.30:195][600]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.31:309][665]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.32:253][720]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.40:504][254]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.41:474][312]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.03.51:392][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-05.03.51:392][934]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.17-05.03.51:442][934]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.17-05.03.51:465][934]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-05.03.51:475][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-05.03.51:478][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-05.03.51:488][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-05.03.51:513][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.17-05.03.51:523][934]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.17-05.03.51:523][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.17-05.03.51:525][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.17-05.03.51:548][934]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.17-05.03.51:548][934]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.17-05.03.51:552][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.17-05.03.51:660][935]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.01.17-05.04.00:132][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-05.04.00:205][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.17-05.04.00:233][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.17-05.04.00:976][802]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.01.17-05.04.00:976][802]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse257EA98C64A5F825E2A60939D5EE49F5C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.01.17-05.04.00:991][802]LogFileHelpers: No new changes to save!
+[2024.01.17-05.04.00:991][802]LogFileHelpers: Saving map 'IrvingHouse2' took 0.789
+[2024.01.17-05.04.00:998][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 865 ms (total: 5.25 sec)
+[2024.01.17-05.04.01:015][802]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.01.17-05.04.01:015][802]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.01.17-05.04.27:338][334]Cmd: TRANSACTION UNDO
+[2024.01.17-05.04.27:338][334]LogEditorTransaction: Undo Move Elements
+[2024.01.17-05.04.28:286][376]Cmd: TRANSACTION UNDO
+[2024.01.17-05.04.28:287][376]LogEditorTransaction: Undo Reset Rotation
+[2024.01.17-05.04.49:852][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01
+[2024.01.17-05.04.49:852][547]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-05.04.49:852][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-05.05.22:546][450]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.17-05.05.22:573][450]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.17-05.05.24:085][539]BlueprintLog: New page: Compile BP_Door_01
+[2024.01.17-05.05.24:173][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.01.17-05.05.24:204][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-05.05.24:280][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door_01" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset" SILENT=true
+[2024.01.17-05.05.24:289][539]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Door_01
+[2024.01.17-05.05.24:290][539]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/BP_Door_012387EAA548F749FFB4BF24B6FC5F0E1A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset'
+[2024.01.17-05.05.24:297][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 5.35 sec)
+[2024.01.17-05.05.24:309][539]AssetCheck: New page: Asset Save: BP_Door_01
+[2024.01.17-05.05.24:309][539]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01
+[2024.01.17-05.05.25:044][578]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.17-05.05.25:053][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.17-05.05.25:053][578]PIE: New page: PIE session: IrvingHouse2 (Jan 16, 2024, 1:05:25 PM)
+[2024.01.17-05.05.25:102][578]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.17-05.05.25:322][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.219517s)
+[2024.01.17-05.05.25:322][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.219569s)
+[2024.01.17-05.05.25:322][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.17-05.05.25:322][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-05.05.25:322][578]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.17-05.05.25:323][578]LogPlayLevel: PIE: World Init took: (0.001531s)
+[2024.01.17-05.05.25:349][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.17-05.05.25:355][578]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.01.17-05.05.25:355][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.17-05.05.25:355][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.17-05.05.25:355][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.17-05.05.25:355][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.17-05.05.25:355][578]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.17-05.05.25:355][578]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.17-05.05.25:355][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.17-05.05.25:355][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.17-05.05.25:356][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.17-05.05.25:356][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.17-05.05.25:356][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.17-05.05.25:358][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.17-05.05.25:375][578]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.17-05.05.25:375][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.17-05.05.25:375][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.17-05.05.25:375][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.17-05.05.25:376][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.01.17-05.05.25:376][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.01.17-05.05.25:377][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.01.17-05.05.25:377][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.01.17-05.05.25:377][578]LogInit: FAudioDevice initialized with ID 15.
+[2024.01.17-05.05.25:377][578]LogAudio: Display: Audio Device (ID: 15) registered with world 'IrvingHouse2'.
+[2024.01.17-05.05.25:378][578]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.01.17-05.05.25:393][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-05.05.25:611][578]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.17-05.05.25:702][578]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.16-21.05.25
+[2024.01.17-05.05.25:704][578]LogWorld: Bringing up level for play took: 0.092355
+[2024.01.17-05.05.25:706][578]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.01.17-05.05.25:709][578]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.17-05.05.25:713][578]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.17-05.05.25:716][578]vr.PixelDensity = "1"
+[2024.01.17-05.05.25:728][578]PIE: Server logged in
+[2024.01.17-05.05.25:734][578]PIE: Play in editor total start time 0.681 seconds.
+[2024.01.17-05.05.25:796][578]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.17-05.05.25:838][578]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.17-05.05.25:946][581]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.17-05.05.30:337][ 68]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.17-05.05.33:492][268]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.33:746][280]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.33:955][289]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.34:262][303]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.34:628][321]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.35:169][345]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.35:634][367]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.39:429][572]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.39:962][601]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.40:763][645]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.41:490][687]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.42:025][720]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.42:404][743]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.42:814][767]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.43:971][836]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.45:207][910]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.50:604][233]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.51:114][265]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.51:646][301]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.59:636][774]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.05.59:998][792]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.06.00:448][817]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.06.01:601][887]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.06.02:419][930]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.06.03:047][964]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.06.04:519][ 43]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.17-05.06.14:383][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.17-05.06.14:383][617]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.17-05.06.14:506][617]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.17-05.06.14:511][617]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-05.06.14:521][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-05.06.14:530][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.17-05.06.14:540][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-05.06.14:578][617]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.17-05.06.14:579][617]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.01.17-05.06.14:579][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.01.17-05.06.14:581][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.01.17-05.06.14:607][617]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.17-05.06.14:607][617]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.17-05.06.14:609][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.01.17-05.06.14:751][618]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.01.17-05.06.18:560][874]LogSlate: Window 'BP_Door_01' being destroyed
+[2024.01.17-05.06.29:782][914]Cmd: DELETE
+[2024.01.17-05.06.29:783][914]Cmd: ACTOR DELETE
+[2024.01.17-05.06.29:819][914]LogEditorActor: Deleted Actor: BP_Door_01_C
+[2024.01.17-05.06.29:851][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.17-05.06.29:859][914]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2024.01.17-05.06.45:316][342]Cmd: DELETE
+[2024.01.17-05.06.45:316][342]Cmd: ACTOR DELETE
+[2024.01.17-05.06.45:350][342]LogEditorActor: Deleted Actor: BP_Door_01_C
+[2024.01.17-05.06.45:378][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.17-05.06.45:385][342]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2024.01.17-05.06.47:088][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.06.47:089][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.06.47:093][514]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_5
+[2024.01.17-05.06.47:096][514]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_5
+[2024.01.17-05.06.48:025][566]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.06.48:025][566]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.06.48:032][566]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_6
+[2024.01.17-05.06.48:035][566]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_6
+[2024.01.17-05.07.36:469][271]Cmd: DELETE
+[2024.01.17-05.07.36:469][271]Cmd: ACTOR DELETE
+[2024.01.17-05.07.36:505][271]LogEditorActor: Deleted Actor: BP_Door_02_C
+[2024.01.17-05.07.36:537][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.17-05.07.36:547][271]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2024.01.17-05.07.37:057][301]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.07.37:057][301]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.07.37:062][301]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_7
+[2024.01.17-05.07.37:067][301]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_7
+[2024.01.17-05.07.41:099][640]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.07.41:099][640]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.07.41:106][640]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_8
+[2024.01.17-05.07.41:109][640]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_8
+[2024.01.17-05.07.57:631][166]Cmd: DELETE
+[2024.01.17-05.07.57:631][166]Cmd: ACTOR DELETE
+[2024.01.17-05.07.57:664][166]LogEditorActor: Deleted Actor: BP_Door_02_C
+[2024.01.17-05.07.57:696][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.17-05.07.57:704][166]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2024.01.17-05.07.58:568][231]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.07.58:568][231]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.07.58:572][231]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_9
+[2024.01.17-05.07.58:576][231]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_9
+[2024.01.17-05.08.00:510][381]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.08.00:510][381]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Door_01.BP_Door_01_C
+[2024.01.17-05.08.00:516][381]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_10
+[2024.01.17-05.08.00:519][381]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01 as actor: BP_Door_01_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Door_01_C_10
+[2024.01.17-05.08.12:068][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-05.08.12:139][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.17-05.08.12:171][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.01.17-05.08.12:910][402]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.01.17-05.08.12:911][402]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2FA30F8C44E7C9D3218ACB3AC370DD601.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.01.17-05.08.12:926][402]LogFileHelpers: No new changes to save!
+[2024.01.17-05.08.12:926][402]LogFileHelpers: Saving map 'IrvingHouse2' took 0.789
+[2024.01.17-05.08.12:943][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 875 ms (total: 6.22 sec)
+[2024.01.17-05.08.12:962][402]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.01.17-05.08.12:962][402]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
