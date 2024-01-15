@@ -1305,3 +1305,376 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.15-23.24.57:137][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
 [2024.01.15-23.24.57:146][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2024.01.15-23.24.57:189][128]LogAutomationController: Ignoring very large delta of 2.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-23.26.20:604][647]Cmd: stat fps
+[2024.01.15-23.26.25:367][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.15-23.26.27:285][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.26.27:310][197]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/IrvingHouse.IrvingHouse
+[2024.01.15-23.26.27:310][197]Cmd: MAP LOAD FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.15-23.26.27:310][197]LightingResults: New page: Lighting Build
+[2024.01.15-23.26.27:310][197]LoadErrors: New page: Loading map: IrvingHouse.umap
+[2024.01.15-23.26.27:362][197]LogWorld: UWorld::CleanupWorld for Day_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-23.26.27:363][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-23.26.27:363][197]MapCheck: New page: Map Check
+[2024.01.15-23.26.27:363][197]LightingResults: New page: Lighting Build
+[2024.01.15-23.26.27:374][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-23.26.27:407][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.15-23.26.27:417][197]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-23.26.27:421][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-23.26.27:440][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.15-23.26.27:452][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.15-23.26.27:551][197]LogAudio: Display: Audio Device (ID: 1) registered with world 'IrvingHouse'.
+[2024.01.15-23.26.27:551][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.26.27:551][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-23.26.27:551][197]LogAIModule: Creating AISystem for world IrvingHouse
+[2024.01.15-23.26.27:769][197]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.15-23.26.27:785][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.15-23.26.27:790][197]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.15-23.26.27:791][197]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2024.01.15-23.26.27:791][197]LogFileHelpers: Loading map 'IrvingHouse' took 0.480
+[2024.01.15-23.26.27:868][198]LogAutomationController: Ignoring very large delta of 2.51 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-23.26.56:428][550]LogDerivedDataCache: C:/Users/macap/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:44.284 and deleted 0 files with total size 0 MiB and 74 empty folders. Scanned 23287 files in 25820 folders with total size 3094 MiB.
+[2024.01.15-23.27.09:445][ 90]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.09:540][ 93]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.09:571][ 94]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.09:591][ 95]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.09:611][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.09:714][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.13:421][523]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.15:944][719]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.01.15-23.27.16:539][719]LogMetaData: Removing '/Game/Levels/Day_Map.Day_Map_C' ref from Metadata '/Game/Victorian_House/Maps/Day_Map.PackageMetaData'
+[2024.01.15-23.27.16:544][719]LogMetaData: Removing '/Game/Levels/Day_Map.SKEL_Day_Map_C' ref from Metadata '/Game/Victorian_House/Maps/Day_Map.PackageMetaData'
+[2024.01.15-23.27.16:554][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-23.27.16:607][719]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-23.27.16:697][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Day_Map" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Day_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.15-23.27.16:709][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.15-23.27.17:501][719]LogSavePackage: Moving output files for package: /Game/Levels/Day_Map
+[2024.01.15-23.27.17:501][719]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Day_Map97E5926C49AB613DCEF61C8550F8AF80.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Day_Map.umap'
+[2024.01.15-23.27.17:525][719]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Levels/Day_Map_BuiltData
+[2024.01.15-23.27.17:525][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-23.27.17:525][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Day_Map_BuiltData" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Day_Map_BuiltData.uasset" SILENT=true
+[2024.01.15-23.27.17:902][719]LogSavePackage: Moving output files for package: /Game/Levels/Day_Map_BuiltData
+[2024.01.15-23.27.17:902][719]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Day_Map_BuiltData4B3E7556446D3C2EA093B2B1071A89BD.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Day_Map_BuiltData.uasset'
+[2024.01.15-23.27.17:903][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 378 ms (total: 1.06 sec)
+[2024.01.15-23.27.17:903][719]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Levels/Day_Map_BuiltData
+[2024.01.15-23.27.17:952][719]LogFileHelpers: Saving map 'Day_Map' took 1.351
+[2024.01.15-23.27.17:952][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Day_Map_BuiltData" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Day_Map_BuiltData.uasset" SILENT=true
+[2024.01.15-23.27.18:280][719]LogSavePackage: Moving output files for package: /Game/Levels/Day_Map_BuiltData
+[2024.01.15-23.27.18:280][719]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Day_Map_BuiltData3782B237469FC5FAD1D73C812CDB0126.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Day_Map_BuiltData.uasset'
+[2024.01.15-23.27.18:293][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.73 sec (total: 2.80 sec)
+[2024.01.15-23.27.18:313][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.15-23.27.18:328][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.01.15-23.27.18:337][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.15-23.27.18:395][719]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.15-23.27.18:395][719]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Day_Map.Day_Map
+[2024.01.15-23.27.18:395][719]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/Levels/Day_Map_BuiltData.Day_Map_BuiltData
+[2024.01.15-23.27.18:404][720]LogAutomationController: Ignoring very large delta of 3.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-23.27.20:700][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-23.27.20:761][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.15-23.27.20:771][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.15-23.27.20:908][982]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse
+[2024.01.15-23.27.20:908][982]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse64D22D624A08FA3298C7E9A08BD8FC77.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse.umap'
+[2024.01.15-23.27.20:924][982]LogFileHelpers: No new changes to save!
+[2024.01.15-23.27.20:924][982]LogFileHelpers: Saving map 'IrvingHouse' took 0.164
+[2024.01.15-23.27.20:931][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 3.03 sec)
+[2024.01.15-23.27.20:939][982]AssetCheck: New page: Asset Save: IrvingHouse
+[2024.01.15-23.27.20:939][982]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse.IrvingHouse
+[2024.01.15-23.27.28:739][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.15-23.27.29:466][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.15-23.27.31:714][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.15-23.27.31:717][249]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Day_Map.Day_Map
+[2024.01.15-23.27.31:718][249]Cmd: MAP LOAD FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Day_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.15-23.27.31:718][249]LightingResults: New page: Lighting Build
+[2024.01.15-23.27.31:718][249]LoadErrors: New page: Loading map: Day_Map.umap
+[2024.01.15-23.27.31:722][249]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-23.27.31:722][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-23.27.31:723][249]MapCheck: New page: Map Check
+[2024.01.15-23.27.31:723][249]LightingResults: New page: Lighting Build
+[2024.01.15-23.27.31:734][249]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.15-23.27.31:740][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.01.15-23.27.31:747][249]LogWorld: UWorld::CleanupWorld for Day_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-23.27.31:754][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-23.27.31:795][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.15-23.27.31:807][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.15-23.27.31:972][249]LogAudio: Display: Audio Device (ID: 1) registered with world 'Day_Map'.
+[2024.01.15-23.27.31:972][249]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.31:972][249]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-23.27.31:973][249]LogAIModule: Creating AISystem for world Day_Map
+[2024.01.15-23.27.32:496][249]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.15-23.27.32:557][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.15-23.27.32:562][249]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.15-23.27.32:563][249]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.463ms to complete.
+[2024.01.15-23.27.32:563][249]LogFileHelpers: Loading map 'Day_Map' took 0.845
+[2024.01.15-23.27.38:336][848]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.38:495][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.38:609][850]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.45:914][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.15-23.27.46:563][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.51:938][647]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: ================================================
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Total job queries 268, among them cache hits 112 (41.79%)
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Tracking 152 distinct input hashes that result in 99 distinct outputs (65.13%)
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: RAM used: 4.27 MiB of 1.60 GiB budget. Usage: 0.26%
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.07 s
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Job execution time: average 2.28 s, max 2.45 s
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Job life time (pending + execution): average 2.32 s, max 2.51
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.64 s
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Average processing rate: 0.86 jobs/sec
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Total thread time: 8.445 s
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Total thread preprocess time: 0.096 s
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Percentage time preprocessing: 1.14%
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Effective parallelization: 1.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 2.12 sec, max 2.20 sec, min 2.03 sec)
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 2.11 sec, max 2.21 sec, min 2.01 sec)
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 50.10% of total time (compiled    2 times, average 2.12 sec, max 2.20 sec, min 2.03 sec)
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 49.90% of total time (compiled    2 times, average 2.11 sec, max 2.21 sec, min 2.01 sec)
+[2024.01.15-23.27.51:949][647]LogShaderCompilers: Display: ================================================
+[2024.01.15-23.27.51:967][648]LogAutomationController: Ignoring very large delta of 6.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-23.27.51:969][648]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.55:697][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.15-23.27.57:057][ 39]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.15-23.27.57:062][ 39]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Victorian_House/Blueprints/BP_AtticStair.BP_AtticStair
+[2024.01.15-23.27.57:072][ 39]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.27.57:072][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-23.27.59:065][ 39]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.01.15-23.27.59:900][ 39]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049952s
+[2024.01.15-23.28.00:218][ 39]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001040s (0.365154s overbudget)
+[2024.01.15-23.28.00:448][ 39]LogSlate: Took 0.018308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.01.15-23.28.01:027][ 40]LogAutomationController: Ignoring very large delta of 5.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-23.28.01:039][ 40]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.01.15-23.28.24:030][652]LogEditorTransaction: Undo Delete current selection
+[2024.01.15-23.28.37:213][713]BlueprintLog: New page: Compile BP_AtticStair
+[2024.01.15-23.28.37:310][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.01.15-23.28.37:333][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-23.28.37:448][713]LogSavePackage: Moving output files for package: /Game/Victorian_House/Blueprints/BP_AtticStair
+[2024.01.15-23.28.37:449][713]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/BP_AtticStairB1A72F2A43A7CE3BCECFF0BBF9481918.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Victorian_House/Blueprints/BP_AtticStair.uasset'
+[2024.01.15-23.28.37:462][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 3.16 sec)
+[2024.01.15-23.28.37:472][713]AssetCheck: New page: Asset Save: BP_AtticStair
+[2024.01.15-23.28.37:472][713]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Victorian_House/Blueprints/BP_AtticStair.BP_AtticStair
+[2024.01.15-23.28.38:223][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-23.28.38:310][760]LogSavePackage: Moving output files for package: /Game/Victorian_House/Blueprints/BP_AtticStair
+[2024.01.15-23.28.38:311][760]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/BP_AtticStairBCAFB778423C3EB2999F54ACB36A4B06.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Victorian_House/Blueprints/BP_AtticStair.uasset'
+[2024.01.15-23.28.38:323][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 3.26 sec)
+[2024.01.15-23.28.38:337][760]AssetCheck: New page: Asset Save: BP_AtticStair
+[2024.01.15-23.28.38:337][760]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Victorian_House/Blueprints/BP_AtticStair.BP_AtticStair
+[2024.01.15-23.28.39:268][831]LogSlate: Window 'BP_AtticStair' being destroyed
+[2024.01.15-23.28.39:274][831]LogSlate: Window 'BP_AtticStair' being destroyed
+[2024.01.15-23.28.39:288][831]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-23.28.39:288][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-23.28.42:193][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.15-23.28.44:019][143]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.15-23.28.44:170][143]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Victorian_House/Animations/AnimBP_ThirdPerson.AnimBP_ThirdPerson
+	Asset Type: AnimBlueprint
+	Asset Name: /Game/Victorian_House/Animations/BS_ThirdPerson.BS_ThirdPerson
+	Asset Type: BlendSpace1D
+	Asset Name: /Game/Victorian_House/Animations/Anim_Walk.Anim_Walk
+	Asset Type: AnimSequence
+	Asset Name: /Game/Victorian_House/Animations/Anim_Run.Anim_Run
+	Asset Type: AnimSequence
+	Asset Name: /Game/Victorian_House/Animations/Anim_Idle.Anim_Idle
+	Asset Type: AnimSequence
+	Asset Name: /Game/Victorian_House/Animations/Anim_AtticStair_Open.Anim_AtticStair_Open
+	Asset Type: AnimSequence
+	Asset Name: /Game/Victorian_House/Animations/Anim_AtticStair_Close.Anim_AtticStair_Close
+	Asset Type: AnimSequence
+[2024.01.15-23.28.44:285][143]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.01.15-23.28.44:291][143]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 77704715 bytes
+[2024.01.15-23.28.45:508][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.15-23.28.45:530][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.01.15-23.28.45:550][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.15-23.28.45:591][144]LogAutomationController: Ignoring very large delta of 3.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-23.28.52:197][859]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.28.56:321][256]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.28.56:374][257]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.28.56:388][258]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.28.56:524][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.28.56:540][270]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.28.58:683][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.15-23.29.00:701][484]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.15-23.29.00:795][484]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Victorian_House/SkeletalMeshes/SM_AtticStair.SM_AtticStair
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Victorian_House/SkeletalMeshes/SM_AtticStair_PhysicsAsset.SM_AtticStair_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Victorian_House/SkeletalMeshes/SM_Mannequin_Skeleton.SM_Mannequin_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Victorian_House/SkeletalMeshes/SM_AtticStair_Skeleton.SM_AtticStair_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Victorian_House/SkeletalMeshes/SM_Mannequin.SM_Mannequin
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Victorian_House/SkeletalMeshes/SM_Mannequin_PhysicsAsset.SM_Mannequin_PhysicsAsset
+	Asset Type: PhysicsAsset
+[2024.01.15-23.29.00:877][484]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.01.15-23.29.00:883][484]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 77704715 bytes
+[2024.01.15-23.29.01:198][484]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SM_Mannequin) ...
+[2024.01.15-23.29.01:449][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.15-23.29.01:471][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.15-23.29.01:492][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.15-23.29.01:552][485]LogAutomationController: Ignoring very large delta of 2.91 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-23.29.03:046][640]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.03:096][641]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.03:123][642]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.03:167][643]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.03:195][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.03:224][645]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.03:249][646]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.03:276][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.03:301][648]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.03:334][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.03:356][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.03:398][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:501][793]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:521][794]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:631][795]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:721][796]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:746][797]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:772][798]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:797][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:823][800]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:850][801]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:876][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:906][803]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:928][804]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:955][805]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.05:996][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.06:013][807]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.06:041][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.06:798][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.15-23.29.09:122][853]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.15-23.29.09:196][853]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Victorian_House/Blueprints/BP_VictorianCharacter.BP_VictorianCharacter
+	Asset Type: Blueprint
+[2024.01.15-23.29.09:280][853]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.01.15-23.29.09:286][853]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 77704715 bytes
+[2024.01.15-23.29.09:600][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.15-23.29.09:653][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.15-23.29.09:674][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.15-23.29.09:692][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.15-23.29.09:722][854]LogAutomationController: Ignoring very large delta of 2.95 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-23.29.09:727][854]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.09:786][855]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.11:830][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.15-23.29.11:858][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.15-23.29.13:087][994]LogSlate: Window 'Save Content' being destroyed
+[2024.01.15-23.29.13:098][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-23.29.13:171][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Day_Map" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Day_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.15-23.29.13:195][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.15-23.29.13:966][994]LogSavePackage: Moving output files for package: /Game/Levels/Day_Map
+[2024.01.15-23.29.13:967][994]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Day_Map74B66EB6478CD0E70D9BD1A187A0E580.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Day_Map.umap'
+[2024.01.15-23.29.13:981][994]LogFileHelpers: No new changes to save!
+[2024.01.15-23.29.13:981][994]LogFileHelpers: Saving map 'Day_Map' took 0.813
+[2024.01.15-23.29.14:010][994]LogSavePackage: Moving output files for package: /Game/Victorian_House/Blueprints/BP_AtticStair
+[2024.01.15-23.29.14:011][994]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/BP_AtticStair28ED37F04E24911F31ED7A9BC146A814.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Victorian_House/Blueprints/BP_AtticStair.uasset'
+[2024.01.15-23.29.14:013][994]LogSavePackage: Moving output files for package: /Game/Victorian_House/Blueprints/BP_VictorianGameMode
+[2024.01.15-23.29.14:014][994]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/BP_VictorianGameModeBE00E63E442BE60FD8DA68A195F963A5.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Victorian_House/Blueprints/BP_VictorianGameMode.uasset'
+[2024.01.15-23.29.14:021][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 922 ms (total: 4.19 sec)
+[2024.01.15-23.29.14:038][994]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.15-23.29.14:038][994]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Victorian_House/Blueprints/BP_AtticStair.BP_AtticStair
+[2024.01.15-23.29.14:038][994]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Victorian_House/Blueprints/BP_VictorianGameMode.BP_VictorianGameMode
+[2024.01.15-23.29.14:038][994]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Day_Map.Day_Map
+[2024.01.15-23.29.14:047][995]LogAutomationController: Ignoring very large delta of 2.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-23.29.14:052][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:187][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:208][997]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:233][998]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:256][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:282][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:308][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:335][  2]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:381][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:405][  4]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:429][  5]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:454][  6]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:480][  7]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:502][  8]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:527][  9]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:551][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:575][ 11]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:614][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:645][ 13]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:674][ 14]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:698][ 15]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:728][ 16]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:759][ 17]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:786][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:848][ 19]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:868][ 20]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:931][ 21]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.14:975][ 22]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.15:004][ 23]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.15:042][ 24]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.15:064][ 25]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.22:020][731]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Victorian_House/UMG/Look_Widget.Look_Widget
+[2024.01.15-23.29.22:021][731]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.22:022][731]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-23.29.22:037][731]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.22:037][731]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-23.29.22:043][731]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.01.15-23.29.22:861][731]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.01.15-23.29.22:881][731]LogSlate: Took 0.016551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.15-23.29.25:115][923]LogSlate: Window 'Look_Widget' being destroyed
+[2024.01.15-23.29.25:121][923]LogSlate: Window 'Look_Widget' being destroyed
+[2024.01.15-23.29.25:240][923]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-23.29.25:240][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-23.29.25:248][923]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-23.29.25:248][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-23.29.26:378][ 39]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Victorian_House/UMG/Scale_Widget.Scale_Widget
+[2024.01.15-23.29.26:378][ 39]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.26:378][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-23.29.26:395][ 39]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.26:395][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-23.29.32:930][457]LogSlate: Window 'Scale_Widget' being destroyed
+[2024.01.15-23.29.32:936][457]LogSlate: Window 'Scale_Widget' being destroyed
+[2024.01.15-23.29.32:946][457]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-23.29.32:946][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-23.29.32:956][457]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-23.29.32:956][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-23.29.37:686][953]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Victorian_House/UMG/LightOn_Widget.LightOn_Widget
+[2024.01.15-23.29.37:686][953]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.37:686][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-23.29.37:694][953]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.37:694][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-23.29.40:153][148]LogSlate: Window 'LightOn_Widget' being destroyed
+[2024.01.15-23.29.40:158][148]LogSlate: Window 'LightOn_Widget' being destroyed
+[2024.01.15-23.29.40:168][148]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-23.29.40:169][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-23.29.40:177][148]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-23.29.40:177][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-23.29.45:726][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.15-23.29.50:796][727]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.15-23.29.50:801][727]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Victorian_House/Blueprints/BP_Door_03.BP_Door_03
+[2024.01.15-23.29.50:801][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.15-23.29.50:801][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.15-23.29.51:046][728]LogAutomationController: Ignoring very large delta of 5.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.15-23.30.25:006][ 58]LogSlate: Window 'BP_Door_03' being destroyed
+[2024.01.15-23.30.25:012][ 58]LogSlate: Window 'BP_Door_03' being destroyed
+[2024.01.15-23.30.25:018][ 58]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2024.01.15-23.30.25:018][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.15-23.30.36:241][141]LogViewport: Scene viewport resized to 1178x540, mode Windowed.
+[2024.01.15-23.30.36:263][142]LogViewport: Scene viewport resized to 1178x535, mode Windowed.
+[2024.01.15-23.30.36:292][143]LogViewport: Scene viewport resized to 1178x527, mode Windowed.
+[2024.01.15-23.30.36:322][144]LogViewport: Scene viewport resized to 1178x515, mode Windowed.
+[2024.01.15-23.30.36:348][145]LogViewport: Scene viewport resized to 1178x503, mode Windowed.
+[2024.01.15-23.30.36:375][146]LogViewport: Scene viewport resized to 1178x496, mode Windowed.
+[2024.01.15-23.30.36:403][147]LogViewport: Scene viewport resized to 1178x491, mode Windowed.
+[2024.01.15-23.30.36:429][148]LogViewport: Scene viewport resized to 1178x487, mode Windowed.
+[2024.01.15-23.30.36:473][151]LogViewport: Scene viewport resized to 1178x485, mode Windowed.
+[2024.01.15-23.30.36:494][152]LogViewport: Scene viewport resized to 1178x483, mode Windowed.
+[2024.01.15-23.30.36:520][153]LogViewport: Scene viewport resized to 1178x480, mode Windowed.
+[2024.01.15-23.30.36:545][154]LogViewport: Scene viewport resized to 1178x478, mode Windowed.
+[2024.01.15-23.30.36:572][155]LogViewport: Scene viewport resized to 1178x475, mode Windowed.
+[2024.01.15-23.30.36:614][158]LogViewport: Scene viewport resized to 1178x474, mode Windowed.
+[2024.01.15-23.30.36:726][170]LogViewport: Scene viewport resized to 1178x473, mode Windowed.
+[2024.01.15-23.30.36:755][172]LogViewport: Scene viewport resized to 1178x471, mode Windowed.
+[2024.01.15-23.30.41:969][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.15-23.30.52:291][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
