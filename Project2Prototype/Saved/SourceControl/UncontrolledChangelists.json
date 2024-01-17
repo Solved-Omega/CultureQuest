@@ -37,14 +37,16 @@
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/BPI/BPI_SaveGame.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/BPI/BPI_Getters.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/BPI/BPI_Interactables.uasset",
+				"D:/Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse.umap",
+				"D:/Download/CultureQuerst/Project2Prototype/Content/Levels/Testing.umap",
+				"D:/Download/CultureQuerst/Project2Prototype/Content/Levels/Lobby.umap",
+				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn_Child.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/Interfaces/BPI_Interactables.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/Interfaces/BPI_Getters.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/Interfaces/BPI_SaveGame.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/Interfaces/BPI_Widgets.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/Interfaces/BPI_WidgetBackgroundBlur.uasset",
-				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/Interfaces/BPI_Player.uasset",
-				"D:/Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse.umap",
-				"D:/Download/CultureQuerst/Project2Prototype/Content/Levels/Testing.umap"
+				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/Interfaces/BPI_Player.uasset"
 			]
 		}
 	]
