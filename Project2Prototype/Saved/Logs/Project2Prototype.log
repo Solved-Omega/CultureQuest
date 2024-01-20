@@ -3719,3 +3719,132 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.23-03.20.01:236][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 813 ms (total: 8.30 sec)
 [2024.01.23-03.20.01:253][559]AssetCheck: New page: Asset Save: IrvingHouse2
 [2024.01.23-03.20.01:253][559]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: ================================================
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Total job queries 198, among them cache hits 54 (27.27%)
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Tracking 140 distinct input hashes that result in 113 distinct outputs (80.71%)
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: RAM used: 4.40 MiB of 1.60 GiB budget. Usage: 0.27%
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.04 s
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Job execution time: average 1.90 s, max 2.04 s
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Job life time (pending + execution): average 1.92 s, max 2.08
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.90 s
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Average processing rate: 1.03 jobs/sec
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Total thread time: 6.972 s
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Total thread preprocess time: 0.088 s
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Percentage time preprocessing: 1.26%
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Effective parallelization: 1.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 1.75 sec, max 1.76 sec, min 1.75 sec)
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 1.73 sec, max 1.75 sec, min 1.71 sec)
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 50.34% of total time (compiled    2 times, average 1.75 sec, max 1.76 sec, min 1.75 sec)
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 49.66% of total time (compiled    2 times, average 1.73 sec, max 1.75 sec, min 1.71 sec)
+[2024.01.23-03.25.01:400][400]LogShaderCompilers: Display: ================================================
+[2024.01.23-03.25.48:341][721]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.23-03.25.48:352][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.23-03.25.48:352][721]PIE: New page: PIE session: IrvingHouse2 (Jan 22, 2024, 11:25:48 AM)
+[2024.01.23-03.25.48:352][721]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.23-03.25.48:565][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.212014s)
+[2024.01.23-03.25.48:565][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.212057s)
+[2024.01.23-03.25.48:565][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-03.25.48:565][721]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-03.25.48:566][721]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.23-03.25.48:566][721]LogPlayLevel: PIE: World Init took: (0.001589s)
+[2024.01.23-03.25.48:592][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.01.23-03.25.48:595][721]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.01.23-03.25.48:595][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.23-03.25.48:595][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.23-03.25.48:595][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.23-03.25.48:595][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.23-03.25.48:595][721]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.23-03.25.48:595][721]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.23-03.25.48:595][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.23-03.25.48:595][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.23-03.25.48:595][721]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.23-03.25.48:595][721]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.23-03.25.48:595][721]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.23-03.25.48:598][721]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.23-03.25.48:616][721]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.23-03.25.48:616][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.23-03.25.48:616][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.23-03.25.48:616][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.23-03.25.48:617][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.01.23-03.25.48:617][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.01.23-03.25.48:619][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.01.23-03.25.48:619][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.01.23-03.25.48:619][721]LogInit: FAudioDevice initialized with ID 29.
+[2024.01.23-03.25.48:619][721]LogAudio: Display: Audio Device (ID: 29) registered with world 'IrvingHouse2'.
+[2024.01.23-03.25.48:619][721]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.01.23-03.25.48:637][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.23-03.25.48:886][721]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.23-03.25.48:976][721]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.22-19.25.48
+[2024.01.23-03.25.48:977][721]LogWorld: Bringing up level for play took: 0.091301
+[2024.01.23-03.25.48:981][721]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.01.23-03.25.48:984][721]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.23-03.25.48:986][721]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.23-03.25.48:988][721]vr.PixelDensity = "1"
+[2024.01.23-03.25.48:999][721]PIE: Server logged in
+[2024.01.23-03.25.49:003][721]PIE: Play in editor total start time 0.651 seconds.
+[2024.01.23-03.25.49:061][721]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.23-03.25.49:100][721]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.23-03.25.49:203][724]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.23-03.25.53:712][120]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.23-03.26.07:948][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.23-03.26.07:948][985]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.23-03.26.07:999][985]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.23-03.26.08:019][985]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.23-03.26.08:029][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-03.26.08:034][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.23-03.26.08:044][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-03.26.08:079][985]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.01.23-03.26.08:079][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.01.23-03.26.08:081][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.01.23-03.26.08:101][985]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.23-03.26.08:101][985]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.23-03.26.08:106][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.23-03.26.08:208][986]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.01.23-03.26.10:713][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-03.26.10:795][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.23-03.26.10:824][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.01.23-03.26.11:537][221]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.01.23-03.26.11:538][221]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2D204C37D4B56A7C9E1C25085C3404D08.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.01.23-03.26.11:553][221]LogFileHelpers: No new changes to save!
+[2024.01.23-03.26.11:554][221]LogFileHelpers: Saving map 'IrvingHouse2' took 0.762
+[2024.01.23-03.26.11:561][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 847 ms (total: 9.14 sec)
+[2024.01.23-03.26.11:577][221]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.01.23-03.26.11:577][221]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.01.23-03.26.18:439][873]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.23-03.26.22:084][197]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2024.01.23-03.26.22:084][197]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2024.01.23-03.26.22:085][197]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.NavModifierVolume_0
+[2024.01.23-03.26.22:086][197]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.NavModifierVolume_0
+[2024.01.23-03.26.22:939][271]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2024.01.23-03.26.22:939][271]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2024.01.23-03.26.22:945][271]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.NavModifierVolume_1
+[2024.01.23-03.26.22:947][271]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.NavModifierVolume_1
+[2024.01.23-03.27.03:478][165]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2024.01.23-03.27.03:478][165]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2024.01.23-03.27.03:480][165]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.NavModifierVolume_2
+[2024.01.23-03.27.03:482][165]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.NavModifierVolume_2
+[2024.01.23-03.27.04:215][223]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2024.01.23-03.27.04:215][223]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavModifierVolume
+[2024.01.23-03.27.04:219][223]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.NavModifierVolume_3
+[2024.01.23-03.27.04:220][223]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavModifierVolume as actor: NavModifierVolume /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.NavModifierVolume_3
+[2024.01.23-03.27.53:841][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.01.23-03.27.53:873][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.23-03.27.54:954][677]LogSlate: Window 'Save Content' being destroyed
+[2024.01.23-03.27.54:963][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-03.27.55:030][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.23-03.27.55:053][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.23-03.27.55:752][677]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.01.23-03.27.55:752][677]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2AAB77F4040D7C2D5081074A00AD61135.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.01.23-03.27.55:767][677]LogFileHelpers: No new changes to save!
+[2024.01.23-03.27.55:768][677]LogFileHelpers: Saving map 'IrvingHouse2' took 0.740
+[2024.01.23-03.27.55:775][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 811 ms (total: 9.95 sec)
+[2024.01.23-03.27.55:792][677]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.01.23-03.27.55:792][677]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
