@@ -3504,3 +3504,61 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.23-03.07.31:276][675]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
 [2024.01.23-03.07.41:428][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2024.01.23-03.07.42:223][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.23-03.15.18:173][623]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01
+[2024.01.23-03.15.18:174][623]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-03.15.18:174][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-03.15.25:374][206]LogViewport: Scene viewport resized to 1069x691, mode Windowed.
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: ================================================
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Total job queries 193, among them cache hits 52 (26.94%)
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Tracking 137 distinct input hashes that result in 110 distinct outputs (80.29%)
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: RAM used: 4.33 MiB of 1.60 GiB budget. Usage: 0.26%
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.04 s
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Job execution time: average 1.90 s, max 2.04 s
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Job life time (pending + execution): average 1.92 s, max 2.08
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.90 s
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Average processing rate: 1.03 jobs/sec
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Total thread time: 6.972 s
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Total thread preprocess time: 0.088 s
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Percentage time preprocessing: 1.26%
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Effective parallelization: 1.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 1.75 sec, max 1.76 sec, min 1.75 sec)
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 1.73 sec, max 1.75 sec, min 1.71 sec)
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 50.34% of total time (compiled    2 times, average 1.75 sec, max 1.76 sec, min 1.75 sec)
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 49.66% of total time (compiled    2 times, average 1.73 sec, max 1.75 sec, min 1.71 sec)
+[2024.01.23-03.15.25:448][208]LogShaderCompilers: Display: ================================================
+[2024.01.23-03.15.32:533][ 22]BlueprintLog: New page: Compile BP_Door_01
+[2024.01.23-03.15.32:600][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.01.23-03.15.32:630][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-03.15.32:699][ 22]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-03.15.32:722][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door_01" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset" SILENT=true
+[2024.01.23-03.15.32:732][ 22]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Door_01
+[2024.01.23-03.15.32:733][ 22]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/BP_Door_01C11DDB8646BED41B3724948BCC57C58C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset'
+[2024.01.23-03.15.32:744][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 6.51 sec)
+[2024.01.23-03.15.32:768][ 22]AssetCheck: New page: Asset Save: BP_Door_01
+[2024.01.23-03.15.32:768][ 22]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01
+[2024.01.23-03.15.33:141][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-03.15.33:199][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door_01" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset" SILENT=true
+[2024.01.23-03.15.33:207][ 55]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Door_01
+[2024.01.23-03.15.33:208][ 55]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/BP_Door_010A2D8895454D70F8C0E14CA384CE1EB4.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset'
+[2024.01.23-03.15.33:215][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 6.59 sec)
+[2024.01.23-03.15.33:225][ 55]AssetCheck: New page: Asset Save: BP_Door_01
+[2024.01.23-03.15.33:225][ 55]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01
+[2024.01.23-03.15.34:146][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.23-03.15.34:151][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-03.15.34:217][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.23-03.15.34:242][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.23-03.15.34:930][160]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.01.23-03.15.34:930][160]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse294409B1B492E60B6F25A6C977F7C6ED4.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.01.23-03.15.34:947][160]LogFileHelpers: No new changes to save!
+[2024.01.23-03.15.34:947][160]LogFileHelpers: Saving map 'IrvingHouse2' took 0.732
+[2024.01.23-03.15.34:954][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 803 ms (total: 7.39 sec)
+[2024.01.23-03.15.34:971][160]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.01.23-03.15.34:971][160]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
