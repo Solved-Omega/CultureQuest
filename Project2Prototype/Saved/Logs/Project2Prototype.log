@@ -2688,3 +2688,1018 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.25-19.24.56:512][123]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2024.01.25-19.24.56:515][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
 [2024.01.25-19.24.56:598][124]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.01.25-19.27.51:836][665]BlueprintLog: New page: Compile PersistentSave
+[2024.01.25-19.27.51:870][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.01.25-19.27.51:884][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.27.51:974][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/PersistentSave" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Misc/PersistentSave.uasset" SILENT=true
+[2024.01.25-19.27.51:983][665]LogSavePackage: Moving output files for package: /Game/Misc/PersistentSave
+[2024.01.25-19.27.51:984][665]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/PersistentSaveEEFE51D04908CACF0A4329913C5A1DF0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Misc/PersistentSave.uasset'
+[2024.01.25-19.27.51:992][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.45 sec)
+[2024.01.25-19.27.52:002][665]AssetCheck: New page: Asset Save: PersistentSave
+[2024.01.25-19.27.52:002][665]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/PersistentSave.PersistentSave
+[2024.01.25-19.27.52:427][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.27.52:490][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/PersistentSave" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Misc/PersistentSave.uasset" SILENT=true
+[2024.01.25-19.27.52:492][710]LogSavePackage: Moving output files for package: /Game/Misc/PersistentSave
+[2024.01.25-19.27.52:492][710]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/PersistentSaveEC0AEEB747A2CCB6F66F57B858476544.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Misc/PersistentSave.uasset'
+[2024.01.25-19.27.52:498][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 2.52 sec)
+[2024.01.25-19.27.52:505][710]AssetCheck: New page: Asset Save: PersistentSave
+[2024.01.25-19.27.52:506][710]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/PersistentSave.PersistentSave
+[2024.01.25-19.46.32:750][446]BlueprintLog: New page: Compile ControlTypeWidget
+[2024.01.25-19.46.32:798][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.01.25-19.46.35:331][735]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.46.35:331][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.47.05:892][705]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.47.05:892][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.47.05:892][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.48.02:285][631]BlueprintLog: New page: Compile VRPawn
+[2024.01.25-19.48.02:450][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.25-19.48.02:477][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.48.02:562][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.48.02:645][631]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.48.02:645][631]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn18EBAA434D45F046FF2358867BF6A499.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.48.02:652][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 2.69 sec)
+[2024.01.25-19.48.02:662][631]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.48.02:662][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.48.02:969][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.48.03:030][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.48.03:112][642]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.48.03:112][642]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn8E4FD2A94ABB6ACD32A6B5904E7A120B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.48.03:120][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 2.84 sec)
+[2024.01.25-19.48.03:130][642]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.48.03:131][642]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.48.32:478][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.01.25-19.48.33:651][872]LogSlate: Window 'Save Content' being destroyed
+[2024.01.25-19.48.33:658][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.48.33:740][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.48.33:824][872]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.48.33:825][872]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawnED793C1B4611CA47A882259A1FEA6E4C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.48.33:834][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 3.02 sec)
+[2024.01.25-19.48.33:961][872]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.48.33:965][872]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Testing.Testing
+[2024.01.25-19.48.33:965][872]Cmd: MAP LOAD FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Testing.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.25-19.48.33:965][872]LightingResults: New page: Lighting Build
+[2024.01.25-19.48.33:965][872]LoadErrors: New page: Loading map: Testing.umap
+[2024.01.25-19.48.33:990][872]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.48.33:991][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.48.33:991][872]MapCheck: New page: Map Check
+[2024.01.25-19.48.33:991][872]LightingResults: New page: Lighting Build
+[2024.01.25-19.48.34:011][872]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.25-19.48.34:013][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.25-19.48.34:024][872]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.48.34:024][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.48.34:046][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.25-19.48.34:068][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.25-19.48.34:078][872]LogAudio: Display: Audio Device (ID: 1) registered with world 'Testing'.
+[2024.01.25-19.48.34:078][872]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.48.34:078][872]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.48.34:078][872]LogAIModule: Creating AISystem for world Testing
+[2024.01.25-19.48.34:334][872]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.25-19.48.34:358][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.25-19.48.34:366][872]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.25-19.48.34:366][872]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2024.01.25-19.48.34:366][872]LogFileHelpers: Loading map 'Testing' took 0.401
+[2024.01.25-19.48.34:389][872]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.48.34:389][872]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.48.34:461][874]LogShaderCompilers: Display: ================================================
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Total job queries 171, among them cache hits 64 (37.43%)
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Tracking 103 distinct input hashes that result in 84 distinct outputs (81.55%)
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: RAM used: 3.45 MiB of 1.60 GiB budget. Usage: 0.21%
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.17 s
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Job execution time: average 2.99 s, max 3.91 s
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Job life time (pending + execution): average 3.07 s, max 4.05
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.20 s
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Average processing rate: 0.64 jobs/sec
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Total thread time: 8.083 s
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Total thread preprocess time: 0.142 s
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Percentage time preprocessing: 1.75%
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Effective parallelization: 1.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 2.04 sec, max 2.08 sec, min 2.00 sec)
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 2.00 sec, max 2.10 sec, min 1.90 sec)
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 50.53% of total time (compiled    2 times, average 2.04 sec, max 2.08 sec, min 2.00 sec)
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 49.47% of total time (compiled    2 times, average 2.00 sec, max 2.10 sec, min 1.90 sec)
+[2024.01.25-19.48.34:462][874]LogShaderCompilers: Display: ================================================
+[2024.01.25-19.48.41:834][747]BlueprintLog: New page: Compile VRPawn
+[2024.01.25-19.48.41:992][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.25-19.48.42:019][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.48.42:116][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.48.42:197][747]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.48.42:197][747]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn288B9AF6475CF765B354679B04153324.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.48.42:204][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 3.20 sec)
+[2024.01.25-19.48.42:217][747]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.48.42:217][747]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.48.42:435][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.48.42:490][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.48.42:573][750]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.48.42:573][750]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn26D07C424DFA66FB9600D2BE509F4642.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.48.42:580][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 3.35 sec)
+[2024.01.25-19.48.42:593][750]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.48.42:593][750]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.48.50:227][536]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.25-19.48.50:235][536]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.25-19.48.50:238][536]LogPlayLevel: [PlayLevel] Compiling VRPawn before play...
+[2024.01.25-19.48.50:398][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.48.50:489][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.48.50:572][536]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.48.50:572][536]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn7F96D95A47043386D50E74BCE0E1F28F.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.48.50:578][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 3.53 sec)
+[2024.01.25-19.48.50:605][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.25-19.48.50:608][536]LogPlayLevel: PlayLevel: Blueprint regeneration took 372 ms (1 blueprints)
+[2024.01.25-19.48.50:608][536]PIE: New page: PIE session: Testing (Jan 25, 2024, 3:48:50 AM)
+[2024.01.25-19.48.50:608][536]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2024.01.25-19.48.50:611][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003245s)
+[2024.01.25-19.48.50:611][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003276s)
+[2024.01.25-19.48.50:612][536]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.48.50:612][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.48.50:612][536]LogAIModule: Creating AISystem for world Testing
+[2024.01.25-19.48.50:612][536]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2024.01.25-19.48.50:631][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.25-19.48.50:632][536]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.01.25-19.48.50:632][536]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-19.48.50:632][536]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-19.48.50:632][536]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-19.48.50:632][536]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-19.48.50:632][536]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.25-19.48.50:632][536]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.25-19.48.50:632][536]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.25-19.48.50:632][536]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-19.48.50:633][536]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-19.48.50:633][536]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-19.48.50:633][536]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-19.48.50:635][536]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-19.48.50:651][536]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.25-19.48.50:652][536]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-19.48.50:652][536]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-19.48.50:652][536]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-19.48.50:652][536]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.01.25-19.48.50:652][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.01.25-19.48.50:654][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.01.25-19.48.50:654][536]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.01.25-19.48.50:654][536]LogInit: FAudioDevice initialized with ID 7.
+[2024.01.25-19.48.50:654][536]LogAudio: Display: Audio Device (ID: 7) registered with world 'Testing'.
+[2024.01.25-19.48.50:654][536]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.25-19.48.50:671][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-19.48.50:852][536]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.25-19.48.50:854][536]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2024.01.25-11.48.50
+[2024.01.25-19.48.50:854][536]LogWorld: Bringing up level for play took: 0.001390
+[2024.01.25-19.48.50:856][536]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.01.25-19.48.50:858][536]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.25-19.48.50:858][536]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.48.50:865][536]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Testing.sav' error.
+[2024.01.25-19.48.50:865][536]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Testing - Instructor.sav' error.
+[2024.01.25-19.48.50:865][536]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - Testing.sav' error.
+[2024.01.25-19.48.50:865][536]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Testing.sav' error.
+[2024.01.25-19.48.50:866][536]vr.PixelDensity = "1"
+[2024.01.25-19.48.50:867][536]PIE: Server logged in
+[2024.01.25-19.48.50:867][536]PIE: Play in editor total start time 0.632 seconds.
+[2024.01.25-19.48.50:889][536]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.25-19.48.50:896][536]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-19.48.50:937][537]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.48.50:937][537]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.48.50:972][537]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'VRPawn_C_0', movement 'Walking'
+[2024.01.25-19.48.51:001][539]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.25-19.48.54:295][218]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.25-19.49.03:600][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-19.49.03:600][188]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2024.01.25-19.49.03:806][188]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.25-19.49.03:810][188]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.49.03:810][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.49.03:813][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-19.49.03:821][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.49.03:846][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.25-19.49.03:846][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.25-19.49.03:848][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.25-19.49.03:854][188]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.25-19.49.03:854][188]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.49.03:856][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.25-19.49.03:890][189]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.01.25-19.49.16:876][668]LogSlate: Took 0.008439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.25-19.49.31:491][352]BlueprintLog: New page: Compile VRPawn
+[2024.01.25-19.49.31:659][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.25-19.49.31:685][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.49.31:791][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.49.31:879][352]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.49.31:880][352]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn540ECF3C42E311720CA9CD9796DBB34B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.49.31:887][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 3.73 sec)
+[2024.01.25-19.49.31:898][352]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.49.31:898][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.49.43:158][517]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.25-19.49.43:167][517]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.25-19.49.43:169][517]LogPlayLevel: [PlayLevel] Compiling VRPawn before play...
+[2024.01.25-19.49.43:330][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.49.43:426][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.49.43:510][517]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.49.43:510][517]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn49A733A14281A16AA5B72295DBFCAEC0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.49.43:516][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 3.92 sec)
+[2024.01.25-19.49.43:546][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.25-19.49.43:548][517]LogPlayLevel: PlayLevel: Blueprint regeneration took 381 ms (1 blueprints)
+[2024.01.25-19.49.43:548][517]PIE: New page: PIE session: Testing (Jan 25, 2024, 3:49:43 AM)
+[2024.01.25-19.49.43:548][517]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2024.01.25-19.49.43:551][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003389s)
+[2024.01.25-19.49.43:551][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003417s)
+[2024.01.25-19.49.43:551][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.49.43:552][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.49.43:552][517]LogAIModule: Creating AISystem for world Testing
+[2024.01.25-19.49.43:552][517]LogPlayLevel: PIE: World Init took: (0.000828s)
+[2024.01.25-19.49.43:573][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.25-19.49.43:574][517]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.01.25-19.49.43:574][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-19.49.43:574][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-19.49.43:574][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-19.49.43:574][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-19.49.43:574][517]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.25-19.49.43:574][517]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.25-19.49.43:574][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.25-19.49.43:574][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-19.49.43:575][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-19.49.43:575][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-19.49.43:575][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-19.49.43:576][517]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-19.49.43:593][517]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.25-19.49.43:594][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-19.49.43:594][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-19.49.43:594][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-19.49.43:595][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.01.25-19.49.43:595][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.01.25-19.49.43:596][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.01.25-19.49.43:597][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.01.25-19.49.43:597][517]LogInit: FAudioDevice initialized with ID 8.
+[2024.01.25-19.49.43:597][517]LogAudio: Display: Audio Device (ID: 8) registered with world 'Testing'.
+[2024.01.25-19.49.43:597][517]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.01.25-19.49.43:616][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-19.49.43:806][517]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.25-19.49.43:807][517]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2024.01.25-11.49.43
+[2024.01.25-19.49.43:808][517]LogWorld: Bringing up level for play took: 0.001389
+[2024.01.25-19.49.43:810][517]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.01.25-19.49.43:813][517]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.25-19.49.43:813][517]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.49.43:822][517]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Testing.sav' error.
+[2024.01.25-19.49.43:822][517]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Testing - Instructor.sav' error.
+[2024.01.25-19.49.43:822][517]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - Testing.sav' error.
+[2024.01.25-19.49.43:822][517]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Testing.sav' error.
+[2024.01.25-19.49.43:823][517]vr.PixelDensity = "1"
+[2024.01.25-19.49.43:825][517]PIE: Server logged in
+[2024.01.25-19.49.43:826][517]PIE: Play in editor total start time 0.659 seconds.
+[2024.01.25-19.49.43:830][517]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.25-19.49.43:839][517]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-19.49.43:883][518]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.49.43:883][518]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.49.43:919][518]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'VRPawn_C_0', movement 'Walking'
+[2024.01.25-19.49.47:953][ 48]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.25-19.50.00:409][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-19.50.00:410][482]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2024.01.25-19.50.00:611][482]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.25-19.50.00:614][482]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.50.00:614][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.50.00:616][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-19.50.00:623][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.50.00:645][482]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.01.25-19.50.00:645][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.01.25-19.50.00:647][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.01.25-19.50.00:652][482]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.25-19.50.00:652][482]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.50.00:653][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.25-19.50.00:734][483]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.01.25-19.50.09:621][534]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.25-19.50.09:630][534]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.25-19.50.09:633][534]LogPlayLevel: [PlayLevel] Compiling VRPawn before play...
+[2024.01.25-19.50.09:796][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.50.09:903][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.50.09:987][534]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.50.09:988][534]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn94B857654BB08A07404458AFB9762263.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.50.09:996][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 4.12 sec)
+[2024.01.25-19.50.10:022][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.25-19.50.10:025][534]LogPlayLevel: PlayLevel: Blueprint regeneration took 394 ms (1 blueprints)
+[2024.01.25-19.50.10:025][534]PIE: New page: PIE session: Testing (Jan 25, 2024, 3:50:10 AM)
+[2024.01.25-19.50.10:025][534]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2024.01.25-19.50.10:029][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003786s)
+[2024.01.25-19.50.10:029][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003819s)
+[2024.01.25-19.50.10:029][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.50.10:029][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.50.10:030][534]LogAIModule: Creating AISystem for world Testing
+[2024.01.25-19.50.10:030][534]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2024.01.25-19.50.10:050][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.01.25-19.50.10:051][534]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.01.25-19.50.10:051][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-19.50.10:051][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-19.50.10:051][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-19.50.10:051][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-19.50.10:051][534]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.25-19.50.10:051][534]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.25-19.50.10:051][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.25-19.50.10:051][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-19.50.10:051][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-19.50.10:052][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-19.50.10:052][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-19.50.10:053][534]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-19.50.10:070][534]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.25-19.50.10:070][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-19.50.10:070][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-19.50.10:070][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-19.50.10:071][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.01.25-19.50.10:071][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.01.25-19.50.10:072][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.01.25-19.50.10:072][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.01.25-19.50.10:072][534]LogInit: FAudioDevice initialized with ID 9.
+[2024.01.25-19.50.10:073][534]LogAudio: Display: Audio Device (ID: 9) registered with world 'Testing'.
+[2024.01.25-19.50.10:073][534]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.01.25-19.50.10:087][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-19.50.10:277][534]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.25-19.50.10:279][534]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2024.01.25-11.50.10
+[2024.01.25-19.50.10:279][534]LogWorld: Bringing up level for play took: 0.001595
+[2024.01.25-19.50.10:282][534]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.01.25-19.50.10:284][534]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.25-19.50.10:285][534]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.50.10:292][534]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Testing.sav' error.
+[2024.01.25-19.50.10:292][534]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Testing - Instructor.sav' error.
+[2024.01.25-19.50.10:292][534]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - Testing.sav' error.
+[2024.01.25-19.50.10:292][534]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Testing.sav' error.
+[2024.01.25-19.50.10:293][534]vr.PixelDensity = "1"
+[2024.01.25-19.50.10:295][534]PIE: Server logged in
+[2024.01.25-19.50.10:296][534]PIE: Play in editor total start time 0.666 seconds.
+[2024.01.25-19.50.10:300][534]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.25-19.50.10:308][534]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-19.50.10:343][535]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.50.10:343][535]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.50.10:390][535]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077348 > MaxSimulationTimeStep (0.050) for 'VRPawn_C_0', movement 'Walking'
+[2024.01.25-19.50.12:158][899]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.25-19.50.23:424][ 66]LogNet: Browse: /Game/Levels/Lobby
+[2024.01.25-19.50.23:424][ 66]LogLoad: LoadMap: /Game/Levels/Lobby
+[2024.01.25-19.50.23:424][ 66]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2024.01.25-19.50.23:427][ 66]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.50.23:427][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.50.23:481][ 66]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.25-19.50.23:483][ 66]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.25-19.50.23:483][ 66]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.50.23:484][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.25-19.50.23:498][ 66]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lobby'.
+[2024.01.25-19.50.23:498][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.50.23:498][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.50.23:498][ 66]LogAIModule: Creating AISystem for world Lobby
+[2024.01.25-19.50.23:498][ 66]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2024.01.25-19.50.23:498][ 66]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.01.25-19.50.23:499][ 66]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2024.01.25-11.50.23
+[2024.01.25-19.50.23:499][ 66]LogWorld: Bringing up level for play took: 0.000675
+[2024.01.25-19.50.23:502][ 66]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.25-19.50.23:502][ 66]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.01.25-19.50.23:502][ 66]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.01.25-19.50.23:502][ 66]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.01.25-19.50.23:502][ 66]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2024.01.25-19.50.23:502][ 66]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Instructor.sav' error.
+[2024.01.25-19.50.23:502][ 66]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - Lobby.sav' error.
+[2024.01.25-19.50.23:502][ 66]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.25-19.50.23:502][ 66]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.01.25-19.50.23:502][ 66]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.01.25-19.50.23:502][ 66]LogLoad: Took 0.076986 seconds to LoadMap(/Game/Levels/Lobby)
+[2024.01.25-19.50.23:562][ 66]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.01.25-19.50.26:083][152]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.01.25-19.50.26:083][152]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.01.25-19.50.26:083][152]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2024.01.25-19.50.26:084][152]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.50.26:084][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.50.26:138][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.25-19.50.26:141][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.25-19.50.26:381][152]LogAudio: Display: Audio Device (ID: 9) registered with world 'IrvingHouse2'.
+[2024.01.25-19.50.26:381][152]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.50.26:381][152]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.50.26:382][152]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.25-19.50.26:383][152]LogPlayLevel: PIE: World Init took: (0.002265s)
+[2024.01.25-19.50.26:384][152]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.25-19.50.26:534][152]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.25-11.50.26
+[2024.01.25-19.50.26:535][152]LogWorld: Bringing up level for play took: 0.150967
+[2024.01.25-19.50.26:538][152]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.25-19.50.26:539][152]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.50.26:702][152]vr.PixelDensity = "1"
+[2024.01.25-19.50.26:702][152]LogLoad: Took 0.619196 seconds to LoadMap(/Game/Levels/IrvingHouse2)
+[2024.01.25-19.50.26:703][152]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.25-19.50.26:831][152]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-19.50.26:862][152]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.25-19.50.26:889][152]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-19.50.26:913][154]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.25-19.50.28:932][268]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.25-19.50.30:288][349]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.25-19.50.54:300][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-19.50.54:300][837]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.25-19.50.54:510][837]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.25-19.50.54:516][837]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.50.54:525][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.50.54:529][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-19.50.54:537][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.50.54:562][837]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.01.25-19.50.54:562][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.01.25-19.50.54:563][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.01.25-19.50.54:592][837]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.25-19.50.54:593][837]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.50.54:597][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.25-19.50.54:696][838]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.01.25-19.51.00:238][479]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.25-19.51.00:247][479]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.25-19.51.00:250][479]LogPlayLevel: [PlayLevel] Compiling VRPawn before play...
+[2024.01.25-19.51.00:417][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.51.00:527][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.51.00:613][479]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.51.00:613][479]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawnF204F34A40E00B1DA9528BA9DE29FF61.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.51.00:624][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 4.32 sec)
+[2024.01.25-19.51.00:652][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.25-19.51.00:656][479]LogPlayLevel: PlayLevel: Blueprint regeneration took 409 ms (1 blueprints)
+[2024.01.25-19.51.00:656][479]PIE: New page: PIE session: Testing (Jan 25, 2024, 3:51:00 AM)
+[2024.01.25-19.51.00:656][479]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Testing
+[2024.01.25-19.51.00:660][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003549s)
+[2024.01.25-19.51.00:660][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing.Testing to /Game/Levels/UEDPIE_0_Testing.Testing (0.003580s)
+[2024.01.25-19.51.00:660][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.51.00:660][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.51.00:661][479]LogAIModule: Creating AISystem for world Testing
+[2024.01.25-19.51.00:661][479]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2024.01.25-19.51.00:683][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.25-19.51.00:684][479]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.01.25-19.51.00:684][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-19.51.00:684][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-19.51.00:684][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-19.51.00:684][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-19.51.00:684][479]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.25-19.51.00:684][479]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.25-19.51.00:684][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.25-19.51.00:684][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-19.51.00:684][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-19.51.00:684][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-19.51.00:684][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-19.51.00:686][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-19.51.00:702][479]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.25-19.51.00:702][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-19.51.00:702][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-19.51.00:702][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-19.51.00:703][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.01.25-19.51.00:703][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.01.25-19.51.00:705][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.01.25-19.51.00:705][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.01.25-19.51.00:705][479]LogInit: FAudioDevice initialized with ID 10.
+[2024.01.25-19.51.00:705][479]LogAudio: Display: Audio Device (ID: 10) registered with world 'Testing'.
+[2024.01.25-19.51.00:705][479]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.01.25-19.51.00:723][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-19.51.00:913][479]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.25-19.51.00:914][479]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Testing.Testing up for play (max tick rate 0) at 2024.01.25-11.51.00
+[2024.01.25-19.51.00:915][479]LogWorld: Bringing up level for play took: 0.001469
+[2024.01.25-19.51.00:917][479]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.01.25-19.51.00:920][479]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.25-19.51.00:921][479]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.51.00:937][479]vr.PixelDensity = "1"
+[2024.01.25-19.51.00:939][479]PIE: Server logged in
+[2024.01.25-19.51.00:940][479]PIE: Play in editor total start time 0.693 seconds.
+[2024.01.25-19.51.00:944][479]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.25-19.51.00:951][479]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-19.51.00:978][480]LogHttp: Warning: 000005D4381B0000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.01.25-19.51.00:978][480]LogHttp: Warning: 000005D4381B0000: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.01.25-19.51.00:978][480]LogHttp: Warning: 000005D4381B0000: libcurl info message cache 1 (Closing connection -1)
+[2024.01.25-19.51.00:978][480]LogHttp: Warning: 000005D4381BC300: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.01.25-19.51.00:978][480]LogHttp: Warning: 000005D4381BC300: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.01.25-19.51.00:978][480]LogHttp: Warning: 000005D4381BC300: libcurl info message cache 1 (Closing connection -1)
+[2024.01.25-19.51.00:978][480]LogHttp: Warning: 000005D4381B0A00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.01.25-19.51.00:978][480]LogHttp: Warning: 000005D4381B0A00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.01.25-19.51.00:978][480]LogHttp: Warning: 000005D4381B0A00: libcurl info message cache 1 (Closing connection -1)
+[2024.01.25-19.51.00:992][480]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.51.00:992][480]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.51.03:220][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-19.51.03:220][929]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Testing
+[2024.01.25-19.51.03:429][929]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.25-19.51.03:432][929]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.51.03:433][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.51.03:435][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-19.51.03:442][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.51.03:464][929]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.01.25-19.51.03:464][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.25-19.51.03:466][929]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.25-19.51.03:474][929]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.25-19.51.03:474][929]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.51.03:475][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.25-19.51.03:556][930]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.01.25-19.51.07:080][315]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.51.09:343][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.25-19.51.09:428][569]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.51.09:429][569]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Lobby.Lobby
+[2024.01.25-19.51.09:429][569]Cmd: MAP LOAD FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.25-19.51.09:429][569]LightingResults: New page: Lighting Build
+[2024.01.25-19.51.09:430][569]LoadErrors: New page: Loading map: Lobby.umap
+[2024.01.25-19.51.09:432][569]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.51.09:432][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.51.09:432][569]MapCheck: New page: Map Check
+[2024.01.25-19.51.09:432][569]LightingResults: New page: Lighting Build
+[2024.01.25-19.51.09:451][569]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.25-19.51.09:454][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.25-19.51.09:457][569]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.51.09:457][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.51.09:478][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.25-19.51.09:498][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.25-19.51.09:508][569]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lobby'.
+[2024.01.25-19.51.09:508][569]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.51.09:508][569]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.51.09:508][569]LogAIModule: Creating AISystem for world Lobby
+[2024.01.25-19.51.09:697][569]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.25-19.51.09:717][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.25-19.51.09:725][569]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.25-19.51.09:725][569]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2024.01.25-19.51.09:725][569]LogFileHelpers: Loading map 'Lobby' took 0.296
+[2024.01.25-19.51.10:791][685]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.25-19.51.10:799][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.25-19.51.10:799][685]PIE: New page: PIE session: Lobby (Jan 25, 2024, 3:51:10 AM)
+[2024.01.25-19.51.10:799][685]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2024.01.25-19.51.10:802][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001756s)
+[2024.01.25-19.51.10:802][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.001786s)
+[2024.01.25-19.51.10:802][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.51.10:802][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.51.10:802][685]LogAIModule: Creating AISystem for world Lobby
+[2024.01.25-19.51.10:802][685]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2024.01.25-19.51.10:826][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.25-19.51.10:828][685]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.01.25-19.51.10:828][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-19.51.10:828][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-19.51.10:828][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-19.51.10:828][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-19.51.10:828][685]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.25-19.51.10:828][685]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.25-19.51.10:828][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.25-19.51.10:828][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-19.51.10:828][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-19.51.10:828][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-19.51.10:828][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-19.51.10:831][685]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-19.51.10:851][685]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.25-19.51.10:851][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-19.51.10:851][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-19.51.10:851][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-19.51.10:852][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.01.25-19.51.10:852][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.01.25-19.51.10:854][685]LogInit: FAudioDevice initialized with ID 11.
+[2024.01.25-19.51.10:854][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.01.25-19.51.10:854][685]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lobby'.
+[2024.01.25-19.51.10:854][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.01.25-19.51.10:854][685]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.01.25-19.51.10:874][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-19.51.11:061][685]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.01.25-19.51.11:063][685]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2024.01.25-11.51.11
+[2024.01.25-19.51.11:063][685]LogWorld: Bringing up level for play took: 0.001790
+[2024.01.25-19.51.11:065][685]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.01.25-19.51.11:068][685]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.25-19.51.11:068][685]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.01.25-19.51.11:068][685]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.01.25-19.51.11:068][685]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.01.25-19.51.11:068][685]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2024.01.25-19.51.11:068][685]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Instructor.sav' error.
+[2024.01.25-19.51.11:069][685]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - Lobby.sav' error.
+[2024.01.25-19.51.11:069][685]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.25-19.51.11:119][685]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.01.25-19.51.11:119][685]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.01.25-19.51.11:131][685]PIE: Server logged in
+[2024.01.25-19.51.11:140][685]PIE: Play in editor total start time 0.341 seconds.
+[2024.01.25-19.51.11:147][685]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.01.25-19.51.12:405][224]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.01.25-19.51.12:405][224]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.01.25-19.51.12:405][224]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2024.01.25-19.51.12:406][224]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.51.12:406][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.51.12:447][224]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.25-19.51.12:450][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.25-19.51.12:681][224]LogAudio: Display: Audio Device (ID: 11) registered with world 'IrvingHouse2'.
+[2024.01.25-19.51.12:681][224]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.51.12:681][224]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.51.12:682][224]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.25-19.51.12:683][224]LogPlayLevel: PIE: World Init took: (0.001856s)
+[2024.01.25-19.51.12:683][224]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.25-19.51.12:828][224]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.25-11.51.12
+[2024.01.25-19.51.12:829][224]LogWorld: Bringing up level for play took: 0.145962
+[2024.01.25-19.51.12:832][224]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.25-19.51.12:834][224]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.51.13:000][224]vr.PixelDensity = "1"
+[2024.01.25-19.51.13:000][224]LogLoad: Took 0.594749 seconds to LoadMap(/Game/Levels/IrvingHouse2)
+[2024.01.25-19.51.13:102][224]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-19.51.13:131][224]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.25-19.51.13:156][224]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-19.51.13:195][225]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.25-19.51.17:047][551]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.25-19.52.24:009][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-19.52.24:009][ 94]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.25-19.52.24:050][ 94]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.25-19.52.24:056][ 94]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.52.24:066][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.52.24:070][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-19.52.24:077][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.52.24:099][ 94]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.01.25-19.52.24:099][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.01.25-19.52.24:102][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.01.25-19.52.24:133][ 94]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.25-19.52.24:133][ 94]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.52.24:137][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.01.25-19.52.24:221][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.01.25-19.52.31:475][940]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.25-19.52.31:484][940]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.25-19.52.31:487][940]LogPlayLevel: [PlayLevel] Compiling VRPawn before play...
+[2024.01.25-19.52.31:661][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.52.31:760][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.52.31:850][940]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.52.31:850][940]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawnE85BA46D4F0485B092D5509092FBFA14.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.52.31:859][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 4.52 sec)
+[2024.01.25-19.52.31:887][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.01.25-19.52.31:894][940]LogPlayLevel: PlayLevel: Blueprint regeneration took 410 ms (1 blueprints)
+[2024.01.25-19.52.31:895][940]PIE: New page: PIE session: Lobby (Jan 25, 2024, 3:52:31 AM)
+[2024.01.25-19.52.31:895][940]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2024.01.25-19.52.31:896][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001810s)
+[2024.01.25-19.52.31:897][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.001842s)
+[2024.01.25-19.52.31:897][940]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.52.31:897][940]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.52.31:897][940]LogAIModule: Creating AISystem for world Lobby
+[2024.01.25-19.52.31:897][940]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2024.01.25-19.52.31:919][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.25-19.52.31:920][940]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.01.25-19.52.31:920][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-19.52.31:920][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-19.52.31:920][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-19.52.31:920][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-19.52.31:920][940]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.25-19.52.31:920][940]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.25-19.52.31:920][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.25-19.52.31:920][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-19.52.31:920][940]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-19.52.31:920][940]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-19.52.31:920][940]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-19.52.31:922][940]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-19.52.31:938][940]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.25-19.52.31:940][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-19.52.31:940][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-19.52.31:940][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-19.52.31:940][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.01.25-19.52.31:940][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.01.25-19.52.31:942][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.01.25-19.52.31:942][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.01.25-19.52.31:942][940]LogInit: FAudioDevice initialized with ID 12.
+[2024.01.25-19.52.31:942][940]LogAudio: Display: Audio Device (ID: 12) registered with world 'Lobby'.
+[2024.01.25-19.52.31:942][940]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.01.25-19.52.31:959][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-19.52.32:140][940]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.01.25-19.52.32:142][940]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2024.01.25-11.52.32
+[2024.01.25-19.52.32:142][940]LogWorld: Bringing up level for play took: 0.002056
+[2024.01.25-19.52.32:144][940]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.01.25-19.52.32:148][940]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.25-19.52.32:148][940]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.01.25-19.52.32:148][940]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.01.25-19.52.32:148][940]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.01.25-19.52.32:148][940]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2024.01.25-19.52.32:148][940]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Instructor.sav' error.
+[2024.01.25-19.52.32:148][940]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - Lobby.sav' error.
+[2024.01.25-19.52.32:148][940]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.25-19.52.32:201][940]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.01.25-19.52.32:201][940]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.01.25-19.52.32:204][940]PIE: Server logged in
+[2024.01.25-19.52.32:206][940]PIE: Play in editor total start time 0.722 seconds.
+[2024.01.25-19.52.32:210][940]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.01.25-19.52.32:233][941]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.52.32:233][941]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.52.33:294][500]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.01.25-19.52.33:295][500]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.01.25-19.52.33:295][500]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2024.01.25-19.52.33:295][500]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.52.33:295][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.52.33:348][500]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.25-19.52.33:351][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.25-19.52.33:590][500]LogAudio: Display: Audio Device (ID: 12) registered with world 'IrvingHouse2'.
+[2024.01.25-19.52.33:590][500]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.52.33:590][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.52.33:592][500]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.25-19.52.33:593][500]LogPlayLevel: PIE: World Init took: (0.001909s)
+[2024.01.25-19.52.33:593][500]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.25-19.52.33:737][500]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.25-11.52.33
+[2024.01.25-19.52.33:738][500]LogWorld: Bringing up level for play took: 0.144766
+[2024.01.25-19.52.33:740][500]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.25-19.52.33:741][500]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.52.33:900][500]vr.PixelDensity = "1"
+[2024.01.25-19.52.33:901][500]LogLoad: Took 0.606861 seconds to LoadMap(/Game/Levels/IrvingHouse2)
+[2024.01.25-19.52.34:007][500]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-19.52.34:037][500]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.25-19.52.34:064][500]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-19.52.34:105][501]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.25-19.52.35:239][600]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.25-19.53.16:190][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-19.53.16:190][958]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.25-19.53.16:407][958]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.25-19.53.16:412][958]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.53.16:423][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.53.16:426][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-19.53.16:433][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-19.53.16:467][958]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.01.25-19.53.16:467][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.01.25-19.53.16:469][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.01.25-19.53.16:489][958]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.25-19.53.16:489][958]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.25-19.53.16:493][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.25-19.53.16:585][959]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.01.25-19.53.36:910][334]BlueprintLog: New page: Compile VRPawn
+[2024.01.25-19.53.37:075][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.25-19.53.37:104][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.53.37:197][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.53.37:285][334]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.53.37:285][334]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn49E97639453AE247CFEC479DADE84E00.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.53.37:292][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 4.71 sec)
+[2024.01.25-19.53.37:302][334]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.53.37:303][334]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.53.37:720][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.53.37:794][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.53.37:886][359]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.53.37:887][359]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn7DFA4F0B478C651E506E8F9E197A5B56.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.53.37:893][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 4.88 sec)
+[2024.01.25-19.53.37:903][359]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.53.37:904][359]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.53.44:445][128]BlueprintLog: New page: Compile VRPawn
+[2024.01.25-19.53.44:621][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.25-19.53.44:651][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.53.44:739][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.53.44:832][128]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.53.44:832][128]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawnE3CF14FD47FC92620FB5EE93EB6771DE.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.53.44:838][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 5.07 sec)
+[2024.01.25-19.53.44:848][128]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.53.44:848][128]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.53.45:542][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.53.45:618][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.53.45:705][186]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.53.45:705][186]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn52665C9E436B91F09FDCFBA8BDCF1CF3.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.53.45:712][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 5.24 sec)
+[2024.01.25-19.53.45:722][186]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.53.45:722][186]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.53.52:967][ 40]BlueprintLog: New page: Compile VRPawn
+[2024.01.25-19.53.53:140][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.25-19.53.53:166][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.53.53:260][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.53.53:347][ 40]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.53.53:347][ 40]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn4DD3D31340E50DC32CB16FA6E70A8468.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.53.53:354][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 5.43 sec)
+[2024.01.25-19.53.53:366][ 40]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.53.53:367][ 40]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.53.53:645][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.53.53:714][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.01.25-19.53.53:800][ 49]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.01.25-19.53.53:801][ 49]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn644F5D2C4E799257CD47DB8B4F06BE84.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.01.25-19.53.53:808][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 5.59 sec)
+[2024.01.25-19.53.53:826][ 49]AssetCheck: New page: Asset Save: VRPawn
+[2024.01.25-19.53.53:826][ 49]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.01.25-19.53.56:965][422]BlueprintLog: New page: Compile ControlTypeWidget
+[2024.01.25-19.53.57:017][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.25-19.55.33:972][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.55.34:038][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2024.01.25-19.55.34:059][688]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2024.01.25-19.55.34:059][688]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidgetAA152E244D00DC43AC0F208A9AF16C1D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2024.01.25-19.55.34:068][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 5.68 sec)
+[2024.01.25-19.55.34:078][688]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2024.01.25-19.55.34:078][688]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2024.01.25-19.55.38:076][150]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.25-19.58.36:292][596]BlueprintLog: New page: Compile ControlTypeWidget
+[2024.01.25-19.58.36:345][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.25-19.58.37:118][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-19.58.37:187][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2024.01.25-19.58.37:207][667]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2024.01.25-19.58.37:207][667]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget8E9F6E3E4EC7D1EEBA74D79B4A17EF57.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2024.01.25-19.58.37:215][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 5.78 sec)
+[2024.01.25-19.58.37:224][667]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2024.01.25-19.58.37:224][667]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2024.01.25-19.59.40:819][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPI/BPI_Player.BPI_Player
+[2024.01.25-19.59.40:819][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-19.59.40:820][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-19.59.45:207][625]LogSlate: Window 'BPI_Player' being destroyed
+[2024.01.25-19.59.45:222][625]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-19.59.45:222][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-20.00.49:727][990]BlueprintLog: New page: Compile ControlTypeWidget
+[2024.01.25-20.00.49:787][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.01.25-20.00.49:804][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.00.49:863][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2024.01.25-20.00.49:885][990]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2024.01.25-20.00.49:885][990]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget3926620B43ECCE35377E63B05997D990.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2024.01.25-20.00.49:890][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.87 sec)
+[2024.01.25-20.00.49:899][990]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2024.01.25-20.00.49:900][990]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2024.01.25-20.00.50:308][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.00.50:365][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2024.01.25-20.00.50:388][ 34]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2024.01.25-20.00.50:388][ 34]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidgetAC98E1A34C7666B33ED488986FEA7555.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2024.01.25-20.00.50:394][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.95 sec)
+[2024.01.25-20.00.50:406][ 34]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2024.01.25-20.00.50:406][ 34]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2024.01.25-20.01.42:592][958]BlueprintLog: New page: Compile ControlTypeWidget
+[2024.01.25-20.01.42:647][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.25-20.01.42:683][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.01.42:751][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2024.01.25-20.01.42:774][958]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2024.01.25-20.01.42:775][958]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget36AC11154A09A1511EB80F9A2C4D14B9.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2024.01.25-20.01.42:780][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 6.05 sec)
+[2024.01.25-20.01.42:791][958]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2024.01.25-20.01.42:791][958]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2024.01.25-20.01.43:347][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.01.43:402][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2024.01.25-20.01.43:425][ 13]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2024.01.25-20.01.43:425][ 13]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget44C7552E4259CB68A5885A83D43CDC49.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2024.01.25-20.01.43:431][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.14 sec)
+[2024.01.25-20.01.43:440][ 13]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2024.01.25-20.01.43:440][ 13]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2024.01.25-20.02.20:348][404]BlueprintLog: New page: Compile ControlTypeWidget
+[2024.01.25-20.02.20:404][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.01.25-20.02.20:487][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.02.20:556][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2024.01.25-20.02.20:579][404]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2024.01.25-20.02.20:579][404]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget62D005D34FDCFDC89F66D9AF0797A809.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2024.01.25-20.02.20:587][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 6.24 sec)
+[2024.01.25-20.02.20:609][404]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2024.01.25-20.02.20:609][404]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2024.01.25-20.02.28:459][304]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.25-20.02.28:467][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.25-20.02.28:467][304]PIE: New page: PIE session: Lobby (Jan 25, 2024, 4:02:28 AM)
+[2024.01.25-20.02.28:467][304]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2024.01.25-20.02.28:469][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002028s)
+[2024.01.25-20.02.28:469][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.002062s)
+[2024.01.25-20.02.28:469][304]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-20.02.28:469][304]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-20.02.28:470][304]LogAIModule: Creating AISystem for world Lobby
+[2024.01.25-20.02.28:471][304]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2024.01.25-20.02.28:494][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.25-20.02.28:497][304]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.25-20.02.28:497][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-20.02.28:497][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-20.02.28:497][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-20.02.28:497][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-20.02.28:497][304]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.25-20.02.28:497][304]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.25-20.02.28:497][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.25-20.02.28:497][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-20.02.28:497][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-20.02.28:497][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-20.02.28:497][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-20.02.28:499][304]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-20.02.28:515][304]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.25-20.02.28:516][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-20.02.28:516][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-20.02.28:516][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-20.02.28:516][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.01.25-20.02.28:516][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.01.25-20.02.28:517][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.01.25-20.02.28:517][304]LogInit: FAudioDevice initialized with ID 13.
+[2024.01.25-20.02.28:517][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.01.25-20.02.28:517][304]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lobby'.
+[2024.01.25-20.02.28:517][304]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.25-20.02.28:536][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-20.02.28:731][304]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.01.25-20.02.28:732][304]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2024.01.25-12.02.28
+[2024.01.25-20.02.28:732][304]LogWorld: Bringing up level for play took: 0.000837
+[2024.01.25-20.02.28:734][304]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.01.25-20.02.28:737][304]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.25-20.02.28:737][304]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.01.25-20.02.28:737][304]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.01.25-20.02.28:737][304]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.01.25-20.02.28:737][304]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2024.01.25-20.02.28:737][304]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Instructor.sav' error.
+[2024.01.25-20.02.28:737][304]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - Lobby.sav' error.
+[2024.01.25-20.02.28:737][304]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.25-20.02.28:791][304]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.01.25-20.02.28:791][304]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.01.25-20.02.28:797][304]PIE: Server logged in
+[2024.01.25-20.02.28:801][304]PIE: Play in editor total start time 0.334 seconds.
+[2024.01.25-20.02.28:806][304]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.01.25-20.02.30:268][ 24]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.01.25-20.02.30:268][ 24]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.01.25-20.02.30:268][ 24]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2024.01.25-20.02.30:269][ 24]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-20.02.30:269][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-20.02.30:329][ 24]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.25-20.02.30:331][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.25-20.02.30:561][ 24]LogAudio: Display: Audio Device (ID: 13) registered with world 'IrvingHouse2'.
+[2024.01.25-20.02.30:561][ 24]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-20.02.30:561][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-20.02.30:562][ 24]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.25-20.02.30:563][ 24]LogPlayLevel: PIE: World Init took: (0.001791s)
+[2024.01.25-20.02.30:563][ 24]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.25-20.02.30:705][ 24]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.25-12.02.30
+[2024.01.25-20.02.30:706][ 24]LogWorld: Bringing up level for play took: 0.143616
+[2024.01.25-20.02.30:709][ 24]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.25-20.02.30:710][ 24]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.25-20.02.30:874][ 24]vr.PixelDensity = "1"
+[2024.01.25-20.02.30:875][ 24]LogLoad: Took 0.606632 seconds to LoadMap(/Game/Levels/IrvingHouse2)
+[2024.01.25-20.02.30:875][ 24]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.25-20.02.30:989][ 24]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-20.02.31:026][ 24]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.25-20.02.31:050][ 24]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-20.02.31:091][ 25]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.25-20.03.09:429][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-20.03.09:429][190]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.25-20.03.09:457][190]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.25-20.03.09:463][190]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-20.03.09:473][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-20.03.09:476][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-20.03.09:484][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-20.03.09:517][190]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.25-20.03.09:517][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.25-20.03.09:519][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.25-20.03.09:539][190]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.25-20.03.09:539][190]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.25-20.03.09:543][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.01.25-20.03.09:637][191]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.01.25-20.03.26:870][214]BlueprintLog: New page: Compile ControlTypeWidget
+[2024.01.25-20.03.26:922][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.25-20.03.26:958][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.03.27:024][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenu/ControlTypeWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset" SILENT=true
+[2024.01.25-20.03.27:048][214]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/ControlTypeWidget
+[2024.01.25-20.03.27:048][214]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/ControlTypeWidget8568E9034F95BBD0EACB25A7C15F047A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/PauseMenu/ControlTypeWidget.uasset'
+[2024.01.25-20.03.27:055][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 6.33 sec)
+[2024.01.25-20.03.27:071][214]AssetCheck: New page: Asset Save: ControlTypeWidget
+[2024.01.25-20.03.27:071][214]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/ControlTypeWidget.ControlTypeWidget
+[2024.01.25-20.03.27:961][311]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.25-20.03.27:969][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.25-20.03.27:969][311]PIE: New page: PIE session: Lobby (Jan 25, 2024, 4:03:27 AM)
+[2024.01.25-20.03.27:969][311]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2024.01.25-20.03.27:971][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001814s)
+[2024.01.25-20.03.27:971][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.001845s)
+[2024.01.25-20.03.27:971][311]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-20.03.27:971][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-20.03.27:972][311]LogAIModule: Creating AISystem for world Lobby
+[2024.01.25-20.03.27:972][311]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2024.01.25-20.03.27:995][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.25-20.03.27:998][311]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.25-20.03.27:998][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-20.03.27:998][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-20.03.27:998][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-20.03.27:998][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-20.03.27:998][311]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.25-20.03.27:998][311]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.25-20.03.27:998][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.25-20.03.27:999][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-20.03.27:999][311]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-20.03.27:999][311]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-20.03.27:999][311]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-20.03.28:001][311]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-20.03.28:017][311]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.25-20.03.28:017][311]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-20.03.28:017][311]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-20.03.28:017][311]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-20.03.28:018][311]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.01.25-20.03.28:018][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.01.25-20.03.28:019][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.01.25-20.03.28:019][311]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.01.25-20.03.28:019][311]LogInit: FAudioDevice initialized with ID 14.
+[2024.01.25-20.03.28:019][311]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lobby'.
+[2024.01.25-20.03.28:019][311]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.25-20.03.28:037][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-20.03.28:234][311]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.01.25-20.03.28:234][311]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2024.01.25-12.03.28
+[2024.01.25-20.03.28:235][311]LogWorld: Bringing up level for play took: 0.000860
+[2024.01.25-20.03.28:237][311]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.01.25-20.03.28:240][311]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.25-20.03.28:240][311]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.01.25-20.03.28:240][311]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.01.25-20.03.28:240][311]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.01.25-20.03.28:240][311]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2024.01.25-20.03.28:240][311]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Instructor.sav' error.
+[2024.01.25-20.03.28:240][311]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - Lobby.sav' error.
+[2024.01.25-20.03.28:240][311]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.01.25-20.03.28:292][311]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.01.25-20.03.28:292][311]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.01.25-20.03.28:296][311]PIE: Server logged in
+[2024.01.25-20.03.28:299][311]PIE: Play in editor total start time 0.33 seconds.
+[2024.01.25-20.03.28:304][311]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.01.25-20.03.30:169][170]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.01.25-20.03.30:169][170]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.01.25-20.03.30:169][170]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2024.01.25-20.03.30:169][170]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-20.03.30:169][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-20.03.30:218][170]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.25-20.03.30:220][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.25-20.03.30:456][170]LogAudio: Display: Audio Device (ID: 14) registered with world 'IrvingHouse2'.
+[2024.01.25-20.03.30:456][170]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-20.03.30:456][170]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-20.03.30:458][170]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.25-20.03.30:459][170]LogPlayLevel: PIE: World Init took: (0.001866s)
+[2024.01.25-20.03.30:459][170]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.25-20.03.30:609][170]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.25-12.03.30
+[2024.01.25-20.03.30:610][170]LogWorld: Bringing up level for play took: 0.150791
+[2024.01.25-20.03.30:612][170]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.25-20.03.30:614][170]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.25-20.03.30:776][170]vr.PixelDensity = "1"
+[2024.01.25-20.03.30:777][170]LogLoad: Took 0.607408 seconds to LoadMap(/Game/Levels/IrvingHouse2)
+[2024.01.25-20.03.30:887][170]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-20.03.30:915][170]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.25-20.03.30:939][170]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-20.03.30:976][171]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.25-20.03.32:730][317]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.25-20.04.00:299][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-20.04.00:299][949]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.25-20.04.00:335][949]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.25-20.04.00:340][949]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-20.04.00:352][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-20.04.00:355][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-20.04.00:365][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-20.04.00:389][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.25-20.04.00:389][949]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.25-20.04.00:389][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.25-20.04.00:391][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.25-20.04.00:425][949]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.25-20.04.00:425][949]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.25-20.04.00:428][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.01.25-20.04.00:508][950]LogPlayLevel: Display: Destroying online subsystem :Context_27
