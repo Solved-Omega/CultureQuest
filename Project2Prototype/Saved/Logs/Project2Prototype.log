@@ -2561,3 +2561,536 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.25-20.35.12:893][525]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Misc/Structs/InteractablesStruct.InteractablesStruct
 [2024.01.25-20.35.12:893][525]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
 [2024.01.25-20.35.12:893][525]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.01.25-20.36.36:595][159]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-20.36.36:595][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-20.36.43:304][944]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.25-20.36.43:304][944]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-20.36.43:304][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-20.36.43:350][944]LogViewport: Scene viewport resized to 1069x719, mode Windowed.
+[2024.01.25-20.36.43:411][945]LogViewport: Scene viewport resized to 1069x701, mode Windowed.
+[2024.01.25-20.36.43:447][946]LogViewport: Scene viewport resized to 1069x691, mode Windowed.
+[2024.01.25-20.36.52:113][725]LogViewport: Scene viewport resized to 1073x576, mode Windowed.
+[2024.01.25-20.36.52:138][726]LogViewport: Scene viewport resized to 1073x570, mode Windowed.
+[2024.01.25-20.36.52:166][727]LogViewport: Scene viewport resized to 1073x558, mode Windowed.
+[2024.01.25-20.36.52:194][728]LogViewport: Scene viewport resized to 1073x541, mode Windowed.
+[2024.01.25-20.36.52:222][729]LogViewport: Scene viewport resized to 1073x520, mode Windowed.
+[2024.01.25-20.36.52:252][730]LogViewport: Scene viewport resized to 1073x509, mode Windowed.
+[2024.01.25-20.36.52:281][731]LogViewport: Scene viewport resized to 1073x506, mode Windowed.
+[2024.01.25-20.36.52:309][732]LogViewport: Scene viewport resized to 1073x504, mode Windowed.
+[2024.01.25-20.36.52:334][733]LogViewport: Scene viewport resized to 1073x500, mode Windowed.
+[2024.01.25-20.36.52:364][734]LogViewport: Scene viewport resized to 1073x495, mode Windowed.
+[2024.01.25-20.36.52:389][735]LogViewport: Scene viewport resized to 1073x492, mode Windowed.
+[2024.01.25-20.36.52:417][736]LogViewport: Scene viewport resized to 1073x487, mode Windowed.
+[2024.01.25-20.36.52:442][737]LogViewport: Scene viewport resized to 1073x486, mode Windowed.
+[2024.01.25-20.36.57:773][222]LogContentBrowser: Deferred new asset file creation: Interactable_Parent_Child
+[2024.01.25-20.36.57:855][222]LogContentBrowser: Creating deferred item: Interactable_Parent_Child
+[2024.01.25-20.36.57:870][223]LogContentBrowser: Renaming the item being created (Deferred Item: Interactable_Parent_Child).
+[2024.01.25-20.36.58:395][277]LogContentBrowser: Attempting asset rename: Interactable_Parent_Child -> Interactable_Parent_Child
+[2024.01.25-20.36.58:398][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.36.58:476][277]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactable_Parent_Child
+[2024.01.25-20.36.58:476][277]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactable_Parent_Child1F138DEF473385FBDFAEFAA1A9ECCC32.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Parent_Child.uasset'
+[2024.01.25-20.36.58:488][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 6.38 sec)
+[2024.01.25-20.36.58:489][277]LogContentBrowser: End creating deferred item Interactable_Parent_Child
+[2024.01.25-20.36.58:499][277]AssetCheck: New page: Asset Save: Interactable_Parent_Child
+[2024.01.25-20.36.58:499][277]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactable_Parent_Child.Interactable_Parent_Child
+[2024.01.25-20.36.59:195][348]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/Interactable_Parent_Child.Interactable_Parent_Child
+[2024.01.25-20.36.59:196][348]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-20.36.59:196][348]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-20.36.59:273][348]LogViewport: Scene viewport resized to 1069x713, mode Windowed.
+[2024.01.25-20.36.59:310][349]LogViewport: Scene viewport resized to 1069x701, mode Windowed.
+[2024.01.25-20.36.59:359][350]LogViewport: Scene viewport resized to 1069x691, mode Windowed.
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: ================================================
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Total job queries 217, among them cache hits 89 (41.01%)
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Tracking 124 distinct input hashes that result in 100 distinct outputs (80.65%)
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: RAM used: 3.85 MiB of 1.60 GiB budget. Usage: 0.24%
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.07 s
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Job execution time: average 2.33 s, max 2.44 s
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Job life time (pending + execution): average 2.36 s, max 2.51
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.73 s
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Average processing rate: 0.85 jobs/sec
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Total thread time: 8.765 s
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Total thread preprocess time: 0.1 s
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Percentage time preprocessing: 1.14%
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Effective parallelization: 1.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 2.19 sec, max 2.25 sec, min 2.13 sec)
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 2.19 sec, max 2.26 sec, min 2.12 sec)
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 50.03% of total time (compiled    2 times, average 2.19 sec, max 2.25 sec, min 2.13 sec)
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 49.97% of total time (compiled    2 times, average 2.19 sec, max 2.26 sec, min 2.12 sec)
+[2024.01.25-20.37.14:051][911]LogShaderCompilers: Display: ================================================
+[2024.01.25-20.37.51:067][997]BlueprintLog: New page: Compile Interactable_Parent_Child
+[2024.01.25-20.37.51:110][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.01.25-20.37.51:140][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.37.51:243][997]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactable_Parent_Child
+[2024.01.25-20.37.51:244][997]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactable_Parent_Child70BD7C414D590DA15890739D10DAA078.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Parent_Child.uasset'
+[2024.01.25-20.37.51:251][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 6.49 sec)
+[2024.01.25-20.37.51:276][997]AssetCheck: New page: Asset Save: Interactable_Parent_Child
+[2024.01.25-20.37.51:276][997]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactable_Parent_Child.Interactable_Parent_Child
+[2024.01.25-20.38.02:094][183]LogContentBrowser: Attempting asset rename: Interactable_Parent_Child -> Int_Apple
+[2024.01.25-20.38.02:113][183]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.01.25-20.38.02:117][183]LogMetaData: Removing '/Game/Actors/Interactables/Int_Apple.Int_Apple:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent_Child.PackageMetaData'
+[2024.01.25-20.38.02:117][183]LogMetaData: Removing '/Game/Actors/Interactables/Int_Apple.SKEL_Int_Apple_C' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent_Child.PackageMetaData'
+[2024.01.25-20.38.02:117][183]LogMetaData: Removing '/Game/Actors/Interactables/Int_Apple.Int_Apple_C' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent_Child.PackageMetaData'
+[2024.01.25-20.38.02:117][183]LogMetaData: Removing '/Game/Actors/Interactables/Int_Apple.Int_Apple:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent_Child.PackageMetaData'
+[2024.01.25-20.38.02:117][183]LogMetaData: Removing '/Game/Actors/Interactables/Int_Apple.Int_Apple:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent_Child.PackageMetaData'
+[2024.01.25-20.38.02:117][183]LogMetaData: Removing '/Game/Actors/Interactables/Int_Apple.Int_Apple:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent_Child.PackageMetaData'
+[2024.01.25-20.38.02:117][183]LogMetaData: Removing '/Game/Actors/Interactables/Int_Apple.Int_Apple:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent_Child.PackageMetaData'
+[2024.01.25-20.38.02:117][183]LogMetaData: Removing '/Game/Actors/Interactables/Int_Apple.SKEL_Int_Apple_C:ReceiveBeginPlay' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent_Child.PackageMetaData'
+[2024.01.25-20.38.02:117][183]LogMetaData: Removing '/Game/Actors/Interactables/Int_Apple.SKEL_Int_Apple_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent_Child.PackageMetaData'
+[2024.01.25-20.38.02:117][183]LogMetaData: Removing '/Game/Actors/Interactables/Int_Apple.SKEL_Int_Apple_C:ReceiveTick' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent_Child.PackageMetaData'
+[2024.01.25-20.38.02:117][183]LogMetaData: Removing '/Game/Actors/Interactables/Int_Apple.SKEL_Int_Apple_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent_Child.PackageMetaData'
+[2024.01.25-20.38.02:117][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.38.02:185][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Int_Apple" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Apple.uasset" SILENT=true
+[2024.01.25-20.38.02:189][183]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Int_Apple
+[2024.01.25-20.38.02:189][183]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Int_Apple5CA33BDD451027F7A1FA36B8FFEC1D6C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Apple.uasset'
+[2024.01.25-20.38.02:201][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.57 sec)
+[2024.01.25-20.38.02:238][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.25-20.38.02:265][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.25-20.38.02:292][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.25-20.38.02:304][183]AssetCheck: New page: Asset Save: Int_Apple
+[2024.01.25-20.38.02:304][183]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Int_Apple.Int_Apple
+[2024.01.25-20.38.02:304][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-20.38.03:493][305]BlueprintLog: New page: Compile Int_Apple
+[2024.01.25-20.38.03:535][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.25-20.38.03:919][343]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.38.03:996][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Int_Apple" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Apple.uasset" SILENT=true
+[2024.01.25-20.38.03:999][343]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Int_Apple
+[2024.01.25-20.38.03:999][343]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Int_Apple65F54BCF4C96181B0504CF92ADCC845D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Apple.uasset'
+[2024.01.25-20.38.04:007][343]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 6.66 sec)
+[2024.01.25-20.38.04:018][343]AssetCheck: New page: Asset Save: Int_Apple
+[2024.01.25-20.38.04:018][343]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Int_Apple.Int_Apple
+[2024.01.25-20.38.10:658][949]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Int_Apple.Int_Apple_C
+[2024.01.25-20.38.10:661][949]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Int_Apple.Int_Apple as actor: Int_Apple_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Apple_2
+[2024.01.25-20.38.10:675][949]EditorErrors: New page: Actor Reattachment
+[2024.01.25-20.38.13:793][237]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.01.25-20.38.13:803][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.25-20.38.13:803][237]PIE: New page: PIE session: IrvingHouse2 (Jan 25, 2024, 4:38:13 AM)
+[2024.01.25-20.38.13:803][237]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.25-20.38.14:058][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.254098s)
+[2024.01.25-20.38.14:058][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.254134s)
+[2024.01.25-20.38.14:058][237]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-20.38.14:058][237]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-20.38.14:058][237]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.25-20.38.14:059][237]LogPlayLevel: PIE: World Init took: (0.002022s)
+[2024.01.25-20.38.14:086][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.25-20.38.14:093][237]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.25-20.38.14:093][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.25-20.38.14:093][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.25-20.38.14:093][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.25-20.38.14:093][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.25-20.38.14:093][237]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.25-20.38.14:093][237]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.25-20.38.14:093][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.25-20.38.14:093][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.25-20.38.14:094][237]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.25-20.38.14:094][237]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.25-20.38.14:094][237]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.25-20.38.14:096][237]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.25-20.38.14:113][237]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.25-20.38.14:113][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.25-20.38.14:113][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.25-20.38.14:113][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.25-20.38.14:114][237]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.01.25-20.38.14:114][237]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.01.25-20.38.14:116][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.01.25-20.38.14:117][237]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.01.25-20.38.14:117][237]LogInit: FAudioDevice initialized with ID 14.
+[2024.01.25-20.38.14:117][237]LogAudio: Display: Audio Device (ID: 14) registered with world 'IrvingHouse2'.
+[2024.01.25-20.38.14:117][237]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.25-20.38.14:145][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-20.38.14:331][237]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.01.25-20.38.14:419][237]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.25-12.38.14
+[2024.01.25-20.38.14:420][237]LogWorld: Bringing up level for play took: 0.089103
+[2024.01.25-20.38.14:424][237]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.01.25-20.38.14:427][237]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.01.25-20.38.14:429][237]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.01.25-20.38.14:434][237]vr.PixelDensity = "1"
+[2024.01.25-20.38.14:444][237]PIE: Server logged in
+[2024.01.25-20.38.14:449][237]PIE: Play in editor total start time 0.647 seconds.
+[2024.01.25-20.38.14:533][237]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.01.25-20.38.14:581][237]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.01.25-20.38.14:712][240]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.01.25-20.38.17:121][453]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.01.25-20.38.19:837][606]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.25-20.38.20:324][634]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.25-20.38.20:866][665]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.25-20.38.21:254][687]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.01.25-20.38.45:668][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.25-20.38.45:668][132]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.25-20.38.45:727][132]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.01.25-20.38.45:732][132]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.25-20.38.45:743][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-20.38.45:747][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.25-20.38.45:758][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.25-20.38.45:783][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.25-20.38.45:783][132]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.25-20.38.45:783][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.25-20.38.45:786][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.25-20.38.45:822][132]LogSlate: Slate User Unregistered.  User Index 8
+[2024.01.25-20.38.45:822][132]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.01.25-20.38.45:829][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.01.25-20.38.45:954][133]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.01.25-20.39.10:597][862]BlueprintLog: New page: Compile Int_Apple
+[2024.01.25-20.39.10:648][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.01.25-20.39.10:665][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.39.10:736][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Int_Apple" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Apple.uasset" SILENT=true
+[2024.01.25-20.39.10:740][862]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Int_Apple
+[2024.01.25-20.39.10:740][862]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Int_Apple109A05C54537405D87C8CAAA09156C99.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Apple.uasset'
+[2024.01.25-20.39.10:749][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.74 sec)
+[2024.01.25-20.39.10:773][862]AssetCheck: New page: Asset Save: Int_Apple
+[2024.01.25-20.39.10:774][862]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Int_Apple.Int_Apple
+[2024.01.25-20.39.21:564][737]Cmd: DELETE
+[2024.01.25-20.39.21:564][737]Cmd: ACTOR DELETE
+[2024.01.25-20.39.21:623][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-20.39.21:648][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.25-20.39.21:658][737]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2024.01.25-20.39.42:370][643]Cmd: TRANSACTION UNDO
+[2024.01.25-20.39.42:370][643]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-20.39.42:929][650]Cmd: TRANSACTION UNDO
+[2024.01.25-20.39.42:929][650]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-20.39.43:373][684]Cmd: TRANSACTION UNDO
+[2024.01.25-20.39.43:373][684]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-20.39.43:950][732]Cmd: TRANSACTION UNDO
+[2024.01.25-20.39.43:950][732]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-20.39.44:325][762]Cmd: TRANSACTION UNDO
+[2024.01.25-20.39.44:325][762]LogEditorTransaction: Undo Clicking on Elements
+[2024.01.25-20.39.44:784][813]Cmd: TRANSACTION UNDO
+[2024.01.25-20.39.44:784][813]LogEditorTransaction: Undo Delete Elements
+[2024.01.25-20.39.47:100][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Victorian_House/Meshes/DecorativeElements/Mesh_Apple.Mesh_Apple
+[2024.01.25-20.39.47:105][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Victorian_House/Meshes/DecorativeElements/Mesh_Apple.Mesh_Apple
+[2024.01.25-20.39.47:107][981]LogActorFactory: Actor Factory spawned StaticMesh /Game/Victorian_House/Meshes/DecorativeElements/Mesh_Apple.Mesh_Apple as actor: StaticMeshActor /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.StaticMeshActor_3
+[2024.01.25-20.39.47:945][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Victorian_House/Meshes/DecorativeElements/Mesh_Apple.Mesh_Apple
+[2024.01.25-20.39.47:945][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Victorian_House/Meshes/DecorativeElements/Mesh_Apple.Mesh_Apple
+[2024.01.25-20.39.47:950][ 23]LogActorFactory: Actor Factory spawned StaticMesh /Game/Victorian_House/Meshes/DecorativeElements/Mesh_Apple.Mesh_Apple as actor: StaticMeshActor /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.StaticMeshActor_4
+[2024.01.25-20.39.54:068][560]Cmd: DELETE
+[2024.01.25-20.39.54:068][560]Cmd: ACTOR DELETE
+[2024.01.25-20.39.54:100][560]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-20.39.54:127][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.25-20.39.54:141][560]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2024.01.25-20.40.11:663][996]Cmd: DELETE
+[2024.01.25-20.40.11:663][996]Cmd: ACTOR DELETE
+[2024.01.25-20.40.11:695][996]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.25-20.40.11:723][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.25-20.40.11:735][996]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: ================================================
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Total job queries 232, among them cache hits 92 (39.66%)
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Tracking 136 distinct input hashes that result in 110 distinct outputs (80.88%)
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: RAM used: 4.30 MiB of 1.60 GiB budget. Usage: 0.26%
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.07 s
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Job execution time: average 2.33 s, max 2.44 s
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Job life time (pending + execution): average 2.36 s, max 2.51
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.73 s
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Average processing rate: 0.85 jobs/sec
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Total thread time: 8.765 s
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Total thread preprocess time: 0.1 s
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Percentage time preprocessing: 1.14%
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Effective parallelization: 1.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 2.19 sec, max 2.25 sec, min 2.13 sec)
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 2.19 sec, max 2.26 sec, min 2.12 sec)
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 50.03% of total time (compiled    2 times, average 2.19 sec, max 2.25 sec, min 2.13 sec)
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 49.97% of total time (compiled    2 times, average 2.19 sec, max 2.26 sec, min 2.12 sec)
+[2024.01.25-20.40.15:578][258]LogShaderCompilers: Display: ================================================
+[2024.01.25-20.40.53:771][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.40.53:845][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.25-20.40.53:877][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.01.25-20.40.54:615][440]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.01.25-20.40.54:616][440]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2E2F55EB7457C3C0C46F8A7B176D5420C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.01.25-20.40.54:631][440]LogFileHelpers: No new changes to save!
+[2024.01.25-20.40.54:631][440]LogFileHelpers: Saving map 'IrvingHouse2' took 0.789
+[2024.01.25-20.40.54:643][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 871 ms (total: 7.62 sec)
+[2024.01.25-20.40.54:661][440]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.01.25-20.40.54:661][440]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.01.25-20.41.09:277][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.41.09:349][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.25-20.41.09:374][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.25-20.41.10:113][620]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.01.25-20.41.10:113][620]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse270B4015842184C246B40798117238B64.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.01.25-20.41.10:128][620]LogFileHelpers: No new changes to save!
+[2024.01.25-20.41.10:128][620]LogFileHelpers: Saving map 'IrvingHouse2' took 0.781
+[2024.01.25-20.41.10:138][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 861 ms (total: 8.48 sec)
+[2024.01.25-20.41.10:157][620]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.01.25-20.41.10:157][620]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.01.25-20.41.22:797][845]LogContentBrowser: Deferred new asset file creation: Interactable_Parent1
+[2024.01.25-20.41.22:803][845]LogContentBrowser: Creating deferred item: Interactable_Parent1
+[2024.01.25-20.41.22:846][846]LogContentBrowser: Renaming the item being created (Deferred Item: Interactable_Parent1).
+[2024.01.25-20.41.44:333][201]LogContentBrowser: Attempting asset rename: Interactable_Parent1 -> Interactable_Grab
+[2024.01.25-20.41.44:382][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.01.25-20.41.44:409][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.41.44:475][201]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-20.41.44:489][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactable_Grab" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Grab.uasset" SILENT=true
+[2024.01.25-20.41.44:498][201]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactable_Grab
+[2024.01.25-20.41.44:498][201]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactable_Grab281016E1411976F31CFB10B4B848B074.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Grab.uasset'
+[2024.01.25-20.41.44:513][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 8.58 sec)
+[2024.01.25-20.41.44:516][201]LogContentBrowser: End creating deferred item Interactable_Parent1
+[2024.01.25-20.41.44:525][201]AssetCheck: New page: Asset Save: Interactable_Grab
+[2024.01.25-20.41.44:525][201]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactable_Grab.Interactable_Grab
+[2024.01.25-20.41.51:419][927]LogContentBrowser: Attempting asset rename: Interactable_Parent -> Interactable_Content
+[2024.01.25-20.41.51:438][927]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.01.25-20.41.51:447][927]LogMetaData: Removing '/Game/Actors/Interactables/Interactable_Content.Interactable_Content_C' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent.PackageMetaData'
+[2024.01.25-20.41.51:447][927]LogMetaData: Removing '/Game/Actors/Interactables/Interactable_Content.Interactable_Content_C:ReceiveBeginPlay' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent.PackageMetaData'
+[2024.01.25-20.41.51:447][927]LogMetaData: Removing '/Game/Actors/Interactables/Interactable_Content.SKEL_Interactable_Content_C' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent.PackageMetaData'
+[2024.01.25-20.41.51:447][927]LogMetaData: Removing '/Game/Actors/Interactables/Interactable_Content.SKEL_Interactable_Content_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent.PackageMetaData'
+[2024.01.25-20.41.51:447][927]LogMetaData: Removing '/Game/Actors/Interactables/Interactable_Content.SKEL_Interactable_Content_C:ReceiveBeginPlay' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent.PackageMetaData'
+[2024.01.25-20.41.51:447][927]LogMetaData: Removing '/Game/Actors/Interactables/Interactable_Content.Interactable_Content:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent.PackageMetaData'
+[2024.01.25-20.41.51:447][927]LogMetaData: Removing '/Game/Actors/Interactables/Interactable_Content.Interactable_Content:Get Widget Reference.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent.PackageMetaData'
+[2024.01.25-20.41.51:447][927]LogMetaData: Removing '/Game/Actors/Interactables/Interactable_Content.Interactable_Content:Get Widget Reference.K2Node_FunctionResult_0' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent.PackageMetaData'
+[2024.01.25-20.41.51:447][927]LogMetaData: Removing '/Game/Actors/Interactables/Interactable_Content.Interactable_Content:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/Interactable_Parent.PackageMetaData'
+[2024.01.25-20.41.51:452][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.41.51:515][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/LA-GameInstance" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Misc/LA-GameInstance.uasset" SILENT=true
+[2024.01.25-20.41.51:558][927]LogSavePackage: Moving output files for package: /Game/Misc/LA-GameInstance
+[2024.01.25-20.41.51:559][927]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LA-GameInstance9E1DEB234075F74A4EAA79B161A46445.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Misc/LA-GameInstance.uasset'
+[2024.01.25-20.41.51:580][927]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractableWidget
+[2024.01.25-20.41.51:580][927]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractableWidget0AC287524EA2528FC5C9379FD63FFD2D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractableWidget.uasset'
+[2024.01.25-20.41.51:581][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactable" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactable.uasset" SILENT=true
+[2024.01.25-20.41.51:582][927]LogSavePackage: Moving output files for package: /Game/Actors/Interactable
+[2024.01.25-20.41.51:582][927]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactable140D271A4C9E6A683EF7A6A7005B1654.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactable.uasset'
+[2024.01.25-20.41.51:582][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/Structs/InteractablesStruct" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Misc/Structs/InteractablesStruct.uasset" SILENT=true
+[2024.01.25-20.41.51:583][927]LogSavePackage: Moving output files for package: /Game/Misc/Structs/InteractablesStruct
+[2024.01.25-20.41.51:584][927]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesStruct1D402B9642DFC6E8C5A7B38A8971F3CA.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Misc/Structs/InteractablesStruct.uasset'
+[2024.01.25-20.41.51:591][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Int_Statue" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Statue.uasset" SILENT=true
+[2024.01.25-20.41.51:594][927]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Int_Statue
+[2024.01.25-20.41.51:595][927]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Int_Statue6A0D1480497A81D6617B28AFFEA17E55.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Statue.uasset'
+[2024.01.25-20.41.51:601][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Int_Apple" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Apple.uasset" SILENT=true
+[2024.01.25-20.41.51:604][927]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Int_Apple
+[2024.01.25-20.41.51:604][927]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Int_AppleB1ECF47C4D7B551F6A68DABA21BFDB8E.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Apple.uasset'
+[2024.01.25-20.41.51:611][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactable_Grab" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Grab.uasset" SILENT=true
+[2024.01.25-20.41.51:624][927]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactable_Grab
+[2024.01.25-20.41.51:624][927]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactable_GrabD6CF6FC44799FB072F9CF09BA31C5EB3.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Grab.uasset'
+[2024.01.25-20.41.51:638][927]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactable_Content
+[2024.01.25-20.41.51:638][927]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactable_Content4221003843422813B4F068975505754A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Content.uasset'
+[2024.01.25-20.41.51:648][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 8.78 sec)
+[2024.01.25-20.41.51:688][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.01.25-20.41.51:710][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.25-20.41.51:730][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.25-20.41.51:743][927]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.25-20.41.51:743][927]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/LA-GameInstance.LA-GameInstance
+[2024.01.25-20.41.51:743][927]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Misc/Structs/InteractablesStruct.InteractablesStruct
+[2024.01.25-20.41.51:743][927]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactable_Content.Interactable_Content
+[2024.01.25-20.41.51:743][927]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractableWidget.InteractableWidget
+[2024.01.25-20.41.51:744][927]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Int_Statue.Int_Statue
+[2024.01.25-20.41.51:744][927]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Actors/Interactable.Interactable
+[2024.01.25-20.41.51:744][927]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Actors/Interactable.Interactable_C
+[2024.01.25-20.41.51:744][927]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactable_Grab.Interactable_Grab
+[2024.01.25-20.41.51:744][927]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Int_Apple.Int_Apple
+[2024.01.25-20.41.51:745][927]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-20.41.53:762][117]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/Interactable_Grab.Interactable_Grab
+[2024.01.25-20.41.53:762][117]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-20.41.53:762][117]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-20.42.00:432][794]BlueprintLog: New page: Compile Interactable_Grab
+[2024.01.25-20.42.00:473][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.25-20.42.00:485][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.42.00:599][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactable_Grab" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Grab.uasset" SILENT=true
+[2024.01.25-20.42.00:603][794]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactable_Grab
+[2024.01.25-20.42.00:604][794]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactable_GrabCEAA3DF34CE6F3D3ECF7BD83C76B4318.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Grab.uasset'
+[2024.01.25-20.42.00:611][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 8.91 sec)
+[2024.01.25-20.42.00:621][794]AssetCheck: New page: Asset Save: Interactable_Grab
+[2024.01.25-20.42.00:621][794]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactable_Grab.Interactable_Grab
+[2024.01.25-20.42.01:069][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.42.01:130][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactable_Grab" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Grab.uasset" SILENT=true
+[2024.01.25-20.42.01:134][838]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactable_Grab
+[2024.01.25-20.42.01:135][838]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactable_GrabB0721BD74BF6B21DC06E4887694A4B03.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Grab.uasset'
+[2024.01.25-20.42.01:142][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 8.98 sec)
+[2024.01.25-20.42.01:152][838]AssetCheck: New page: Asset Save: Interactable_Grab
+[2024.01.25-20.42.01:152][838]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactable_Grab.Interactable_Grab
+[2024.01.25-20.42.03:568][100]BlueprintLog: New page: Compile Interactable_Grab
+[2024.01.25-20.42.03:610][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.25-20.42.04:694][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.42.04:787][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactable_Grab" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Grab.uasset" SILENT=true
+[2024.01.25-20.42.04:793][213]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactable_Grab
+[2024.01.25-20.42.04:794][213]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactable_Grab34D918C6424FED78351CE3A3232A2DA5.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Grab.uasset'
+[2024.01.25-20.42.04:801][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 9.09 sec)
+[2024.01.25-20.42.04:812][213]AssetCheck: New page: Asset Save: Interactable_Grab
+[2024.01.25-20.42.04:812][213]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactable_Grab.Interactable_Grab
+[2024.01.25-20.42.16:808][432]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2024.01.25-20.42.16:813][432]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Actors/Interactables/Int_Apple.Int_Apple from Interactable_Content_C to Interactable_Grab_C...
+[2024.01.25-20.42.16:823][432]BlueprintLog: New page: Compile Int_Apple
+[2024.01.25-20.42.16:870][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.25-20.42.16:887][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.42.16:970][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Int_Apple" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Apple.uasset" SILENT=true
+[2024.01.25-20.42.16:974][432]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Int_Apple
+[2024.01.25-20.42.16:974][432]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Int_AppleFF98FBB744F412DF799780BF25B39BBC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Apple.uasset'
+[2024.01.25-20.42.16:980][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 9.18 sec)
+[2024.01.25-20.42.17:001][432]AssetCheck: New page: Asset Save: Int_Apple
+[2024.01.25-20.42.17:001][432]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Int_Apple.Int_Apple
+[2024.01.25-20.42.18:210][573]BlueprintLog: New page: Compile Int_Apple
+[2024.01.25-20.42.18:256][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.01.25-20.42.23:181][145]BlueprintLog: New page: Compile Int_Apple
+[2024.01.25-20.42.23:228][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.01.25-20.42.26:083][459]BlueprintLog: New page: Compile Int_Statue
+[2024.01.25-20.42.26:126][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.25-20.42.26:139][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.42.26:206][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Int_Statue" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Statue.uasset" SILENT=true
+[2024.01.25-20.42.26:210][459]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Int_Statue
+[2024.01.25-20.42.26:211][459]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Int_Statue658BB3A84B26BBA6ADF1BC93C0E08278.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Statue.uasset'
+[2024.01.25-20.42.26:220][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 9.26 sec)
+[2024.01.25-20.42.26:246][459]AssetCheck: New page: Asset Save: Int_Statue
+[2024.01.25-20.42.26:247][459]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Int_Statue.Int_Statue
+[2024.01.25-20.42.26:573][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.42.26:637][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Int_Statue" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Statue.uasset" SILENT=true
+[2024.01.25-20.42.26:642][492]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Int_Statue
+[2024.01.25-20.42.26:642][492]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Int_StatueF02D8BB049C9325B8AABDCB6B58B2B1A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Statue.uasset'
+[2024.01.25-20.42.26:650][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 9.34 sec)
+[2024.01.25-20.42.26:659][492]AssetCheck: New page: Asset Save: Int_Statue
+[2024.01.25-20.42.26:659][492]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Int_Statue.Int_Statue
+[2024.01.25-20.42.47:304][142]LogViewport: Scene viewport resized to 1073x902, mode Windowed.
+[2024.01.25-20.43.01:879][  4]LogStatusBar: Looking status bar with open content browser drawer...
+[2024.01.25-20.43.01:879][  4]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2024.01.25-20.43.11:116][473]LogStatusBar: Looking status bar with open content browser drawer...
+[2024.01.25-20.43.11:116][473]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2024.01.25-20.43.17:583][799]LogContentBrowser: Deferred new asset file creation: Interactable_Grab_Child
+[2024.01.25-20.43.17:624][799]LogContentBrowser: Creating deferred item: Interactable_Grab_Child
+[2024.01.25-20.43.17:647][800]LogContentBrowser: Renaming the item being created (Deferred Item: Interactable_Grab_Child).
+[2024.01.25-20.43.22:109][ 27]LogContentBrowser: Attempting asset rename: Interactable_Grab_Child -> Int_Coffee
+[2024.01.25-20.43.22:112][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.43.22:183][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-20.43.22:203][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Int_Coffee" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Coffee.uasset" SILENT=true
+[2024.01.25-20.43.22:206][ 27]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Int_Coffee
+[2024.01.25-20.43.22:206][ 27]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Int_Coffee9579A9B54C434DCD84D458B91747F483.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Coffee.uasset'
+[2024.01.25-20.43.22:220][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 9.44 sec)
+[2024.01.25-20.43.22:221][ 27]LogContentBrowser: End creating deferred item Interactable_Grab_Child
+[2024.01.25-20.43.22:231][ 27]AssetCheck: New page: Asset Save: Int_Coffee
+[2024.01.25-20.43.22:231][ 27]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Int_Coffee.Int_Coffee
+[2024.01.25-20.43.32:636][964]BlueprintLog: New page: Compile Int_Apple
+[2024.01.25-20.43.32:681][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.01.25-20.43.33:554][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.43.33:632][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Int_Apple" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Apple.uasset" SILENT=true
+[2024.01.25-20.43.33:636][ 62]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Int_Apple
+[2024.01.25-20.43.33:636][ 62]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Int_Apple5C2A020742B6355256016EA1E0DF82F9.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Apple.uasset'
+[2024.01.25-20.43.33:648][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 9.54 sec)
+[2024.01.25-20.43.33:660][ 62]AssetCheck: New page: Asset Save: Int_Apple
+[2024.01.25-20.43.33:661][ 62]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Int_Apple.Int_Apple
+[2024.01.25-20.43.37:222][237]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/Int_Coffee.Int_Coffee
+[2024.01.25-20.43.37:223][237]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.25-20.43.37:223][237]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.25-20.43.37:310][237]LogViewport: Scene viewport resized to 1069x708, mode Windowed.
+[2024.01.25-20.43.37:344][238]LogViewport: Scene viewport resized to 1069x696, mode Windowed.
+[2024.01.25-20.43.37:400][239]LogViewport: Scene viewport resized to 1069x691, mode Windowed.
+[2024.01.25-20.43.52:968][703]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.25-20.43.52:984][703]LogViewport: Scene viewport resized to 1073x448, mode Windowed.
+[2024.01.25-20.43.54:450][824]LogViewport: Scene viewport resized to 1073x447, mode Windowed.
+[2024.01.25-20.43.54:476][825]LogViewport: Scene viewport resized to 1073x454, mode Windowed.
+[2024.01.25-20.43.54:501][826]LogViewport: Scene viewport resized to 1073x468, mode Windowed.
+[2024.01.25-20.43.54:529][827]LogViewport: Scene viewport resized to 1073x487, mode Windowed.
+[2024.01.25-20.43.54:556][828]LogViewport: Scene viewport resized to 1073x502, mode Windowed.
+[2024.01.25-20.43.54:582][829]LogViewport: Scene viewport resized to 1073x517, mode Windowed.
+[2024.01.25-20.43.54:610][830]LogViewport: Scene viewport resized to 1073x530, mode Windowed.
+[2024.01.25-20.43.54:636][831]LogViewport: Scene viewport resized to 1073x541, mode Windowed.
+[2024.01.25-20.43.54:665][832]LogViewport: Scene viewport resized to 1073x552, mode Windowed.
+[2024.01.25-20.43.54:692][833]LogViewport: Scene viewport resized to 1073x561, mode Windowed.
+[2024.01.25-20.43.54:718][834]LogViewport: Scene viewport resized to 1073x570, mode Windowed.
+[2024.01.25-20.43.54:745][835]LogViewport: Scene viewport resized to 1073x574, mode Windowed.
+[2024.01.25-20.43.54:773][836]LogViewport: Scene viewport resized to 1073x580, mode Windowed.
+[2024.01.25-20.43.54:798][837]LogViewport: Scene viewport resized to 1073x584, mode Windowed.
+[2024.01.25-20.43.54:830][838]LogViewport: Scene viewport resized to 1073x586, mode Windowed.
+[2024.01.25-20.43.54:859][839]LogViewport: Scene viewport resized to 1073x590, mode Windowed.
+[2024.01.25-20.43.54:893][840]LogViewport: Scene viewport resized to 1073x595, mode Windowed.
+[2024.01.25-20.43.54:936][842]LogViewport: Scene viewport resized to 1073x596, mode Windowed.
+[2024.01.25-20.43.54:966][843]LogViewport: Scene viewport resized to 1073x600, mode Windowed.
+[2024.01.25-20.43.54:992][844]LogViewport: Scene viewport resized to 1073x603, mode Windowed.
+[2024.01.25-20.43.55:018][845]LogViewport: Scene viewport resized to 1073x604, mode Windowed.
+[2024.01.25-20.43.55:134][855]LogViewport: Scene viewport resized to 1073x605, mode Windowed.
+[2024.01.25-20.43.56:235][954]LogViewport: Scene viewport resized to 1076x605, mode Windowed.
+[2024.01.25-20.43.56:261][955]LogViewport: Scene viewport resized to 1081x605, mode Windowed.
+[2024.01.25-20.43.56:286][956]LogViewport: Scene viewport resized to 1091x605, mode Windowed.
+[2024.01.25-20.43.56:315][957]LogViewport: Scene viewport resized to 1104x605, mode Windowed.
+[2024.01.25-20.43.56:340][958]LogViewport: Scene viewport resized to 1117x605, mode Windowed.
+[2024.01.25-20.43.56:367][959]LogViewport: Scene viewport resized to 1129x605, mode Windowed.
+[2024.01.25-20.43.56:395][960]LogViewport: Scene viewport resized to 1142x605, mode Windowed.
+[2024.01.25-20.43.56:423][961]LogViewport: Scene viewport resized to 1158x605, mode Windowed.
+[2024.01.25-20.43.56:454][962]LogViewport: Scene viewport resized to 1174x605, mode Windowed.
+[2024.01.25-20.43.56:482][963]LogViewport: Scene viewport resized to 1185x605, mode Windowed.
+[2024.01.25-20.43.56:520][964]LogViewport: Scene viewport resized to 1205x605, mode Windowed.
+[2024.01.25-20.43.56:549][965]LogViewport: Scene viewport resized to 1217x605, mode Windowed.
+[2024.01.25-20.43.56:574][966]LogViewport: Scene viewport resized to 1224x605, mode Windowed.
+[2024.01.25-20.43.56:601][967]LogViewport: Scene viewport resized to 1227x605, mode Windowed.
+[2024.01.25-20.43.56:625][968]LogViewport: Scene viewport resized to 1229x605, mode Windowed.
+[2024.01.25-20.43.56:652][969]LogViewport: Scene viewport resized to 1235x605, mode Windowed.
+[2024.01.25-20.43.56:676][970]LogViewport: Scene viewport resized to 1240x605, mode Windowed.
+[2024.01.25-20.43.56:703][971]LogViewport: Scene viewport resized to 1242x605, mode Windowed.
+[2024.01.25-20.43.56:794][979]LogViewport: Scene viewport resized to 1243x605, mode Windowed.
+[2024.01.25-20.43.56:824][980]LogViewport: Scene viewport resized to 1246x605, mode Windowed.
+[2024.01.25-20.43.56:860][981]LogViewport: Scene viewport resized to 1250x605, mode Windowed.
+[2024.01.25-20.43.58:776][156]LogViewport: Scene viewport resized to 1250x603, mode Windowed.
+[2024.01.25-20.43.58:802][157]LogViewport: Scene viewport resized to 1250x596, mode Windowed.
+[2024.01.25-20.43.58:833][158]LogViewport: Scene viewport resized to 1250x581, mode Windowed.
+[2024.01.25-20.43.58:865][159]LogViewport: Scene viewport resized to 1250x563, mode Windowed.
+[2024.01.25-20.43.58:901][160]LogViewport: Scene viewport resized to 1250x546, mode Windowed.
+[2024.01.25-20.43.58:936][161]LogViewport: Scene viewport resized to 1250x531, mode Windowed.
+[2024.01.25-20.43.58:968][162]LogViewport: Scene viewport resized to 1250x522, mode Windowed.
+[2024.01.25-20.43.58:996][163]LogViewport: Scene viewport resized to 1250x516, mode Windowed.
+[2024.01.25-20.43.59:021][164]LogViewport: Scene viewport resized to 1250x513, mode Windowed.
+[2024.01.25-20.43.59:050][165]LogViewport: Scene viewport resized to 1250x511, mode Windowed.
+[2024.01.25-20.43.59:074][166]LogViewport: Scene viewport resized to 1250x509, mode Windowed.
+[2024.01.25-20.43.59:101][167]LogViewport: Scene viewport resized to 1250x507, mode Windowed.
+[2024.01.25-20.43.59:126][168]LogViewport: Scene viewport resized to 1250x506, mode Windowed.
+[2024.01.25-20.44.10:210][193]LogShaderCompilers: Display: ================================================
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Total job queries 242, among them cache hits 96 (39.67%)
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Tracking 142 distinct input hashes that result in 115 distinct outputs (80.99%)
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: RAM used: 4.53 MiB of 1.60 GiB budget. Usage: 0.28%
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.07 s
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Job execution time: average 2.33 s, max 2.44 s
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Job life time (pending + execution): average 2.36 s, max 2.51
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.73 s
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Average processing rate: 0.85 jobs/sec
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Total thread time: 8.765 s
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Total thread preprocess time: 0.1 s
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Percentage time preprocessing: 1.14%
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Effective parallelization: 1.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 2.19 sec, max 2.25 sec, min 2.13 sec)
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 2.19 sec, max 2.26 sec, min 2.12 sec)
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 50.03% of total time (compiled    2 times, average 2.19 sec, max 2.25 sec, min 2.13 sec)
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 49.97% of total time (compiled    2 times, average 2.19 sec, max 2.26 sec, min 2.12 sec)
+[2024.01.25-20.44.10:211][193]LogShaderCompilers: Display: ================================================
+[2024.01.25-20.44.19:433][111]BlueprintLog: New page: Compile Int_Coffee
+[2024.01.25-20.44.19:475][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.01.25-20.44.19:491][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.44.19:590][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Int_Coffee" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Coffee.uasset" SILENT=true
+[2024.01.25-20.44.19:594][111]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Int_Coffee
+[2024.01.25-20.44.19:594][111]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Int_CoffeeBBE70ECB4ED7B09A1EF2C7B352472629.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Coffee.uasset'
+[2024.01.25-20.44.19:602][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 9.65 sec)
+[2024.01.25-20.44.19:626][111]AssetCheck: New page: Asset Save: Int_Coffee
+[2024.01.25-20.44.19:626][111]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Int_Coffee.Int_Coffee
+[2024.01.25-20.44.19:993][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.44.20:057][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Int_Coffee" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Coffee.uasset" SILENT=true
+[2024.01.25-20.44.20:061][147]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Int_Coffee
+[2024.01.25-20.44.20:061][147]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Int_Coffee3E4B787141AAC1AC7F975097A7DEC5F8.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Int_Coffee.uasset'
+[2024.01.25-20.44.20:069][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 9.73 sec)
+[2024.01.25-20.44.20:080][147]AssetCheck: New page: Asset Save: Int_Coffee
+[2024.01.25-20.44.20:080][147]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Int_Coffee.Int_Coffee
+[2024.01.25-20.44.34:781][449]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Int_Coffee.Int_Coffee_C
+[2024.01.25-20.44.34:785][449]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Int_Coffee.Int_Coffee as actor: Int_Coffee_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Cup_18
+[2024.01.25-20.44.34:799][449]EditorErrors: New page: Actor Reattachment
+[2024.01.25-20.44.41:751][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.25-20.44.41:809][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.25-20.44.41:844][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.01.25-20.44.42:578][112]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.01.25-20.44.42:578][112]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse28CFFA93E46E78317B3FA57ACCF8FF7F3.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.01.25-20.44.42:594][112]LogFileHelpers: No new changes to save!
+[2024.01.25-20.44.42:595][112]LogFileHelpers: Saving map 'IrvingHouse2' took 0.788
+[2024.01.25-20.44.42:599][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 849 ms (total: 10.5 sec)
+[2024.01.25-20.44.42:616][112]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.01.25-20.44.42:616][112]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.01.25-20.44.59:098][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
