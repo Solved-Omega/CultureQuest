@@ -1280,3 +1280,197 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.26-19.00.00:574][637]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactable_Grab.Interactable_Grab
 [2024.01.26-19.00.01:481][742]LogViewport: Scene viewport resized to 1069x691, mode Windowed.
 [2024.01.26-19.00.30:843][206]LogDerivedDataCache: C:/Users/macap/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.515 and deleted 147 files with total size 1 MiB and 143 empty folders. Scanned 24130 files in 26555 folders with total size 3183 MiB.
+[2024.01.26-19.01.16:908][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.26-19.01.45:430][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/HouseElements/Mesh_Door_01) ...
+[2024.01.26-19.01.45:472][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/DecorativeElements/Mesh_Book) ...
+[2024.01.26-19.01.45:502][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/Furniture/Mesh_Cabinet_DoorLeft_01) ...
+[2024.01.26-19.01.45:555][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/Furniture/Mesh_Cabinet_DrawerLeft_01) ...
+[2024.01.26-19.01.45:581][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/DecorativeElements/Mesh_Clock) ...
+[2024.01.26-19.01.45:610][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/Furniture/Mesh_Cupboard_01_Door_01) ...
+[2024.01.26-19.01.45:628][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/Furniture/Mesh_Cupboard_01_Door_02) ...
+[2024.01.26-19.01.45:689][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/Furniture/Mesh_Cupboard_02_Door_01) ...
+[2024.01.26-19.01.45:726][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/Furniture/Mesh_Cupboard_Right_Up_03) ...
+[2024.01.26-19.01.45:745][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/Furniture/Mesh_Cupboard_Left_Up_03) ...
+[2024.01.26-19.01.45:852][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/Furniture/Mesh_Cupboard_Drawer_04_01) ...
+[2024.01.26-19.01.45:995][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/Furniture/Mesh_Desk_Door_01_02) ...
+[2024.01.26-19.01.46:146][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/HouseElements/Mesh_Door_04_Right) ...
+[2024.01.26-19.01.46:232][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/DecorativeElements/Mesh_Statuette_01) ...
+[2024.01.26-19.01.46:267][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/Furniture/Mesh_Toilet_Bowl_Cup_02) ...
+[2024.01.26-19.01.46:290][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/Furniture/Mesh_WallCabinet_Door_01) ...
+[2024.01.26-19.01.46:314][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/Furniture/Mesh_Washbasin_Left_Door) ...
+[2024.01.26-19.01.46:398][720]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Victorian_House/Meshes/HouseElements/Mesh_Window_04) ...
+[2024.01.26-19.01.47:107][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.01.47:277][720]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.01.26-19.01.47:278][720]Cmd: MAP LOAD FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.26-19.01.47:278][720]LightingResults: New page: Lighting Build
+[2024.01.26-19.01.47:278][720]LoadErrors: New page: Loading map: IrvingHouse2.umap
+[2024.01.26-19.01.47:343][720]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.01.47:344][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.01.47:344][720]MapCheck: New page: Map Check
+[2024.01.26-19.01.47:344][720]LightingResults: New page: Lighting Build
+[2024.01.26-19.01.47:376][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.26-19.01.47:421][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.01.26-19.01.47:501][720]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.01.47:511][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.01.47:611][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.26-19.01.47:639][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.01.26-19.01.47:840][720]LogAudio: Display: Audio Device (ID: 1) registered with world 'IrvingHouse2'.
+[2024.01.26-19.01.47:840][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.01.47:840][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.01.47:840][720]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.26-19.01.48:652][720]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.26-19.01.48:754][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.26-19.01.48:764][720]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.26-19.01.48:765][720]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.651ms to complete.
+[2024.01.26-19.01.48:765][720]LogFileHelpers: Loading map 'IrvingHouse2' took 1.487
+[2024.01.26-19.01.49:039][721]LogShaderCompilers: Display: ================================================
+[2024.01.26-19.01.49:039][721]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.26-19.01.49:039][721]LogShaderCompilers: Display: Total job queries 29, among them cache hits 0 (0.00%)
+[2024.01.26-19.01.49:039][721]LogShaderCompilers: Display: Tracking 27 distinct input hashes that result in 23 distinct outputs (85.19%)
+[2024.01.26-19.01.49:039][721]LogShaderCompilers: Display: RAM used: 905.30 KiB of 1.60 GiB budget. Usage: 0.05%
+[2024.01.26-19.01.49:039][721]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.26-19.01.49:039][721]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.26-19.01.49:039][721]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.01.26-19.01.49:039][721]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.26-19.01.49:039][721]LogShaderCompilers: Display: ================================================
+[2024.01.26-19.01.49:497][723]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.26-19.01.53:199][117]LogShaderCompilers: Warning: Failed to compile Material /Game/Victorian_House/Materials/Mat_Universal.Mat_Universal for platform PCD3D_SM6, Default Material will be used in game.
+  /Engine/Private/BasePassPixelShader.usf:1252:7: warning: implicit truncation of vector type [-Wconversion]
+	                                                In.SvPosition,
+	                                                ^
+  Shader is using too many Samplers: 19 (only 16 supported)
+
+[2024.01.26-19.02.08:595][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.26-19.02.08:610][317]PIE: New page: PIE session: IrvingHouse2 (Jan 26, 2024, 3:02:08 AM)
+[2024.01.26-19.02.08:633][317]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.01.26-19.02.08:633][317]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.01.26-19.02.08:633][317]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.26-19.02.08:819][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.185190s)
+[2024.01.26-19.02.08:819][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.185250s)
+[2024.01.26-19.02.08:832][317]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.02.08:832][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.02.08:832][317]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.26-19.02.08:833][317]LogPlayLevel: PIE: World Init took: (0.013882s)
+[2024.01.26-19.02.08:852][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.26-19.02.08:863][317]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.01.26-19.02.08:863][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.26-19.02.08:863][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.26-19.02.08:863][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.26-19.02.08:863][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.26-19.02.08:863][317]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.26-19.02.08:863][317]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.26-19.02.08:863][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.26-19.02.08:863][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.26-19.02.08:863][317]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.26-19.02.08:863][317]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.26-19.02.08:863][317]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.26-19.02.08:865][317]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.26-19.02.08:880][317]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.26-19.02.08:881][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.26-19.02.08:881][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.26-19.02.08:881][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.26-19.02.08:881][317]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.01.26-19.02.08:881][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.01.26-19.02.08:883][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.01.26-19.02.08:883][317]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.01.26-19.02.08:883][317]LogInit: FAudioDevice initialized with ID 2.
+[2024.01.26-19.02.08:883][317]LogAudio: Display: Audio Device (ID: 2) registered with world 'IrvingHouse2'.
+[2024.01.26-19.02.08:883][317]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.26-19.02.08:925][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-19.02.08:925][317]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.01.26-19.02.09:019][317]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.26-11.02.09
+[2024.01.26-19.02.09:020][317]LogWorld: Bringing up level for play took: 0.075597
+[2024.01.26-19.02.09:022][317]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.01.26-19.02.09:196][317]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.01.26-19.02.09:208][317]PIE: Server logged in
+[2024.01.26-19.02.09:211][317]PIE: Play in editor total start time 0.63 seconds.
+[2024.01.26-19.02.09:371][317]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.01.26-19.02.13:736][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.26-19.02.13:736][759]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.26-19.02.13:736][759]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.01.26-19.02.13:747][759]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.02.13:757][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.02.13:760][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.26-19.02.13:769][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.02.13:787][759]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.26-19.02.13:789][759]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.26-19.02.13:802][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.26-19.02.13:804][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.26-19.02.13:842][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.26-19.02.13:878][760]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.01.26-19.03.10:114][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.03.13:561][532]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Mat_Highlight.Mat_Highlight
+[2024.01.26-19.03.13:629][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.03.13:629][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.03.13:832][532]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.01.26-19.03.14:048][532]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.26-19.03.14:048][532]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2024.01.26-19.03.14:048][532]MaterialEditorStats: Shader Count: 0
+[2024.01.26-19.03.14:063][532]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.01.26-19.03.14:795][555]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.26-19.03.14:795][555]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(9)
+[2024.01.26-19.03.14:795][555]MaterialEditorStats: Shader Count: 2
+[2024.01.26-19.03.20:012][921]LogMaterialEditor: Saving and Compiling material Mat_Highlight
+[2024.01.26-19.03.20:013][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-19.03.20:506][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Mat_Highlight" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Materials/Mat_Highlight.uasset" SILENT=true
+[2024.01.26-19.03.20:510][921]LogSavePackage: Moving output files for package: /Game/Materials/Mat_Highlight
+[2024.01.26-19.03.20:510][921]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Mat_HighlightDD8A847549AB2718F28368A19FE38AFC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Materials/Mat_Highlight.uasset'
+[2024.01.26-19.03.20:518][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 503 ms (total: 1.56 sec)
+[2024.01.26-19.03.20:527][921]AssetCheck: New page: Asset Save: Mat_Highlight
+[2024.01.26-19.03.20:527][921]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Mat_Highlight.Mat_Highlight
+[2024.01.26-19.03.22:695][ 63]LogSlate: Window 'Mat_Highlight' being destroyed
+[2024.01.26-19.03.22:699][ 63]LogSlate: Window 'Mat_Highlight' being destroyed
+[2024.01.26-19.03.22:714][ 63]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.03.22:714][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.03.59:941][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.04.19:870][813]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: ================================================
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Total job queries 195, among them cache hits 75 (38.46%)
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Tracking 116 distinct input hashes that result in 95 distinct outputs (81.90%)
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: RAM used: 3.38 MiB of 1.60 GiB budget. Usage: 0.21%
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Shaders Compiled: 14
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100.00%)
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Average time worker was idle: 22.31 s
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.15 s
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Job execution time: average 1.25 s, max 4.11 s
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Job life time (pending + execution): average 1.32 s, max 4.27
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.04 s
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Average processing rate: 1.74 jobs/sec
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Total thread time: 12.463 s
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Total thread preprocess time: 0.282 s
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Percentage time preprocessing: 2.26%
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Effective parallelization: 1.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.26-19.07.01:002][285]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.26-19.07.01:003][285]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 2.24 sec, max 2.26 sec, min 2.21 sec)
+[2024.01.26-19.07.01:003][285]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 2.19 sec, max 2.23 sec, min 2.15 sec)
+[2024.01.26-19.07.01:003][285]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.48 sec)
+[2024.01.26-19.07.01:003][285]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.44 sec, max 0.50 sec, min 0.38 sec)
+[2024.01.26-19.07.01:003][285]LogShaderCompilers: Display:                                       FPostProcessMaterialPS (compiled    2 times, average 0.36 sec, max 0.43 sec, min 0.30 sec)
+[2024.01.26-19.07.01:003][285]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.26-19.07.01:003][285]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 35.88% of total time (compiled    2 times, average 2.24 sec, max 2.26 sec, min 2.21 sec)
+[2024.01.26-19.07.01:003][285]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 35.09% of total time (compiled    2 times, average 2.19 sec, max 2.23 sec, min 2.15 sec)
+[2024.01.26-19.07.01:003][285]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.93% of total time (compiled    2 times, average 0.49 sec, max 0.50 sec, min 0.48 sec)
+[2024.01.26-19.07.01:003][285]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.11% of total time (compiled    2 times, average 0.44 sec, max 0.50 sec, min 0.38 sec)
+[2024.01.26-19.07.01:003][285]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 5.85% of total time (compiled    2 times, average 0.36 sec, max 0.43 sec, min 0.30 sec)
+[2024.01.26-19.07.01:003][285]LogShaderCompilers: Display: ================================================
+[2024.01.26-19.07.03:248][439]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Victorian_House/Materials/Instance/Tiling/Inst_Outline.Inst_Outline
+[2024.01.26-19.07.03:263][439]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-19.07.03:263][439]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-19.07.03:478][439]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2024.01.26-19.07.03:507][439]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.26-19.07.06:768][755]LogSlate: Window 'Inst_Outline' being destroyed
+[2024.01.26-19.07.06:787][755]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-19.07.06:787][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-19.08.49:731][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-19.08.49:793][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.26-19.08.49:818][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.01.26-19.08.50:482][ 37]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.01.26-19.08.50:483][ 37]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2781683BA4AFF9AB4E1FFB9A924905CCD.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.01.26-19.08.50:498][ 37]LogFileHelpers: No new changes to save!
+[2024.01.26-19.08.50:498][ 37]LogFileHelpers: Saving map 'IrvingHouse2' took 0.707
+[2024.01.26-19.08.50:502][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 771 ms (total: 2.33 sec)
+[2024.01.26-19.08.50:518][ 37]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.01.26-19.08.50:518][ 37]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
