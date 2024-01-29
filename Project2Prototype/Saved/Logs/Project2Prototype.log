@@ -2025,3 +2025,581 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.29-23.33.47:692][164]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactable_Content.Interactable_Content
 [2024.01.29-23.33.47:692][164]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/AC_InteractablesData.AC_InteractablesData
 [2024.01.29-23.33.47:692][164]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.01.29-23.35.29:774][175]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.35.29:807][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.01.29-23.35.30:265][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.35.30:342][217]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.35.30:342][217]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptC291D1B8416606CE22FB77939DCAE59D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.35.30:348][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 8.73 sec)
+[2024.01.29-23.35.30:358][217]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.35.30:358][217]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.35.58:201][444]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.35.58:239][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.29-23.35.58:255][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.35.58:330][444]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.35.58:330][444]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptB9E1B4BB4C62D0E31F78B9A5D8A756AF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.35.58:336][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 8.81 sec)
+[2024.01.29-23.35.58:346][444]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.35.58:346][444]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.36.14:398][339]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Interactables/InteractableWidget.InteractableWidget
+[2024.01.29-23.36.14:398][339]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-23.36.14:398][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.29-23.36.14:406][339]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-23.36.14:406][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.29-23.36.28:777][964]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.01.29-23.36.28:777][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-23.36.28:788][964]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.01.29-23.36.28:788][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-23.36.39:244][177]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.36.39:286][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.29-23.36.39:301][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.36.39:363][177]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.36.39:363][177]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt33EBE15D4C8176AF876856ADAFDE3B36.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.36.39:371][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 8.88 sec)
+[2024.01.29-23.36.39:381][177]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.36.39:381][177]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.36.39:984][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.36.40:060][242]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.36.40:061][242]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt6BDF7BEE44C96E5188DA57BAC8749B10.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.36.40:067][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 8.96 sec)
+[2024.01.29-23.36.40:078][242]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.36.40:078][242]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.36.46:138][963]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.36.46:177][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.29-23.36.46:195][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.36.46:273][963]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.36.46:273][963]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt3B00812345B906701636C0B4F0358D19.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.36.46:279][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 9.04 sec)
+[2024.01.29-23.36.46:289][963]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.36.46:289][963]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.36.46:683][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.36.46:747][  3]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.36.46:747][  3]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptA4C27C9B41F7CEFE5BAF2BA16C590785.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.36.46:753][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 9.11 sec)
+[2024.01.29-23.36.46:763][  3]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.36.46:763][  3]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.37.01:996][755]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.37.02:035][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.01.29-23.37.02:051][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.37.02:130][755]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.37.02:130][755]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt1F1F252545B314CE27B33CB2EB0C35D0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.37.02:137][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 9.20 sec)
+[2024.01.29-23.37.02:146][755]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.37.02:146][755]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.37.47:425][ 69]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.37.47:464][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.29-23.37.47:480][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.37.47:555][ 69]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.37.47:556][ 69]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptC82382044A26B9BC916EA8B6E1DE4B2C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.37.47:562][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 9.28 sec)
+[2024.01.29-23.37.47:574][ 69]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.37.47:574][ 69]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.37.48:098][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.37.48:173][127]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.37.48:173][127]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptCE934C6245CBA154B476A69F16095A05.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.37.48:179][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 9.36 sec)
+[2024.01.29-23.37.48:189][127]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.37.48:189][127]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.37.50:773][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.37.50:850][427]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.37.50:851][427]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt408D0F2E4E44BD455ED42585783BBE5F.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.37.50:858][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 9.45 sec)
+[2024.01.29-23.37.50:873][427]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.37.50:873][427]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.38.36:906][688]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.38.36:945][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.29-23.38.37:584][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.38.37:658][757]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.38.37:658][757]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt066F5C8C41B759790F1571ACC2A56E97.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.38.37:665][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 9.53 sec)
+[2024.01.29-23.38.37:677][757]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.38.37:677][757]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.38.43:474][449]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.29-23.38.43:483][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.29-23.38.43:483][449]PIE: New page: PIE session: IrvingHouse2 (Jan 29, 2024, 7:38:43 AM)
+[2024.01.29-23.38.43:483][449]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.29-23.38.43:685][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.201119s)
+[2024.01.29-23.38.43:685][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.201155s)
+[2024.01.29-23.38.43:685][449]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-23.38.43:685][449]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.29-23.38.43:686][449]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.29-23.38.43:687][449]LogPlayLevel: PIE: World Init took: (0.001553s)
+[2024.01.29-23.38.43:711][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.29-23.38.43:714][449]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.01.29-23.38.43:714][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.29-23.38.43:714][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.29-23.38.43:714][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.29-23.38.43:714][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.29-23.38.43:714][449]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.29-23.38.43:714][449]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.29-23.38.43:714][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.29-23.38.43:714][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.29-23.38.43:714][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.29-23.38.43:714][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.29-23.38.43:714][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.29-23.38.43:716][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.29-23.38.43:734][449]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.29-23.38.43:734][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.29-23.38.43:734][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.29-23.38.43:734][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.29-23.38.43:735][449]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.01.29-23.38.43:735][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.01.29-23.38.43:737][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.01.29-23.38.43:737][449]LogInit: FAudioDevice initialized with ID 5.
+[2024.01.29-23.38.43:737][449]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.01.29-23.38.43:737][449]LogAudio: Display: Audio Device (ID: 5) registered with world 'IrvingHouse2'.
+[2024.01.29-23.38.43:737][449]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.29-23.38.43:791][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.29-23.38.43:791][449]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.01.29-23.38.43:899][449]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.29-15.38.43
+[2024.01.29-23.38.43:902][449]LogWorld: Bringing up level for play took: 0.110845
+[2024.01.29-23.38.43:905][449]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.01.29-23.38.43:913][449]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.01.29-23.38.43:915][449]PIE: Server logged in
+[2024.01.29-23.38.43:917][449]PIE: Play in editor total start time 0.433 seconds.
+[2024.01.29-23.38.43:978][449]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.01.29-23.38.45:388][587]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.01.29-23.38.45:388][587]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.01.29-23.38.45:388][587]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.01.29-23.38.46:599][712]LogScript: Warning: Accessed None trying to read property Actor Reference
+	InteractablesDataPrompt_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_3.InteractablesDataPrompt_C_0
+	Function /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt_C:ExecuteUbergraph_InteractablesDataPrompt:001F
+[2024.01.29-23.38.46:599][712]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Actor Reference". Node:  Add Component by Class Graph:  EventGraph Function:  Execute Ubergraph Interactables Data Prompt Blueprint:  InteractablesDataPrompt
+[2024.01.29-23.38.47:386][793]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.01.29-23.38.47:386][793]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.01.29-23.38.48:580][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.29-23.38.48:580][910]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.29-23.38.48:581][910]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.01.29-23.38.48:589][910]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.29-23.38.48:602][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-23.38.48:606][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.29-23.38.48:617][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-23.38.48:649][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.29-23.38.48:651][910]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.01.29-23.38.48:651][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.29-23.38.48:653][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.01.29-23.38.48:680][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.29-23.38.48:885][911]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.01.29-23.38.59:585][161]LogSlate: Window 'Message Log' being destroyed
+[2024.01.29-23.38.59:593][161]LogSlate: Window 'Message Log' being destroyed
+[2024.01.29-23.39.03:650][643]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.39.03:680][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.29-23.39.04:207][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.39.04:287][698]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.39.04:287][698]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt94F8CC97478577CC1798A8ADD674833F.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.39.04:295][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 9.62 sec)
+[2024.01.29-23.39.04:305][698]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.39.04:305][698]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.39.21:315][717]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.39.21:366][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.29-23.39.21:383][717]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.39.21:454][717]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.39.21:454][717]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptDF45311B483D2E5933788895EC5E881A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.39.21:463][717]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 9.70 sec)
+[2024.01.29-23.39.21:474][717]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.39.21:474][717]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.39.21:963][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.39.22:030][767]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.39.22:030][767]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt8EBB188A422C027B33636B829009725B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.39.22:037][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 9.77 sec)
+[2024.01.29-23.39.22:047][767]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.39.22:047][767]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.39.33:101][ 40]BlueprintLog: New page: Compile Interactables
+[2024.01.29-23.39.33:158][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.01.29-23.39.33:181][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.39.33:262][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactables" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset" SILENT=true
+[2024.01.29-23.39.33:274][ 40]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables
+[2024.01.29-23.39.33:274][ 40]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables62CB0746481D0311E2D2E3AFC745370D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset'
+[2024.01.29-23.39.33:280][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 9.87 sec)
+[2024.01.29-23.39.33:293][ 40]AssetCheck: New page: Asset Save: Interactables
+[2024.01.29-23.39.33:293][ 40]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables.Interactables
+[2024.01.29-23.39.53:709][481]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.29-23.39.53:719][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.29-23.39.53:719][481]PIE: New page: PIE session: IrvingHouse2 (Jan 29, 2024, 7:39:53 AM)
+[2024.01.29-23.39.53:719][481]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.29-23.39.53:946][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.225877s)
+[2024.01.29-23.39.53:946][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.225915s)
+[2024.01.29-23.39.53:946][481]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-23.39.53:946][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.29-23.39.53:946][481]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.01.29-23.39.53:947][481]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2024.01.29-23.39.53:971][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.29-23.39.53:973][481]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.01.29-23.39.53:973][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.29-23.39.53:973][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.29-23.39.53:973][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.29-23.39.53:973][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.29-23.39.53:973][481]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.29-23.39.53:973][481]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.29-23.39.53:973][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.29-23.39.53:973][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.29-23.39.53:973][481]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.29-23.39.53:973][481]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.29-23.39.53:973][481]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.29-23.39.53:975][481]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.29-23.39.53:992][481]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.01.29-23.39.53:993][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.29-23.39.53:993][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.29-23.39.53:993][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.29-23.39.53:994][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.01.29-23.39.53:994][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.01.29-23.39.53:995][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.01.29-23.39.53:995][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.01.29-23.39.53:995][481]LogInit: FAudioDevice initialized with ID 6.
+[2024.01.29-23.39.53:995][481]LogAudio: Display: Audio Device (ID: 6) registered with world 'IrvingHouse2'.
+[2024.01.29-23.39.53:995][481]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.01.29-23.39.54:046][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.29-23.39.54:046][481]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.01.29-23.39.54:138][481]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.01.29-15.39.54
+[2024.01.29-23.39.54:140][481]LogWorld: Bringing up level for play took: 0.093932
+[2024.01.29-23.39.54:142][481]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.01.29-23.39.54:148][481]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.01.29-23.39.54:151][481]PIE: Server logged in
+[2024.01.29-23.39.54:153][481]PIE: Play in editor total start time 0.435 seconds.
+[2024.01.29-23.39.54:213][481]LogViewport: Scene viewport resized to 1920x1000, mode Windowed.
+[2024.01.29-23.39.55:487][605]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.01.29-23.39.55:487][605]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.01.29-23.39.55:487][605]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.01.29-23.39.57:379][808]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.01.29-23.39.57:379][808]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.01.29-23.39.58:650][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.29-23.39.58:650][939]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.01.29-23.39.58:651][939]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.01.29-23.39.58:659][939]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.01.29-23.39.58:672][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-23.39.58:686][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.29-23.39.58:696][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-23.39.58:730][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.29-23.39.58:730][939]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.01.29-23.39.58:731][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.01.29-23.39.58:733][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.01.29-23.39.58:759][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.29-23.39.58:819][940]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.01.29-23.40.00:203][105]BlueprintLog: New page: Compile Interactables
+[2024.01.29-23.40.00:257][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.29-23.40.00:740][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.40.00:810][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactables" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset" SILENT=true
+[2024.01.29-23.40.00:825][148]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables
+[2024.01.29-23.40.00:826][148]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables5599BBF843FC7C3837C4559BF2388711.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset'
+[2024.01.29-23.40.00:834][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 9.96 sec)
+[2024.01.29-23.40.00:850][148]AssetCheck: New page: Asset Save: Interactables
+[2024.01.29-23.40.00:850][148]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables.Interactables
+[2024.01.29-23.40.36:501][729]BlueprintLog: New page: Compile Interactables
+[2024.01.29-23.40.36:557][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.01.29-23.40.37:243][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.40.37:329][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactables" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset" SILENT=true
+[2024.01.29-23.40.37:342][799]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables
+[2024.01.29-23.40.37:343][799]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesF4ABB2C14856A5300766A7855906547F.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset'
+[2024.01.29-23.40.37:349][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 10.0 sec)
+[2024.01.29-23.40.37:360][799]AssetCheck: New page: Asset Save: Interactables
+[2024.01.29-23.40.37:360][799]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables.Interactables
+[2024.01.29-23.40.46:477][888]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.40.46:527][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.29-23.40.47:519][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.40.47:581][985]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.40.47:581][985]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt8178EF594AA356DC6FA51AB52EF8EC3E.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.40.47:588][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 10.1 sec)
+[2024.01.29-23.40.47:597][985]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.40.47:597][985]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.42.31:217][270]BlueprintLog: New page: Compile Interactable_Content
+[2024.01.29-23.42.31:281][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.01.29-23.42.31:954][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.42.32:052][337]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactable_Content
+[2024.01.29-23.42.32:053][337]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactable_Content2F1CE4084B0A0CF95CC2BB9888B1C5AA.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactable_Content.uasset'
+[2024.01.29-23.42.32:060][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 10.2 sec)
+[2024.01.29-23.42.32:071][337]AssetCheck: New page: Asset Save: Interactable_Content
+[2024.01.29-23.42.32:071][337]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactable_Content.Interactable_Content
+[2024.01.29-23.42.35:919][775]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Interactables/InteractableWidget.InteractableWidget
+[2024.01.29-23.42.35:919][775]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-23.42.35:919][775]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.29-23.42.35:928][775]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-23.42.35:928][775]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.29-23.42.38:430][ 53]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.01.29-23.42.38:430][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-23.42.38:441][ 53]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.01.29-23.42.38:441][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.29-23.43.10:508][504]LogSlate: Took 0.040461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.01.29-23.43.38:882][793]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.43.38:930][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.29-23.43.38:969][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.43.39:048][793]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.43.39:048][793]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt1431058641D73E465BA68BBF19293EEC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.43.39:056][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 10.3 sec)
+[2024.01.29-23.43.39:067][793]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.43.39:067][793]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.43.39:393][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.43.39:467][821]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.43.39:467][821]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt77FC8A3B4DACBCD74B4A9F94F306A650.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.43.39:474][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 10.4 sec)
+[2024.01.29-23.43.39:485][821]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.43.39:486][821]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.44.18:946][947]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.44.18:986][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.29-23.44.19:030][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.44.19:109][947]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.44.19:109][947]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt349CC02A4CEF61075D82F3AECE7C5329.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.44.19:116][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 10.5 sec)
+[2024.01.29-23.44.19:131][947]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.44.19:131][947]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.44.19:846][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.44.19:923][ 19]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.44.19:923][ 19]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptF2BA605F467F4E2890B038A063B8729D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.44.19:929][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 10.5 sec)
+[2024.01.29-23.44.19:940][ 19]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.44.19:940][ 19]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.44.22:897][306]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.44.22:938][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.01.29-23.44.22:983][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.44.23:054][306]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.44.23:055][306]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt5FDBE4324866433554A779B868D7A86B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.44.23:062][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 10.6 sec)
+[2024.01.29-23.44.23:078][306]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.44.23:078][306]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.44.23:527][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.44.23:604][347]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.44.23:604][347]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt2D061C3441A6650F74EE0488053E7F5B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.44.23:612][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 10.7 sec)
+[2024.01.29-23.44.23:626][347]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.44.23:626][347]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.44.50:277][490]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.44.50:316][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.29-23.44.50:361][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.44.50:425][490]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.44.50:425][490]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt1375B2624FEC631887CBCE89909E7C11.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.44.50:433][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 10.8 sec)
+[2024.01.29-23.44.50:449][490]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.44.50:449][490]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.44.50:922][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.44.50:991][531]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.44.50:991][531]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt5A0B3B5E4704EEB5E2C5979EDA8435E2.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.44.50:998][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 10.9 sec)
+[2024.01.29-23.44.51:009][531]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.44.51:009][531]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.44.52:261][674]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.44.52:300][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.01.29-23.44.52:344][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.44.52:423][674]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.44.52:423][674]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptF57C11D5464FDF25CC547086EF499392.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.44.52:431][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 10.9 sec)
+[2024.01.29-23.44.52:447][674]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.44.52:447][674]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.45.12:539][ 63]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.45.12:578][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.29-23.45.12:624][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.45.12:709][ 63]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.45.12:709][ 63]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt1B0D3C8842151A0AB247C0AB23F2E944.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.45.12:718][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 11.0 sec)
+[2024.01.29-23.45.12:735][ 63]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.45.12:735][ 63]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.45.13:101][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.45.13:169][ 92]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.45.13:169][ 92]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt81CE0BDF4A040F41E221A3BD3163981D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.45.13:177][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 11.1 sec)
+[2024.01.29-23.45.13:187][ 92]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.45.13:187][ 92]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.45.17:902][624]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.45.17:943][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.01.29-23.45.17:987][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.45.18:065][624]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.45.18:066][624]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptC44076A84379799A287E288F6626A241.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.45.18:074][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 11.2 sec)
+[2024.01.29-23.45.18:089][624]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.45.18:089][624]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.45.18:510][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.45.18:587][661]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.45.18:587][661]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptBEED40FE499E3508A609B490D81A31AA.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.45.18:594][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 11.3 sec)
+[2024.01.29-23.45.18:605][661]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.45.18:605][661]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.45.20:044][824]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.45.20:086][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.29-23.45.20:131][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.45.20:213][824]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.45.20:213][824]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt532CF1C842E7BE07EC163DB4B6D04B19.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.45.20:220][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 11.4 sec)
+[2024.01.29-23.45.20:236][824]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.45.20:236][824]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.45.22:522][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.45.22:602][ 82]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.45.22:602][ 82]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt70AA42004706345D229EA3A61777684D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.45.22:609][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 11.5 sec)
+[2024.01.29-23.45.22:620][ 82]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.45.22:620][ 82]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.45.33:289][346]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.45.33:331][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.29-23.45.33:376][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.45.33:458][346]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.45.33:458][346]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptB601753A4D0B8BF6544A4D8209CF71E7.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.45.33:466][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 11.5 sec)
+[2024.01.29-23.45.33:483][346]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.45.33:484][346]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.45.33:901][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.45.33:971][377]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.45.33:971][377]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt1962F39943E09891CD4A4597612652B4.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.45.33:979][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 11.6 sec)
+[2024.01.29-23.45.33:992][377]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.45.33:993][377]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.45.40:637][171]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.45.40:678][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.29-23.45.41:327][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.45.41:403][222]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.45.41:403][222]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptF1808DA2402D7EE3E9D15CA8A44C75AB.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.45.41:411][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 11.7 sec)
+[2024.01.29-23.45.41:422][222]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.45.41:422][222]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.45.45:863][750]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.45.45:900][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.01.29-23.45.46:408][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.45.46:486][797]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.45.46:487][797]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt62E2D2E949E15A60CE8C809E9ADCA3DA.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.45.46:494][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 11.8 sec)
+[2024.01.29-23.45.46:505][797]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.45.46:506][797]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.46.13:681][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.01.29-23.46.14:360][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/IrvingHouse2_Auto2
+[2024.01.29-23.46.14:360][985]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2_Auto20FAA4D35406323B8D01800B566649027.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Saved/Autosaves/Game/Levels/IrvingHouse2_Auto2.umap'
+[2024.01.29-23.46.14:374][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/IrvingHouse2' took 0.717
+[2024.01.29-23.46.14:374][985]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.717
+[2024.01.29-23.48.59:443][176]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.48.59:474][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.29-23.49.00:166][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.49.00:250][244]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.49.00:251][244]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptF77E354D43FBF9F4DEBB3F9D2C5174AF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.49.00:257][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 11.9 sec)
+[2024.01.29-23.49.00:267][244]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.49.00:267][244]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.49.03:896][677]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.49.03:936][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.29-23.49.26:762][339]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.29-23.50.11:192][568]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.50.11:236][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.29-23.50.11:252][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.50.11:331][568]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.50.11:331][568]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptF20F512947D9AA36718E639939EA757C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.50.11:339][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 12.0 sec)
+[2024.01.29-23.50.11:349][568]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.50.11:349][568]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.50.11:881][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.50.11:949][625]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.50.11:950][625]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt9103DE1345CCF89F5D192985DF08940C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.50.11:956][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 12.0 sec)
+[2024.01.29-23.50.11:968][625]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.50.11:968][625]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.50.19:174][486]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.50.19:216][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.01.29-23.50.19:977][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.50.20:045][571]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.50.20:045][571]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt8070B86841A32FF6CCA5FAA9E929673C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.50.20:051][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 12.1 sec)
+[2024.01.29-23.50.20:062][571]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.50.20:062][571]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.50.43:087][216]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Interactables/InteractableWidget.InteractableWidget
+[2024.01.29-23.50.43:087][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-23.50.43:087][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.29-23.50.43:096][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.29-23.50.43:096][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.29-23.50.57:644][925]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.50.57:686][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.29-23.50.57:728][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.50.57:804][925]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.50.57:804][925]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt0FC3948A4B9F71124BF992A97D27B650.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.50.57:812][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 12.2 sec)
+[2024.01.29-23.50.57:832][925]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.50.57:832][925]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.50.58:265][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.50.58:341][965]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.50.58:342][965]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptB2DB996D47B593EDFEE2F9B43B969DBF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.50.58:349][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 12.3 sec)
+[2024.01.29-23.50.58:358][965]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.50.58:358][965]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.51.14:203][824]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.51.14:245][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.29-23.51.14:307][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.51.14:396][824]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.51.14:396][824]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptA72DD46746F13B689DDDB1B8CF1B0109.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.51.14:406][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 12.4 sec)
+[2024.01.29-23.51.14:423][824]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.51.14:424][824]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.51.14:886][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.51.14:946][867]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.51.14:946][867]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptF0770FF4422C4D480D1CFFA6D6BAC2A4.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.51.14:955][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 12.5 sec)
+[2024.01.29-23.51.14:966][867]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.51.14:966][867]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.51.21:049][583]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.51.21:089][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.01.29-23.51.21:127][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.51.21:213][583]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.51.21:213][583]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt883F392443A46F7C3509B8B10EF17ADC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.51.21:222][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 12.6 sec)
+[2024.01.29-23.51.21:237][583]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.51.21:237][583]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.51.21:638][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.51.21:712][617]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.51.21:712][617]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptC9566B7A46E00AC80359A5AEF901EAFC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.51.21:720][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 12.6 sec)
+[2024.01.29-23.51.21:731][617]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.51.21:731][617]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.51.42:471][  0]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.51.42:517][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.01.29-23.51.42:556][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.51.42:641][  0]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.51.42:642][  0]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt3A9CAAF8458489B7088B2595334AB3B7.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.51.42:649][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 12.7 sec)
+[2024.01.29-23.51.42:664][  0]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.51.42:664][  0]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.51.43:475][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.51.43:556][ 84]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.51.43:556][ 84]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt4F1B9C2C479D1A4D9AA2978215790FE4.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.51.43:564][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 12.8 sec)
+[2024.01.29-23.51.43:577][ 84]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.51.43:577][ 84]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.51.56:108][566]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.51.56:150][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.01.29-23.51.58:560][833]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.51.58:601][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.01.29-23.51.59:056][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.51.59:122][869]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.51.59:123][869]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptB007110D4FEA3B4BF3EE78AA357CC19C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.51.59:131][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 12.9 sec)
+[2024.01.29-23.51.59:141][869]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.51.59:141][869]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.52.18:741][193]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.52.18:782][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.01.29-23.52.19:380][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.52.19:462][239]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.52.19:463][239]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt5166EC354B70CB5AF79C82BDB3B3548D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.52.19:472][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 13.0 sec)
+[2024.01.29-23.52.19:484][239]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.52.19:484][239]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.52.35:592][ 98]LogDerivedDataCache: C:/Users/macap/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:46.216 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23996 files in 26425 folders with total size 3182 MiB.
+[2024.01.29-23.52.48:220][592]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.52.48:263][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.29-23.52.48:307][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.52.48:401][592]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.52.48:402][592]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt1529D3C04BB5281BA9B956B00963DC0C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.52.48:410][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 13.1 sec)
+[2024.01.29-23.52.48:424][592]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.52.48:424][592]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.52.48:849][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.52.48:908][630]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.52.48:908][630]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt6BB3F10A493C67536801E4809DA67D51.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.52.48:917][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 13.2 sec)
+[2024.01.29-23.52.48:928][630]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.52.48:929][630]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.53.48:312][731]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.53.48:358][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.29-23.54.11:499][432]BlueprintLog: New page: Compile InteractablesDataPrompt
+[2024.01.29-23.54.11:544][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.29-23.54.11:586][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.54.11:665][432]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.54.11:666][432]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPrompt29138F4F446CBFF24FB0EC9B3347207B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.54.11:675][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 13.2 sec)
+[2024.01.29-23.54.11:690][432]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.54.11:690][432]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
+[2024.01.29-23.54.12:427][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.29-23.54.12:502][510]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesDataPrompt
+[2024.01.29-23.54.12:503][510]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesDataPromptEF06BAF94BE4EE87E53637B2B211B52C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesDataPrompt.uasset'
+[2024.01.29-23.54.12:511][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 13.3 sec)
+[2024.01.29-23.54.12:521][510]AssetCheck: New page: Asset Save: InteractablesDataPrompt
+[2024.01.29-23.54.12:521][510]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesDataPrompt.InteractablesDataPrompt
