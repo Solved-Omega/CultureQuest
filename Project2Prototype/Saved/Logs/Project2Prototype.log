@@ -2681,3 +2681,1344 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.04-20.51.40:531][ 45]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2024.02.04-20.51.40:535][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
 [2024.02.04-20.51.40:623][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.02.04-20.52.20:977][875]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.52.20:977][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.52.20:987][875]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.52.20:987][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.52.26:457][491]BlueprintLog: New page: Compile InteractablesAudio
+[2024.02.04-20.52.26:510][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.02.04-20.52.50:354][276]BlueprintLog: New page: Compile InteractablesAudio
+[2024.02.04-20.52.50:411][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.02.04-20.52.50:969][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.52.51:054][323]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesAudio
+[2024.02.04-20.52.51:055][323]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesAudio50C0F6384F74CC65AF8B9E9FF8871DB1.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesAudio.uasset'
+[2024.02.04-20.52.51:062][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 2.68 sec)
+[2024.02.04-20.52.51:075][323]AssetCheck: New page: Asset Save: InteractablesAudio
+[2024.02.04-20.52.51:075][323]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesAudio.InteractablesAudio
+[2024.02.04-20.52.55:214][757]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.52.55:215][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.52.55:225][757]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.52.55:225][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.53.32:130][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: ================================================
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Total job queries 123, among them cache hits 12 (9.76%)
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Tracking 107 distinct input hashes that result in 89 distinct outputs (83.18%)
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: RAM used: 3.13 MiB of 1.60 GiB budget. Usage: 0.19%
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Job execution time: average 2.87 s, max 3.78 s
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Job life time (pending + execution): average 2.91 s, max 3.86
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.87 s
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Average processing rate: 0.68 jobs/sec
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Total thread time: 7.939 s
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Total thread preprocess time: 0.155 s
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Percentage time preprocessing: 1.95%
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Effective parallelization: 1.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 1.99 sec, max 2.07 sec, min 1.92 sec)
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 1.98 sec, max 2.06 sec, min 1.89 sec)
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 50.21% of total time (compiled    2 times, average 1.99 sec, max 2.07 sec, min 1.92 sec)
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 49.79% of total time (compiled    2 times, average 1.98 sec, max 2.06 sec, min 1.89 sec)
+[2024.02.04-20.53.32:162][169]LogShaderCompilers: Display: ================================================
+[2024.02.04-20.53.32:229][171]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.53.32:252][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.53.33:851][350]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-20.53.33:852][350]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.53.33:852][350]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.53.35:598][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.53.35:681][518]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.53.41:049][109]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-20.53.41:116][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.02.04-20.53.41:146][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.53.41:256][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-20.53.41:261][109]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-20.53.41:261][109]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget01C6A1E4497DA50AFAA18A81D59D54D0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-20.53.41:268][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 2.80 sec)
+[2024.02.04-20.53.41:294][109]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-20.53.41:294][109]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-20.53.41:605][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.53.41:685][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-20.53.41:691][135]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-20.53.41:691][135]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidgetC89A48754CF1453A7F4A40B2C25B66DC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-20.53.41:697][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.89 sec)
+[2024.02.04-20.53.41:709][135]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-20.53.41:709][135]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-20.53.42:690][249]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-20.53.42:700][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-20.53.42:700][249]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 4:53:42 AM)
+[2024.02.04-20.53.42:700][249]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.53.42:924][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.223864s)
+[2024.02.04-20.53.42:924][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.223902s)
+[2024.02.04-20.53.42:924][249]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.53.42:924][249]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.53.42:925][249]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.53.42:926][249]LogPlayLevel: PIE: World Init took: (0.001580s)
+[2024.02.04-20.53.42:953][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.02.04-20.53.42:958][249]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.02.04-20.53.42:958][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-20.53.42:958][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-20.53.42:958][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-20.53.42:958][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-20.53.42:958][249]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-20.53.42:958][249]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-20.53.42:958][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-20.53.42:958][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-20.53.42:958][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-20.53.42:958][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-20.53.42:958][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-20.53.42:961][249]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-20.53.42:978][249]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-20.53.42:979][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-20.53.42:979][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-20.53.42:979][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-20.53.42:980][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.02.04-20.53.42:980][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.02.04-20.53.42:982][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.02.04-20.53.42:982][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.02.04-20.53.42:982][249]LogInit: FAudioDevice initialized with ID 12.
+[2024.02.04-20.53.42:982][249]LogAudio: Display: Audio Device (ID: 12) registered with world 'IrvingHouse2'.
+[2024.02.04-20.53.42:982][249]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.04-20.53.43:012][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.53.43:199][249]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-20.53.43:288][249]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.53.43
+[2024.02.04-20.53.43:290][249]LogWorld: Bringing up level for play took: 0.090062
+[2024.02.04-20.53.43:292][249]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.02.04-20.53.43:295][249]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-20.53.43:296][249]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.53.43:305][249]vr.PixelDensity = "1"
+[2024.02.04-20.53.43:308][249]PIE: Server logged in
+[2024.02.04-20.53.43:309][249]PIE: Play in editor total start time 0.61 seconds.
+[2024.02.04-20.53.43:370][249]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-20.53.43:411][249]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-20.53.43:543][252]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-20.53.47:912][615]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-20.54.02:912][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.54.02:912][514]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.54.02:951][514]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-20.54.02:957][514]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.54.02:969][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.54.02:972][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-20.54.02:983][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.54.03:019][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.54.03:019][514]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.04-20.54.03:019][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.04-20.54.03:021][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.04-20.54.03:050][514]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-20.54.03:050][514]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.54.03:055][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.02.04-20.54.03:145][515]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.02.04-20.54.14:768][868]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.02.04-20.54.42:609][ 85]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_14:PersistentLevel.WorldWidget_C_1.Cube) Not currently registered. Aborting.
+[2024.02.04-20.54.42:609][ 85]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_17:PersistentLevel.WorldWidget_C_0.Cube) Not currently registered. Aborting.
+[2024.02.04-20.54.43:859][222]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_14:PersistentLevel.WorldWidget_C_1.Cube) Not currently registered. Aborting.
+[2024.02.04-20.54.43:859][222]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_17:PersistentLevel.WorldWidget_C_0.Cube) Not currently registered. Aborting.
+[2024.02.04-20.54.58:750][981]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-20.54.58:820][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.02.04-20.54.58:850][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.54.58:950][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-20.54.58:954][981]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-20.54.58:954][981]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget89B8B96C4899394EF04908883AE8ADBC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-20.54.58:962][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 3.00 sec)
+[2024.02.04-20.54.58:991][981]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-20.54.58:991][981]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-20.55.20:779][536]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-20.55.20:792][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-20.55.20:792][536]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 4:55:20 AM)
+[2024.02.04-20.55.20:792][536]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.55.21:012][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.220169s)
+[2024.02.04-20.55.21:013][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.220214s)
+[2024.02.04-20.55.21:013][536]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.55.21:013][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.55.21:013][536]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.55.21:015][536]LogPlayLevel: PIE: World Init took: (0.002143s)
+[2024.02.04-20.55.21:043][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.02.04-20.55.21:047][536]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.02.04-20.55.21:047][536]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-20.55.21:047][536]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-20.55.21:047][536]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-20.55.21:047][536]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-20.55.21:047][536]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-20.55.21:047][536]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-20.55.21:047][536]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-20.55.21:047][536]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-20.55.21:048][536]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-20.55.21:048][536]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-20.55.21:048][536]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-20.55.21:050][536]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-20.55.21:070][536]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-20.55.21:070][536]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-20.55.21:070][536]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-20.55.21:070][536]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-20.55.21:071][536]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.02.04-20.55.21:071][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.02.04-20.55.21:072][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.02.04-20.55.21:072][536]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.02.04-20.55.21:072][536]LogInit: FAudioDevice initialized with ID 13.
+[2024.02.04-20.55.21:072][536]LogAudio: Display: Audio Device (ID: 13) registered with world 'IrvingHouse2'.
+[2024.02.04-20.55.21:072][536]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.04-20.55.21:092][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.55.21:295][536]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-20.55.21:388][536]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.55.21
+[2024.02.04-20.55.21:389][536]LogWorld: Bringing up level for play took: 0.092605
+[2024.02.04-20.55.21:391][536]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.02.04-20.55.21:394][536]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-20.55.21:395][536]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.55.21:403][536]vr.PixelDensity = "1"
+[2024.02.04-20.55.21:407][536]PIE: Server logged in
+[2024.02.04-20.55.21:408][536]PIE: Play in editor total start time 0.616 seconds.
+[2024.02.04-20.55.21:467][536]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-20.55.21:510][536]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-20.55.21:638][539]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-20.55.25:859][900]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-20.55.45:591][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.55.45:591][103]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.55.45:634][103]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-20.55.45:640][103]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.55.45:651][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.55.45:655][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-20.55.45:665][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.55.45:699][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.55.45:706][103]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.04-20.55.45:706][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.04-20.55.45:708][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.04-20.55.45:736][103]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-20.55.45:736][103]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.55.45:739][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.02.04-20.55.45:829][104]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.02.04-20.56.10:583][766]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-20.56.10:656][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.02.04-20.56.11:104][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.56.11:214][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-20.56.11:219][804]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-20.56.11:219][804]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidgetF26E5741459BAB46E82DB5AE44BCBEEC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-20.56.11:226][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 3.13 sec)
+[2024.02.04-20.56.11:235][804]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-20.56.11:235][804]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-20.56.22:858][158]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2024.02.04-20.56.27:889][719]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-20.56.27:901][719]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.04-20.56.27:906][719]LogPlayLevel: [PlayLevel] Compiling WorldWidget before play...
+[2024.02.04-20.56.27:954][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.56.28:057][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-20.56.28:062][719]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-20.56.28:062][719]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget04F429D44C2ED53955B6D5ABE3A623B6.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-20.56.28:072][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 3.25 sec)
+[2024.02.04-20.56.28:108][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.02.04-20.56.28:114][719]LogPlayLevel: PlayLevel: Blueprint regeneration took 212 ms (1 blueprints)
+[2024.02.04-20.56.28:114][719]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 4:56:28 AM)
+[2024.02.04-20.56.28:114][719]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.56.28:326][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211703s)
+[2024.02.04-20.56.28:326][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.211738s)
+[2024.02.04-20.56.28:326][719]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.56.28:326][719]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.56.28:326][719]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.56.28:327][719]LogPlayLevel: PIE: World Init took: (0.001663s)
+[2024.02.04-20.56.28:350][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.02.04-20.56.28:352][719]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.02.04-20.56.28:352][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-20.56.28:352][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-20.56.28:352][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-20.56.28:352][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-20.56.28:352][719]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-20.56.28:352][719]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-20.56.28:352][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-20.56.28:352][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-20.56.28:352][719]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-20.56.28:352][719]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-20.56.28:352][719]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-20.56.28:355][719]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-20.56.28:371][719]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-20.56.28:372][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-20.56.28:372][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-20.56.28:372][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-20.56.28:372][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.02.04-20.56.28:372][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.02.04-20.56.28:374][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.02.04-20.56.28:374][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.02.04-20.56.28:374][719]LogInit: FAudioDevice initialized with ID 14.
+[2024.02.04-20.56.28:374][719]LogAudio: Display: Audio Device (ID: 14) registered with world 'IrvingHouse2'.
+[2024.02.04-20.56.28:374][719]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.02.04-20.56.28:392][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.56.28:572][719]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-20.56.28:651][719]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.56.28
+[2024.02.04-20.56.28:652][719]LogWorld: Bringing up level for play took: 0.079410
+[2024.02.04-20.56.28:655][719]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.02.04-20.56.28:657][719]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-20.56.28:658][719]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.56.28:665][719]vr.PixelDensity = "1"
+[2024.02.04-20.56.28:668][719]PIE: Server logged in
+[2024.02.04-20.56.28:669][719]PIE: Play in editor total start time 0.768 seconds.
+[2024.02.04-20.56.28:723][719]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-20.56.28:760][719]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-20.56.28:836][720]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-20.56.28:836][720]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-20.56.28:883][722]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-20.56.32:059][983]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-20.56.37:467][324]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.37:467][324]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.37:467][324]LogScript: Warning: Accessed None
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.37:467][324]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.39:246][430]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.39:246][430]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.39:246][430]LogScript: Warning: Accessed None
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.39:246][430]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.39:802][462]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.39:802][462]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.39:802][462]LogScript: Warning: Accessed None
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.39:802][462]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.40:205][485]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.40:205][485]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.40:205][485]LogScript: Warning: Accessed None
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.40:205][485]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.41:696][570]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.41:696][570]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.41:696][570]LogScript: Warning: Accessed None
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.41:696][570]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.42:279][603]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.42:279][603]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.42:279][603]LogScript: Warning: Accessed None
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.42:279][603]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.42:797][632]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.42:797][632]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.42:797][632]LogScript: Warning: Accessed None
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.56.42:797][632]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.56.46:252][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.56.46:252][848]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.56.46:313][848]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-20.56.46:316][848]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.56.46:330][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.56.46:333][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-20.56.46:343][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.56.46:382][848]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.02.04-20.56.46:382][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.02.04-20.56.46:384][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.02.04-20.56.46:410][848]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-20.56.46:410][848]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.56.46:414][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.02.04-20.56.46:669][849]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.02.04-20.56.49:530][124]LogSlate: Window 'Message Log' being destroyed
+[2024.02.04-20.56.49:538][124]LogSlate: Window 'Message Log' being destroyed
+[2024.02.04-20.56.50:686][256]LogEditorTransaction: Undo Make New Scene Root
+[2024.02.04-20.56.53:052][463]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-20.56.53:116][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.02.04-20.56.53:144][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.56.53:219][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-20.56.53:224][463]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-20.56.53:224][463]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidgetC82512024ED13BF9EA883991B0B61B11.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-20.56.53:237][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 3.34 sec)
+[2024.02.04-20.56.53:263][463]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-20.56.53:263][463]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-20.56.53:812][517]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-20.56.53:821][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-20.56.53:821][517]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 4:56:53 AM)
+[2024.02.04-20.56.53:821][517]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.56.54:025][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.204052s)
+[2024.02.04-20.56.54:025][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.204087s)
+[2024.02.04-20.56.54:025][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.56.54:025][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.56.54:026][517]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.56.54:027][517]LogPlayLevel: PIE: World Init took: (0.001526s)
+[2024.02.04-20.56.54:051][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.04-20.56.54:055][517]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.02.04-20.56.54:055][517]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-20.56.54:055][517]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-20.56.54:055][517]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-20.56.54:055][517]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-20.56.54:055][517]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-20.56.54:055][517]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-20.56.54:055][517]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-20.56.54:055][517]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-20.56.54:055][517]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-20.56.54:055][517]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-20.56.54:056][517]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-20.56.54:058][517]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-20.56.54:074][517]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-20.56.54:076][517]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-20.56.54:076][517]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-20.56.54:076][517]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-20.56.54:076][517]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.02.04-20.56.54:076][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.02.04-20.56.54:078][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.02.04-20.56.54:078][517]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.02.04-20.56.54:078][517]LogInit: FAudioDevice initialized with ID 15.
+[2024.02.04-20.56.54:078][517]LogAudio: Display: Audio Device (ID: 15) registered with world 'IrvingHouse2'.
+[2024.02.04-20.56.54:078][517]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.02.04-20.56.54:098][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.56.54:297][517]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-20.56.54:377][517]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.56.54
+[2024.02.04-20.56.54:379][517]LogWorld: Bringing up level for play took: 0.081293
+[2024.02.04-20.56.54:381][517]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.02.04-20.56.54:383][517]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-20.56.54:385][517]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.56.54:392][517]vr.PixelDensity = "1"
+[2024.02.04-20.56.54:394][517]PIE: Server logged in
+[2024.02.04-20.56.54:395][517]PIE: Play in editor total start time 0.574 seconds.
+[2024.02.04-20.56.54:447][517]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-20.56.54:486][517]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-20.56.54:597][519]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-20.56.57:105][739]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-20.57.01:977][ 27]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.57.01:977][ 27]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.57.01:977][ 27]LogScript: Warning: Accessed None
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.57.01:977][ 27]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.57.03:543][119]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.57.03:543][119]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.57.03:543][119]LogScript: Warning: Accessed None
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.57.03:543][119]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.57.03:979][144]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.57.03:979][144]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.57.03:979][144]LogScript: Warning: Accessed None
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.57.03:979][144]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.57.04:300][162]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.57.04:301][162]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.57.04:301][162]LogScript: Warning: Accessed None
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.57.04:301][162]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.57.04:710][185]LogScript: Warning: Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.57.04:710][185]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'none'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.57.04:710][185]LogScript: Warning: Accessed None
+	Interactables_book_C /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_book_C_0
+	Function /Game/Actors/Interactables/Interactables.Interactables_C:ExecuteUbergraph_Interactables:0767
+[2024.02.04-20.57.04:710][185]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Interactables Blueprint:  Interactables
+[2024.02.04-20.57.08:522][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.57.08:522][417]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.57.08:557][417]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-20.57.08:563][417]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.57.08:574][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.57.08:579][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-20.57.08:590][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.57.08:621][417]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.57.08:629][417]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.02.04-20.57.08:629][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.04-20.57.08:631][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.04-20.57.08:659][417]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-20.57.08:659][417]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.57.08:661][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.02.04-20.57.08:891][418]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.02.04-20.57.11:519][667]LogSlate: Window 'Message Log' being destroyed
+[2024.02.04-20.57.11:527][667]LogSlate: Window 'Message Log' being destroyed
+[2024.02.04-20.57.19:863][643]LogEditorTransaction: Undo Collision Channel Changes
+[2024.02.04-20.57.21:302][756]LogEditorTransaction: Undo Collision Channel Changes
+[2024.02.04-20.57.28:054][535]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-20.57.28:133][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.04-20.57.28:160][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.57.28:268][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-20.57.28:273][535]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-20.57.28:274][535]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidgetD3495F3E429677298552479526D84F7A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-20.57.28:282][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 3.46 sec)
+[2024.02.04-20.57.28:307][535]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-20.57.28:307][535]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-20.57.28:772][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.57.28:838][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-20.57.28:843][581]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-20.57.28:843][581]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget753CEB3D43AA74CBA6234F8EEA83D0CF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-20.57.28:851][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 3.54 sec)
+[2024.02.04-20.57.28:861][581]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-20.57.28:861][581]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-20.57.34:574][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.04-20.57.34:580][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.57.34:671][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.04-20.57.34:697][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.02.04-20.57.35:449][239]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.04-20.57.35:449][239]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse27FBBDD2147F0FA98D217FFB1DE04C5F5.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.04-20.57.35:466][239]LogFileHelpers: No new changes to save!
+[2024.02.04-20.57.35:466][239]LogFileHelpers: Saving map 'IrvingHouse2' took 0.797
+[2024.02.04-20.57.35:471][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 890 ms (total: 4.43 sec)
+[2024.02.04-20.57.35:486][239]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.04-20.57.35:487][239]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.04-20.57.47:382][598]BlueprintLog: New page: Compile Interactables
+[2024.02.04-20.57.47:487][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.02.04-20.57.47:527][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.57.47:591][598]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.57.47:633][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactables" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset" SILENT=true
+[2024.02.04-20.57.47:654][598]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables
+[2024.02.04-20.57.47:655][598]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables2DC5DDC248F5868E17FAADBBFA5D04BF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset'
+[2024.02.04-20.57.47:661][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 4.56 sec)
+[2024.02.04-20.57.47:671][598]AssetCheck: New page: Asset Save: Interactables
+[2024.02.04-20.57.47:672][598]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables.Interactables
+[2024.02.04-20.57.49:730][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.02.04-20.57.49:739][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.57.49:819][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.04-20.57.49:846][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.04-20.57.50:559][831]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.04-20.57.50:559][831]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2B1E70B63478DDEC71A82C39ECA0A53D9.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.04-20.57.50:575][831]LogFileHelpers: No new changes to save!
+[2024.02.04-20.57.50:575][831]LogFileHelpers: Saving map 'IrvingHouse2' took 0.758
+[2024.02.04-20.57.50:580][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 840 ms (total: 5.40 sec)
+[2024.02.04-20.57.50:596][831]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.04-20.57.50:596][831]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.04-20.57.51:192][901]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-20.57.51:207][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-20.57.51:207][901]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 4:57:51 AM)
+[2024.02.04-20.57.51:207][901]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.57.51:428][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.220437s)
+[2024.02.04-20.57.51:428][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.220472s)
+[2024.02.04-20.57.51:428][901]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.57.51:428][901]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.57.51:429][901]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.57.51:429][901]LogPlayLevel: PIE: World Init took: (0.001514s)
+[2024.02.04-20.57.51:453][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.04-20.57.51:455][901]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.02.04-20.57.51:455][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-20.57.51:455][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-20.57.51:455][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-20.57.51:455][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-20.57.51:455][901]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-20.57.51:455][901]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-20.57.51:455][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-20.57.51:455][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-20.57.51:455][901]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-20.57.51:455][901]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-20.57.51:455][901]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-20.57.51:457][901]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-20.57.51:476][901]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-20.57.51:476][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-20.57.51:476][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-20.57.51:476][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-20.57.51:477][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.02.04-20.57.51:477][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.02.04-20.57.51:479][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.02.04-20.57.51:479][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.02.04-20.57.51:479][901]LogInit: FAudioDevice initialized with ID 16.
+[2024.02.04-20.57.51:479][901]LogAudio: Display: Audio Device (ID: 16) registered with world 'IrvingHouse2'.
+[2024.02.04-20.57.51:479][901]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.02.04-20.57.51:499][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.57.51:692][901]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-20.57.51:782][901]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.57.51
+[2024.02.04-20.57.51:783][901]LogWorld: Bringing up level for play took: 0.090423
+[2024.02.04-20.57.51:786][901]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.02.04-20.57.51:789][901]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-20.57.51:790][901]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.57.51:798][901]vr.PixelDensity = "1"
+[2024.02.04-20.57.51:804][901]PIE: Server logged in
+[2024.02.04-20.57.51:806][901]PIE: Play in editor total start time 0.6 seconds.
+[2024.02.04-20.57.51:866][901]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-20.57.51:909][901]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-20.57.52:037][904]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-20.57.55:175][172]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-20.58.13:601][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.58.13:601][223]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.58.13:642][223]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-20.58.13:647][223]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.58.13:660][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.58.13:664][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-20.58.13:675][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.58.13:712][223]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.02.04-20.58.13:712][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.04-20.58.13:714][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.04-20.58.13:739][223]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-20.58.13:739][223]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.58.13:744][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.04-20.58.13:848][224]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.02.04-20.58.51:071][505]BlueprintLog: New page: Compile Interactables
+[2024.02.04-20.58.51:173][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.04-20.58.51:221][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.58.51:339][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactables" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset" SILENT=true
+[2024.02.04-20.58.51:369][505]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables
+[2024.02.04-20.58.51:370][505]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesB7D4565449743EAB4801038345098326.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset'
+[2024.02.04-20.58.51:372][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.58.51:402][505]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_apple
+[2024.02.04-20.58.51:402][505]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_apple51F35D324EB3064D983B90A7D7E246CF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_apple.uasset'
+[2024.02.04-20.58.51:403][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.58.51:419][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactables_book" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_book.uasset" SILENT=true
+[2024.02.04-20.58.51:423][505]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_book
+[2024.02.04-20.58.51:424][505]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_bookB30A424C4CA8402B40B14780662375FA.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_book.uasset'
+[2024.02.04-20.58.51:425][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.58.51:445][505]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_coffee
+[2024.02.04-20.58.51:445][505]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_coffee13CBE99049A0E0467731FF874E377D86.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_coffee.uasset'
+[2024.02.04-20.58.51:446][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.58.51:468][505]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_newspaper
+[2024.02.04-20.58.51:468][505]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_newspaper721FCACB46036D6B23F58BA745D22557.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_newspaper.uasset'
+[2024.02.04-20.58.51:469][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.58.51:488][505]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_notebook
+[2024.02.04-20.58.51:488][505]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_notebook7143CC54402E71484C8AD088E8AA5430.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_notebook.uasset'
+[2024.02.04-20.58.51:489][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.58.51:528][505]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_picture
+[2024.02.04-20.58.51:529][505]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_pictureF7A0B0FB4BC5D426D807E3B08596F8AF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_picture.uasset'
+[2024.02.04-20.58.51:530][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: ================================================
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Total job queries 128, among them cache hits 13 (10.16%)
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Tracking 111 distinct input hashes that result in 91 distinct outputs (81.98%)
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: RAM used: 3.31 MiB of 1.60 GiB budget. Usage: 0.20%
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Job execution time: average 2.87 s, max 3.78 s
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Job life time (pending + execution): average 2.91 s, max 3.86
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.87 s
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Average processing rate: 0.68 jobs/sec
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Total thread time: 7.939 s
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Total thread preprocess time: 0.155 s
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Percentage time preprocessing: 1.95%
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Effective parallelization: 1.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 1.99 sec, max 2.07 sec, min 1.92 sec)
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 1.98 sec, max 2.06 sec, min 1.89 sec)
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 50.21% of total time (compiled    2 times, average 1.99 sec, max 2.07 sec, min 1.92 sec)
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 49.79% of total time (compiled    2 times, average 1.98 sec, max 2.06 sec, min 1.89 sec)
+[2024.02.04-20.58.51:531][505]LogShaderCompilers: Display: ================================================
+[2024.02.04-20.58.51:549][505]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_statue
+[2024.02.04-20.58.51:550][505]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_statueCBC3E397457A3FDE8871F5BAAD2CD1D8.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_statue.uasset'
+[2024.02.04-20.58.51:555][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 333 ms (total: 5.74 sec)
+[2024.02.04-20.58.51:578][505]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.04-20.58.51:578][505]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables.Interactables
+[2024.02.04-20.58.51:578][505]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_statue.Interactables_statue
+[2024.02.04-20.58.51:578][505]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_picture.Interactables_picture
+[2024.02.04-20.58.51:578][505]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_notebook.Interactables_notebook
+[2024.02.04-20.58.51:578][505]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_newspaper.Interactables_newspaper
+[2024.02.04-20.58.51:578][505]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_book.Interactables_book
+[2024.02.04-20.58.51:578][505]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_apple.Interactables_apple
+[2024.02.04-20.58.51:578][505]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_coffee.Interactables_coffee
+[2024.02.04-20.58.52:583][607]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-20.58.52:593][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-20.58.52:593][607]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 4:58:52 AM)
+[2024.02.04-20.58.52:593][607]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.58.52:802][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208056s)
+[2024.02.04-20.58.52:802][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.208093s)
+[2024.02.04-20.58.52:802][607]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.58.52:802][607]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.58.52:802][607]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.58.52:803][607]LogPlayLevel: PIE: World Init took: (0.001577s)
+[2024.02.04-20.58.52:825][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.04-20.58.52:829][607]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.02.04-20.58.52:829][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-20.58.52:829][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-20.58.52:829][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-20.58.52:829][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-20.58.52:829][607]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-20.58.52:829][607]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-20.58.52:829][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-20.58.52:829][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-20.58.52:829][607]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-20.58.52:829][607]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-20.58.52:829][607]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-20.58.52:831][607]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-20.58.52:848][607]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-20.58.52:848][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-20.58.52:848][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-20.58.52:848][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-20.58.52:849][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.02.04-20.58.52:849][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.02.04-20.58.52:851][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.02.04-20.58.52:851][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.02.04-20.58.52:851][607]LogInit: FAudioDevice initialized with ID 17.
+[2024.02.04-20.58.52:851][607]LogAudio: Display: Audio Device (ID: 17) registered with world 'IrvingHouse2'.
+[2024.02.04-20.58.52:851][607]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.02.04-20.58.52:877][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.58.53:063][607]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-20.58.53:141][607]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.58.53
+[2024.02.04-20.58.53:143][607]LogWorld: Bringing up level for play took: 0.079410
+[2024.02.04-20.58.53:145][607]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.02.04-20.58.53:148][607]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-20.58.53:149][607]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.58.53:156][607]vr.PixelDensity = "1"
+[2024.02.04-20.58.53:163][607]PIE: Server logged in
+[2024.02.04-20.58.53:166][607]PIE: Play in editor total start time 0.574 seconds.
+[2024.02.04-20.58.53:222][607]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-20.58.53:256][607]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-20.58.53:491][610]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-20.58.56:560][865]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-20.59.08:102][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.59.08:102][578]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.59.08:136][578]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-20.59.08:142][578]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.59.08:154][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.59.08:157][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-20.59.08:168][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.59.08:210][578]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.02.04-20.59.08:210][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.02.04-20.59.08:212][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.02.04-20.59.08:238][578]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-20.59.08:238][578]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.59.08:240][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.04-20.59.08:327][579]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.02.04-20.59.16:452][532]BlueprintLog: New page: Compile Interactables
+[2024.02.04-20.59.16:556][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.02.04-20.59.17:163][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.59.17:257][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactables" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset" SILENT=true
+[2024.02.04-20.59.17:278][580]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables
+[2024.02.04-20.59.17:278][580]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables3A16CDA6424F4CBA6613AC835AF51BEB.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset'
+[2024.02.04-20.59.17:284][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 5.86 sec)
+[2024.02.04-20.59.17:297][580]AssetCheck: New page: Asset Save: Interactables
+[2024.02.04-20.59.17:297][580]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables.Interactables
+[2024.02.04-20.59.52:301][602]BlueprintLog: New page: Compile Interactables
+[2024.02.04-20.59.52:422][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.02.04-20.59.52:462][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.59.52:559][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactables" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset" SILENT=true
+[2024.02.04-20.59.52:581][602]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables
+[2024.02.04-20.59.52:582][602]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesE2B12296496C9446D593BF9930E1CDE3.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables.uasset'
+[2024.02.04-20.59.52:585][602]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_apple
+[2024.02.04-20.59.52:586][602]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_apple5D765AB243A2A951667BB79B537FF931.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_apple.uasset'
+[2024.02.04-20.59.52:587][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactables_book" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_book.uasset" SILENT=true
+[2024.02.04-20.59.52:589][602]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_book
+[2024.02.04-20.59.52:590][602]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_book0D2A4FD043BCE8FE9344A98D1F01E66B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_book.uasset'
+[2024.02.04-20.59.52:593][602]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_coffee
+[2024.02.04-20.59.52:593][602]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_coffee2C576BEE461F55C3E25423BAF6F583C9.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_coffee.uasset'
+[2024.02.04-20.59.52:595][602]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_newspaper
+[2024.02.04-20.59.52:596][602]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_newspaper34D4A8104B07CE02683735BE0907D734.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_newspaper.uasset'
+[2024.02.04-20.59.52:599][602]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_notebook
+[2024.02.04-20.59.52:599][602]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_notebook16E87F1F4641D93A82FC49A0FB8ECBB5.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_notebook.uasset'
+[2024.02.04-20.59.52:602][602]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_picture
+[2024.02.04-20.59.52:603][602]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_picture039D0BB945A4E994E4FA5BB21E8B45AF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_picture.uasset'
+[2024.02.04-20.59.52:605][602]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_statue
+[2024.02.04-20.59.52:605][602]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_statue7D8B8E8D47B66D371AEF11A2C80288BC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_statue.uasset'
+[2024.02.04-20.59.52:615][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 6.01 sec)
+[2024.02.04-20.59.52:641][602]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.04-20.59.52:641][602]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables.Interactables
+[2024.02.04-20.59.52:641][602]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_statue.Interactables_statue
+[2024.02.04-20.59.52:641][602]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_picture.Interactables_picture
+[2024.02.04-20.59.52:641][602]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_notebook.Interactables_notebook
+[2024.02.04-20.59.52:641][602]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_newspaper.Interactables_newspaper
+[2024.02.04-20.59.52:641][602]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_book.Interactables_book
+[2024.02.04-20.59.52:641][602]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_apple.Interactables_apple
+[2024.02.04-20.59.52:641][602]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_coffee.Interactables_coffee
+[2024.02.04-21.01.05:960][158]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-21.01.06:039][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.02.04-21.01.06:065][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.01.06:160][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.01.06:165][158]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.01.06:165][158]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidgetBA44370D4A1A2D4291ADAF97B1BD9859.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.01.06:174][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 6.12 sec)
+[2024.02.04-21.01.06:197][158]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.01.06:197][158]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.01.12:628][893]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-21.01.12:691][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.02.04-21.01.12:719][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.01.12:775][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.01.12:780][893]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.01.12:782][893]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget1DA69931417352283F184895BB8D813D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.01.12:789][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 6.19 sec)
+[2024.02.04-21.01.12:812][893]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.01.12:812][893]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.01.29:547][766]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-21.01.29:614][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.02.04-21.01.29:644][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.01.29:725][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.01.29:729][766]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.01.29:730][766]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget6F7A0D15422A3629C7DA0A8B07D842BA.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.01.29:737][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.29 sec)
+[2024.02.04-21.01.29:765][766]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.01.29:765][766]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.01.30:247][812]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.01.30:322][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.01.30:327][812]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.01.30:327][812]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidgetB65B60064017F7AA18C34B8C69373C28.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.01.30:334][812]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 6.37 sec)
+[2024.02.04-21.01.30:346][812]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.01.30:346][812]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.01.31:061][892]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-21.01.31:071][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-21.01.31:072][892]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 5:01:31 AM)
+[2024.02.04-21.01.31:072][892]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-21.01.31:294][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221808s)
+[2024.02.04-21.01.31:294][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.221846s)
+[2024.02.04-21.01.31:294][892]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-21.01.31:294][892]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-21.01.31:294][892]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-21.01.31:295][892]LogPlayLevel: PIE: World Init took: (0.001786s)
+[2024.02.04-21.01.31:325][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.04-21.01.31:331][892]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.02.04-21.01.31:331][892]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-21.01.31:331][892]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-21.01.31:331][892]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-21.01.31:331][892]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-21.01.31:331][892]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-21.01.31:331][892]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-21.01.31:331][892]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-21.01.31:331][892]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-21.01.31:331][892]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-21.01.31:331][892]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-21.01.31:331][892]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-21.01.31:333][892]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-21.01.31:352][892]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-21.01.31:353][892]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-21.01.31:353][892]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-21.01.31:353][892]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-21.01.31:353][892]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.02.04-21.01.31:353][892]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.02.04-21.01.31:355][892]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.02.04-21.01.31:355][892]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.02.04-21.01.31:355][892]LogInit: FAudioDevice initialized with ID 18.
+[2024.02.04-21.01.31:355][892]LogAudio: Display: Audio Device (ID: 18) registered with world 'IrvingHouse2'.
+[2024.02.04-21.01.31:355][892]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.02.04-21.01.31:375][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-21.01.31:568][892]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-21.01.31:656][892]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-13.01.31
+[2024.02.04-21.01.31:657][892]LogWorld: Bringing up level for play took: 0.089221
+[2024.02.04-21.01.31:660][892]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.02.04-21.01.31:662][892]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-21.01.31:664][892]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-21.01.31:673][892]vr.PixelDensity = "1"
+[2024.02.04-21.01.31:676][892]PIE: Server logged in
+[2024.02.04-21.01.31:677][892]PIE: Play in editor total start time 0.605 seconds.
+[2024.02.04-21.01.31:736][892]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-21.01.31:778][892]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-21.01.31:875][895]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-21.01.35:492][220]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-21.01.39:608][482]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.41:144][572]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_1 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.41:641][600]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_2 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.42:089][625]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_3 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.42:470][646]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_4 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.42:970][674]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_5 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.43:294][692]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_6 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.43:682][714]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_7 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.43:964][730]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_8 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.44:199][743]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_9 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.44:513][761]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_10 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.44:710][772]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_11 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.45:034][790]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_12 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.47:891][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-21.01.47:891][955]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-21.01.47:934][955]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-21.01.47:940][955]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-21.01.47:950][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.01.47:955][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-21.01.47:967][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.01.48:007][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-21.01.48:013][955]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.02.04-21.01.48:014][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.02.04-21.01.48:016][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.02.04-21.01.48:042][955]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-21.01.48:042][955]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-21.01.48:045][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.02.04-21.01.48:184][956]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.02.04-21.01.49:856][ 85]LogSlate: Window 'Message Log' being destroyed
+[2024.02.04-21.01.49:865][ 85]LogSlate: Window 'Message Log' being destroyed
+[2024.02.04-21.01.51:800][264]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-21.01.51:810][264]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.04-21.01.51:816][264]LogPlayLevel: [PlayLevel] Compiling WorldWidget before play...
+[2024.02.04-21.01.51:874][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.01.51:960][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.01.51:965][264]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.01.51:965][264]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget03565AD945C0C4B7C5D9B5A18E93D48F.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.01.51:976][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 6.47 sec)
+[2024.02.04-21.01.52:011][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.02.04-21.01.52:015][264]LogPlayLevel: PlayLevel: Blueprint regeneration took 204 ms (1 blueprints)
+[2024.02.04-21.01.52:015][264]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 5:01:52 AM)
+[2024.02.04-21.01.52:015][264]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-21.01.52:233][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.217580s)
+[2024.02.04-21.01.52:233][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.217630s)
+[2024.02.04-21.01.52:233][264]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-21.01.52:233][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-21.01.52:234][264]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-21.01.52:235][264]LogPlayLevel: PIE: World Init took: (0.001784s)
+[2024.02.04-21.01.52:257][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.04-21.01.52:259][264]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.02.04-21.01.52:259][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-21.01.52:259][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-21.01.52:259][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-21.01.52:259][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-21.01.52:259][264]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-21.01.52:259][264]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-21.01.52:259][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-21.01.52:259][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-21.01.52:259][264]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-21.01.52:259][264]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-21.01.52:259][264]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-21.01.52:261][264]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-21.01.52:279][264]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-21.01.52:279][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-21.01.52:279][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-21.01.52:279][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-21.01.52:280][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.02.04-21.01.52:280][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.02.04-21.01.52:281][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.02.04-21.01.52:281][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.02.04-21.01.52:281][264]LogInit: FAudioDevice initialized with ID 19.
+[2024.02.04-21.01.52:281][264]LogAudio: Display: Audio Device (ID: 19) registered with world 'IrvingHouse2'.
+[2024.02.04-21.01.52:281][264]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.02.04-21.01.52:299][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-21.01.52:491][264]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-21.01.52:575][264]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-13.01.52
+[2024.02.04-21.01.52:577][264]LogWorld: Bringing up level for play took: 0.084447
+[2024.02.04-21.01.52:579][264]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.02.04-21.01.52:582][264]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-21.01.52:582][264]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-21.01.52:590][264]vr.PixelDensity = "1"
+[2024.02.04-21.01.52:594][264]PIE: Server logged in
+[2024.02.04-21.01.52:595][264]PIE: Play in editor total start time 0.785 seconds.
+[2024.02.04-21.01.52:596][264]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-21.01.52:652][264]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-21.01.52:691][264]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-21.01.52:772][265]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.01.52:772][265]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.01.52:824][266]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-21.01.55:346][418]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.56:464][485]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_1 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.56:916][509]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_2 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.01.59:142][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-21.01.59:142][631]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-21.01.59:217][631]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-21.01.59:232][631]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-21.01.59:244][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.01.59:247][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-21.01.59:258][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.01.59:284][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-21.01.59:287][631]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.02.04-21.01.59:287][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.02.04-21.01.59:289][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.02.04-21.01.59:324][631]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-21.01.59:325][631]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-21.01.59:330][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.02.04-21.01.59:499][632]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.02.04-21.02.03:632][ 12]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-21.02.03:643][ 12]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.04-21.02.03:648][ 12]LogPlayLevel: [PlayLevel] Compiling WorldWidget before play...
+[2024.02.04-21.02.03:703][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.02.03:817][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.02.03:822][ 12]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.02.03:822][ 12]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidgetF3FAC8D240D49140D31F738A9C7B45A3.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.02.03:834][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 6.61 sec)
+[2024.02.04-21.02.03:868][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.04-21.02.03:871][ 12]LogPlayLevel: PlayLevel: Blueprint regeneration took 228 ms (1 blueprints)
+[2024.02.04-21.02.03:871][ 12]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 5:02:03 AM)
+[2024.02.04-21.02.03:871][ 12]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-21.02.04:082][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.210174s)
+[2024.02.04-21.02.04:082][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.210215s)
+[2024.02.04-21.02.04:082][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-21.02.04:082][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-21.02.04:083][ 12]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-21.02.04:084][ 12]LogPlayLevel: PIE: World Init took: (0.001886s)
+[2024.02.04-21.02.04:106][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.02.04-21.02.04:107][ 12]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.02.04-21.02.04:107][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-21.02.04:107][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-21.02.04:107][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-21.02.04:107][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-21.02.04:107][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-21.02.04:107][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-21.02.04:107][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-21.02.04:107][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-21.02.04:107][ 12]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-21.02.04:107][ 12]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-21.02.04:107][ 12]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-21.02.04:109][ 12]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-21.02.04:128][ 12]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-21.02.04:128][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-21.02.04:128][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-21.02.04:128][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-21.02.04:128][ 12]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.02.04-21.02.04:128][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.02.04-21.02.04:130][ 12]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.02.04-21.02.04:130][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.02.04-21.02.04:130][ 12]LogInit: FAudioDevice initialized with ID 20.
+[2024.02.04-21.02.04:130][ 12]LogAudio: Display: Audio Device (ID: 20) registered with world 'IrvingHouse2'.
+[2024.02.04-21.02.04:130][ 12]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.02.04-21.02.04:150][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-21.02.04:348][ 12]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-21.02.04:430][ 12]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-13.02.04
+[2024.02.04-21.02.04:432][ 12]LogWorld: Bringing up level for play took: 0.084056
+[2024.02.04-21.02.04:434][ 12]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.02.04-21.02.04:437][ 12]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-21.02.04:438][ 12]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-21.02.04:445][ 12]vr.PixelDensity = "1"
+[2024.02.04-21.02.04:449][ 12]PIE: Server logged in
+[2024.02.04-21.02.04:450][ 12]PIE: Play in editor total start time 0.807 seconds.
+[2024.02.04-21.02.04:452][ 12]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-21.02.04:515][ 12]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-21.02.04:552][ 12]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-21.02.04:637][ 13]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.02.04:637][ 13]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.02.04:695][ 14]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-21.02.06:726][127]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.02.07:964][197]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_1 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.02.08:369][217]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_2 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.02.11:612][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-21.02.11:612][399]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-21.02.11:701][399]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-21.02.11:705][399]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-21.02.11:717][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.02.11:721][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-21.02.11:731][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.02.11:769][399]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.02.04-21.02.11:769][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.02.04-21.02.11:772][399]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.02.04-21.02.11:796][399]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-21.02.11:796][399]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-21.02.11:802][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.02.04-21.02.11:993][400]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.02.04-21.02.14:366][644]LogSlate: Window 'Message Log' being destroyed
+[2024.02.04-21.02.14:373][644]LogSlate: Window 'Message Log' being destroyed
+[2024.02.04-21.02.18:556][110]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-21.02.18:620][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.02.04-21.02.18:645][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.02.18:784][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.02.18:789][110]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.02.18:789][110]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidgetC12475514E847B40BA747B884F0A716A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.02.18:798][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 6.76 sec)
+[2024.02.04-21.02.18:811][110]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.02.18:811][110]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.02.22:362][458]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-21.02.22:425][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.04-21.02.22:447][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.02.22:522][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.02.22:526][458]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.02.22:527][458]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget7A1406E04196C981A059AFB342166861.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.02.22:537][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 6.85 sec)
+[2024.02.04-21.02.22:560][458]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.02.22:560][458]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.02.23:008][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.02.23:074][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.02.23:078][502]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.02.23:078][502]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget33790ADA42AE7EAE71F2509B67843631.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.02.23:087][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 6.93 sec)
+[2024.02.04-21.02.23:097][502]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.02.23:097][502]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.02.24:017][609]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-21.02.24:027][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-21.02.24:027][609]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 5:02:24 AM)
+[2024.02.04-21.02.24:027][609]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-21.02.24:231][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.203535s)
+[2024.02.04-21.02.24:231][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.203572s)
+[2024.02.04-21.02.24:231][609]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-21.02.24:231][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-21.02.24:231][609]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-21.02.24:232][609]LogPlayLevel: PIE: World Init took: (0.001667s)
+[2024.02.04-21.02.24:256][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.04-21.02.24:261][609]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.02.04-21.02.24:261][609]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-21.02.24:261][609]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-21.02.24:261][609]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-21.02.24:261][609]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-21.02.24:261][609]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-21.02.24:261][609]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-21.02.24:261][609]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-21.02.24:261][609]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-21.02.24:262][609]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-21.02.24:262][609]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-21.02.24:262][609]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-21.02.24:264][609]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-21.02.24:279][609]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-21.02.24:279][609]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-21.02.24:279][609]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-21.02.24:279][609]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-21.02.24:281][609]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.02.04-21.02.24:281][609]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.02.04-21.02.24:282][609]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.02.04-21.02.24:282][609]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.02.04-21.02.24:282][609]LogInit: FAudioDevice initialized with ID 21.
+[2024.02.04-21.02.24:282][609]LogAudio: Display: Audio Device (ID: 21) registered with world 'IrvingHouse2'.
+[2024.02.04-21.02.24:282][609]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.02.04-21.02.24:300][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-21.02.24:484][609]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-21.02.24:566][609]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-13.02.24
+[2024.02.04-21.02.24:568][609]LogWorld: Bringing up level for play took: 0.082745
+[2024.02.04-21.02.24:570][609]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.02.04-21.02.24:572][609]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-21.02.24:573][609]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-21.02.24:581][609]vr.PixelDensity = "1"
+[2024.02.04-21.02.24:584][609]PIE: Server logged in
+[2024.02.04-21.02.24:586][609]PIE: Play in editor total start time 0.559 seconds.
+[2024.02.04-21.02.24:643][609]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-21.02.24:680][609]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-21.02.24:792][611]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-21.02.28:057][896]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-21.02.31:636][124]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_0 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.02.32:744][188]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2:PersistentLevel.WorldWidget_C_1 : DefaultSceneRoot has to be 'Movable' if you'd like to move. 
+[2024.02.04-21.02.34:891][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-21.02.34:891][312]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-21.02.34:930][312]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-21.02.34:936][312]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-21.02.34:947][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.02.34:952][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-21.02.34:965][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.02.35:002][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-21.02.35:005][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.02.04-21.02.35:005][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.02.04-21.02.35:007][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.02.04-21.02.35:037][312]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-21.02.35:037][312]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-21.02.35:039][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.02.04-21.02.35:214][313]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.02.04-21.02.41:076][920]LogSlate: Window 'Message Log' being destroyed
+[2024.02.04-21.02.41:084][920]LogSlate: Window 'Message Log' being destroyed
+[2024.02.04-21.02.44:954][280]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-21.02.45:013][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.04-21.02.45:036][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.02.45:127][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.02.45:132][280]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.02.45:133][280]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget7C4B714449E39E5D952AE29B6F8F7D70.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.02.45:140][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 7.03 sec)
+[2024.02.04-21.02.45:153][280]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.02.45:153][280]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.02.48:162][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.02.48:236][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.02.48:239][626]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.02.48:239][626]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget92C0D84E436CA4F2C0E8948E8D512737.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.02.48:246][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 7.11 sec)
+[2024.02.04-21.02.48:255][626]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.02.48:255][626]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.03.22:312][487]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-21.03.22:382][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.02.04-21.03.22:413][487]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.03.22:516][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.03.22:521][487]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.03.22:522][487]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget42AE1C6C48740D13C69C31A8071427F0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.03.22:528][487]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 7.23 sec)
+[2024.02.04-21.03.22:555][487]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.03.22:555][487]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.03.22:997][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.03.23:071][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.03.23:077][530]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.03.23:077][530]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidgetF13E69BD4715EF53C6CA95BABAF08B75.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.03.23:086][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 7.32 sec)
+[2024.02.04-21.03.23:100][530]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.03.23:100][530]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.03.24:351][671]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-21.03.24:364][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-21.03.24:364][671]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 5:03:24 AM)
+[2024.02.04-21.03.24:364][671]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-21.03.24:593][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.228945s)
+[2024.02.04-21.03.24:593][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.228984s)
+[2024.02.04-21.03.24:593][671]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-21.03.24:593][671]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-21.03.24:594][671]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-21.03.24:595][671]LogPlayLevel: PIE: World Init took: (0.001942s)
+[2024.02.04-21.03.24:625][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.04-21.03.24:630][671]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.02.04-21.03.24:630][671]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-21.03.24:630][671]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-21.03.24:630][671]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-21.03.24:630][671]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-21.03.24:630][671]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-21.03.24:630][671]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-21.03.24:630][671]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-21.03.24:630][671]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-21.03.24:630][671]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-21.03.24:630][671]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-21.03.24:630][671]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-21.03.24:633][671]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-21.03.24:652][671]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-21.03.24:653][671]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-21.03.24:653][671]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-21.03.24:653][671]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-21.03.24:653][671]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.02.04-21.03.24:653][671]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.02.04-21.03.24:655][671]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.02.04-21.03.24:655][671]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.02.04-21.03.24:655][671]LogInit: FAudioDevice initialized with ID 22.
+[2024.02.04-21.03.24:655][671]LogAudio: Display: Audio Device (ID: 22) registered with world 'IrvingHouse2'.
+[2024.02.04-21.03.24:655][671]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.02.04-21.03.24:676][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-21.03.24:881][671]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-21.03.24:970][671]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-13.03.24
+[2024.02.04-21.03.24:972][671]LogWorld: Bringing up level for play took: 0.090238
+[2024.02.04-21.03.24:975][671]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.02.04-21.03.24:978][671]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-21.03.24:978][671]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-21.03.24:986][671]vr.PixelDensity = "1"
+[2024.02.04-21.03.24:990][671]PIE: Server logged in
+[2024.02.04-21.03.24:991][671]PIE: Play in editor total start time 0.627 seconds.
+[2024.02.04-21.03.25:049][671]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-21.03.25:094][671]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-21.03.25:201][674]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-21.03.28:541][947]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-21.03.56:702][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-21.03.56:702][702]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-21.03.56:742][702]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-21.03.56:748][702]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-21.03.56:761][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.03.56:766][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-21.03.56:780][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.03.56:818][702]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-21.03.56:824][702]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.02.04-21.03.56:824][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.02.04-21.03.56:826][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.02.04-21.03.56:860][702]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-21.03.56:860][702]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-21.03.56:863][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.02.04-21.03.56:961][703]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.02.04-21.04.03:183][440]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-21.04.03:249][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.02.04-21.04.23:312][744]BlueprintLog: New page: Compile WorldWidget
+[2024.02.04-21.04.23:381][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.02.04-21.04.24:022][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.04.24:123][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/WorldWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset" SILENT=true
+[2024.02.04-21.04.24:128][795]LogSavePackage: Moving output files for package: /Game/Actors/WorldWidget
+[2024.02.04-21.04.24:128][795]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/WorldWidget9BB3DCBC4A76AE460608719860899902.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/WorldWidget.uasset'
+[2024.02.04-21.04.24:135][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 7.43 sec)
+[2024.02.04-21.04.24:148][795]AssetCheck: New page: Asset Save: WorldWidget
+[2024.02.04-21.04.24:148][795]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/WorldWidget.WorldWidget
+[2024.02.04-21.04.26:174][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.04.26:229][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.04-21.04.26:259][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.02.04-21.04.26:988][ 19]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.04-21.04.26:988][ 19]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse253051DA4494F3C31F96C42A61081B518.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.04-21.04.27:004][ 19]LogFileHelpers: No new changes to save!
+[2024.02.04-21.04.27:004][ 19]LogFileHelpers: Saving map 'IrvingHouse2' took 0.777
+[2024.02.04-21.04.27:011][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 837 ms (total: 8.27 sec)
+[2024.02.04-21.04.27:029][ 19]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.04-21.04.27:029][ 19]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: ================================================
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Total job queries 132, among them cache hits 13 (9.85%)
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Tracking 115 distinct input hashes that result in 95 distinct outputs (82.61%)
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: RAM used: 3.48 MiB of 1.60 GiB budget. Usage: 0.21%
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Job execution time: average 2.87 s, max 3.78 s
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Job life time (pending + execution): average 2.91 s, max 3.86
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.87 s
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Average processing rate: 0.68 jobs/sec
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Total thread time: 7.939 s
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Total thread preprocess time: 0.155 s
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Percentage time preprocessing: 1.95%
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Effective parallelization: 1.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 1.99 sec, max 2.07 sec, min 1.92 sec)
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 1.98 sec, max 2.06 sec, min 1.89 sec)
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 50.21% of total time (compiled    2 times, average 1.99 sec, max 2.07 sec, min 1.92 sec)
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 49.79% of total time (compiled    2 times, average 1.98 sec, max 2.06 sec, min 1.89 sec)
+[2024.02.04-21.04.45:619][ 67]LogShaderCompilers: Display: ================================================
+[2024.02.04-21.04.46:430][108]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Victorian_House/Meshes/Furniture/Mesh_CoffeeTable_01.Mesh_CoffeeTable_01
+[2024.02.04-21.04.46:530][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-21.04.46:530][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-21.04.46:719][108]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.02.04-21.04.47:194][108]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.02.04-21.05.11:210][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.05.11:298][876]LogSavePackage: Moving output files for package: /Game/Victorian_House/Meshes/Furniture/Mesh_CoffeeTable_01
+[2024.02.04-21.05.11:299][876]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Mesh_CoffeeTable_019D3380D6496C7A7359F549B40EFDF369.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Victorian_House/Meshes/Furniture/Mesh_CoffeeTable_01.uasset'
+[2024.02.04-21.05.11:310][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 8.37 sec)
+[2024.02.04-21.05.11:321][876]AssetCheck: New page: Asset Save: Mesh_CoffeeTable_01
+[2024.02.04-21.05.11:322][876]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Victorian_House/Meshes/Furniture/Mesh_CoffeeTable_01.Mesh_CoffeeTable_01
+[2024.02.04-21.05.14:061][ 69]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-21.05.14:071][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-21.05.14:071][ 69]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 5:05:14 AM)
+[2024.02.04-21.05.14:071][ 69]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-21.05.14:290][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.218211s)
+[2024.02.04-21.05.14:290][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.218247s)
+[2024.02.04-21.05.14:290][ 69]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-21.05.14:290][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-21.05.14:291][ 69]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-21.05.14:292][ 69]LogPlayLevel: PIE: World Init took: (0.001837s)
+[2024.02.04-21.05.14:319][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.02.04-21.05.14:322][ 69]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.02.04-21.05.14:322][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-21.05.14:322][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-21.05.14:322][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-21.05.14:322][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-21.05.14:322][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-21.05.14:322][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-21.05.14:322][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-21.05.14:322][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-21.05.14:322][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-21.05.14:322][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-21.05.14:322][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-21.05.14:324][ 69]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-21.05.14:343][ 69]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-21.05.14:343][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-21.05.14:343][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-21.05.14:343][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-21.05.14:344][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.02.04-21.05.14:344][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.02.04-21.05.14:345][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.02.04-21.05.14:345][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.02.04-21.05.14:346][ 69]LogInit: FAudioDevice initialized with ID 23.
+[2024.02.04-21.05.14:346][ 69]LogAudio: Display: Audio Device (ID: 23) registered with world 'IrvingHouse2'.
+[2024.02.04-21.05.14:346][ 69]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.02.04-21.05.14:364][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-21.05.14:565][ 69]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-21.05.14:656][ 69]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-13.05.14
+[2024.02.04-21.05.14:658][ 69]LogWorld: Bringing up level for play took: 0.092889
+[2024.02.04-21.05.14:661][ 69]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.02.04-21.05.14:665][ 69]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-21.05.14:667][ 69]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-21.05.14:675][ 69]vr.PixelDensity = "1"
+[2024.02.04-21.05.14:686][ 69]PIE: Server logged in
+[2024.02.04-21.05.14:692][ 69]PIE: Play in editor total start time 0.62 seconds.
+[2024.02.04-21.05.14:758][ 69]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-21.05.14:797][ 69]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-21.05.14:925][ 72]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-21.05.17:946][319]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-21.05.24:084][715]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.02.04-21.05.44:382][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-21.05.44:382][769]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-21.05.44:476][769]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-21.05.44:481][769]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-21.05.44:495][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.05.44:499][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-21.05.44:510][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.05.44:544][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-21.05.44:545][769]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.02.04-21.05.44:545][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.02.04-21.05.44:547][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.02.04-21.05.44:583][769]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-21.05.44:583][769]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-21.05.44:588][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.02.04-21.05.44:728][770]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.02.04-21.05.48:652][ 42]LogSlate: Window 'Mesh_CoffeeTable_01' being destroyed
+[2024.02.04-21.05.48:661][ 42]LogSlate: Window 'Mesh_CoffeeTable_01' being destroyed
+[2024.02.04-21.05.48:704][ 42]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-21.05.48:704][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.06.10:218][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.06.10:286][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.04-21.06.10:314][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.02.04-21.06.11:043][957]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.04-21.06.11:043][957]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2C345FFAC41852C87F01765B7CC5CC703.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.04-21.06.11:061][957]LogFileHelpers: No new changes to save!
+[2024.02.04-21.06.11:061][957]LogFileHelpers: Saving map 'IrvingHouse2' took 0.776
+[2024.02.04-21.06.11:068][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 850 ms (total: 9.22 sec)
+[2024.02.04-21.06.11:087][957]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.04-21.06.11:087][957]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
