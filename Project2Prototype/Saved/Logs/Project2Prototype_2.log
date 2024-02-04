@@ -2898,3 +2898,96 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.04-21.34.10:680][383]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
 [2024.02.04-21.34.10:680][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.02.04-21.34.13:455][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.04-21.34.57:992][465]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.02.04-21.34.57:992][465]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.02.04-21.34.57:994][465]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.DirectionalLight_0
+[2024.02.04-21.34.57:996][465]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.DirectionalLight_0
+[2024.02.04-21.34.58:049][465]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.02.04-21.34.58:049][465]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.02.04-21.34.58:051][465]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.DirectionalLight_1
+[2024.02.04-21.34.58:052][465]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.DirectionalLight_1
+[2024.02.04-21.34.58:672][499]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.02.04-21.34.58:672][499]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.02.04-21.34.58:678][499]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.DirectionalLight_2
+[2024.02.04-21.34.58:678][499]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.DirectionalLight_2
+[2024.02.04-21.34.59:642][569]Cmd: DELETE
+[2024.02.04-21.34.59:642][569]Cmd: ACTOR DELETE
+[2024.02.04-21.34.59:678][569]LogEditorActor: Deleted Actor: DirectionalLight
+[2024.02.04-21.34.59:707][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.02.04-21.34.59:712][569]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2024.02.04-21.35.02:096][796]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.35.02:096][796]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.35.03:707][886]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.35.03:707][886]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.35.23:304][375]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Victorian_House/Meshes/DecorativeElements/Mesh_Chandelier.Mesh_Chandelier
+[2024.02.04-21.35.23:361][375]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-21.35.23:361][375]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-21.35.23:658][375]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.02.04-21.35.32:214][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.35.32:322][910]LogSavePackage: Moving output files for package: /Game/Victorian_House/Meshes/DecorativeElements/Mesh_Chandelier
+[2024.02.04-21.35.32:323][910]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Mesh_Chandelier5DAF42EE466AD32DB730358E21AB48B4.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Victorian_House/Meshes/DecorativeElements/Mesh_Chandelier.uasset'
+[2024.02.04-21.35.32:332][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 17.8 sec)
+[2024.02.04-21.35.32:342][910]AssetCheck: New page: Asset Save: Mesh_Chandelier
+[2024.02.04-21.35.32:342][910]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Victorian_House/Meshes/DecorativeElements/Mesh_Chandelier.Mesh_Chandelier
+[2024.02.04-21.35.44:567][621]LogSlate: Window 'Mesh_Chandelier' being destroyed
+[2024.02.04-21.35.44:611][621]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-21.35.44:611][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-21.37.02:034][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.02.04-21.37.02:057][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.37.02:125][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.04-21.37.02:151][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.02.04-21.37.02:911][228]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.04-21.37.02:912][228]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse274EF1D97404D786C26B28E95E587DEEC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.04-21.37.02:929][228]LogFileHelpers: No new changes to save!
+[2024.02.04-21.37.02:929][228]LogFileHelpers: Saving map 'IrvingHouse2' took 0.806
+[2024.02.04-21.37.02:937][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 879 ms (total: 18.7 sec)
+[2024.02.04-21.37.02:948][228]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.04-21.37.02:948][228]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.04-21.37.43:834][708]Cmd: TRANSACTION UNDO
+[2024.02.04-21.37.43:834][708]LogEditorTransaction: Undo Move Elements
+[2024.02.04-21.37.44:772][744]Cmd: TRANSACTION UNDO
+[2024.02.04-21.37.44:772][744]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.04-21.37.46:776][907]Cmd: TRANSACTION REDO
+[2024.02.04-21.37.46:776][907]LogEditorTransaction: Redo Clicking on Elements
+[2024.02.04-21.37.58:194][914]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.02.04-21.37.58:194][914]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.02.04-21.37.59:119][984]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.02.04-21.37.59:119][984]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.02.04-21.38.00:084][ 69]Cmd: DELETE
+[2024.02.04-21.38.00:084][ 69]Cmd: ACTOR DELETE
+[2024.02.04-21.38.00:120][ 69]LogEditorActor: Deleted Actor: SpotLight
+[2024.02.04-21.38.00:149][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.04-21.38.00:163][ 69]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2024.02.04-21.38.01:601][215]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.38.01:601][215]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.38.02:826][312]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.38.02:826][312]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.38.32:433][815]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.38.32:434][815]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.38.32:940][847]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.38.32:941][847]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.38.37:846][249]Cmd: DELETE
+[2024.02.04-21.38.37:847][249]Cmd: ACTOR DELETE
+[2024.02.04-21.38.37:880][249]LogEditorActor: Deleted Actor: PointLight
+[2024.02.04-21.38.37:905][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.04-21.38.37:915][249]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2024.02.04-21.39.15:555][564]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.39.15:555][564]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.39.16:573][636]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.39.16:573][636]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.02.04-21.40.21:248][  4]Cmd: DELETE
+[2024.02.04-21.40.21:248][  4]Cmd: ACTOR DELETE
+[2024.02.04-21.40.21:283][  4]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.04-21.40.21:311][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.02.04-21.40.21:324][  4]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2024.02.04-21.40.57:051][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.02.04-21.40.57:060][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-21.40.57:125][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.04-21.40.57:151][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.04-21.40.57:891][876]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.04-21.40.57:891][876]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse240BF2E13483C50420C088797B9A97CA0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.04-21.40.57:907][876]LogFileHelpers: No new changes to save!
+[2024.02.04-21.40.57:907][876]LogFileHelpers: Saving map 'IrvingHouse2' took 0.786
+[2024.02.04-21.40.57:916][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 855 ms (total: 19.6 sec)
+[2024.02.04-21.40.57:925][876]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.04-21.40.57:925][876]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
