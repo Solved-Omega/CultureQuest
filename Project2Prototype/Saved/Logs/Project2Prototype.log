@@ -1867,3 +1867,817 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.04-20.40.46:140][426]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2024.02.04-20.40.46:143][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
 [2024.02.04-20.40.46:235][427]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.02.04-20.42.03:152][594]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-20.42.03:165][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-20.42.03:165][594]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 4:42:03 AM)
+[2024.02.04-20.42.03:165][594]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.42.03:386][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221263s)
+[2024.02.04-20.42.03:386][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.221332s)
+[2024.02.04-20.42.03:386][594]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.42.03:386][594]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.42.03:387][594]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.42.03:388][594]LogPlayLevel: PIE: World Init took: (0.002147s)
+[2024.02.04-20.42.03:413][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.04-20.42.03:416][594]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.04-20.42.03:416][594]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-20.42.03:416][594]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-20.42.03:416][594]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-20.42.03:416][594]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-20.42.03:416][594]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-20.42.03:416][594]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-20.42.03:416][594]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-20.42.03:416][594]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-20.42.03:417][594]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-20.42.03:417][594]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-20.42.03:417][594]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-20.42.03:419][594]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-20.42.03:439][594]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-20.42.03:439][594]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-20.42.03:439][594]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-20.42.03:439][594]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-20.42.03:440][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.02.04-20.42.03:440][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.02.04-20.42.03:441][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.02.04-20.42.03:442][594]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.02.04-20.42.03:442][594]LogInit: FAudioDevice initialized with ID 8.
+[2024.02.04-20.42.03:442][594]LogAudio: Display: Audio Device (ID: 8) registered with world 'IrvingHouse2'.
+[2024.02.04-20.42.03:442][594]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.04-20.42.03:460][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.42.03:671][594]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-20.42.03:761][594]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.42.03
+[2024.02.04-20.42.03:762][594]LogWorld: Bringing up level for play took: 0.090365
+[2024.02.04-20.42.03:765][594]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.02.04-20.42.03:770][594]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-20.42.03:771][594]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.42.03:779][594]vr.PixelDensity = "1"
+[2024.02.04-20.42.03:787][594]PIE: Server logged in
+[2024.02.04-20.42.03:792][594]PIE: Play in editor total start time 0.628 seconds.
+[2024.02.04-20.42.03:851][594]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-20.42.03:914][594]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-20.42.04:007][597]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-20.42.07:512][917]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-20.42.10:438][103]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.42.10:438][103]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.42.10:438][103]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.42.10:440][103]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.42.10:450][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.42.10:483][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.42.10:513][103]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-20.42.10:513][103]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.42.10:518][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.02.04-20.42.10:524][103]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.42.10:744][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.219314s)
+[2024.02.04-20.42.10:744][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.219363s)
+[2024.02.04-20.42.10:744][103]LogAudio: Display: Audio Device (ID: 8) registered with world 'IrvingHouse2'.
+[2024.02.04-20.42.10:744][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.42.10:744][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.42.10:744][103]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.42.10:746][103]LogPlayLevel: PIE: World Init took: (0.001878s)
+[2024.02.04-20.42.10:746][103]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.42.10:814][103]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.42.10
+[2024.02.04-20.42.10:816][103]LogWorld: Bringing up level for play took: 0.070041
+[2024.02.04-20.42.10:825][103]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.04-20.42.10:826][103]LogLoad: Took 0.387991 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.42.11:017][103]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.02.04-20.42.15:910][698]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.42.15:910][698]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.02.04-20.42.15:910][698]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.42.16:836][842]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.42.16:836][842]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.42.17:739][979]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.42.17:740][979]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.42.19:568][255]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.42.19:569][255]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.42.19:569][255]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.42.19:571][255]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.42.19:582][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.42.19:661][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.42.19:691][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.04-20.42.19:695][255]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.42.19:913][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.217513s)
+[2024.02.04-20.42.19:913][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.217571s)
+[2024.02.04-20.42.19:913][255]LogAudio: Display: Audio Device (ID: 8) registered with world 'IrvingHouse2'.
+[2024.02.04-20.42.19:913][255]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.42.19:913][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.42.19:914][255]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.42.19:915][255]LogPlayLevel: PIE: World Init took: (0.002328s)
+[2024.02.04-20.42.19:915][255]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.42.19:982][255]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.42.19
+[2024.02.04-20.42.19:985][255]LogWorld: Bringing up level for play took: 0.069569
+[2024.02.04-20.42.19:997][255]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.42.19:997][255]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.42.19:998][255]LogLoad: Took 0.429424 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.42.21:515][452]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.42.21:515][452]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.42.23:420][747]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.42.23:420][747]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.42.24:896][973]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.42.24:896][973]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.42.54:908][498]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.42.54:908][498]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.42.57:013][821]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.42.57:013][821]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.42.57:798][944]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.42.57:798][944]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.42.59:840][257]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.42.59:840][257]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.43.16:578][846]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.43.16:578][846]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.43.17:059][920]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.43.17:059][920]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.43.18:215][100]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.43.18:215][100]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.43.18:823][193]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.43.18:823][193]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.43.20:727][483]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.43.20:727][483]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.43.20:727][483]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.43.20:729][483]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.43.20:741][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.43.20:803][483]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.43.20:831][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.02.04-20.43.20:837][483]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.43.21:059][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221278s)
+[2024.02.04-20.43.21:059][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.221333s)
+[2024.02.04-20.43.21:059][483]LogAudio: Display: Audio Device (ID: 8) registered with world 'IrvingHouse2'.
+[2024.02.04-20.43.21:059][483]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.43.21:059][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.43.21:059][483]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.43.21:061][483]LogPlayLevel: PIE: World Init took: (0.002088s)
+[2024.02.04-20.43.21:061][483]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.43.21:129][483]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.43.21
+[2024.02.04-20.43.21:131][483]LogWorld: Bringing up level for play took: 0.069486
+[2024.02.04-20.43.21:140][483]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.43.21:140][483]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.43.21:140][483]LogLoad: Took 0.413393 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.43.22:992][721]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.43.22:992][721]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.43.24:715][990]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.43.24:715][990]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.43.25:641][132]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.43.25:641][132]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.43.26:064][198]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.43.26:065][198]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.43.27:832][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.43.27:832][461]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.43.27:892][461]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-20.43.27:896][461]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.43.27:907][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.43.27:911][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-20.43.27:922][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.43.27:961][461]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.04-20.43.27:961][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.04-20.43.27:964][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.04-20.43.27:990][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.04-20.43.28:034][462]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.02.04-20.43.37:798][613]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Interactables/InteractablesImage.InteractablesImage
+[2024.02.04-20.43.37:799][613]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.43.37:799][613]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.43.37:805][613]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.43.37:805][613]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.43.39:862][842]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Interactables/InteractablesAudio.InteractablesAudio
+[2024.02.04-20.43.39:862][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.43.39:862][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.43.39:870][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.43.39:870][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.44.26:674][284]BlueprintLog: New page: Compile InteractablesImage
+[2024.02.04-20.44.26:731][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.02.04-20.44.26:744][284]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.44.26:830][284]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesImage
+[2024.02.04-20.44.26:831][284]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesImage394B648C4E788B56A417518D55713C7B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesImage.uasset'
+[2024.02.04-20.44.26:839][284]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2.50 sec)
+[2024.02.04-20.44.26:862][284]AssetCheck: New page: Asset Save: InteractablesImage
+[2024.02.04-20.44.26:862][284]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesImage.InteractablesImage
+[2024.02.04-20.44.27:527][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.04-20.44.27:601][355]LogSavePackage: Moving output files for package: /Game/Widgets/Interactables/InteractablesImage
+[2024.02.04-20.44.27:602][355]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/InteractablesImage8211E45643C7F98E3AF04AB0A0119B0C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Interactables/InteractablesImage.uasset'
+[2024.02.04-20.44.27:608][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.58 sec)
+[2024.02.04-20.44.27:619][355]AssetCheck: New page: Asset Save: InteractablesImage
+[2024.02.04-20.44.27:620][355]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Interactables/InteractablesImage.InteractablesImage
+[2024.02.04-20.44.33:495][ 49]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-20.44.33:506][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-20.44.33:506][ 49]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 4:44:33 AM)
+[2024.02.04-20.44.33:506][ 49]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.44.33:737][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.230160s)
+[2024.02.04-20.44.33:737][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.230199s)
+[2024.02.04-20.44.33:737][ 49]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.44.33:737][ 49]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.44.33:738][ 49]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.44.33:739][ 49]LogPlayLevel: PIE: World Init took: (0.001806s)
+[2024.02.04-20.44.33:765][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.02.04-20.44.33:768][ 49]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.02.04-20.44.33:768][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-20.44.33:768][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-20.44.33:768][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-20.44.33:768][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-20.44.33:768][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-20.44.33:768][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-20.44.33:768][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-20.44.33:768][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-20.44.33:769][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-20.44.33:769][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-20.44.33:769][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-20.44.33:771][ 49]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-20.44.33:791][ 49]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-20.44.33:791][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-20.44.33:791][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-20.44.33:791][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-20.44.33:791][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.02.04-20.44.33:791][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.02.04-20.44.33:793][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.02.04-20.44.33:793][ 49]LogInit: FAudioDevice initialized with ID 9.
+[2024.02.04-20.44.33:793][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.02.04-20.44.33:793][ 49]LogAudio: Display: Audio Device (ID: 9) registered with world 'IrvingHouse2'.
+[2024.02.04-20.44.33:793][ 49]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.04-20.44.33:811][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.44.34:016][ 49]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-20.44.34:106][ 49]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.44.34
+[2024.02.04-20.44.34:107][ 49]LogWorld: Bringing up level for play took: 0.090982
+[2024.02.04-20.44.34:110][ 49]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.02.04-20.44.34:113][ 49]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-20.44.34:114][ 49]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.44.34:122][ 49]vr.PixelDensity = "1"
+[2024.02.04-20.44.34:125][ 49]PIE: Server logged in
+[2024.02.04-20.44.34:126][ 49]PIE: Play in editor total start time 0.62 seconds.
+[2024.02.04-20.44.34:183][ 49]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-20.44.34:232][ 49]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-20.44.34:362][ 52]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-20.44.39:230][462]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-20.44.49:379][ 88]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.44.49:379][ 88]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.44.49:379][ 88]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.44.49:381][ 88]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.44.49:391][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.44.49:430][ 88]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.44.49:452][ 88]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-20.44.49:452][ 88]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.44.49:454][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.02.04-20.44.49:460][ 88]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.44.49:678][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.217842s)
+[2024.02.04-20.44.49:678][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.217900s)
+[2024.02.04-20.44.49:678][ 88]LogAudio: Display: Audio Device (ID: 9) registered with world 'IrvingHouse2'.
+[2024.02.04-20.44.49:678][ 88]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.44.49:678][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.44.49:678][ 88]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.44.49:679][ 88]LogPlayLevel: PIE: World Init took: (0.001847s)
+[2024.02.04-20.44.49:679][ 88]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.44.49:748][ 88]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.44.49
+[2024.02.04-20.44.49:750][ 88]LogWorld: Bringing up level for play took: 0.069910
+[2024.02.04-20.44.49:759][ 88]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.04-20.44.49:759][ 88]LogLoad: Took 0.381043 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.44.49:948][ 88]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.02.04-20.44.55:838][788]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.44.55:838][788]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.02.04-20.44.55:838][788]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.44.57:764][966]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.44.57:764][966]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.44.59:531][188]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.44.59:531][188]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.45.01:008][411]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.45.01:009][411]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.45.01:009][411]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.45.01:011][411]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.45.01:022][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.45.01:063][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.45.01:086][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.04-20.45.01:091][411]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.45.01:309][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.217875s)
+[2024.02.04-20.45.01:309][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.217930s)
+[2024.02.04-20.45.01:309][411]LogAudio: Display: Audio Device (ID: 9) registered with world 'IrvingHouse2'.
+[2024.02.04-20.45.01:309][411]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.45.01:310][411]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.45.01:310][411]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.45.01:310][411]LogPlayLevel: PIE: World Init took: (0.001570s)
+[2024.02.04-20.45.01:310][411]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.45.01:378][411]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.45.01
+[2024.02.04-20.45.01:379][411]LogWorld: Bringing up level for play took: 0.068231
+[2024.02.04-20.45.01:390][411]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.45.01:390][411]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.45.01:391][411]LogLoad: Took 0.382363 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.45.03:861][755]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.45.03:861][755]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.45.15:275][547]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.45.15:275][547]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.45.16:966][812]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.45.16:966][812]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.45.18:111][989]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.45.18:111][989]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.45.18:111][989]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.45.18:113][989]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.45.18:125][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.45.18:186][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.45.18:213][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.02.04-20.45.18:220][989]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.45.18:438][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.217626s)
+[2024.02.04-20.45.18:438][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.217691s)
+[2024.02.04-20.45.18:438][989]LogAudio: Display: Audio Device (ID: 9) registered with world 'IrvingHouse2'.
+[2024.02.04-20.45.18:438][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.45.18:438][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.45.18:439][989]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.45.18:440][989]LogPlayLevel: PIE: World Init took: (0.001775s)
+[2024.02.04-20.45.18:440][989]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.45.18:504][989]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.45.18
+[2024.02.04-20.45.18:506][989]LogWorld: Bringing up level for play took: 0.066239
+[2024.02.04-20.45.18:514][989]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.45.18:514][989]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.45.18:515][989]LogLoad: Took 0.403012 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.45.20:257][220]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.45.20:257][220]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.45.21:486][354]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.45.21:486][354]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.45.22:391][493]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.45.22:391][493]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.45.22:400][495]LogHttp: Warning: 00000BF861D2DC00: request failed, libcurl error: 3 (URL using bad/illegal format or missing URL)
+[2024.02.04-20.45.22:400][495]LogHttp: Warning: 00000BF861D2DC00: libcurl info message cache 0 (Closing connection -1)
+[2024.02.04-20.45.28:170][406]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.45.28:170][406]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.45.31:202][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.45.31:202][875]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.45.31:240][875]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-20.45.31:245][875]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.45.31:256][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.45.31:259][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-20.45.31:271][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.45.31:297][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.45.31:302][875]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.02.04-20.45.31:302][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.04-20.45.31:305][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.02.04-20.45.31:339][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.04-20.45.31:365][876]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.02.04-20.45.32:565][ 19]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-20.45.32:575][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-20.45.32:575][ 19]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 4:45:32 AM)
+[2024.02.04-20.45.32:575][ 19]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.45.32:796][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.220439s)
+[2024.02.04-20.45.32:796][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.220483s)
+[2024.02.04-20.45.32:796][ 19]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.45.32:796][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.45.32:797][ 19]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.45.32:798][ 19]LogPlayLevel: PIE: World Init took: (0.002113s)
+[2024.02.04-20.45.32:822][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.04-20.45.32:824][ 19]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.02.04-20.45.32:824][ 19]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-20.45.32:824][ 19]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-20.45.32:824][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-20.45.32:824][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-20.45.32:824][ 19]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-20.45.32:824][ 19]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-20.45.32:824][ 19]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-20.45.32:824][ 19]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-20.45.32:824][ 19]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-20.45.32:824][ 19]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-20.45.32:824][ 19]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-20.45.32:826][ 19]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-20.45.32:845][ 19]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-20.45.32:845][ 19]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-20.45.32:845][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-20.45.32:845][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-20.45.32:846][ 19]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.02.04-20.45.32:846][ 19]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.02.04-20.45.32:847][ 19]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.02.04-20.45.32:847][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.02.04-20.45.32:847][ 19]LogInit: FAudioDevice initialized with ID 10.
+[2024.02.04-20.45.32:847][ 19]LogAudio: Display: Audio Device (ID: 10) registered with world 'IrvingHouse2'.
+[2024.02.04-20.45.32:848][ 19]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.04-20.45.32:882][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.45.33:078][ 19]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-20.45.33:171][ 19]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.45.33
+[2024.02.04-20.45.33:172][ 19]LogWorld: Bringing up level for play took: 0.092676
+[2024.02.04-20.45.33:175][ 19]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.02.04-20.45.33:178][ 19]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-20.45.33:179][ 19]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.45.33:187][ 19]vr.PixelDensity = "1"
+[2024.02.04-20.45.33:189][ 19]PIE: Server logged in
+[2024.02.04-20.45.33:190][ 19]PIE: Play in editor total start time 0.615 seconds.
+[2024.02.04-20.45.33:246][ 19]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-20.45.33:290][ 19]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-20.45.33:423][ 22]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-20.45.35:832][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.45.35:832][218]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.45.35:868][218]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-20.45.35:872][218]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.45.35:883][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.45.35:886][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-20.45.35:897][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.45.35:926][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.45.35:928][218]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.02.04-20.45.35:928][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.04-20.45.35:931][218]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.02.04-20.45.35:964][218]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-20.45.35:964][218]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.45.35:968][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.02.04-20.45.36:052][219]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.02.04-20.45.46:730][498]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.02.04-20.45.46:741][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.04-20.45.46:741][498]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 4:45:46 AM)
+[2024.02.04-20.45.46:742][498]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.45.46:965][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.222906s)
+[2024.02.04-20.45.46:965][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.222944s)
+[2024.02.04-20.45.46:965][498]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.45.46:965][498]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.45.46:966][498]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.45.46:967][498]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2024.02.04-20.45.46:991][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.04-20.45.46:993][498]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.02.04-20.45.46:993][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.04-20.45.46:993][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.04-20.45.46:993][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.04-20.45.46:994][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.04-20.45.46:994][498]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.04-20.45.46:994][498]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.04-20.45.46:994][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.04-20.45.46:994][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.04-20.45.46:994][498]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.04-20.45.46:994][498]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.04-20.45.46:994][498]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.04-20.45.46:996][498]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.04-20.45.47:015][498]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.04-20.45.47:016][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.04-20.45.47:016][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.04-20.45.47:016][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.04-20.45.47:016][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.02.04-20.45.47:016][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.02.04-20.45.47:017][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.02.04-20.45.47:017][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.02.04-20.45.47:017][498]LogInit: FAudioDevice initialized with ID 11.
+[2024.02.04-20.45.47:017][498]LogAudio: Display: Audio Device (ID: 11) registered with world 'IrvingHouse2'.
+[2024.02.04-20.45.47:017][498]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.04-20.45.47:046][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.45.47:254][498]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-20.45.47:343][498]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.45.47
+[2024.02.04-20.45.47:344][498]LogWorld: Bringing up level for play took: 0.089138
+[2024.02.04-20.45.47:346][498]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.02.04-20.45.47:349][498]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-20.45.47:350][498]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.45.47:358][498]vr.PixelDensity = "1"
+[2024.02.04-20.45.47:361][498]PIE: Server logged in
+[2024.02.04-20.45.47:361][498]PIE: Play in editor total start time 0.619 seconds.
+[2024.02.04-20.45.47:419][498]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-20.45.47:461][498]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-20.45.47:576][501]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-20.45.49:484][659]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-20.45.51:930][805]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.45.51:931][805]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.45.51:931][805]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.45.51:933][805]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.45.51:944][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.45.51:978][805]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.45.52:007][805]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-20.45.52:007][805]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.45.52:009][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.02.04-20.45.52:015][805]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.45.52:236][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.220930s)
+[2024.02.04-20.45.52:236][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.220985s)
+[2024.02.04-20.45.52:236][805]LogAudio: Display: Audio Device (ID: 11) registered with world 'IrvingHouse2'.
+[2024.02.04-20.45.52:236][805]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.45.52:236][805]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.45.52:237][805]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.45.52:238][805]LogPlayLevel: PIE: World Init took: (0.001846s)
+[2024.02.04-20.45.52:238][805]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.45.52:305][805]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.45.52
+[2024.02.04-20.45.52:307][805]LogWorld: Bringing up level for play took: 0.069139
+[2024.02.04-20.45.52:316][805]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.04-20.45.52:316][805]LogLoad: Took 0.385812 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.45.52:507][805]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.02.04-20.45.58:102][551]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.45.58:102][551]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.02.04-20.45.58:102][551]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.45.59:773][811]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.45.59:773][811]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.45.59:773][811]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.45.59:775][811]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.45.59:785][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.45.59:845][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.45.59:874][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.04-20.45.59:879][811]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.46.00:104][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.224537s)
+[2024.02.04-20.46.00:104][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.224593s)
+[2024.02.04-20.46.00:104][811]LogAudio: Display: Audio Device (ID: 11) registered with world 'IrvingHouse2'.
+[2024.02.04-20.46.00:104][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.46.00:104][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.46.00:104][811]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.46.00:105][811]LogPlayLevel: PIE: World Init took: (0.001871s)
+[2024.02.04-20.46.00:106][811]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.46.00:173][811]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.46.00
+[2024.02.04-20.46.00:174][811]LogWorld: Bringing up level for play took: 0.067840
+[2024.02.04-20.46.00:185][811]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.46.00:185][811]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.46.00:185][811]LogLoad: Took 0.412716 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.46.02:009][ 59]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.46.02:009][ 59]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.46.05:590][618]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.46.05:590][618]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.46.06:784][804]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.46.06:784][804]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.46.07:780][955]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.46.07:780][955]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.46.07:780][955]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.46.07:782][955]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.46.07:796][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.46.07:833][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.46.07:879][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.02.04-20.46.07:886][955]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.46.08:108][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221670s)
+[2024.02.04-20.46.08:108][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.221731s)
+[2024.02.04-20.46.08:108][955]LogAudio: Display: Audio Device (ID: 11) registered with world 'IrvingHouse2'.
+[2024.02.04-20.46.08:108][955]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.46.08:108][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.46.08:108][955]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.46.08:109][955]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2024.02.04-20.46.08:110][955]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.46.08:174][955]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.46.08
+[2024.02.04-20.46.08:175][955]LogWorld: Bringing up level for play took: 0.065557
+[2024.02.04-20.46.08:183][955]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.46.08:183][955]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.46.08:184][955]LogLoad: Took 0.404179 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.46.09:761][171]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.46.09:761][171]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.46.09:791][176]LogHttp: Warning: 00000BF86BCED700: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.02.04-20.46.09:791][176]LogHttp: Warning: 00000BF86BCED700: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Downloads\Grant-Narrows.jpg)
+[2024.02.04-20.46.09:791][176]LogHttp: Warning: 00000BF86BCED700: libcurl info message cache 1 (Closing connection -1)
+[2024.02.04-20.46.14:626][940]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.46.14:626][940]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.46.59:130][ 18]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.46.59:130][ 18]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.46.59:158][ 22]LogHttp: Warning: 00000BF85DF01400: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.02.04-20.46.59:159][ 22]LogHttp: Warning: 00000BF85DF01400: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Downloads\Grant-Narrows.jpg)
+[2024.02.04-20.46.59:159][ 22]LogHttp: Warning: 00000BF85DF01400: libcurl info message cache 1 (Closing connection -1)
+[2024.02.04-20.46.59:159][ 22]LogHttp: Warning: 00000BF85DF01E00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.02.04-20.46.59:159][ 22]LogHttp: Warning: 00000BF85DF01E00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Downloads\Grant-Narrows.jpg)
+[2024.02.04-20.46.59:159][ 22]LogHttp: Warning: 00000BF85DF01E00: libcurl info message cache 1 (Closing connection -1)
+[2024.02.04-20.46.59:884][123]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.46.59:884][123]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.47.00:527][207]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.47.00:527][207]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.47.02:022][413]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.47.02:022][413]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.47.02:022][413]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.47.02:025][413]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.47.02:038][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.47.02:109][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.47.02:135][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.02.04-20.47.02:139][413]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.47.02:359][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.219759s)
+[2024.02.04-20.47.02:359][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.219808s)
+[2024.02.04-20.47.02:359][413]LogAudio: Display: Audio Device (ID: 11) registered with world 'IrvingHouse2'.
+[2024.02.04-20.47.02:359][413]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.47.02:359][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.47.02:360][413]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.47.02:361][413]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2024.02.04-20.47.02:361][413]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.47.02:428][413]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.47.02
+[2024.02.04-20.47.02:430][413]LogWorld: Bringing up level for play took: 0.068407
+[2024.02.04-20.47.02:442][413]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.47.02:442][413]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.47.02:443][413]LogLoad: Took 0.420747 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.47.04:224][617]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.47.04:224][617]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.47.13:161][863]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.47.13:161][863]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.47.14:147][991]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.47.14:147][991]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.47.15:217][138]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.47.15:218][138]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.47.15:218][138]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.47.15:220][138]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.47.15:233][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.47.15:301][138]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.47.15:334][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.02.04-20.47.15:341][138]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.47.15:564][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.223128s)
+[2024.02.04-20.47.15:564][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.223192s)
+[2024.02.04-20.47.15:564][138]LogAudio: Display: Audio Device (ID: 11) registered with world 'IrvingHouse2'.
+[2024.02.04-20.47.15:564][138]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.47.15:565][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.47.15:565][138]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.47.15:566][138]LogPlayLevel: PIE: World Init took: (0.001901s)
+[2024.02.04-20.47.15:566][138]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.47.15:634][138]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.47.15
+[2024.02.04-20.47.15:635][138]LogWorld: Bringing up level for play took: 0.068733
+[2024.02.04-20.47.15:643][138]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.47.15:643][138]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.47.15:644][138]LogLoad: Took 0.426285 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.47.17:007][284]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.47.17:007][284]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.47.17:033][288]LogHttp: Warning: 00000BF8695C0F00: request failed, libcurl error: 3 (URL using bad/illegal format or missing URL)
+[2024.02.04-20.47.17:033][288]LogHttp: Warning: 00000BF8695C0F00: libcurl info message cache 0 (Closing connection -1)
+[2024.02.04-20.47.21:345][890]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.47.21:345][890]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.47.22:538][ 53]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.47.22:538][ 53]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.47.23:915][246]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.47.23:915][246]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.49.07:588][840]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.49.07:588][840]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.49.07:624][845]LogHttp: Warning: 00000BF8695C7D00: request failed, libcurl error: 3 (URL using bad/illegal format or missing URL)
+[2024.02.04-20.49.07:624][845]LogHttp: Warning: 00000BF8695C7D00: libcurl info message cache 0 (Closing connection -1)
+[2024.02.04-20.49.07:624][845]LogHttp: Warning: 00000BF8695C8200: request failed, libcurl error: 3 (URL using bad/illegal format or missing URL)
+[2024.02.04-20.49.07:624][845]LogHttp: Warning: 00000BF8695C8200: libcurl info message cache 0 (Closing connection -1)
+[2024.02.04-20.49.08:437][958]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.49.08:438][958]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.49.09:056][ 43]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.49.09:056][ 43]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.49.10:522][242]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.49.10:522][242]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.49.10:522][242]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.49.10:524][242]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.49.10:534][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.49.10:559][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.49.10:596][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.02.04-20.49.10:603][242]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.49.10:823][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.219798s)
+[2024.02.04-20.49.10:823][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.219848s)
+[2024.02.04-20.49.10:823][242]LogAudio: Display: Audio Device (ID: 11) registered with world 'IrvingHouse2'.
+[2024.02.04-20.49.10:823][242]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.49.10:823][242]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.49.10:823][242]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.49.10:824][242]LogPlayLevel: PIE: World Init took: (0.001589s)
+[2024.02.04-20.49.10:824][242]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.49.10:890][242]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.49.10
+[2024.02.04-20.49.10:892][242]LogWorld: Bringing up level for play took: 0.067068
+[2024.02.04-20.49.10:903][242]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.49.10:903][242]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.49.10:903][242]LogLoad: Took 0.381176 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.49.12:327][395]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.49.12:327][395]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.49.30:542][967]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.49.30:543][967]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.49.33:710][387]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.49.33:710][387]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.49.35:411][624]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.49.35:411][624]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.49.36:031][705]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.49.36:032][705]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.49.54:095][225]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.49.54:095][225]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.49.55:155][363]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.49.55:155][363]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.49.58:603][848]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.49.58:603][848]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.49.59:772][992]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.49.59:772][992]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.50.04:783][706]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.50.04:783][706]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.50.05:861][849]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.50.05:861][849]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.50.07:110][ 21]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.50.07:111][ 21]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.50.07:111][ 21]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.50.07:113][ 21]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.50.07:126][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.50.07:181][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.50.07:214][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.02.04-20.50.07:220][ 21]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.50.07:442][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221643s)
+[2024.02.04-20.50.07:442][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.221700s)
+[2024.02.04-20.50.07:442][ 21]LogAudio: Display: Audio Device (ID: 11) registered with world 'IrvingHouse2'.
+[2024.02.04-20.50.07:442][ 21]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.50.07:442][ 21]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.50.07:443][ 21]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.50.07:444][ 21]LogPlayLevel: PIE: World Init took: (0.001850s)
+[2024.02.04-20.50.07:444][ 21]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.50.07:511][ 21]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.50.07
+[2024.02.04-20.50.07:513][ 21]LogWorld: Bringing up level for play took: 0.068367
+[2024.02.04-20.50.07:522][ 21]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.50.07:522][ 21]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.50.07:523][ 21]LogLoad: Took 0.411862 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.50.09:520][246]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.50.09:520][246]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.50.09:911][256]LogImageWrapper: Error: JPEG Decompress Error
+[2024.02.04-20.50.09:925][256]LogImageWrapper: Error: Bmp header invalid
+[2024.02.04-20.50.14:466][900]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.50.14:466][900]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.50.15:112][981]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.50.15:112][981]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.50.16:227][ 71]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.50.16:227][ 71]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.50.17:291][207]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.50.17:291][207]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.50.19:713][423]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.50.19:713][423]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.50.20:526][524]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.50.20:526][524]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.50.20:890][534]LogImageWrapper: Error: JPEG Decompress Error
+[2024.02.04-20.50.20:902][534]LogImageWrapper: Error: Bmp header invalid
+[2024.02.04-20.50.21:194][534]LogImageWrapper: Error: JPEG Decompress Error
+[2024.02.04-20.50.21:225][534]LogImageWrapper: Error: Bmp header invalid
+[2024.02.04-20.50.35:275][538]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.50.35:275][538]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.50.35:617][584]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.50.35:617][584]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.50.35:963][591]LogImageWrapper: Error: JPEG Decompress Error
+[2024.02.04-20.50.36:001][591]LogImageWrapper: Error: Bmp header invalid
+[2024.02.04-20.50.36:284][591]LogImageWrapper: Error: JPEG Decompress Error
+[2024.02.04-20.50.36:299][591]LogImageWrapper: Error: Bmp header invalid
+[2024.02.04-20.50.36:889][670]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.50.36:889][670]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.50.37:286][724]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.50.37:286][724]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.50.39:111][982]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.50.39:111][982]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.50.39:111][982]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.50.39:113][982]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.50.39:125][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.50.39:187][982]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.50.39:210][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.04-20.50.39:218][982]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.50.39:439][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.220929s)
+[2024.02.04-20.50.39:439][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.220986s)
+[2024.02.04-20.50.39:439][982]LogAudio: Display: Audio Device (ID: 11) registered with world 'IrvingHouse2'.
+[2024.02.04-20.50.39:439][982]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.50.39:439][982]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.50.39:440][982]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.50.39:441][982]LogPlayLevel: PIE: World Init took: (0.001752s)
+[2024.02.04-20.50.39:441][982]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.50.39:508][982]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.50.39
+[2024.02.04-20.50.39:509][982]LogWorld: Bringing up level for play took: 0.068241
+[2024.02.04-20.50.39:521][982]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.50.39:521][982]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.50.39:521][982]LogLoad: Took 0.410321 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.50.41:024][151]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.50.41:024][151]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.51.00:019][845]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.51.00:019][845]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.51.02:245][147]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.51.02:245][147]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.51.03:391][302]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.51.03:391][302]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_PC.Gamemode_PC_C
+[2024.02.04-20.51.03:391][302]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.51.03:393][302]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.51.03:405][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.51.03:467][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.51.03:496][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.02.04-20.51.03:502][302]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.51.03:727][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.224254s)
+[2024.02.04-20.51.03:727][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.224309s)
+[2024.02.04-20.51.03:727][302]LogAudio: Display: Audio Device (ID: 11) registered with world 'IrvingHouse2'.
+[2024.02.04-20.51.03:727][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.51.03:727][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.51.03:727][302]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.51.03:728][302]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2024.02.04-20.51.03:729][302]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.04-20.51.03:795][302]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.51.03
+[2024.02.04-20.51.03:797][302]LogWorld: Bringing up level for play took: 0.067613
+[2024.02.04-20.51.03:805][302]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.51.03:805][302]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.51.03:806][302]LogLoad: Took 0.414900 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.51.05:241][463]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.51.05:241][463]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.51.06:272][609]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.51.06:272][609]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.51.07:188][725]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.51.07:188][725]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.51.08:271][820]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.51.08:271][820]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.51.09:200][935]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.51.09:200][935]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.51.10:632][ 20]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.51.10:632][ 20]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.51.11:684][156]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.51.11:684][156]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.51.12:158][225]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.04-20.51.12:158][225]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.02.04-20.51.13:316][373]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.04-20.51.13:316][373]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.02.04-20.51.14:418][525]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.02.04-20.51.14:418][525]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.02.04-20.51.14:418][525]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.51.14:421][525]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.51.14:433][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.51.14:459][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.51.14:498][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.02.04-20.51.14:504][525]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.51.14:725][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221063s)
+[2024.02.04-20.51.14:725][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.221116s)
+[2024.02.04-20.51.14:725][525]LogAudio: Display: Audio Device (ID: 11) registered with world 'IrvingHouse2'.
+[2024.02.04-20.51.14:725][525]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.04-20.51.14:725][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.04-20.51.14:726][525]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.04-20.51.14:727][525]LogPlayLevel: PIE: World Init took: (0.001912s)
+[2024.02.04-20.51.14:727][525]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.02.04-20.51.14:794][525]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-12.51.14
+[2024.02.04-20.51.14:796][525]LogWorld: Bringing up level for play took: 0.068550
+[2024.02.04-20.51.14:799][525]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.02.04-20.51.14:801][525]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.51.14:990][525]vr.PixelDensity = "1"
+[2024.02.04-20.51.14:990][525]LogLoad: Took 0.571502 seconds to LoadMap(/Game/Levels/UEDPIE_0_IrvingHouse2)
+[2024.02.04-20.51.15:077][525]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-20.51.15:112][525]LogViewport: Scene viewport resized to 2848x1440, mode Windowed.
+[2024.02.04-20.51.15:125][525]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.02.04-20.51.15:150][527]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.02.04-20.51.18:871][812]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.02.04-20.51.40:421][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.04-20.51.40:421][ 45]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.04-20.51.40:422][ 45]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.92.0)' being destroyed
+[2024.02.04-20.51.40:432][ 45]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.04-20.51.40:444][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.51.40:448][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.04-20.51.40:460][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.04-20.51.40:489][ 45]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.04-20.51.40:500][ 45]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.04-20.51.40:500][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.04-20.51.40:502][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.04-20.51.40:530][ 45]LogSlate: Slate User Unregistered.  User Index 8
+[2024.02.04-20.51.40:531][ 45]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.02.04-20.51.40:535][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.04-20.51.40:623][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_20
