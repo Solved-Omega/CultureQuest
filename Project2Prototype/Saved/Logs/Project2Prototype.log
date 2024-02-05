@@ -2901,3 +2901,955 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.05-01.24.01:888][468]LogSlate: Window 'Interactables_Manuscript' being destroyed
 [2024.02.05-01.24.01:897][468]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
 [2024.02.05-01.24.01:897][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.25.17:655][765]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_Pen.Interactables_Pen_C
+[2024.02.05-01.25.17:659][765]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_Pen.Interactables_Pen as actor: Interactables_Pen_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Pen2_8
+[2024.02.05-01.25.17:675][765]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.25.25:068][456]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_book.Interactables_book_C
+[2024.02.05-01.25.25:073][456]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_book.Interactables_book as actor: Interactables_book_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Book_3
+[2024.02.05-01.25.25:090][456]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.26.09:098][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_Manuscript.Interactables_Manuscript_C
+[2024.02.05-01.26.09:103][540]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_Manuscript.Interactables_Manuscript as actor: Interactables_Manuscript_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Manuscript_25
+[2024.02.05-01.26.09:119][540]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.26.49:719][183]Cmd: DELETE
+[2024.02.05-01.26.49:719][183]Cmd: ACTOR DELETE
+[2024.02.05-01.26.49:719][183]LogEditorActor: Cannot delete component StaticMeshComponent /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.BP_Notebook_Inspection_770.Mesh_Book_01: Can't delete non-instanced components or the scene root.
+[2024.02.05-01.26.50:424][230]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_notebook.Interactables_notebook_C
+[2024.02.05-01.26.50:424][230]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_notebook.Interactables_notebook_C
+[2024.02.05-01.26.50:427][230]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_notebook.Interactables_notebook as actor: Interactables_notebook_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_notebook_C_0
+[2024.02.05-01.26.50:429][230]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_notebook.Interactables_notebook as actor: Interactables_notebook_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_notebook_C_0
+[2024.02.05-01.26.51:332][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_notebook.Interactables_notebook_C
+[2024.02.05-01.26.51:332][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_notebook.Interactables_notebook_C
+[2024.02.05-01.26.51:339][289]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_notebook.Interactables_notebook as actor: Interactables_notebook_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_notebook_C_1
+[2024.02.05-01.26.51:342][289]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_notebook.Interactables_notebook as actor: Interactables_notebook_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_notebook_C_1
+[2024.02.05-01.26.52:526][386]Cmd: DELETE
+[2024.02.05-01.26.52:526][386]Cmd: ACTOR DELETE
+[2024.02.05-01.26.52:560][386]LogEditorActor: Deleted Actor: BP_Notebook_Inspection_C
+[2024.02.05-01.26.52:619][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.02.05-01.26.52:635][386]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2024.02.05-01.27.06:191][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.27.06:263][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.27.06:324][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.02.05-01.27.07:021][570]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.27.07:021][570]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2AC02C82E424EAD4387DBD6A91D1AAADB.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.27.07:037][570]LogFileHelpers: No new changes to save!
+[2024.02.05-01.27.07:037][570]LogFileHelpers: Saving map 'IrvingHouse2' took 0.777
+[2024.02.05-01.27.07:043][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 850 ms (total: 16.1 sec)
+[2024.02.05-01.27.07:059][570]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.05-01.27.07:059][570]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.05-01.28.55:906][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.28.55:991][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.28.56:050][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.05-01.28.56:741][573]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.28.56:742][573]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2242381444E5EFCC9F9A528A618822F0B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.28.56:758][573]LogFileHelpers: No new changes to save!
+[2024.02.05-01.28.56:758][573]LogFileHelpers: Saving map 'IrvingHouse2' took 0.770
+[2024.02.05-01.28.56:763][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 857 ms (total: 16.9 sec)
+[2024.02.05-01.28.56:780][573]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.05-01.28.56:781][573]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.05-01.29.11:479][829]Cmd: DELETE
+[2024.02.05-01.29.11:479][829]Cmd: ACTOR DELETE
+[2024.02.05-01.29.11:510][829]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.29.11:553][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.05-01.29.11:558][829]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2024.02.05-01.29.13:452][ 17]Cmd: DELETE
+[2024.02.05-01.29.13:453][ 17]Cmd: ACTOR DELETE
+[2024.02.05-01.29.13:484][ 17]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.29.13:528][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.02.05-01.29.13:534][ 17]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2024.02.05-01.29.17:162][343]Cmd: DELETE
+[2024.02.05-01.29.17:162][343]Cmd: ACTOR DELETE
+[2024.02.05-01.29.17:196][343]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2024.02.05-01.29.17:235][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.05-01.29.17:239][343]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2024.02.05-01.29.47:891][242]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.05-01.29.50:065][431]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.05-01.30.04:606][843]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.05-01.30.04:617][843]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.05-01.30.04:636][844]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.05-01.30.08:808][268]LogContentBrowser: Attempting asset rename: NewFolder -> ChessPieces
+[2024.02.05-01.30.08:808][268]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.05-01.30.14:331][809]LogContentBrowser: Deferred new asset file creation: Interactables_Child
+[2024.02.05-01.30.14:364][809]LogContentBrowser: Creating deferred item: Interactables_Child
+[2024.02.05-01.30.14:379][810]LogContentBrowser: Renaming the item being created (Deferred Item: Interactables_Child).
+[2024.02.05-01.30.15:998][971]LogContentBrowser: Attempting asset rename: Interactables_Child -> Interactables_Child
+[2024.02.05-01.30.16:002][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.30.16:077][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.30.16:099][971]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_Child
+[2024.02.05-01.30.16:099][971]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_Child81CF1B424D06CD5D5BA8DF9DEA3FA388.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_Child.uasset'
+[2024.02.05-01.30.16:110][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 17.0 sec)
+[2024.02.05-01.30.16:112][971]LogContentBrowser: End creating deferred item Interactables_Child
+[2024.02.05-01.30.16:121][971]AssetCheck: New page: Asset Save: Interactables_Child
+[2024.02.05-01.30.16:122][971]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_Child.Interactables_Child
+[2024.02.05-01.30.24:605][983]LogContentBrowser: Attempting asset rename: Interactables_Child -> Interactables_WhitePawn
+[2024.02.05-01.30.24:636][983]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.02.05-01.30.24:640][983]LogMetaData: Removing '/Game/Actors/Interactables/Interactables_WhitePawn.Interactables_WhitePawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/Interactables_Child.PackageMetaData'
+[2024.02.05-01.30.24:640][983]LogMetaData: Removing '/Game/Actors/Interactables/Interactables_WhitePawn.SKEL_Interactables_WhitePawn_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/Interactables_Child.PackageMetaData'
+[2024.02.05-01.30.24:640][983]LogMetaData: Removing '/Game/Actors/Interactables/Interactables_WhitePawn.SKEL_Interactables_WhitePawn_C' ref from Metadata '/Game/Actors/Interactables/Interactables_Child.PackageMetaData'
+[2024.02.05-01.30.24:640][983]LogMetaData: Removing '/Game/Actors/Interactables/Interactables_WhitePawn.Interactables_WhitePawn_C' ref from Metadata '/Game/Actors/Interactables/Interactables_Child.PackageMetaData'
+[2024.02.05-01.30.24:640][983]LogMetaData: Removing '/Game/Actors/Interactables/Interactables_WhitePawn.Interactables_WhitePawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/Interactables_Child.PackageMetaData'
+[2024.02.05-01.30.24:640][983]LogMetaData: Removing '/Game/Actors/Interactables/Interactables_WhitePawn.Interactables_WhitePawn:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/Interactables_Child.PackageMetaData'
+[2024.02.05-01.30.24:640][983]LogMetaData: Removing '/Game/Actors/Interactables/Interactables_WhitePawn.Interactables_WhitePawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/Interactables_Child.PackageMetaData'
+[2024.02.05-01.30.24:640][983]LogMetaData: Removing '/Game/Actors/Interactables/Interactables_WhitePawn.Interactables_WhitePawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/Interactables_Child.PackageMetaData'
+[2024.02.05-01.30.24:663][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.30.24:739][983]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_WhitePawn
+[2024.02.05-01.30.24:739][983]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhitePawn1C59C21F457893B20D8AAE8A74D1D34D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_WhitePawn.uasset'
+[2024.02.05-01.30.24:751][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 17.1 sec)
+[2024.02.05-01.30.24:816][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.05-01.30.24:881][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.02.05-01.30.24:935][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.02.05-01.30.24:947][983]AssetCheck: New page: Asset Save: Interactables_WhitePawn
+[2024.02.05-01.30.24:947][983]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_WhitePawn.Interactables_WhitePawn
+[2024.02.05-01.30.26:603][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.30.35:536][885]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/Interactables_WhitePawn.Interactables_WhitePawn
+[2024.02.05-01.30.35:536][885]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.30.35:536][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.30.35:691][885]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.02.05-01.30.37:866][ 20]LogSlate: Window 'Interactables_WhitePawn' being destroyed
+[2024.02.05-01.30.37:881][ 20]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.30.37:881][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.30.41:659][327]LogContentBrowser: Deferred new asset file creation: Interactables_Child
+[2024.02.05-01.30.41:691][327]LogContentBrowser: Creating deferred item: Interactables_Child
+[2024.02.05-01.30.41:704][328]LogContentBrowser: Renaming the item being created (Deferred Item: Interactables_Child).
+[2024.02.05-01.30.46:359][794]LogContentBrowser: Attempting asset rename: Interactables_Child -> Interactables_WhiteRook
+[2024.02.05-01.30.46:362][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.30.46:440][794]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.30.46:462][794]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_WhiteRook
+[2024.02.05-01.30.46:462][794]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteRookCBBD2E8C42CB1D25483325970F5EB19B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_WhiteRook.uasset'
+[2024.02.05-01.30.46:473][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 17.2 sec)
+[2024.02.05-01.30.46:474][794]LogContentBrowser: End creating deferred item Interactables_Child
+[2024.02.05-01.30.46:485][794]AssetCheck: New page: Asset Save: Interactables_WhiteRook
+[2024.02.05-01.30.46:485][794]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_WhiteRook.Interactables_WhiteRook
+[2024.02.05-01.30.49:482][ 74]LogContentBrowser: Deferred new asset file creation: Interactables_Child
+[2024.02.05-01.30.49:504][ 74]LogContentBrowser: Creating deferred item: Interactables_Child
+[2024.02.05-01.30.49:517][ 75]LogContentBrowser: Renaming the item being created (Deferred Item: Interactables_Child).
+[2024.02.05-01.30.53:850][508]LogContentBrowser: Attempting asset rename: Interactables_Child -> Interactables_WhiteKnight
+[2024.02.05-01.30.53:853][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.30.53:925][508]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.30.53:953][508]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_WhiteKnight
+[2024.02.05-01.30.53:953][508]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteKnight54E40B6145117BA30CD6DFBBFDE1834A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_WhiteKnight.uasset'
+[2024.02.05-01.30.53:965][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 17.3 sec)
+[2024.02.05-01.30.53:966][508]LogContentBrowser: End creating deferred item Interactables_Child
+[2024.02.05-01.30.53:977][508]AssetCheck: New page: Asset Save: Interactables_WhiteKnight
+[2024.02.05-01.30.53:977][508]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_WhiteKnight.Interactables_WhiteKnight
+[2024.02.05-01.30.56:696][756]LogContentBrowser: Deferred new asset file creation: Interactables_Child
+[2024.02.05-01.30.56:733][756]LogContentBrowser: Creating deferred item: Interactables_Child
+[2024.02.05-01.30.56:745][757]LogContentBrowser: Renaming the item being created (Deferred Item: Interactables_Child).
+[2024.02.05-01.31.01:630][256]LogContentBrowser: Attempting asset rename: Interactables_Child -> Interactables_WhiteBishop
+[2024.02.05-01.31.01:633][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.31.01:711][256]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.31.01:747][256]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_WhiteBishop
+[2024.02.05-01.31.01:747][256]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteBishop1103A66F4C2239F3042A5883F84019BE.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_WhiteBishop.uasset'
+[2024.02.05-01.31.01:759][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 17.5 sec)
+[2024.02.05-01.31.01:760][256]LogContentBrowser: End creating deferred item Interactables_Child
+[2024.02.05-01.31.01:770][256]AssetCheck: New page: Asset Save: Interactables_WhiteBishop
+[2024.02.05-01.31.01:770][256]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_WhiteBishop.Interactables_WhiteBishop
+[2024.02.05-01.31.06:320][647]LogContentBrowser: Deferred new asset file creation: Interactables_Child
+[2024.02.05-01.31.06:348][647]LogContentBrowser: Creating deferred item: Interactables_Child
+[2024.02.05-01.31.06:360][648]LogContentBrowser: Renaming the item being created (Deferred Item: Interactables_Child).
+[2024.02.05-01.31.10:623][ 90]LogContentBrowser: Attempting asset rename: Interactables_Child -> Interactables_WhiteKing
+[2024.02.05-01.31.10:626][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.31.10:687][ 90]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.31.10:713][ 90]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_WhiteKing
+[2024.02.05-01.31.10:713][ 90]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteKingFB5D002D42230E9F0C6312B0B83B898C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_WhiteKing.uasset'
+[2024.02.05-01.31.10:727][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 17.6 sec)
+[2024.02.05-01.31.10:728][ 90]LogContentBrowser: End creating deferred item Interactables_Child
+[2024.02.05-01.31.10:738][ 90]AssetCheck: New page: Asset Save: Interactables_WhiteKing
+[2024.02.05-01.31.10:738][ 90]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_WhiteKing.Interactables_WhiteKing
+[2024.02.05-01.31.13:398][306]LogContentBrowser: Deferred new asset file creation: Interactables_Child
+[2024.02.05-01.31.13:429][306]LogContentBrowser: Creating deferred item: Interactables_Child
+[2024.02.05-01.31.13:442][307]LogContentBrowser: Renaming the item being created (Deferred Item: Interactables_Child).
+[2024.02.05-01.31.18:219][783]LogContentBrowser: Attempting asset rename: Interactables_Child -> Interactables_WhiteQueen
+[2024.02.05-01.31.18:222][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.31.18:294][783]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.31.18:328][783]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_WhiteQueen
+[2024.02.05-01.31.18:328][783]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteQueen601B1A4E400822D6F00F65B44D8428E6.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_WhiteQueen.uasset'
+[2024.02.05-01.31.18:341][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 17.7 sec)
+[2024.02.05-01.31.18:342][783]LogContentBrowser: End creating deferred item Interactables_Child
+[2024.02.05-01.31.18:353][783]AssetCheck: New page: Asset Save: Interactables_WhiteQueen
+[2024.02.05-01.31.18:353][783]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_WhiteQueen.Interactables_WhiteQueen
+[2024.02.05-01.31.20:010][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.31.20:079][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.31.20:129][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.02.05-01.31.20:819][940]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.31.20:820][940]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse26932727842D8724BE9898E9DA338553E.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.31.20:838][940]LogFileHelpers: No new changes to save!
+[2024.02.05-01.31.20:838][940]LogFileHelpers: Saving map 'IrvingHouse2' took 0.761
+[2024.02.05-01.31.20:844][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 833 ms (total: 18.5 sec)
+[2024.02.05-01.31.20:861][940]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.05-01.31.20:861][940]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.05-01.31.54:574][105]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.02.05-01.31.54:579][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.Interactables_WhiteBishop:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.31.54:580][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.SKEL_Interactables_WhiteBishop_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.31.54:580][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.SKEL_Interactables_WhiteBishop_C' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.31.54:580][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.Interactables_WhiteBishop_C' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.31.54:580][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.Interactables_WhiteBishop:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.31.54:580][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.Interactables_WhiteBishop:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.31.54:580][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.Interactables_WhiteBishop:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.31.54:580][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.Interactables_WhiteBishop:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.Interactables_WhiteKing:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.SKEL_Interactables_WhiteKing_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.SKEL_Interactables_WhiteKing_C' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.Interactables_WhiteKing_C' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.Interactables_WhiteKing:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.Interactables_WhiteKing:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.Interactables_WhiteKing:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.Interactables_WhiteKing:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.Interactables_WhiteKnight:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.SKEL_Interactables_WhiteKnight_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.SKEL_Interactables_WhiteKnight_C' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.Interactables_WhiteKnight_C' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.Interactables_WhiteKnight:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.Interactables_WhiteKnight:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.Interactables_WhiteKnight:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.31.54:581][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.Interactables_WhiteKnight:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.Interactables_WhitePawn_C' ref from Metadata '/Game/Actors/Interactables/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.SKEL_Interactables_WhitePawn_C' ref from Metadata '/Game/Actors/Interactables/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.SKEL_Interactables_WhitePawn_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.Interactables_WhitePawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.Interactables_WhitePawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.Interactables_WhitePawn:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.Interactables_WhitePawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.Interactables_WhitePawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.Interactables_WhiteQueen:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.SKEL_Interactables_WhiteQueen_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.SKEL_Interactables_WhiteQueen_C' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.Interactables_WhiteQueen_C' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.Interactables_WhiteQueen:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.31.54:582][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.Interactables_WhiteQueen:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.31.54:583][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.Interactables_WhiteQueen:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.31.54:583][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.Interactables_WhiteQueen:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.31.54:583][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.Interactables_WhiteRook:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.31.54:583][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.SKEL_Interactables_WhiteRook_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.31.54:583][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.SKEL_Interactables_WhiteRook_C' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.31.54:583][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.Interactables_WhiteRook_C' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.31.54:583][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.Interactables_WhiteRook:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.31.54:583][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.Interactables_WhiteRook:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.31.54:583][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.Interactables_WhiteRook:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.31.54:583][105]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.Interactables_WhiteRook:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.31.54:583][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.31.54:658][105]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop
+[2024.02.05-01.31.54:658][105]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteBishopD2CAFBB24A7DC4ACE03B81A747383912.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.uasset'
+[2024.02.05-01.31.54:720][105]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing
+[2024.02.05-01.31.54:720][105]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteKingB219C44149D82155CF015191E4E89251.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhiteKing.uasset'
+[2024.02.05-01.31.54:735][105]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight
+[2024.02.05-01.31.54:735][105]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteKnight94214BB3419EC3415C814D9C4695914C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.uasset'
+[2024.02.05-01.31.54:742][105]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn
+[2024.02.05-01.31.54:742][105]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhitePawnA17B32E84DC790C6EB0783B1E98F14D1.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhitePawn.uasset'
+[2024.02.05-01.31.54:754][105]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen
+[2024.02.05-01.31.54:754][105]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteQueen9C1F78B04E4173968C4FF1AA39D7A3C0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.uasset'
+[2024.02.05-01.31.54:767][105]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook
+[2024.02.05-01.31.54:767][105]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteRook582527EB4F22747A9D84E896B946B06B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhiteRook.uasset'
+[2024.02.05-01.31.54:777][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 18.7 sec)
+[2024.02.05-01.31.54:899][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.05-01.31.54:936][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.02.05-01.31.54:971][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.05-01.31.54:994][105]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.05-01.31.54:994][105]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.Interactables_WhiteQueen
+[2024.02.05-01.31.54:994][105]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.Interactables_WhiteKing
+[2024.02.05-01.31.54:994][105]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.Interactables_WhiteBishop
+[2024.02.05-01.31.54:994][105]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.Interactables_WhiteKnight
+[2024.02.05-01.31.54:994][105]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.Interactables_WhiteRook
+[2024.02.05-01.31.54:994][105]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.Interactables_WhitePawn
+[2024.02.05-01.31.59:068][465]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.Interactables_WhiteBishop
+[2024.02.05-01.31.59:068][465]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.31.59:068][465]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.31.59:239][465]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.02.05-01.31.59:788][499]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.Interactables_WhiteKing
+[2024.02.05-01.31.59:788][499]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.31.59:788][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.31.59:892][499]LogViewport: Scene viewport resized to 1073x705, mode Windowed.
+[2024.02.05-01.31.59:929][500]LogViewport: Scene viewport resized to 1073x693, mode Windowed.
+[2024.02.05-01.31.59:977][501]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.02.05-01.32.00:608][542]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.Interactables_WhiteKnight
+[2024.02.05-01.32.00:608][542]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.32.00:608][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.32.00:721][542]LogViewport: Scene viewport resized to 1073x703, mode Windowed.
+[2024.02.05-01.32.00:755][543]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.02.05-01.32.01:202][571]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.Interactables_WhitePawn
+[2024.02.05-01.32.01:203][571]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.32.01:203][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.32.01:738][603]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.Interactables_WhiteQueen
+[2024.02.05-01.32.01:738][603]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.32.01:738][603]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.32.01:854][603]LogViewport: Scene viewport resized to 1073x701, mode Windowed.
+[2024.02.05-01.32.01:891][604]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.02.05-01.32.02:324][633]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.Interactables_WhiteRook
+[2024.02.05-01.32.02:325][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.32.02:325][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.32.02:437][633]LogViewport: Scene viewport resized to 1073x702, mode Windowed.
+[2024.02.05-01.32.02:472][634]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.02.05-01.32.04:389][759]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.32.04:389][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.32.04:407][759]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.Interactables_WhitePawn
+[2024.02.05-01.32.04:408][759]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.32.04:408][759]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.32.26:044][994]BlueprintLog: New page: Compile Interactables_WhiteBishop
+[2024.02.05-01.32.26:184][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.02.05-01.32.26:194][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.32.26:280][994]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop
+[2024.02.05-01.32.26:280][994]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteBishop382E114E452B236D4D4FC9B5AF2A77C4.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.uasset'
+[2024.02.05-01.32.26:289][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 18.8 sec)
+[2024.02.05-01.32.26:322][994]AssetCheck: New page: Asset Save: Interactables_WhiteBishop
+[2024.02.05-01.32.26:322][994]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.Interactables_WhiteBishop
+[2024.02.05-01.32.26:743][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.32.26:804][ 21]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop
+[2024.02.05-01.32.26:805][ 21]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteBishop359389A745EF591ECAA89C9D8E5B504C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.uasset'
+[2024.02.05-01.32.26:811][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 18.9 sec)
+[2024.02.05-01.32.26:822][ 21]AssetCheck: New page: Asset Save: Interactables_WhiteBishop
+[2024.02.05-01.32.26:822][ 21]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.Interactables_WhiteBishop
+[2024.02.05-01.32.40:704][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.02.05-01.32.40:710][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.32.40:796][746]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop
+[2024.02.05-01.32.40:797][746]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteBishop71384BCD43F1A5CD9E2F7ABDDF60792B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.uasset'
+[2024.02.05-01.32.40:804][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 19.0 sec)
+[2024.02.05-01.32.40:816][746]AssetCheck: New page: Asset Save: Interactables_WhiteBishop
+[2024.02.05-01.32.40:816][746]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.Interactables_WhiteBishop
+[2024.02.05-01.33.52:334][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.33.52:410][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.33.52:470][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.02.05-01.33.53:165][718]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.33.53:165][718]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2A324FFF8404ECE39EA71F08E3029C7D1.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.33.53:182][718]LogFileHelpers: No new changes to save!
+[2024.02.05-01.33.53:182][718]LogFileHelpers: Saving map 'IrvingHouse2' took 0.774
+[2024.02.05-01.33.53:188][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 854 ms (total: 19.8 sec)
+[2024.02.05-01.33.53:206][718]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.05-01.33.53:206][718]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.05-01.33.55:804][865]BlueprintLog: New page: Compile Interactables_WhitePawn
+[2024.02.05-01.33.55:931][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.05-01.33.55:943][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.33.56:015][865]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn
+[2024.02.05-01.33.56:016][865]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhitePawn11F8F62C4350A9BD56CFCE94CE66C9B5.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhitePawn.uasset'
+[2024.02.05-01.33.56:024][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 19.9 sec)
+[2024.02.05-01.33.56:049][865]AssetCheck: New page: Asset Save: Interactables_WhitePawn
+[2024.02.05-01.33.56:049][865]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.Interactables_WhitePawn
+[2024.02.05-01.33.56:955][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.33.57:025][915]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn
+[2024.02.05-01.33.57:025][915]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhitePawn72BE730A4F281663BD190D8FE6E8BC60.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhitePawn.uasset'
+[2024.02.05-01.33.57:032][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 20.0 sec)
+[2024.02.05-01.33.57:045][915]AssetCheck: New page: Asset Save: Interactables_WhitePawn
+[2024.02.05-01.33.57:045][915]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.Interactables_WhitePawn
+[2024.02.05-01.34.06:768][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.34.06:827][467]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn
+[2024.02.05-01.34.06:828][467]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhitePawnBB7BF9114CA3041A4E79FF8273A2606D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhitePawn.uasset'
+[2024.02.05-01.34.06:835][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 20.0 sec)
+[2024.02.05-01.34.06:847][467]AssetCheck: New page: Asset Save: Interactables_WhitePawn
+[2024.02.05-01.34.06:847][467]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.Interactables_WhitePawn
+[2024.02.05-01.34.17:120][ 56]LogSlate: Window 'Interactables_WhitePawn' being destroyed
+[2024.02.05-01.34.17:129][ 56]LogSlate: Window 'Interactables_WhitePawn' being destroyed
+[2024.02.05-01.34.17:138][ 56]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.34.17:138][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.34.17:176][ 56]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.05-01.34.17:176][ 56]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.34.17:176][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.34.17:214][ 56]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.05-01.34.17:214][ 56]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.34.17:214][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.34.17:252][ 56]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.05-01.34.17:252][ 56]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.34.17:252][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.34.17:293][ 56]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.05-01.34.17:293][ 56]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.34.17:293][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.34.17:327][ 56]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.05-01.34.17:327][ 56]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.34.17:327][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.34.33:964][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.34.34:057][380]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen
+[2024.02.05-01.34.34:057][380]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteQueenA48ADA544876613AF0F372B45E1974E7.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.uasset'
+[2024.02.05-01.34.34:068][380]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing
+[2024.02.05-01.34.34:068][380]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteKingEC2EB6814699F944A90486AA3C9C7BD6.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhiteKing.uasset'
+[2024.02.05-01.34.34:079][380]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight
+[2024.02.05-01.34.34:080][380]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteKnight33221BA0416C8CD64B8FD0A8BF102404.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.uasset'
+[2024.02.05-01.34.34:090][380]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook
+[2024.02.05-01.34.34:091][380]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_WhiteRook4CF5EFCE423CE53FF5C2CEB40C4CBF25.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_WhiteRook.uasset'
+[2024.02.05-01.34.34:097][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 20.2 sec)
+[2024.02.05-01.34.34:109][380]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.05-01.34.34:109][380]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.Interactables_WhiteQueen
+[2024.02.05-01.34.34:109][380]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.Interactables_WhiteKing
+[2024.02.05-01.34.34:109][380]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.Interactables_WhiteKnight
+[2024.02.05-01.34.34:109][380]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.Interactables_WhiteRook
+[2024.02.05-01.34.42:395][161]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.Interactables_WhiteRook_C
+[2024.02.05-01.34.42:399][161]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.Interactables_WhiteRook as actor: Interactables_WhiteRook_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_02_32
+[2024.02.05-01.34.42:412][161]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.35.17:021][857]LogContentBrowser: Attempting asset rename: Interactables_WhiteRook -> Interactables_Rook
+[2024.02.05-01.35.17:039][857]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.02.05-01.35.17:044][857]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook_C' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.35.17:044][857]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Rook.SKEL_Interactables_Rook_C' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.35.17:044][857]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Rook.SKEL_Interactables_Rook_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.35.17:044][857]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.35.17:044][857]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.35.17:044][857]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.35.17:044][857]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.35.17:044][857]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteRook.PackageMetaData'
+[2024.02.05-01.35.17:066][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.35.17:147][857]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_Rook
+[2024.02.05-01.35.17:147][857]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_Rook0C4518EB4FBD4B39C6AD379828206745.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_Rook.uasset'
+[2024.02.05-01.35.17:160][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 20.3 sec)
+[2024.02.05-01.35.17:225][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.05-01.35.17:261][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.05-01.35.17:286][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.05-01.35.17:296][857]AssetCheck: New page: Asset Save: Interactables_Rook
+[2024.02.05-01.35.17:296][857]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook
+[2024.02.05-01.35.17:299][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.35.23:937][323]LogContentBrowser: Attempting asset rename: Interactables_WhiteBishop -> Interactables_Bishop
+[2024.02.05-01.35.23:956][323]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.02.05-01.35.23:961][323]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop_C' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.35.23:961][323]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Bishop.SKEL_Interactables_Bishop_C' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.35.23:961][323]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.35.23:961][323]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.35.23:961][323]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.35.23:961][323]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.35.23:961][323]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.35.23:961][323]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Bishop.SKEL_Interactables_Bishop_C:ReceiveBeginPlay' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.35.23:961][323]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Bishop.SKEL_Interactables_Bishop_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.35.23:961][323]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Bishop.SKEL_Interactables_Bishop_C:ReceiveTick' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.35.23:961][323]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Bishop.SKEL_Interactables_Bishop_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteBishop.PackageMetaData'
+[2024.02.05-01.35.23:983][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.35.24:053][323]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_Bishop
+[2024.02.05-01.35.24:053][323]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_Bishop61C0741F42AF445CAB338CA8FF6146C7.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_Bishop.uasset'
+[2024.02.05-01.35.24:066][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 20.4 sec)
+[2024.02.05-01.35.24:108][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.05-01.35.24:134][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.02.05-01.35.24:157][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.05-01.35.24:168][323]AssetCheck: New page: Asset Save: Interactables_Bishop
+[2024.02.05-01.35.24:168][323]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop
+[2024.02.05-01.35.24:168][323]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.35.28:321][609]LogContentBrowser: Attempting asset rename: Interactables_WhiteKing -> Interactables_King
+[2024.02.05-01.35.28:338][609]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.02.05-01.35.28:343][609]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_King.Interactables_King_C' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.35.28:343][609]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_King.SKEL_Interactables_King_C' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.35.28:343][609]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_King.SKEL_Interactables_King_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.35.28:343][609]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_King.Interactables_King:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.35.28:343][609]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_King.Interactables_King:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.35.28:343][609]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_King.Interactables_King:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.35.28:343][609]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_King.Interactables_King:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.35.28:343][609]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_King.Interactables_King:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKing.PackageMetaData'
+[2024.02.05-01.35.28:365][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.35.28:446][609]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_King
+[2024.02.05-01.35.28:446][609]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_King3D24059C4D7E6205EE2A9C9E431AA067.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_King.uasset'
+[2024.02.05-01.35.28:459][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 20.4 sec)
+[2024.02.05-01.35.28:495][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.02.05-01.35.28:520][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.05-01.35.28:547][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.05-01.35.28:557][609]AssetCheck: New page: Asset Save: Interactables_King
+[2024.02.05-01.35.28:557][609]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_King.Interactables_King
+[2024.02.05-01.35.28:557][609]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.35.33:152][931]LogContentBrowser: Attempting asset rename: Interactables_WhiteKnight -> Interactables_Knight
+[2024.02.05-01.35.33:168][931]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.02.05-01.35.33:174][931]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight_C' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.35.33:174][931]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Knight.SKEL_Interactables_Knight_C' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.35.33:174][931]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Knight.SKEL_Interactables_Knight_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.35.33:174][931]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.35.33:174][931]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.35.33:174][931]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.35.33:174][931]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.35.33:174][931]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteKnight.PackageMetaData'
+[2024.02.05-01.35.33:195][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.35.33:271][931]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_Knight
+[2024.02.05-01.35.33:271][931]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_Knight87F9F3884A0937297FD349997FEACB48.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_Knight.uasset'
+[2024.02.05-01.35.33:285][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 20.5 sec)
+[2024.02.05-01.35.33:323][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.02.05-01.35.33:349][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.02.05-01.35.33:371][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.05-01.35.33:380][931]AssetCheck: New page: Asset Save: Interactables_Knight
+[2024.02.05-01.35.33:380][931]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight
+[2024.02.05-01.35.33:380][931]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.35.37:172][192]LogContentBrowser: Attempting asset rename: Interactables_WhitePawn -> Interactables_Pawn
+[2024.02.05-01.35.37:192][192]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.02.05-01.35.37:198][192]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.35.37:198][192]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Pawn.SKEL_Interactables_Pawn_C' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.35.37:198][192]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.35.37:198][192]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.35.37:198][192]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.35.37:198][192]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.35.37:198][192]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.35.37:198][192]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Pawn.SKEL_Interactables_Pawn_C:ReceiveBeginPlay' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.35.37:198][192]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Pawn.SKEL_Interactables_Pawn_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.35.37:198][192]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Pawn.SKEL_Interactables_Pawn_C:ReceiveTick' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.35.37:198][192]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Pawn.SKEL_Interactables_Pawn_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhitePawn.PackageMetaData'
+[2024.02.05-01.35.37:221][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.35.37:284][192]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_Pawn
+[2024.02.05-01.35.37:284][192]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_Pawn6856737E4B9F492D1A13BCA948141CA8.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_Pawn.uasset'
+[2024.02.05-01.35.37:298][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 20.6 sec)
+[2024.02.05-01.35.37:337][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.02.05-01.35.37:363][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.02.05-01.35.37:387][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.02.05-01.35.37:397][192]AssetCheck: New page: Asset Save: Interactables_Pawn
+[2024.02.05-01.35.37:397][192]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn
+[2024.02.05-01.35.37:397][192]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.35.41:624][484]LogContentBrowser: Attempting asset rename: Interactables_WhiteQueen -> Interactables_Queen
+[2024.02.05-01.35.41:641][484]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.02.05-01.35.41:646][484]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Queen.Interactables_Queen_C' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.35.41:646][484]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Queen.SKEL_Interactables_Queen_C' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.35.41:646][484]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Queen.SKEL_Interactables_Queen_C:UserConstructionScript' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.35.41:646][484]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Queen.Interactables_Queen:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.35.41:646][484]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Queen.Interactables_Queen:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.35.41:646][484]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Queen.Interactables_Queen:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.35.41:646][484]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Queen.Interactables_Queen:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.35.41:646][484]LogMetaData: Removing '/Game/Actors/Interactables/ChessPieces/Interactables_Queen.Interactables_Queen:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Actors/Interactables/ChessPieces/Interactables_WhiteQueen.PackageMetaData'
+[2024.02.05-01.35.41:668][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.35.41:736][484]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/ChessPieces/Interactables_Queen
+[2024.02.05-01.35.41:737][484]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_QueenF5D008914DABDEFA74B0B7AF7CB8A90F.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/ChessPieces/Interactables_Queen.uasset'
+[2024.02.05-01.35.41:749][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 20.7 sec)
+[2024.02.05-01.35.41:786][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.02.05-01.35.41:812][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.02.05-01.35.41:834][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.05-01.35.41:844][484]AssetCheck: New page: Asset Save: Interactables_Queen
+[2024.02.05-01.35.41:844][484]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Queen.Interactables_Queen
+[2024.02.05-01.35.41:845][484]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.35.43:185][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.35.43:241][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.35.43:270][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.05-01.35.43:938][589]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.35.43:938][589]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse277544304455410459A703B9BB3713F63.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.35.43:955][589]LogFileHelpers: No new changes to save!
+[2024.02.05-01.35.43:955][589]LogFileHelpers: Saving map 'IrvingHouse2' took 0.716
+[2024.02.05-01.35.43:960][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 775 ms (total: 21.5 sec)
+[2024.02.05-01.35.43:978][589]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.05-01.35.43:978][589]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.05-01.35.54:128][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook_C
+[2024.02.05-01.35.54:132][433]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook as actor: Interactables_Rook_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_17
+[2024.02.05-01.35.54:146][433]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.36.07:032][508]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Queen.Interactables_Queen_C
+[2024.02.05-01.36.07:036][508]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Queen.Interactables_Queen as actor: Interactables_Queen_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_05_50
+[2024.02.05-01.36.07:051][508]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.36.21:009][681]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.36.21:012][681]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_16
+[2024.02.05-01.36.21:026][681]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.36.27:066][194]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.36.27:070][194]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_15
+[2024.02.05-01.36.27:084][194]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.36.31:777][594]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.36.31:781][594]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_14
+[2024.02.05-01.36.31:794][594]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.36.38:700][139]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.36.38:704][139]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_9
+[2024.02.05-01.36.38:718][139]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.36.46:899][822]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.36.46:903][822]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_13
+[2024.02.05-01.36.46:917][822]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.36.55:788][549]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.36.55:792][549]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_10
+[2024.02.05-01.36.55:804][549]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.37.02:442][148]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.37.02:446][148]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_11
+[2024.02.05-01.37.02:459][148]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.37.08:121][652]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.37.08:125][652]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_12
+[2024.02.05-01.37.08:138][652]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.37.20:004][645]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight_C
+[2024.02.05-01.37.20:008][645]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight as actor: Interactables_Knight_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_20
+[2024.02.05-01.37.20:021][645]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.37.26:561][199]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight_C
+[2024.02.05-01.37.26:565][199]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight as actor: Interactables_Knight_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_03_38
+[2024.02.05-01.37.26:578][199]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.37.41:530][334]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_King.Interactables_King_C
+[2024.02.05-01.37.41:533][334]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_King.Interactables_King as actor: Interactables_King_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_06_54
+[2024.02.05-01.37.41:546][334]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.37.57:096][600]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop_C
+[2024.02.05-01.37.57:099][600]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop as actor: Interactables_Bishop_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_04_44
+[2024.02.05-01.37.57:115][600]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.38.05:153][260]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop_C
+[2024.02.05-01.38.05:157][260]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop as actor: Interactables_Bishop_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_23
+[2024.02.05-01.38.05:171][260]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.38.09:318][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.02.05-01.38.09:339][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.38.09:410][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.38.09:436][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.05-01.38.10:095][577]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.38.10:095][577]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2C4047006484CAACE1D45C1942C1939EE.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.38.10:112][577]LogFileHelpers: No new changes to save!
+[2024.02.05-01.38.10:112][577]LogFileHelpers: Saving map 'IrvingHouse2' took 0.705
+[2024.02.05-01.38.10:118][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 778 ms (total: 22.2 sec)
+[2024.02.05-01.38.10:136][577]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.05-01.38.10:136][577]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.05-01.38.25:001][795]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop_C
+[2024.02.05-01.38.25:004][795]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop as actor: Interactables_Bishop_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_24
+[2024.02.05-01.38.25:017][795]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.38.28:779][162]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop_C
+[2024.02.05-01.38.28:779][162]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop_C
+[2024.02.05-01.38.28:785][162]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop as actor: Interactables_Bishop_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_Bishop_C_0
+[2024.02.05-01.38.28:787][162]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop as actor: Interactables_Bishop_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Interactables_Bishop_C_0
+[2024.02.05-01.38.33:851][574]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_King.Interactables_King_C
+[2024.02.05-01.38.33:854][574]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_King.Interactables_King as actor: Interactables_King_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_27
+[2024.02.05-01.38.33:868][574]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.38.38:517][932]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight_C
+[2024.02.05-01.38.38:521][932]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight as actor: Interactables_Knight_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_22
+[2024.02.05-01.38.38:534][932]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.38.43:061][275]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight_C
+[2024.02.05-01.38.43:065][275]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Knight.Interactables_Knight as actor: Interactables_Knight_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_21
+[2024.02.05-01.38.43:079][275]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.38.49:571][746]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.38.49:576][746]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_3
+[2024.02.05-01.38.49:589][746]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.38.53:073][ 63]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.38.53:077][ 63]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_5
+[2024.02.05-01.38.53:090][ 63]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.38.59:345][545]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.38.59:348][545]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_01_10
+[2024.02.05-01.38.59:363][545]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.39.01:422][725]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.39.01:426][725]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_2
+[2024.02.05-01.39.01:439][725]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.39.04:589][997]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.39.04:592][997]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_4
+[2024.02.05-01.39.04:605][997]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.39.08:453][295]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.39.08:457][295]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_7
+[2024.02.05-01.39.08:470][295]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.39.10:876][510]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.39.10:880][510]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_6
+[2024.02.05-01.39.10:896][510]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.39.14:512][812]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn_C
+[2024.02.05-01.39.14:515][812]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Pawn.Interactables_Pawn as actor: Interactables_Pawn_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_8
+[2024.02.05-01.39.14:528][812]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.39.34:386][340]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Queen.Interactables_Queen_C
+[2024.02.05-01.39.34:390][340]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Queen.Interactables_Queen as actor: Interactables_Queen_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_26
+[2024.02.05-01.39.34:402][340]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.39.38:493][654]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook_C
+[2024.02.05-01.39.38:497][654]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook as actor: Interactables_Rook_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_19
+[2024.02.05-01.39.38:510][654]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.39.44:470][161]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook_C
+[2024.02.05-01.39.44:473][161]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Rook.Interactables_Rook as actor: Interactables_Rook_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_18
+[2024.02.05-01.39.44:486][161]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.40.03:782][836]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop_C
+[2024.02.05-01.40.03:787][836]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/ChessPieces/Interactables_Bishop.Interactables_Bishop as actor: Interactables_Bishop_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_ChessFigure_25
+[2024.02.05-01.40.03:800][836]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.40.06:993][ 84]Cmd: DELETE
+[2024.02.05-01.40.06:993][ 84]Cmd: ACTOR DELETE
+[2024.02.05-01.40.07:025][ 84]LogEditorActor: Deleted Actor: Interactables_Bishop_C
+[2024.02.05-01.40.07:063][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.05-01.40.07:084][ 84]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2024.02.05-01.40.20:235][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.05-01.40.20:245][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.40.20:317][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.40.20:342][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.05-01.40.21:023][110]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.40.21:024][110]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse22537CD594538B9611E41D39DFAB331D6.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.40.21:040][110]LogFileHelpers: No new changes to save!
+[2024.02.05-01.40.21:040][110]LogFileHelpers: Saving map 'IrvingHouse2' took 0.726
+[2024.02.05-01.40.21:050][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 804 ms (total: 23.1 sec)
+[2024.02.05-01.40.21:067][110]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.05-01.40.21:067][110]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.05-01.40.45:483][947]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.05-01.40.45:493][947]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.05-01.40.45:494][947]LogPlayLevel: [PlayLevel] Compiling IrvingHouse2 before play...
+[2024.02.05-01.40.45:652][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.40.45:728][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.40.45:756][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.02.05-01.40.46:471][947]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.40.46:471][947]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2792171AA4E6B81A1D8F83AB9ABFFFF9B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.40.46:488][947]LogFileHelpers: No new changes to save!
+[2024.02.05-01.40.46:488][947]LogFileHelpers: Saving map 'IrvingHouse2' took 0.763
+[2024.02.05-01.40.46:501][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 848 ms (total: 23.9 sec)
+[2024.02.05-01.40.46:521][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.05-01.40.46:522][947]LogPlayLevel: PlayLevel: Blueprint regeneration took 1029 ms (1 blueprints)
+[2024.02.05-01.40.46:522][947]PIE: New page: PIE session: IrvingHouse2 (Feb 4, 2024, 9:40:46 AM)
+[2024.02.05-01.40.46:570][947]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.05-01.40.46:757][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.187527s)
+[2024.02.05-01.40.46:757][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.187570s)
+[2024.02.05-01.40.46:757][947]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.40.46:757][947]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.40.46:758][947]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.02.05-01.40.46:759][947]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2024.02.05-01.40.46:781][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.05-01.40.46:782][947]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.02.05-01.40.46:782][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.05-01.40.46:782][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.05-01.40.46:782][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.05-01.40.46:782][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.05-01.40.46:782][947]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.05-01.40.46:782][947]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.05-01.40.46:782][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.05-01.40.46:782][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.05-01.40.46:783][947]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.05-01.40.46:783][947]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.05-01.40.46:783][947]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.05-01.40.46:785][947]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.05-01.40.46:802][947]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.02.05-01.40.46:802][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.05-01.40.46:802][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.05-01.40.46:802][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.05-01.40.46:803][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.02.05-01.40.46:803][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.02.05-01.40.46:804][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.02.05-01.40.46:804][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.02.05-01.40.46:804][947]LogInit: FAudioDevice initialized with ID 8.
+[2024.02.05-01.40.46:804][947]LogAudio: Display: Audio Device (ID: 8) registered with world 'IrvingHouse2'.
+[2024.02.05-01.40.46:804][947]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.05-01.40.46:851][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.40.46:851][947]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.02.05-01.40.46:928][947]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.02.04-17.40.46
+[2024.02.05-01.40.46:930][947]LogWorld: Bringing up level for play took: 0.078514
+[2024.02.05-01.40.46:932][947]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2024.02.05-01.40.46:940][947]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Persistent Save.sav' error.
+[2024.02.05-01.40.46:941][947]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - IrvingHouse2.sav' error.
+[2024.02.05-01.40.46:941][947]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - IrvingHouse2 - Student.sav' error.
+[2024.02.05-01.40.46:941][947]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - IrvingHouse2.sav' error.
+[2024.02.05-01.40.46:941][947]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - IrvingHouse2.sav' error.
+[2024.02.05-01.40.46:941][947]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Persistent Save.sav' error.
+[2024.02.05-01.40.46:941][947]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.02.05-01.40.46:943][947]PIE: Server logged in
+[2024.02.05-01.40.46:944][947]PIE: Play in editor total start time 1.452 seconds.
+[2024.02.05-01.40.47:017][947]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2024.02.05-01.40.47:069][948]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.05-01.40.47:069][948]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.05-01.41.38:441][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.05-01.41.38:441][202]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.02.05-01.41.38:442][202]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.02.05-01.41.38:450][202]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.41.38:463][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.41.38:467][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.05-01.41.38:477][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.41.38:518][202]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.05-01.41.38:520][202]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.02.05-01.41.38:520][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.05-01.41.38:522][202]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.02.05-01.41.38:550][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.02.05-01.41.38:608][203]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2024.02.05-01.42.32:905][438]LogViewport: Scene viewport resized to 1224x547, mode Windowed.
+[2024.02.05-01.42.32:932][439]LogViewport: Scene viewport resized to 1224x553, mode Windowed.
+[2024.02.05-01.42.32:970][440]LogViewport: Scene viewport resized to 1224x577, mode Windowed.
+[2024.02.05-01.42.33:003][441]LogViewport: Scene viewport resized to 1224x597, mode Windowed.
+[2024.02.05-01.42.33:038][442]LogViewport: Scene viewport resized to 1224x608, mode Windowed.
+[2024.02.05-01.42.33:073][443]LogViewport: Scene viewport resized to 1224x620, mode Windowed.
+[2024.02.05-01.42.33:105][444]LogViewport: Scene viewport resized to 1224x631, mode Windowed.
+[2024.02.05-01.42.33:139][445]LogViewport: Scene viewport resized to 1224x634, mode Windowed.
+[2024.02.05-01.42.33:170][446]LogViewport: Scene viewport resized to 1224x636, mode Windowed.
+[2024.02.05-01.42.33:203][447]LogViewport: Scene viewport resized to 1224x638, mode Windowed.
+[2024.02.05-01.42.33:324][459]LogViewport: Scene viewport resized to 1224x637, mode Windowed.
+[2024.02.05-01.42.33:537][483]LogViewport: Scene viewport resized to 1224x636, mode Windowed.
+[2024.02.05-01.42.36:294][750]LogViewport: Scene viewport resized to 1224x637, mode Windowed.
+[2024.02.05-01.42.36:332][752]LogViewport: Scene viewport resized to 1224x632, mode Windowed.
+[2024.02.05-01.42.36:368][753]LogViewport: Scene viewport resized to 1224x606, mode Windowed.
+[2024.02.05-01.42.36:420][754]LogViewport: Scene viewport resized to 1224x544, mode Windowed.
+[2024.02.05-01.42.36:458][755]LogViewport: Scene viewport resized to 1224x509, mode Windowed.
+[2024.02.05-01.42.36:502][756]LogViewport: Scene viewport resized to 1224x485, mode Windowed.
+[2024.02.05-01.42.36:546][757]LogViewport: Scene viewport resized to 1224x483, mode Windowed.
+[2024.02.05-01.42.39:898][ 78]LogContentBrowser: Deferred new asset file creation: Interactables_Child
+[2024.02.05-01.42.39:953][ 78]LogContentBrowser: Creating deferred item: Interactables_Child
+[2024.02.05-01.42.39:966][ 79]LogContentBrowser: Renaming the item being created (Deferred Item: Interactables_Child).
+[2024.02.05-01.42.42:696][339]LogContentBrowser: Attempting asset rename: Interactables_Child -> Interactables_Pan
+[2024.02.05-01.42.42:700][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.42.42:775][339]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.42.42:802][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactables_Pan" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_Pan.uasset" SILENT=true
+[2024.02.05-01.42.42:805][339]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_Pan
+[2024.02.05-01.42.42:805][339]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_PanFB02DDFC41C13DAF3EF70B9103524EC0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_Pan.uasset'
+[2024.02.05-01.42.42:820][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 24.0 sec)
+[2024.02.05-01.42.42:821][339]LogContentBrowser: End creating deferred item Interactables_Child
+[2024.02.05-01.42.42:832][339]AssetCheck: New page: Asset Save: Interactables_Pan
+[2024.02.05-01.42.42:832][339]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_Pan.Interactables_Pan
+[2024.02.05-01.42.44:209][451]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/Interactables_Pan.Interactables_Pan
+[2024.02.05-01.42.44:210][451]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.42.44:210][451]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.42.44:374][451]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.02.05-01.43.01:550][426]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_Pan.Interactables_Pan_C
+[2024.02.05-01.43.01:554][426]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_Pan.Interactables_Pan as actor: Interactables_Pan_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Pan_31
+[2024.02.05-01.43.01:569][426]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.43.04:958][618]Cmd: DELETE
+[2024.02.05-01.43.04:958][618]Cmd: ACTOR DELETE
+[2024.02.05-01.43.04:989][618]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.43.05:015][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.02.05-01.43.05:029][618]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2024.02.05-01.43.14:267][196]LogContentBrowser: Deferred new asset file creation: Interactables_Child
+[2024.02.05-01.43.14:307][196]LogContentBrowser: Creating deferred item: Interactables_Child
+[2024.02.05-01.43.14:325][197]LogContentBrowser: Renaming the item being created (Deferred Item: Interactables_Child).
+[2024.02.05-01.43.17:770][402]LogContentBrowser: Attempting asset rename: Interactables_Child -> Interactables_Teapot
+[2024.02.05-01.43.17:773][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.43.17:849][402]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_Teapot
+[2024.02.05-01.43.17:849][402]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_Teapot4967F23C4D569218C07E778324CAF27C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_Teapot.uasset'
+[2024.02.05-01.43.17:860][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 24.1 sec)
+[2024.02.05-01.43.17:861][402]LogContentBrowser: End creating deferred item Interactables_Child
+[2024.02.05-01.43.17:872][402]AssetCheck: New page: Asset Save: Interactables_Teapot
+[2024.02.05-01.43.17:872][402]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_Teapot.Interactables_Teapot
+[2024.02.05-01.43.20:403][543]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/Interactables_Teapot.Interactables_Teapot
+[2024.02.05-01.43.20:404][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.43.20:404][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.43.20:508][543]LogViewport: Scene viewport resized to 1073x705, mode Windowed.
+[2024.02.05-01.43.20:545][544]LogViewport: Scene viewport resized to 1073x693, mode Windowed.
+[2024.02.05-01.43.20:593][545]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.02.05-01.43.26:538][868]BlueprintLog: New page: Compile Interactables_Teapot
+[2024.02.05-01.43.26:592][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.02.05-01.43.26:608][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.43.26:693][868]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_Teapot
+[2024.02.05-01.43.26:694][868]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_Teapot8363C3AF41EFDB6CDA46AD8344C66922.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_Teapot.uasset'
+[2024.02.05-01.43.26:701][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 24.2 sec)
+[2024.02.05-01.43.26:726][868]AssetCheck: New page: Asset Save: Interactables_Teapot
+[2024.02.05-01.43.26:727][868]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_Teapot.Interactables_Teapot
+[2024.02.05-01.43.27:413][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.43.27:478][906]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_Teapot
+[2024.02.05-01.43.27:478][906]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_Teapot1AE70EDC4DB3948CAB1D998482982166.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_Teapot.uasset'
+[2024.02.05-01.43.27:485][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 24.3 sec)
+[2024.02.05-01.43.27:497][906]AssetCheck: New page: Asset Save: Interactables_Teapot
+[2024.02.05-01.43.27:497][906]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_Teapot.Interactables_Teapot
+[2024.02.05-01.43.33:386][240]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_Teapot.Interactables_Teapot_C
+[2024.02.05-01.43.33:390][240]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_Teapot.Interactables_Teapot as actor: Interactables_Teapot_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Teapot_74
+[2024.02.05-01.43.33:405][240]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.43.40:120][636]LogSlate: Window 'Interactables_Teapot' being destroyed
+[2024.02.05-01.43.40:126][636]LogSlate: Window 'Interactables_Teapot' being destroyed
+[2024.02.05-01.43.40:137][636]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.43.40:137][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.43.40:176][636]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.05-01.43.40:176][636]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.43.40:176][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.43.42:088][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.02.05-01.43.42:109][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.43.42:186][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.43.42:214][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.05-01.43.42:897][801]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.43.42:897][801]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2928871A9449341FE4AD85BA81755DEDF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.43.42:914][801]LogFileHelpers: No new changes to save!
+[2024.02.05-01.43.42:914][801]LogFileHelpers: Saving map 'IrvingHouse2' took 0.732
+[2024.02.05-01.43.42:926][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/Interactables_Pan" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_Pan.uasset" SILENT=true
+[2024.02.05-01.43.42:929][801]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_Pan
+[2024.02.05-01.43.42:930][801]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_Pan4441C6BF43DFB782D99230B507A071B0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_Pan.uasset'
+[2024.02.05-01.43.42:938][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 830 ms (total: 25.1 sec)
+[2024.02.05-01.43.42:958][801]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.05-01.43.42:958][801]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.05-01.43.42:958][801]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_Pan.Interactables_Pan
+[2024.02.05-01.44.09:199][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.44.09:271][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.44.09:300][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.02.05-01.44.09:977][461]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.44.09:977][461]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2AB5E0BEA482246981120B2BCE44DE29F.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.44.09:994][461]LogFileHelpers: No new changes to save!
+[2024.02.05-01.44.09:994][461]LogFileHelpers: Saving map 'IrvingHouse2' took 0.726
+[2024.02.05-01.44.10:008][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 808 ms (total: 25.9 sec)
+[2024.02.05-01.44.10:027][461]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.05-01.44.10:027][461]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.05-01.44.26:554][986]LogContentBrowser: Deferred new asset file creation: Interactables_Child
+[2024.02.05-01.44.26:583][986]LogContentBrowser: Creating deferred item: Interactables_Child
+[2024.02.05-01.44.26:596][987]LogContentBrowser: Renaming the item being created (Deferred Item: Interactables_Child).
+[2024.02.05-01.44.30:200][350]LogContentBrowser: Attempting asset rename: Interactables_Child -> Interactables_Breadslice
+[2024.02.05-01.44.30:203][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.44.30:280][350]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.44.30:312][350]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_Breadslice
+[2024.02.05-01.44.30:312][350]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_BreadsliceE6AD767E445FFC115E9069891AEF2795.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_Breadslice.uasset'
+[2024.02.05-01.44.30:328][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 26.0 sec)
+[2024.02.05-01.44.30:329][350]LogContentBrowser: End creating deferred item Interactables_Child
+[2024.02.05-01.44.30:342][350]AssetCheck: New page: Asset Save: Interactables_Breadslice
+[2024.02.05-01.44.30:342][350]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_Breadslice.Interactables_Breadslice
+[2024.02.05-01.44.32:911][587]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Interactables/Interactables_Breadslice.Interactables_Breadslice
+[2024.02.05-01.44.32:911][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.44.32:911][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.44.33:065][587]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.02.05-01.44.48:502][464]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_Breadslice.Interactables_Breadslice_C
+[2024.02.05-01.44.48:507][464]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_Breadslice.Interactables_Breadslice as actor: Interactables_Breadslice_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Bread_6
+[2024.02.05-01.44.48:522][464]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.44.51:190][611]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_Breadslice.Interactables_Breadslice_C
+[2024.02.05-01.44.51:194][611]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_Breadslice.Interactables_Breadslice as actor: Interactables_Breadslice_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Bread_5
+[2024.02.05-01.44.51:210][611]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.44.53:480][731]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_Breadslice.Interactables_Breadslice_C
+[2024.02.05-01.44.53:484][731]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_Breadslice.Interactables_Breadslice as actor: Interactables_Breadslice_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Bread_4
+[2024.02.05-01.44.53:501][731]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.45.04:495][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.45.04:581][363]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/Interactables_Breadslice
+[2024.02.05-01.45.04:581][363]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Interactables_Breadslice63B61ABD4E3AFA6AFF7C2AB49EE15798.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_Breadslice.uasset'
+[2024.02.05-01.45.04:589][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 26.1 sec)
+[2024.02.05-01.45.04:602][363]AssetCheck: New page: Asset Save: Interactables_Breadslice
+[2024.02.05-01.45.04:602][363]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/Interactables_Breadslice.Interactables_Breadslice
+[2024.02.05-01.45.15:089][  5]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_Breadslice.Interactables_Breadslice_C
+[2024.02.05-01.45.15:094][  5]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_Breadslice.Interactables_Breadslice as actor: Interactables_Breadslice_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Bread_03_18
+[2024.02.05-01.45.15:109][  5]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.46.02:043][637]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Victorian_House/Meshes/DecorativeElements/Mesh_Fish.Mesh_Fish
+[2024.02.05-01.46.02:068][637]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.05-01.46.02:068][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-01.46.02:359][637]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.02.05-01.46.07:343][944]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.46.07:343][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.46.07:379][944]LogViewport: Scene viewport resized to 1073x716, mode Windowed.
+[2024.02.05-01.46.07:431][945]LogViewport: Scene viewport resized to 1073x702, mode Windowed.
+[2024.02.05-01.46.07:465][946]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.02.05-01.46.09:010][ 36]LogSlate: Window 'Interactables_Breadslice' being destroyed
+[2024.02.05-01.46.09:027][ 36]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-01.46.09:027][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-01.46.25:072][207]LogViewport: Scene viewport resized to 1224x485, mode Windowed.
+[2024.02.05-01.46.25:093][208]LogViewport: Scene viewport resized to 1224x495, mode Windowed.
+[2024.02.05-01.46.25:136][209]LogViewport: Scene viewport resized to 1224x533, mode Windowed.
+[2024.02.05-01.46.25:179][210]LogViewport: Scene viewport resized to 1224x559, mode Windowed.
+[2024.02.05-01.46.25:219][211]LogViewport: Scene viewport resized to 1224x572, mode Windowed.
+[2024.02.05-01.46.25:260][212]LogViewport: Scene viewport resized to 1224x590, mode Windowed.
+[2024.02.05-01.46.25:305][213]LogViewport: Scene viewport resized to 1224x603, mode Windowed.
+[2024.02.05-01.46.25:348][214]LogViewport: Scene viewport resized to 1224x614, mode Windowed.
+[2024.02.05-01.46.25:387][215]LogViewport: Scene viewport resized to 1224x617, mode Windowed.
+[2024.02.05-01.46.25:600][236]LogViewport: Scene viewport resized to 1224x616, mode Windowed.
+[2024.02.05-01.46.31:870][776]LogViewport: Scene viewport resized to 1224x615, mode Windowed.
+[2024.02.05-01.46.31:890][777]LogViewport: Scene viewport resized to 1224x614, mode Windowed.
+[2024.02.05-01.46.31:933][778]LogViewport: Scene viewport resized to 1224x592, mode Windowed.
+[2024.02.05-01.46.31:964][779]LogViewport: Scene viewport resized to 1224x570, mode Windowed.
+[2024.02.05-01.46.31:997][780]LogViewport: Scene viewport resized to 1224x551, mode Windowed.
+[2024.02.05-01.46.32:029][781]LogViewport: Scene viewport resized to 1224x542, mode Windowed.
+[2024.02.05-01.46.32:115][788]LogViewport: Scene viewport resized to 1224x540, mode Windowed.
+[2024.02.05-01.46.32:136][789]LogViewport: Scene viewport resized to 1224x536, mode Windowed.
+[2024.02.05-01.46.32:176][790]LogViewport: Scene viewport resized to 1224x526, mode Windowed.
+[2024.02.05-01.46.32:212][791]LogViewport: Scene viewport resized to 1224x515, mode Windowed.
+[2024.02.05-01.46.32:248][792]LogViewport: Scene viewport resized to 1224x509, mode Windowed.
+[2024.02.05-01.46.32:288][793]LogViewport: Scene viewport resized to 1224x502, mode Windowed.
+[2024.02.05-01.46.32:329][794]LogViewport: Scene viewport resized to 1224x493, mode Windowed.
+[2024.02.05-01.46.32:365][795]LogViewport: Scene viewport resized to 1224x486, mode Windowed.
+[2024.02.05-01.46.32:402][796]LogViewport: Scene viewport resized to 1224x483, mode Windowed.
+[2024.02.05-01.46.42:126][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_book.Interactables_book_C
+[2024.02.05-01.46.42:130][760]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_book.Interactables_book as actor: Interactables_book_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_BigBook49
+[2024.02.05-01.46.42:145][760]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.46.43:615][878]Cmd: TRANSACTION UNDO
+[2024.02.05-01.46.43:615][878]LogEditorTransaction: Undo Replace Actor(s)
+[2024.02.05-01.46.52:022][536]Cmd: DELETE
+[2024.02.05-01.46.52:023][536]Cmd: ACTOR DELETE
+[2024.02.05-01.46.52:059][536]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.46.52:095][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.02.05-01.46.52:115][536]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2024.02.05-01.46.55:174][840]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_book.Interactables_book_C
+[2024.02.05-01.46.55:177][840]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_book.Interactables_book as actor: Interactables_book_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Book308
+[2024.02.05-01.46.55:191][840]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.47.06:889][  6]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_book.Interactables_book_C
+[2024.02.05-01.47.06:893][  6]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_book.Interactables_book as actor: Interactables_book_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Book301
+[2024.02.05-01.47.06:907][  6]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.47.14:693][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.47.14:765][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.47.14:794][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.05-01.47.15:509][728]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.47.15:510][728]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2E64C89E54164308441432FBC104DA5E4.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.47.15:527][728]LogFileHelpers: No new changes to save!
+[2024.02.05-01.47.15:527][728]LogFileHelpers: Saving map 'IrvingHouse2' took 0.765
+[2024.02.05-01.47.15:533][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 840 ms (total: 27.0 sec)
+[2024.02.05-01.47.15:550][728]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.05-01.47.15:550][728]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.05-01.47.51:372][834]Cmd: DELETE
+[2024.02.05-01.47.51:372][834]Cmd: ACTOR DELETE
+[2024.02.05-01.47.51:404][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.47.51:428][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.02.05-01.47.51:433][834]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2024.02.05-01.47.52:978][965]Cmd: DELETE
+[2024.02.05-01.47.52:978][965]Cmd: ACTOR DELETE
+[2024.02.05-01.47.53:010][965]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.47.53:035][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.05-01.47.53:039][965]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2024.02.05-01.47.53:594][ 10]Cmd: DELETE
+[2024.02.05-01.47.53:594][ 10]Cmd: ACTOR DELETE
+[2024.02.05-01.47.53:626][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.05-01.47.53:653][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.05-01.47.53:658][ 10]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2024.02.05-01.47.56:309][275]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/Interactables/Interactables_book.Interactables_book_C
+[2024.02.05-01.47.56:313][275]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/Interactables/Interactables_book.Interactables_book as actor: Interactables_book_C /Game/Levels/IrvingHouse2.IrvingHouse2:PersistentLevel.Mesh_Book245
+[2024.02.05-01.47.56:328][275]EditorErrors: New page: Actor Reattachment
+[2024.02.05-01.48.14:282][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.02.05-01.48.14:295][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.48.14:360][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.48.14:386][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.05-01.48.15:054][821]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.48.15:054][821]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2C6801FEB4BC11944BC1A8A92D662661C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.48.15:072][821]LogFileHelpers: No new changes to save!
+[2024.02.05-01.48.15:072][821]LogFileHelpers: Saving map 'IrvingHouse2' took 0.715
+[2024.02.05-01.48.15:078][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 784 ms (total: 27.8 sec)
+[2024.02.05-01.48.15:097][821]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.05-01.48.15:097][821]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.02.05-01.48.49:104][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-01.48.49:179][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.05-01.48.49:206][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.05-01.48.49:916][391]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.02.05-01.48.49:916][391]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse23D8586F14F0A37BCD8AF37AA5AB9BCDC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.02.05-01.48.49:933][391]LogFileHelpers: No new changes to save!
+[2024.02.05-01.48.49:934][391]LogFileHelpers: Saving map 'IrvingHouse2' took 0.756
+[2024.02.05-01.48.49:940][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 835 ms (total: 28.6 sec)
+[2024.02.05-01.48.49:957][391]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.02.05-01.48.49:957][391]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
