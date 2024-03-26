@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UE_5.2/Engine/Plugins/Marketplace/RuntimeSpeechRecognizer/Content/LanguageModel.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Victorian_House/Blueprints/BP_Door_01.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Blueprints/PCCharacter.uasset",
@@ -107,6 +106,9 @@
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Input/VR_Actions/IA_FarInteract.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Materials/PaintingMaterial.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_Painting2.uasset",
+				"D:/UE_5.2/Engine/Plugins/Marketplace/RuntimeSpeechRecognizer/Content/LanguageModels/LanguageModel.uasset",
+				"D:/Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap",
+				"D:/UE_5.2/Engine/Plugins/Marketplace/RuntimeSpeechRecognizer/Content/LanguageModel.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Input/VR_Actions/IA_Interact.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_Child.uasset",
 				"D:/Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/Interactables_WhitePawn.uasset",
