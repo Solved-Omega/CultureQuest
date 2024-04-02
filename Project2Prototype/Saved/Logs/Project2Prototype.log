@@ -2705,3 +2705,812 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.08-19.46.16:825][566]LogViewport: Scene viewport resized to 1073x702, mode Windowed.
 [2024.04.08-19.46.16:847][567]LogViewport: Scene viewport resized to 1073x695, mode Windowed.
 [2024.04.08-19.46.16:872][568]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.04.08-19.51.49:169][594]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.04.08-19.51.49:169][594]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-19.51.49:169][594]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-19.51.53:261][961]LogViewport: Scene viewport resized to 1073x691, mode Windowed.
+[2024.04.08-19.52.23:267][425]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.08-19.52.23:278][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-19.52.23:280][425]PIE: New page: PIE session: Tutorial (Apr 8, 2024, 5:52:23 AM)
+[2024.04.08-19.52.23:280][425]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.52.23:283][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003218s)
+[2024.04.08-19.52.23:283][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.003254s)
+[2024.04.08-19.52.23:283][425]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-19.52.23:283][425]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-19.52.23:283][425]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.08-19.52.23:283][425]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2024.04.08-19.52.23:318][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.04.08-19.52.23:320][425]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.04.08-19.52.23:320][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-19.52.23:320][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-19.52.23:320][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-19.52.23:320][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-19.52.23:320][425]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-19.52.23:320][425]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.08-19.52.23:320][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-19.52.23:320][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-19.52.23:320][425]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-19.52.23:320][425]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-19.52.23:320][425]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-19.52.23:323][425]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-19.52.23:341][425]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.08-19.52.23:341][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-19.52.23:342][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-19.52.23:342][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-19.52.23:343][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.04.08-19.52.23:343][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.04.08-19.52.23:345][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.04.08-19.52.23:345][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.04.08-19.52.23:345][425]LogInit: FAudioDevice initialized with ID 19.
+[2024.04.08-19.52.23:345][425]LogAudio: Display: Audio Device (ID: 19) registered with world 'Tutorial'.
+[2024.04.08-19.52.23:345][425]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.08-19.52.23:368][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.52.23:612][425]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.08-19.52.23:613][425]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.08-12.52.23
+[2024.04.08-19.52.23:613][425]LogWorld: Bringing up level for play took: 0.001313
+[2024.04.08-19.52.23:616][425]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.04.08-19.52.23:619][425]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.08-19.52.23:620][425]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.52.23:621][425]vr.PixelDensity = "1"
+[2024.04.08-19.52.23:623][425]PIE: Server logged in
+[2024.04.08-19.52.23:624][425]PIE: Play in editor total start time 0.345 seconds.
+[2024.04.08-19.52.23:629][425]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.08-19.52.23:639][425]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.08-19.52.23:673][426]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.054277 > MaxSimulationTimeStep (0.050) for 'VRPawn_C_0', movement 'Walking'
+[2024.04.08-19.52.27:830][265]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.08-19.53.22:808][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.53.22:808][391]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.53.22:852][391]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.08-19.53.22:855][391]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-19.53.22:855][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.53.22:861][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-19.53.22:866][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.53.22:887][391]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-19.53.22:888][391]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.04.08-19.53.22:888][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.08-19.53.22:890][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.04.08-19.53.22:897][391]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.08-19.53.22:897][391]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.53.22:898][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.04.08-19.53.22:967][392]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.04.08-19.53.39:916][340]BlueprintLog: New page: Compile VRPawn
+[2024.04.08-19.53.40:127][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.04.08-19.53.40:163][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-19.53.40:225][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.08-19.53.40:332][340]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.04.08-19.53.40:332][340]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawnFCE842554584FF6BF28679ADDE720B15.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.04.08-19.53.40:342][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 3.91 sec)
+[2024.04.08-19.53.40:367][340]AssetCheck: New page: Asset Save: VRPawn
+[2024.04.08-19.53.40:367][340]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.04.08-19.53.40:574][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-19.53.40:640][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.08-19.53.40:740][355]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.04.08-19.53.40:740][355]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawnEA091B9041ACE657A6083F9C6374E0F0.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.04.08-19.53.40:750][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 4.08 sec)
+[2024.04.08-19.53.40:760][355]AssetCheck: New page: Asset Save: VRPawn
+[2024.04.08-19.53.40:760][355]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.04.08-19.53.41:480][438]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.08-19.53.41:490][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-19.53.41:490][438]PIE: New page: PIE session: Tutorial (Apr 8, 2024, 5:53:41 AM)
+[2024.04.08-19.53.41:491][438]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.53.41:493][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002762s)
+[2024.04.08-19.53.41:493][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.002800s)
+[2024.04.08-19.53.41:493][438]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-19.53.41:494][438]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-19.53.41:494][438]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.08-19.53.41:494][438]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2024.04.08-19.53.41:515][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.08-19.53.41:518][438]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.04.08-19.53.41:518][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-19.53.41:518][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-19.53.41:518][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-19.53.41:518][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-19.53.41:518][438]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-19.53.41:518][438]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.08-19.53.41:518][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-19.53.41:518][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-19.53.41:518][438]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-19.53.41:518][438]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-19.53.41:518][438]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-19.53.41:520][438]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-19.53.41:537][438]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.08-19.53.41:538][438]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-19.53.41:538][438]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-19.53.41:538][438]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-19.53.41:538][438]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.04.08-19.53.41:538][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.04.08-19.53.41:540][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.04.08-19.53.41:540][438]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.04.08-19.53.41:540][438]LogInit: FAudioDevice initialized with ID 20.
+[2024.04.08-19.53.41:540][438]LogAudio: Display: Audio Device (ID: 20) registered with world 'Tutorial'.
+[2024.04.08-19.53.41:540][438]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.04.08-19.53.41:560][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.53.41:784][438]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.08-19.53.41:785][438]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.08-12.53.41
+[2024.04.08-19.53.41:785][438]LogWorld: Bringing up level for play took: 0.001207
+[2024.04.08-19.53.41:788][438]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.04.08-19.53.41:791][438]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.08-19.53.41:792][438]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.53.41:793][438]vr.PixelDensity = "1"
+[2024.04.08-19.53.41:796][438]PIE: Server logged in
+[2024.04.08-19.53.41:797][438]PIE: Play in editor total start time 0.307 seconds.
+[2024.04.08-19.53.41:802][438]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.08-19.53.41:812][438]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.08-19.53.45:342][932]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.08-19.54.39:190][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.54.39:190][843]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.54.39:236][843]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.08-19.54.39:239][843]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-19.54.39:240][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.54.39:246][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-19.54.39:252][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.54.39:274][843]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-19.54.39:274][843]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.04.08-19.54.39:274][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.08-19.54.39:277][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.04.08-19.54.39:282][843]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.08-19.54.39:282][843]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.54.39:284][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.08-19.54.39:377][844]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.04.08-19.55.18:655][325]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.08-19.55.18:666][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-19.55.18:666][325]PIE: New page: PIE session: Tutorial (Apr 8, 2024, 5:55:18 AM)
+[2024.04.08-19.55.18:666][325]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.55.18:669][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002826s)
+[2024.04.08-19.55.18:669][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.002857s)
+[2024.04.08-19.55.18:669][325]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-19.55.18:669][325]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-19.55.18:670][325]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.08-19.55.18:670][325]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2024.04.08-19.55.18:693][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.04.08-19.55.18:699][325]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.04.08-19.55.18:699][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-19.55.18:699][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-19.55.18:699][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-19.55.18:699][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-19.55.18:699][325]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-19.55.18:699][325]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.08-19.55.18:699][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-19.55.18:699][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-19.55.18:699][325]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-19.55.18:699][325]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-19.55.18:699][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-19.55.18:702][325]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-19.55.18:720][325]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.08-19.55.18:720][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-19.55.18:720][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-19.55.18:720][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-19.55.18:721][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.04.08-19.55.18:721][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.04.08-19.55.18:723][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.04.08-19.55.18:723][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.04.08-19.55.18:723][325]LogInit: FAudioDevice initialized with ID 21.
+[2024.04.08-19.55.18:723][325]LogAudio: Display: Audio Device (ID: 21) registered with world 'Tutorial'.
+[2024.04.08-19.55.18:723][325]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.04.08-19.55.18:744][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.55.18:964][325]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.08-19.55.18:965][325]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.08-12.55.18
+[2024.04.08-19.55.18:966][325]LogWorld: Bringing up level for play took: 0.001747
+[2024.04.08-19.55.18:968][325]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.04.08-19.55.18:971][325]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.08-19.55.18:972][325]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.55.18:974][325]vr.PixelDensity = "1"
+[2024.04.08-19.55.18:977][325]PIE: Server logged in
+[2024.04.08-19.55.18:979][325]PIE: Play in editor total start time 0.313 seconds.
+[2024.04.08-19.55.18:984][325]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.08-19.55.18:990][325]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.08-19.55.22:484][ 30]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.08-19.55.47:142][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.55.47:142][908]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.55.47:180][908]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.08-19.55.47:183][908]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-19.55.47:183][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.55.47:189][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-19.55.47:194][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.55.47:216][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-19.55.47:216][908]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.04.08-19.55.47:216][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.04.08-19.55.47:219][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.04.08-19.55.47:224][908]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.08-19.55.47:224][908]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.55.47:225][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.08-19.55.47:326][909]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.04.08-19.55.50:390][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.08-19.55.50:396][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-19.55.50:464][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.08-19.55.50:488][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.08-19.55.50:499][257]LogSavePackage: Moving output files for package: /Game/Levels/Tutorial
+[2024.04.08-19.55.50:500][257]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Tutorial7F15502A4057FBD1CFEE3C934035A920.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap'
+[2024.04.08-19.55.50:512][257]LogFileHelpers: Saving map 'Tutorial' took 0.049
+[2024.04.08-19.55.50:513][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.08-19.55.50:621][257]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.04.08-19.55.50:621][257]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn88CB4E814D2B881F7545B7B0DB5B852A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.04.08-19.55.50:623][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.08-19.55.50:625][257]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.08-19.55.50:625][257]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftController95D7F23847A808F87CAED683352445CF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.08-19.55.50:626][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/RightController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/RightController.uasset" SILENT=true
+[2024.04.08-19.55.50:629][257]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/RightController
+[2024.04.08-19.55.50:629][257]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/RightControllerF95AC9EE4FDF22ACE34E4681BB5997A4.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/RightController.uasset'
+[2024.04.08-19.55.50:636][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 240 ms (total: 4.32 sec)
+[2024.04.08-19.55.50:648][257]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.08-19.55.50:648][257]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.04.08-19.55.50:648][257]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.08-19.55.50:648][257]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tutorial.Tutorial
+[2024.04.08-19.55.50:648][257]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/RightController.RightController
+[2024.04.08-19.56.40:132][116]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.08-19.56.40:144][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-19.56.40:144][116]PIE: New page: PIE session: Tutorial (Apr 8, 2024, 5:56:40 AM)
+[2024.04.08-19.56.40:145][116]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.56.40:148][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002796s)
+[2024.04.08-19.56.40:148][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.002842s)
+[2024.04.08-19.56.40:148][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-19.56.40:148][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-19.56.40:149][116]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.08-19.56.40:149][116]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2024.04.08-19.56.40:171][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.04.08-19.56.40:177][116]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.04.08-19.56.40:177][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-19.56.40:177][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-19.56.40:177][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-19.56.40:177][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-19.56.40:177][116]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-19.56.40:177][116]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.08-19.56.40:177][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-19.56.40:177][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-19.56.40:178][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-19.56.40:178][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-19.56.40:178][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-19.56.40:179][116]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-19.56.40:198][116]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.08-19.56.40:198][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-19.56.40:198][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-19.56.40:198][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-19.56.40:199][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.04.08-19.56.40:199][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.04.08-19.56.40:201][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.04.08-19.56.40:201][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.04.08-19.56.40:201][116]LogInit: FAudioDevice initialized with ID 22.
+[2024.04.08-19.56.40:201][116]LogAudio: Display: Audio Device (ID: 22) registered with world 'Tutorial'.
+[2024.04.08-19.56.40:201][116]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.04.08-19.56.40:226][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.56.40:458][116]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.08-19.56.40:459][116]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.08-12.56.40
+[2024.04.08-19.56.40:459][116]LogWorld: Bringing up level for play took: 0.001392
+[2024.04.08-19.56.40:462][116]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.04.08-19.56.40:465][116]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.08-19.56.40:466][116]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.56.40:467][116]vr.PixelDensity = "1"
+[2024.04.08-19.56.40:471][116]PIE: Server logged in
+[2024.04.08-19.56.40:471][116]PIE: Play in editor total start time 0.327 seconds.
+[2024.04.08-19.56.40:478][116]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.08-19.56.40:487][116]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.08-19.56.43:932][800]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.08-19.56.52:083][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.56.52:083][737]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.56.52:119][737]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.08-19.56.52:122][737]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-19.56.52:122][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.56.52:128][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-19.56.52:134][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.56.52:156][737]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-19.56.52:156][737]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.04.08-19.56.52:156][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.04.08-19.56.52:158][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.04.08-19.56.52:165][737]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.08-19.56.52:165][737]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.56.52:167][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.08-19.56.52:222][738]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.04.08-19.57.33:751][580]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.08-19.57.33:763][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-19.57.33:763][580]PIE: New page: PIE session: Tutorial (Apr 8, 2024, 5:57:33 AM)
+[2024.04.08-19.57.33:763][580]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.57.33:766][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003039s)
+[2024.04.08-19.57.33:766][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.003075s)
+[2024.04.08-19.57.33:766][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-19.57.33:766][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-19.57.33:767][580]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.08-19.57.33:767][580]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2024.04.08-19.57.33:792][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.08-19.57.33:799][580]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.04.08-19.57.33:799][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-19.57.33:799][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-19.57.33:799][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-19.57.33:799][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-19.57.33:799][580]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-19.57.33:799][580]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.08-19.57.33:799][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-19.57.33:799][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-19.57.33:800][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-19.57.33:800][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-19.57.33:800][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-19.57.33:802][580]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-19.57.33:820][580]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.08-19.57.33:820][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-19.57.33:820][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-19.57.33:820][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-19.57.33:820][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.04.08-19.57.33:821][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.04.08-19.57.33:822][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.04.08-19.57.33:822][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.04.08-19.57.33:822][580]LogInit: FAudioDevice initialized with ID 23.
+[2024.04.08-19.57.33:822][580]LogAudio: Display: Audio Device (ID: 23) registered with world 'Tutorial'.
+[2024.04.08-19.57.33:822][580]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.04.08-19.57.33:854][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.57.34:074][580]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.08-19.57.34:075][580]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.08-12.57.34
+[2024.04.08-19.57.34:076][580]LogWorld: Bringing up level for play took: 0.001075
+[2024.04.08-19.57.34:079][580]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.04.08-19.57.34:082][580]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.08-19.57.34:083][580]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.57.34:084][580]vr.PixelDensity = "1"
+[2024.04.08-19.57.34:088][580]PIE: Server logged in
+[2024.04.08-19.57.34:089][580]PIE: Play in editor total start time 0.326 seconds.
+[2024.04.08-19.57.34:090][580]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.08-19.57.34:099][580]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.08-19.57.34:108][580]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.08-19.57.34:158][581]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.054389 > MaxSimulationTimeStep (0.050) for 'VRPawn_C_0', movement 'Walking'
+[2024.04.08-19.57.46:602][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.57.46:602][ 49]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.57.46:644][ 49]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.08-19.57.46:647][ 49]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-19.57.46:647][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.57.46:654][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-19.57.46:660][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.57.46:680][ 49]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-19.57.46:680][ 49]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.04.08-19.57.46:681][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.04.08-19.57.46:684][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.04.08-19.57.46:689][ 49]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.08-19.57.46:689][ 49]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.57.46:691][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.04.08-19.57.46:744][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.04.08-19.58.15:017][360]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.08-19.58.15:029][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-19.58.15:029][360]PIE: New page: PIE session: Tutorial (Apr 8, 2024, 5:58:15 AM)
+[2024.04.08-19.58.15:029][360]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.58.15:032][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002864s)
+[2024.04.08-19.58.15:032][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.002894s)
+[2024.04.08-19.58.15:032][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-19.58.15:032][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-19.58.15:032][360]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.08-19.58.15:032][360]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2024.04.08-19.58.15:055][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.08-19.58.15:057][360]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.04.08-19.58.15:057][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-19.58.15:057][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-19.58.15:057][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-19.58.15:057][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-19.58.15:057][360]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-19.58.15:057][360]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.08-19.58.15:057][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-19.58.15:057][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-19.58.15:058][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-19.58.15:058][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-19.58.15:058][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-19.58.15:060][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-19.58.15:080][360]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.08-19.58.15:080][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-19.58.15:080][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-19.58.15:080][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-19.58.15:081][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.04.08-19.58.15:081][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.04.08-19.58.15:083][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.04.08-19.58.15:083][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.04.08-19.58.15:083][360]LogInit: FAudioDevice initialized with ID 24.
+[2024.04.08-19.58.15:083][360]LogAudio: Display: Audio Device (ID: 24) registered with world 'Tutorial'.
+[2024.04.08-19.58.15:083][360]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.04.08-19.58.15:116][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.58.15:342][360]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.08-19.58.15:344][360]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.08-12.58.15
+[2024.04.08-19.58.15:344][360]LogWorld: Bringing up level for play took: 0.001152
+[2024.04.08-19.58.15:346][360]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.04.08-19.58.15:348][360]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.08-19.58.15:349][360]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.58.15:350][360]vr.PixelDensity = "1"
+[2024.04.08-19.58.15:351][360]PIE: Server logged in
+[2024.04.08-19.58.15:352][360]PIE: Play in editor total start time 0.324 seconds.
+[2024.04.08-19.58.15:357][360]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.08-19.58.15:366][360]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.08-19.58.16:774][544]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.08-19.58.25:579][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.58.25:579][532]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.58.25:617][532]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.08-19.58.25:619][532]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-19.58.25:619][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.58.25:625][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-19.58.25:632][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.58.25:654][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-19.58.25:654][532]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.04.08-19.58.25:655][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.04.08-19.58.25:657][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.04.08-19.58.25:663][532]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.08-19.58.25:663][532]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.58.25:664][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.08-19.58.25:724][533]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.04.08-19.58.39:151][ 82]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.08-19.58.39:162][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-19.58.39:162][ 82]PIE: New page: PIE session: Tutorial (Apr 8, 2024, 5:58:39 AM)
+[2024.04.08-19.58.39:162][ 82]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.58.39:166][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002958s)
+[2024.04.08-19.58.39:166][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.002995s)
+[2024.04.08-19.58.39:166][ 82]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-19.58.39:166][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-19.58.39:166][ 82]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.08-19.58.39:166][ 82]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2024.04.08-19.58.39:187][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.08-19.58.39:190][ 82]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.04.08-19.58.39:191][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-19.58.39:191][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-19.58.39:191][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-19.58.39:191][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-19.58.39:191][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-19.58.39:191][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.08-19.58.39:191][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-19.58.39:191][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-19.58.39:191][ 82]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-19.58.39:191][ 82]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-19.58.39:191][ 82]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-19.58.39:193][ 82]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-19.58.39:213][ 82]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.08-19.58.39:213][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-19.58.39:213][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-19.58.39:213][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-19.58.39:214][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.04.08-19.58.39:214][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.04.08-19.58.39:216][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.04.08-19.58.39:216][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.04.08-19.58.39:216][ 82]LogInit: FAudioDevice initialized with ID 25.
+[2024.04.08-19.58.39:216][ 82]LogAudio: Display: Audio Device (ID: 25) registered with world 'Tutorial'.
+[2024.04.08-19.58.39:216][ 82]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.04.08-19.58.39:240][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.58.39:470][ 82]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.08-19.58.39:473][ 82]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.08-12.58.39
+[2024.04.08-19.58.39:473][ 82]LogWorld: Bringing up level for play took: 0.002451
+[2024.04.08-19.58.39:476][ 82]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.04.08-19.58.39:479][ 82]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.08-19.58.39:481][ 82]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.58.39:482][ 82]vr.PixelDensity = "1"
+[2024.04.08-19.58.39:485][ 82]PIE: Server logged in
+[2024.04.08-19.58.39:486][ 82]PIE: Play in editor total start time 0.324 seconds.
+[2024.04.08-19.58.39:487][ 82]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.08-19.58.39:495][ 82]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.08-19.58.39:503][ 82]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.08-19.58.49:093][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.58.49:093][188]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.58.49:131][188]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.08-19.58.49:134][188]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-19.58.49:135][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.58.49:140][188]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-19.58.49:146][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-19.58.49:167][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-19.58.49:167][188]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.04.08-19.58.49:167][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.04.08-19.58.49:169][188]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.04.08-19.58.49:174][188]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.08-19.58.49:174][188]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.58.49:175][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.04.08-19.58.49:293][189]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.04.08-19.59.08:931][488]LogEditorTransaction: Undo Modify Component Location
+[2024.04.08-19.59.42:063][284]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.08-19.59.42:074][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-19.59.42:074][284]PIE: New page: PIE session: Tutorial (Apr 8, 2024, 5:59:42 AM)
+[2024.04.08-19.59.42:074][284]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-19.59.42:078][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003078s)
+[2024.04.08-19.59.42:078][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.003113s)
+[2024.04.08-19.59.42:078][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-19.59.42:078][284]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-19.59.42:078][284]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.08-19.59.42:079][284]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2024.04.08-19.59.42:100][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.08-19.59.42:108][284]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.04.08-19.59.42:108][284]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-19.59.42:108][284]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-19.59.42:108][284]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-19.59.42:108][284]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-19.59.42:108][284]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-19.59.42:108][284]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.08-19.59.42:108][284]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-19.59.42:108][284]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-19.59.42:108][284]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-19.59.42:108][284]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-19.59.42:108][284]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-19.59.42:110][284]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-19.59.42:128][284]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.08-19.59.42:129][284]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-19.59.42:129][284]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-19.59.42:129][284]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-19.59.42:130][284]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.04.08-19.59.42:130][284]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.04.08-19.59.42:132][284]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.04.08-19.59.42:132][284]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.04.08-19.59.42:132][284]LogInit: FAudioDevice initialized with ID 26.
+[2024.04.08-19.59.42:132][284]LogAudio: Display: Audio Device (ID: 26) registered with world 'Tutorial'.
+[2024.04.08-19.59.42:132][284]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.04.08-19.59.42:153][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-19.59.42:384][284]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.08-19.59.42:385][284]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.08-12.59.42
+[2024.04.08-19.59.42:385][284]LogWorld: Bringing up level for play took: 0.001482
+[2024.04.08-19.59.42:388][284]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.04.08-19.59.42:391][284]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.08-19.59.42:392][284]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.08-19.59.42:393][284]vr.PixelDensity = "1"
+[2024.04.08-19.59.42:394][284]PIE: Server logged in
+[2024.04.08-19.59.42:395][284]PIE: Play in editor total start time 0.321 seconds.
+[2024.04.08-19.59.42:400][284]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.08-19.59.42:408][284]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.08-19.59.45:881][984]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.08-20.00.12:967][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-20.00.12:967][260]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-20.00.13:014][260]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.08-20.00.13:017][260]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-20.00.13:017][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-20.00.13:023][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-20.00.13:030][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-20.00.13:053][260]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-20.00.13:054][260]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.04.08-20.00.13:054][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.04.08-20.00.13:056][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.04.08-20.00.13:062][260]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.08-20.00.13:062][260]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.08-20.00.13:063][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.08-20.00.13:182][261]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.04.08-20.00.29:706][189]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.08-20.00.29:718][189]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.08-20.00.29:719][189]LogPlayLevel: [PlayLevel] Compiling LeftController before play...
+[2024.04.08-20.00.29:744][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-20.00.29:832][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.08-20.00.29:835][189]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.08-20.00.29:835][189]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftController7688CA5A4424449D2EBDE49842EF898C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.08-20.00.29:844][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 4.42 sec)
+[2024.04.08-20.00.29:845][189]LogPlayLevel: [PlayLevel] Compiling RightController before play...
+[2024.04.08-20.00.29:878][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-20.00.29:961][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/RightController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/RightController.uasset" SILENT=true
+[2024.04.08-20.00.29:964][189]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/RightController
+[2024.04.08-20.00.29:964][189]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/RightControllerCEB2BDD34E35FB23C69DB2B34FDCF946.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/RightController.uasset'
+[2024.04.08-20.00.29:971][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 4.51 sec)
+[2024.04.08-20.00.29:990][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.04.08-20.00.29:996][189]LogPlayLevel: PlayLevel: Blueprint regeneration took 278 ms (2 blueprints)
+[2024.04.08-20.00.29:996][189]PIE: New page: PIE session: Tutorial (Apr 8, 2024, 6:00:29 AM)
+[2024.04.08-20.00.29:996][189]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-20.00.29:999][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002884s)
+[2024.04.08-20.00.29:999][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.002915s)
+[2024.04.08-20.00.29:999][189]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-20.00.29:999][189]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-20.00.30:000][189]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.08-20.00.30:000][189]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2024.04.08-20.00.30:018][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.08-20.00.30:019][189]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.04.08-20.00.30:019][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-20.00.30:019][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-20.00.30:019][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-20.00.30:019][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-20.00.30:019][189]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-20.00.30:019][189]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.08-20.00.30:019][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-20.00.30:019][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-20.00.30:020][189]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-20.00.30:020][189]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-20.00.30:020][189]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-20.00.30:022][189]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-20.00.30:039][189]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.08-20.00.30:040][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-20.00.30:040][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-20.00.30:040][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-20.00.30:040][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.04.08-20.00.30:040][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.04.08-20.00.30:042][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.04.08-20.00.30:042][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.04.08-20.00.30:042][189]LogInit: FAudioDevice initialized with ID 27.
+[2024.04.08-20.00.30:042][189]LogAudio: Display: Audio Device (ID: 27) registered with world 'Tutorial'.
+[2024.04.08-20.00.30:042][189]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.04.08-20.00.30:060][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-20.00.30:279][189]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.08-20.00.30:281][189]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.08-13.00.30
+[2024.04.08-20.00.30:281][189]LogWorld: Bringing up level for play took: 0.001386
+[2024.04.08-20.00.30:284][189]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.04.08-20.00.30:286][189]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.08-20.00.30:287][189]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.08-20.00.30:288][189]vr.PixelDensity = "1"
+[2024.04.08-20.00.30:290][189]PIE: Server logged in
+[2024.04.08-20.00.30:291][189]PIE: Play in editor total start time 0.574 seconds.
+[2024.04.08-20.00.30:295][189]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.08-20.00.30:302][189]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.08-20.00.30:335][190]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.08-20.00.30:335][190]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.08-20.00.30:335][190]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/RightController.RightController
+[2024.04.08-20.00.30:336][190]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.054389 > MaxSimulationTimeStep (0.050) for 'VRPawn_C_0', movement 'Walking'
+[2024.04.08-20.00.35:238][195]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.08-20.02.31:364][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-20.02.31:364][956]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-20.02.31:413][956]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.08-20.02.31:416][956]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-20.02.31:416][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-20.02.31:422][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-20.02.31:427][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-20.02.31:449][956]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.04.08-20.02.31:449][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.04.08-20.02.31:451][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.04.08-20.02.31:458][956]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.08-20.02.31:458][956]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.08-20.02.31:460][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.04.08-20.02.31:567][957]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.04.08-20.02.50:410][110]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.08-20.02.50:422][110]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.08-20.02.50:427][110]LogPlayLevel: [PlayLevel] Compiling VRPawn before play...
+[2024.04.08-20.02.50:570][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-20.02.50:684][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.08-20.02.50:797][110]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.04.08-20.02.50:798][110]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawnE13A6BF54B2445EEDBAB469C0A31B261.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.04.08-20.02.50:808][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 238 ms (total: 4.75 sec)
+[2024.04.08-20.02.50:834][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.04.08-20.02.50:839][110]LogPlayLevel: PlayLevel: Blueprint regeneration took 417 ms (1 blueprints)
+[2024.04.08-20.02.50:839][110]PIE: New page: PIE session: Tutorial (Apr 8, 2024, 6:02:50 AM)
+[2024.04.08-20.02.50:839][110]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-20.02.50:842][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002725s)
+[2024.04.08-20.02.50:842][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.002755s)
+[2024.04.08-20.02.50:842][110]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-20.02.50:842][110]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-20.02.50:843][110]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.08-20.02.50:843][110]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2024.04.08-20.02.50:861][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.08-20.02.50:862][110]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.04.08-20.02.50:862][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-20.02.50:862][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-20.02.50:862][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-20.02.50:862][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-20.02.50:862][110]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-20.02.50:862][110]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.08-20.02.50:862][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-20.02.50:862][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-20.02.50:863][110]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-20.02.50:863][110]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-20.02.50:863][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-20.02.50:865][110]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-20.02.50:883][110]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.08-20.02.50:883][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-20.02.50:883][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-20.02.50:883][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-20.02.50:884][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.04.08-20.02.50:884][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.04.08-20.02.50:885][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.04.08-20.02.50:885][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.04.08-20.02.50:885][110]LogInit: FAudioDevice initialized with ID 28.
+[2024.04.08-20.02.50:885][110]LogAudio: Display: Audio Device (ID: 28) registered with world 'Tutorial'.
+[2024.04.08-20.02.50:885][110]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.04.08-20.02.50:904][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-20.02.51:119][110]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.08-20.02.51:119][110]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.08-13.02.51
+[2024.04.08-20.02.51:120][110]LogWorld: Bringing up level for play took: 0.001120
+[2024.04.08-20.02.51:122][110]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.04.08-20.02.51:125][110]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.08-20.02.51:126][110]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.08-20.02.51:127][110]vr.PixelDensity = "1"
+[2024.04.08-20.02.51:130][110]PIE: Server logged in
+[2024.04.08-20.02.51:131][110]PIE: Play in editor total start time 0.709 seconds.
+[2024.04.08-20.02.51:135][110]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.08-20.02.51:143][110]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.08-20.02.51:173][111]AssetCheck: New page: Asset Save: VRPawn
+[2024.04.08-20.02.51:173][111]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.04.08-20.02.51:178][111]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.054389 > MaxSimulationTimeStep (0.050) for 'VRPawn_C_0', movement 'Walking'
+[2024.04.08-20.02.55:717][ 39]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.08-20.03.24:951][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-20.03.24:951][242]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-20.03.25:037][242]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.08-20.03.25:040][242]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-20.03.25:040][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-20.03.25:046][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-20.03.25:051][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-20.03.25:072][242]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.04.08-20.03.25:072][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.04.08-20.03.25:075][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.04.08-20.03.25:081][242]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.08-20.03.25:081][242]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.08-20.03.25:083][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.08-20.03.25:207][243]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.04.08-20.03.56:271][855]BlueprintLog: New page: Compile RightController
+[2024.04.08-20.03.56:314][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.04.08-20.03.56:745][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-20.03.56:823][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/RightController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/RightController.uasset" SILENT=true
+[2024.04.08-20.03.56:827][894]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/RightController
+[2024.04.08-20.03.56:827][894]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/RightController0359F3B94E701F671B29EAAE476085C5.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/RightController.uasset'
+[2024.04.08-20.03.56:837][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 4.84 sec)
+[2024.04.08-20.03.56:849][894]AssetCheck: New page: Asset Save: RightController
+[2024.04.08-20.03.56:849][894]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/RightController.RightController
+[2024.04.08-20.03.57:716][994]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.08-20.03.57:728][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.08-20.03.57:728][994]PIE: New page: PIE session: Tutorial (Apr 8, 2024, 6:03:57 AM)
+[2024.04.08-20.03.57:728][994]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-20.03.57:731][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002837s)
+[2024.04.08-20.03.57:731][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.002870s)
+[2024.04.08-20.03.57:731][994]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.08-20.03.57:731][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-20.03.57:732][994]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.08-20.03.57:732][994]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2024.04.08-20.03.57:753][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.04.08-20.03.57:757][994]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.04.08-20.03.57:757][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.08-20.03.57:757][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.08-20.03.57:757][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.08-20.03.57:757][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.08-20.03.57:757][994]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.08-20.03.57:757][994]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.08-20.03.57:757][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.08-20.03.57:757][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.08-20.03.57:757][994]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.08-20.03.57:757][994]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.08-20.03.57:757][994]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.08-20.03.57:759][994]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.08-20.03.57:776][994]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.08-20.03.57:776][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.08-20.03.57:776][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.08-20.03.57:776][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.08-20.03.57:778][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.04.08-20.03.57:778][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.04.08-20.03.57:780][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.04.08-20.03.57:780][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.04.08-20.03.57:780][994]LogInit: FAudioDevice initialized with ID 29.
+[2024.04.08-20.03.57:780][994]LogAudio: Display: Audio Device (ID: 29) registered with world 'Tutorial'.
+[2024.04.08-20.03.57:780][994]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.04.08-20.03.57:802][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-20.03.58:032][994]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.08-20.03.58:033][994]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.08-13.03.58
+[2024.04.08-20.03.58:033][994]LogWorld: Bringing up level for play took: 0.001182
+[2024.04.08-20.03.58:036][994]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.04.08-20.03.58:039][994]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.08-20.03.58:040][994]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.08-20.03.58:042][994]vr.PixelDensity = "1"
+[2024.04.08-20.03.58:045][994]PIE: Server logged in
+[2024.04.08-20.03.58:047][994]PIE: Play in editor total start time 0.318 seconds.
+[2024.04.08-20.03.58:052][994]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.08-20.03.58:060][994]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.08-20.04.01:483][688]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.08-20.04.14:297][135]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: ================================================
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Total job queries 92, among them cache hits 6 (6.52%)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Tracking 86 distinct input hashes that result in 58 distinct outputs (67.44%)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: RAM used: 2.75 MiB of 1.60 GiB budget. Usage: 0.17%
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Shaders Compiled: 38
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100.00%)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Average time worker was idle: 187.95 s
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 0.80 s
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Job execution time: average 1.15 s, max 2.96 s
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Job life time (pending + execution): average 1.31 s, max 3.35
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.17 s
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Average processing rate: 3.74 jobs/sec
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Total thread time: 30.692 s
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Total thread preprocess time: 0.644 s
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Percentage time preprocessing: 2.10%
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Effective parallelization: 3.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    5 times, average 1.93 sec, max 2.44 sec, min 0.72 sec)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.61 sec, max 2.76 sec, min 0.42 sec)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 0.54 sec, max 0.72 sec, min 0.41 sec)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    2 times, average 0.54 sec, max 0.55 sec, min 0.53 sec)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.48 sec, max 0.50 sec, min 0.47 sec)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 42.02% of total time (compiled    8 times, average 1.61 sec, max 2.76 sec, min 0.42 sec)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 31.40% of total time (compiled    5 times, average 1.93 sec, max 2.44 sec, min 0.72 sec)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.43% of total time (compiled    7 times, average 0.54 sec, max 0.72 sec, min 0.41 sec)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 3.54% of total time (compiled    2 times, average 0.54 sec, max 0.55 sec, min 0.53 sec)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.16% of total time (compiled    2 times, average 0.48 sec, max 0.50 sec, min 0.47 sec)
+[2024.04.08-20.04.14:968][198]LogShaderCompilers: Display: ================================================
+[2024.04.08-20.04.21:055][836]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.04.08-20.04.22:613][ 11]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.04.08-20.04.32:958][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.08-20.04.32:958][241]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.08-20.04.32:991][241]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.08-20.04.32:994][241]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-20.04.32:996][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-20.04.33:001][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.08-20.04.33:008][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-20.04.33:029][241]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-20.04.33:029][241]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.04.08-20.04.33:029][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.04.08-20.04.33:031][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.04.08-20.04.33:037][241]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.08-20.04.33:037][241]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.08-20.04.33:038][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.04.08-20.04.33:160][242]LogPlayLevel: Display: Destroying online subsystem :Context_47
