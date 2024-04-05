@@ -7545,3 +7545,199 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.08-22.38.29:719][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 14.4 sec)
 [2024.04.08-22.38.29:738][976]AssetCheck: New page: Asset Save: Tutorial
 [2024.04.08-22.38.29:738][976]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tutorial.Tutorial
+[2024.04.08-22.39.29:065][ 15]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.08-22.39.29:084][ 15]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.08-22.39.29:097][ 16]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.08-22.39.32:390][370]LogContentBrowser: Attempting asset rename: NewFolder -> TutorialInputs
+[2024.04.08-22.39.32:390][370]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.08-22.39.39:132][ 11]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.04.08-22.39.39:145][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-22.39.39:248][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/RightController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/RightController.uasset" SILENT=true
+[2024.04.08-22.39.39:256][ 11]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/RightController
+[2024.04.08-22.39.39:256][ 11]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/RightControllerDBEACFD54D09C4D9972388B471C011EC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/RightController.uasset'
+[2024.04.08-22.39.39:264][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.08-22.39.39:271][ 11]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.08-22.39.39:271][ 11]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftControllerBE7EEFBD49D0D4D10FEB618D623EB609.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.08-22.39.39:273][ 11]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/IMC_RightController_Tutorial
+[2024.04.08-22.39.39:273][ 11]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IMC_RightController_TutorialA9F5ED2543DB075993E0B599E92CF5DF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/IMC_RightController_Tutorial.uasset'
+[2024.04.08-22.39.39:278][ 11]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/IMC_LeftController_Tutorial
+[2024.04.08-22.39.39:279][ 11]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IMC_LeftController_TutorialF017C3A940CCD1C3FDE0D58B4F58B9A9.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/IMC_LeftController_Tutorial.uasset'
+[2024.04.08-22.39.39:289][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 14.5 sec)
+[2024.04.08-22.39.39:345][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.04.08-22.39.39:378][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.04.08-22.39.39:412][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.08-22.39.39:471][ 11]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.08-22.39.39:471][ 11]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.08-22.39.39:471][ 11]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/TutorialInputs/IMC_LeftController_Tutorial.IMC_LeftController_Tutorial
+[2024.04.08-22.39.39:471][ 11]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/RightController.RightController
+[2024.04.08-22.39.39:471][ 11]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/TutorialInputs/IMC_RightController_Tutorial.IMC_RightController_Tutorial
+[2024.04.08-22.39.50:582][ 41]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.04.08-22.39.50:582][ 41]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.04.08-22.39.52:445][210]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.04.08-22.39.52:463][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-22.39.52:543][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/IMC_LeftController_Tutorial
+[2024.04.08-22.39.52:544][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IMC_LeftController_Tutorial30C8A9D14993DDA50C6D12B7277621DB.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/IMC_LeftController_Tutorial.uasset'
+[2024.04.08-22.39.52:579][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/RightController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/RightController.uasset" SILENT=true
+[2024.04.08-22.39.52:587][210]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/RightController
+[2024.04.08-22.39.52:587][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/RightController8946DED847588DAA1527DF9DF4D625E4.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/RightController.uasset'
+[2024.04.08-22.39.52:589][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/IMC_RightController_Tutorial
+[2024.04.08-22.39.52:589][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IMC_RightController_TutorialECC0437840F638985B051FAEF3392150.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/IMC_RightController_Tutorial.uasset'
+[2024.04.08-22.39.52:591][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Controller/IA_Controller_Y
+[2024.04.08-22.39.52:591][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_YD4FE2BBA4FB50A9EC0467D8E06CACAE7.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Controller/IA_Controller_Y.uasset'
+[2024.04.08-22.39.52:595][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Controller/IA_Controller_Grip_Left
+[2024.04.08-22.39.52:595][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_Grip_Left3C75F0EE4334765AE813599DE5BE19AE.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Controller/IA_Controller_Grip_Left.uasset'
+[2024.04.08-22.39.52:597][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Controller/IA_Controller_X
+[2024.04.08-22.39.52:597][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_XAC64DE334CEAB8161F606CA455B35F8D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Controller/IA_Controller_X.uasset'
+[2024.04.08-22.39.52:598][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Controller/IA_Controller_B
+[2024.04.08-22.39.52:598][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_BFE11D2124C0A7F809FFBB1B6A3DC6BE8.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Controller/IA_Controller_B.uasset'
+[2024.04.08-22.39.52:599][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Controller/IA_Controller_A
+[2024.04.08-22.39.52:599][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_A4D1E4D21494FD055FA7369B9871B3378.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Controller/IA_Controller_A.uasset'
+[2024.04.08-22.39.52:601][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Controller/IA_Controller_LStick_Right
+[2024.04.08-22.39.52:601][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_LStick_RightBB41C03E4E245DE0B0A27DA5C5E12D7E.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Controller/IA_Controller_LStick_Right.uasset'
+[2024.04.08-22.39.52:602][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Controller/IA_Controller_RStick_Up
+[2024.04.08-22.39.52:602][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_RStick_UpF9DAADB74E64E08B3321DEB85A34722E.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Controller/IA_Controller_RStick_Up.uasset'
+[2024.04.08-22.39.52:603][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Controller/IA_Controller_Grip_Right
+[2024.04.08-22.39.52:603][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_Grip_Right4F5A64494208C561761C358277C2A325.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Controller/IA_Controller_Grip_Right.uasset'
+[2024.04.08-22.39.52:604][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Controller/IA_Controller_Trigger_Left
+[2024.04.08-22.39.52:604][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_Trigger_LeftB7CA311C4B182C17C6A9E686BB5164FA.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Controller/IA_Controller_Trigger_Left.uasset'
+[2024.04.08-22.39.52:605][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Controller/IA_Controller_LStick_Left
+[2024.04.08-22.39.52:605][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_LStick_Left57C1273241ED0947E1C265BBDE4A1035.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Controller/IA_Controller_LStick_Left.uasset'
+[2024.04.08-22.39.52:607][210]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Controller/IA_Controller_Trigger_Right
+[2024.04.08-22.39.52:607][210]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_Trigger_Right81ABE80040AA3AB441FFEFAD1FA8D256.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Controller/IA_Controller_Trigger_Right.uasset'
+[2024.04.08-22.39.52:615][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 14.7 sec)
+[2024.04.08-22.39.52:779][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.08-22.39.52:810][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.04.08-22.39.52:839][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.08-22.39.52:922][210]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/TutorialInputs/IMC_LeftController_Tutorial.IMC_LeftController_Tutorial
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/RightController.RightController
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Controller/IA_Controller_Y.IA_Controller_Y
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Controller/IA_Controller_Grip_Left.IA_Controller_Grip_Left
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Controller/IA_Controller_X.IA_Controller_X
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Controller/IA_Controller_B.IA_Controller_B
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/TutorialInputs/IMC_RightController_Tutorial.IMC_RightController_Tutorial
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Controller/IA_Controller_A.IA_Controller_A
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Controller/IA_Controller_LStick_Right.IA_Controller_LStick_Right
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Controller/IA_Controller_RStick_Up.IA_Controller_RStick_Up
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Controller/IA_Controller_Grip_Right.IA_Controller_Grip_Right
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Controller/IA_Controller_Trigger_Left.IA_Controller_Trigger_Left
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Controller/IA_Controller_LStick_Left.IA_Controller_LStick_Left
+[2024.04.08-22.39.52:922][210]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Controller/IA_Controller_Trigger_Right.IA_Controller_Trigger_Right
+[2024.04.08-22.39.55:643][486]LogContentBrowser: Attempting asset rename: Controller -> Controller
+[2024.04.08-22.40.02:158][132]LogContentBrowser: Attempting asset rename: Controller -> Actions
+[2024.04.08-22.40.02:187][132]LogRuntimeSpeechRecognizer: Serializing language model data with the size of 0 bytes
+[2024.04.08-22.40.02:203][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-22.40.02:262][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/IMC_LeftController_Tutorial
+[2024.04.08-22.40.02:262][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IMC_LeftController_Tutorial2D5F9FAB42836AFF0D23D4A906370A84.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/IMC_LeftController_Tutorial.uasset'
+[2024.04.08-22.40.02:275][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/RightController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/RightController.uasset" SILENT=true
+[2024.04.08-22.40.02:282][132]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/RightController
+[2024.04.08-22.40.02:283][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/RightControllerA7780356426F2BED4E1864A84A9E6E2E.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/RightController.uasset'
+[2024.04.08-22.40.02:285][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/IMC_RightController_Tutorial
+[2024.04.08-22.40.02:286][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IMC_RightController_TutorialA1084D514CD6221D0E15FC8FF1D40300.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/IMC_RightController_Tutorial.uasset'
+[2024.04.08-22.40.02:287][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Actions/IA_Controller_Y
+[2024.04.08-22.40.02:287][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_Y79879482418BEF996A91BB85A36A2D08.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Actions/IA_Controller_Y.uasset'
+[2024.04.08-22.40.02:291][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Actions/IA_Controller_Grip_Left
+[2024.04.08-22.40.02:291][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_Grip_Left671A33D34D7188F1A5B94C9A57EB9CB3.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Actions/IA_Controller_Grip_Left.uasset'
+[2024.04.08-22.40.02:292][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Actions/IA_Controller_X
+[2024.04.08-22.40.02:292][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_X6EF7A3AD46231720AB12D5A1D24D547A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Actions/IA_Controller_X.uasset'
+[2024.04.08-22.40.02:294][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Actions/IA_Controller_B
+[2024.04.08-22.40.02:294][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_B90573B32496DFCA804C7EFA00B889FB9.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Actions/IA_Controller_B.uasset'
+[2024.04.08-22.40.02:296][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Actions/IA_Controller_A
+[2024.04.08-22.40.02:296][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_A86D6C2254D1ADC84D045C194A90AB1A6.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Actions/IA_Controller_A.uasset'
+[2024.04.08-22.40.02:296][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Actions/IA_Controller_LStick_Right
+[2024.04.08-22.40.02:296][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_LStick_RightE9D747FA4CF61A3051A41C8568BF801E.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Actions/IA_Controller_LStick_Right.uasset'
+[2024.04.08-22.40.02:298][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Actions/IA_Controller_RStick_Up
+[2024.04.08-22.40.02:298][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_RStick_Up261AF1AC4F43F284433174A033D9D535.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Actions/IA_Controller_RStick_Up.uasset'
+[2024.04.08-22.40.02:300][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Actions/IA_Controller_Grip_Right
+[2024.04.08-22.40.02:300][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_Grip_RightD991614C4530FFD9ED681F8DBBA2FD16.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Actions/IA_Controller_Grip_Right.uasset'
+[2024.04.08-22.40.02:301][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Actions/IA_Controller_Trigger_Left
+[2024.04.08-22.40.02:301][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_Trigger_LeftF377622F43BEE41B74CA0883E5DA84E6.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Actions/IA_Controller_Trigger_Left.uasset'
+[2024.04.08-22.40.02:302][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Actions/IA_Controller_LStick_Left
+[2024.04.08-22.40.02:302][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_LStick_LeftF85D8C3E4A4A78B419A4C78A233E2286.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Actions/IA_Controller_LStick_Left.uasset'
+[2024.04.08-22.40.02:303][132]LogSavePackage: Moving output files for package: /Game/Input/TutorialInputs/Actions/IA_Controller_Trigger_Right
+[2024.04.08-22.40.02:303][132]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IA_Controller_Trigger_Right8619A317438ACAA9B7A0E397BCD24F24.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Input/TutorialInputs/Actions/IA_Controller_Trigger_Right.uasset'
+[2024.04.08-22.40.02:313][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 14.8 sec)
+[2024.04.08-22.40.02:474][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.04.08-22.40.02:505][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.04.08-22.40.02:530][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.08-22.40.02:592][132]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/TutorialInputs/IMC_LeftController_Tutorial.IMC_LeftController_Tutorial
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/RightController.RightController
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Actions/IA_Controller_Y.IA_Controller_Y
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Actions/IA_Controller_Grip_Left.IA_Controller_Grip_Left
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Actions/IA_Controller_X.IA_Controller_X
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Actions/IA_Controller_B.IA_Controller_B
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Input/TutorialInputs/IMC_RightController_Tutorial.IMC_RightController_Tutorial
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Actions/IA_Controller_A.IA_Controller_A
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Actions/IA_Controller_LStick_Right.IA_Controller_LStick_Right
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Actions/IA_Controller_RStick_Up.IA_Controller_RStick_Up
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Actions/IA_Controller_Grip_Right.IA_Controller_Grip_Right
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Actions/IA_Controller_Trigger_Left.IA_Controller_Trigger_Left
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Actions/IA_Controller_LStick_Left.IA_Controller_LStick_Left
+[2024.04.08-22.40.02:592][132]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Input/TutorialInputs/Actions/IA_Controller_Trigger_Right.IA_Controller_Trigger_Right
+[2024.04.08-22.40.06:360][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.08-22.40.06:430][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.08-22.40.06:459][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.08-22.40.06:472][521]LogSavePackage: Moving output files for package: /Game/Levels/Tutorial
+[2024.04.08-22.40.06:473][521]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/TutorialA5C27A33475B2A8E8279D3B915FF0891.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap'
+[2024.04.08-22.40.06:484][521]LogFileHelpers: Saving map 'Tutorial' took 0.054
+[2024.04.08-22.40.06:495][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 14.9 sec)
+[2024.04.08-22.40.06:507][521]AssetCheck: New page: Asset Save: Tutorial
+[2024.04.08-22.40.06:507][521]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tutorial.Tutorial
+[2024.04.08-22.40.12:617][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.04.08-22.40.12:621][175]LogStall: Shutdown...
+[2024.04.08-22.40.12:667][175]LogStall: Shutdown complete.
+[2024.04.08-22.40.12:735][175]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-22.40.12:735][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-22.40.12:879][175]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.08-22.40.12:879][175]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-22.40.12:879][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-22.40.13:061][175]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.08-22.40.13:061][175]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-22.40.13:071][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-22.40.13:216][175]LogSlate: Window 'Project2Prototype - Unreal Editor' being destroyed
+[2024.04.08-22.40.13:485][176]Cmd: QUIT_EDITOR
+[2024.04.08-22.40.13:485][176]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.04.08-22.40.13:515][176]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.04.08-22.40.13:515][176]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.04.08-22.40.13:515][176]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.04.08-22.40.13:552][176]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-22.40.13:552][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-22.40.13:552][176]LogWorld: UWorld::CleanupWorld for Tutorial_Auto1, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-22.40.13:552][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-22.40.13:552][176]LogWorld: UWorld::CleanupWorld for Tutorial_Auto2, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-22.40.13:552][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-22.40.13:552][176]LogWorld: UWorld::CleanupWorld for Tutorial_Auto3, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-22.40.13:552][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-22.40.13:552][176]LogWorld: UWorld::CleanupWorld for Tutorial_Auto4, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-22.40.13:552][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-22.40.13:752][176]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.04.08-22.40.14:838][176]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.04.08-22.40.14:838][176]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.04.08-22.40.14:838][176]LogAudio: Display: Audio Device unregistered from world 'Tutorial'.
+[2024.04.08-22.40.14:838][176]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.04.08-22.40.14:839][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.08-22.40.14:841][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.08-22.40.14:848][176]LogAudio: Display: Audio Device Manager Shutdown
+[2024.04.08-22.40.14:852][176]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.04.08-22.40.14:874][176]LogExit: Preparing to exit.
+[2024.04.08-22.40.15:199][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.08-22.40.15:249][176]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:249][176]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:251][176]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:252][176]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:252][176]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:252][176]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:252][176]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:252][176]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:252][176]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:252][176]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:252][176]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:252][176]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:252][176]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:252][176]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:253][176]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:253][176]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:253][176]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:253][176]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.08-22.40.15:253][176]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
