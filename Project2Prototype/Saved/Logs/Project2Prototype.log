@@ -3702,3 +3702,242 @@ Make sure 'LeftController_C' has been compiled for  Set As VRPawn
 [2024.04.10-23.24.47:181][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 6.14 sec)
 [2024.04.10-23.24.47:192][668]AssetCheck: New page: Asset Save: TutorialWidget
 [2024.04.10-23.24.47:192][668]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Tutorial/TutorialWidget.TutorialWidget
+[2024.04.10-23.26.58:368][ 74]BlueprintLog: New page: Compile VRPawn
+[2024.04.10-23.26.58:696][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2024.04.10-23.26.58:780][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.26.58:923][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.10-23.26.59:028][ 74]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.04.10-23.26.59:028][ 74]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawnD32209294F2F7D76BC93B5B88E350DBD.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.04.10-23.26.59:035][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 6.39 sec)
+[2024.04.10-23.26.59:049][ 74]AssetCheck: New page: Asset Save: VRPawn
+[2024.04.10-23.26.59:049][ 74]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.04.10-23.27.01:170][252]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:170][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:177][252]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:177][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:182][252]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:182][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:187][252]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:187][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:192][252]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:192][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:197][252]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:197][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:201][252]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:201][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:206][252]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:206][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:210][252]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:210][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:215][252]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:215][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:219][252]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:219][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:223][252]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:223][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:227][252]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:227][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:231][252]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:231][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:235][252]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:235][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:238][252]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:238][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:243][252]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:243][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:247][252]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:247][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:251][252]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:251][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:254][252]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:254][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:259][252]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:259][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:263][252]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:263][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:267][252]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:267][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:270][252]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:270][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:274][252]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:274][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:278][252]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:278][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:282][252]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:282][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:285][252]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:285][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:289][252]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:289][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:292][252]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:292][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:296][252]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:296][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:300][252]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:300][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:304][252]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:304][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:308][252]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:308][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:312][252]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:312][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:316][252]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:316][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:320][252]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:320][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:324][252]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:324][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:328][252]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:329][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:332][252]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:332][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:336][252]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:336][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:341][252]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:341][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:345][252]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:345][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:349][252]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:349][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:352][252]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:352][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:357][252]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:357][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:361][252]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:361][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:364][252]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:364][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:368][252]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:368][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:372][252]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:372][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:376][252]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:376][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:380][252]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:380][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:383][252]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:383][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:387][252]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:387][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:391][252]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:391][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:394][252]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:394][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:399][252]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:399][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:402][252]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:402][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:406][252]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:406][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:410][252]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:410][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:413][252]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:413][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:417][252]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:417][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:421][252]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:421][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:425][252]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:425][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:429][252]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:429][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:433][252]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:434][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:437][252]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:437][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:442][252]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:442][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:446][252]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:446][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:451][252]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:451][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:455][252]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:455][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:459][252]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:459][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:464][252]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:464][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:468][252]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:468][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:471][252]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:471][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:475][252]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:475][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:479][252]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:479][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:483][252]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:483][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:487][252]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:487][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:492][252]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:493][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:498][252]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:498][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:504][252]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:504][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:509][252]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:509][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:515][252]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:515][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:521][252]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:521][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:527][252]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:527][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:533][252]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:533][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:539][252]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:539][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:545][252]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:545][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:550][252]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:550][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:555][252]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:555][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:560][252]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:560][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:565][252]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:565][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:569][252]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:569][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:574][252]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:574][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:578][252]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:578][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:583][252]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:583][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:588][252]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:588][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:593][252]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:593][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:598][252]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.27.01:598][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.27.01:668][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.04.10-23.27.01:676][252]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-23.27.01:884][264]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-23.27.02:880][347]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PCCharacter.PCCharacter
+[2024.04.10-23.27.02:880][347]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-23.27.02:880][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-23.27.11:166][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.10-23.27.11:170][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.27.11:258][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-23.27.11:285][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.10-23.27.11:303][989]LogSavePackage: Moving output files for package: /Game/Levels/Tutorial
+[2024.04.10-23.27.11:303][989]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Tutorial84E4B4AF44D6A663294114B2D95249DF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap'
+[2024.04.10-23.27.11:314][989]LogFileHelpers: Saving map 'Tutorial' took 0.057
+[2024.04.10-23.27.11:315][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PCCharacter" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/PCCharacter.uasset" SILENT=true
+[2024.04.10-23.27.11:361][989]LogSavePackage: Moving output files for package: /Game/Blueprints/PCCharacter
+[2024.04.10-23.27.11:361][989]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/PCCharacter86871E0047D1A6066CC84591F224E6FF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/PCCharacter.uasset'
+[2024.04.10-23.27.11:371][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 6.60 sec)
+[2024.04.10-23.27.11:384][989]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.10-23.27.11:384][989]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PCCharacter.PCCharacter
+[2024.04.10-23.27.11:384][989]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tutorial.Tutorial
+[2024.04.10-23.27.13:249][164]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.27.13:324][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-23.27.13:351][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.10-23.27.13:370][164]LogSavePackage: Moving output files for package: /Game/Levels/Tutorial
+[2024.04.10-23.27.13:371][164]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Tutorial3011AB384FB3B156A70168A4ED0DC400.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap'
+[2024.04.10-23.27.13:380][164]LogFileHelpers: Saving map 'Tutorial' took 0.057
+[2024.04.10-23.27.13:390][164]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 6.74 sec)
+[2024.04.10-23.27.13:403][164]AssetCheck: New page: Asset Save: Tutorial
+[2024.04.10-23.27.13:404][164]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tutorial.Tutorial
+[2024.04.10-23.27.14:448][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
