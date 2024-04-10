@@ -3385,3 +3385,320 @@ Make sure 'BP_AtticStair' has been compiled for  Edite Mode Off
 [2024.04.10-22.59.51:225][499]AssetCheck: New page: Asset Save: Tutorial
 [2024.04.10-22.59.51:225][499]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tutorial.Tutorial
 [2024.04.10-22.59.53:723][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.10-23.17.42:286][694]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-23.17.42:333][695]LogShaderCompilers: Display: ================================================
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Total job queries 374, among them cache hits 63 (16.84%)
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Tracking 307 distinct input hashes that result in 196 distinct outputs (63.84%)
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: RAM used: 10.30 MiB of 1.60 GiB budget. Usage: 0.63%
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Shaders Compiled: 6
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100.00%)
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Average time worker was idle: 744.24 s
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.17 s
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Job execution time: average 1.70 s, max 2.36 s
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Job life time (pending + execution): average 1.77 s, max 2.53
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.41 s
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Average processing rate: 1.11 jobs/sec
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Total thread time: 9.197 s
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Total thread preprocess time: 0.108 s
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Percentage time preprocessing: 1.17%
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Effective parallelization: 1.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 2.16 sec, max 2.24 sec, min 2.08 sec)
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 2.15 sec, max 2.22 sec, min 2.08 sec)
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 47.00% of total time (compiled    2 times, average 2.16 sec, max 2.24 sec, min 2.08 sec)
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 46.75% of total time (compiled    2 times, average 2.15 sec, max 2.22 sec, min 2.08 sec)
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect - 3.49% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect - 2.75% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2024.04.10-23.17.42:334][695]LogShaderCompilers: Display: ================================================
+[2024.04.10-23.18.15:877][328]BlueprintLog: New page: Compile LeftController
+[2024.04.10-23.18.15:951][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.04.10-23.18.15:992][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.18.16:102][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.10-23.18.16:112][328]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.10-23.18.16:112][328]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftController800FDE0F4A92467212FAB2A0A0511065.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.10-23.18.16:120][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 4.10 sec)
+[2024.04.10-23.18.16:132][328]AssetCheck: New page: Asset Save: LeftController
+[2024.04.10-23.18.16:132][328]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.10-23.18.16:458][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.18.16:546][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.10-23.18.16:557][359]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.10-23.18.16:558][359]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftController408A9E4B46F405A7DE3745AB5F513E20.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.10-23.18.16:566][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 4.21 sec)
+[2024.04.10-23.18.16:582][359]AssetCheck: New page: Asset Save: LeftController
+[2024.04.10-23.18.16:582][359]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.10-23.18.17:054][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.04.10-23.18.17:062][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.18.17:129][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-23.18.17:157][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.10-23.18.17:176][411]LogSavePackage: Moving output files for package: /Game/Levels/Tutorial
+[2024.04.10-23.18.17:177][411]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/Tutorial4093E54B4F3A01F6C28B7693A217347B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap'
+[2024.04.10-23.18.17:187][411]LogFileHelpers: Saving map 'Tutorial' took 0.058
+[2024.04.10-23.18.17:194][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 4.34 sec)
+[2024.04.10-23.18.17:205][411]AssetCheck: New page: Asset Save: Tutorial
+[2024.04.10-23.18.17:205][411]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tutorial.Tutorial
+[2024.04.10-23.18.30:480][948]BlueprintLog: New page: Compile LeftController
+[2024.04.10-23.18.30:544][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.04.10-23.18.30:587][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.18.30:718][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.10-23.18.30:731][948]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.10-23.18.30:732][948]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftController01F1D0F9415BFB3797ADE092E304528A.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.10-23.18.30:742][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 4.49 sec)
+[2024.04.10-23.18.30:761][948]AssetCheck: New page: Asset Save: LeftController
+[2024.04.10-23.18.30:761][948]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.10-23.18.31:068][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.18.31:148][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.10-23.18.31:158][975]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.10-23.18.31:158][975]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftControllerEFD4CEF948027DB55A6662B36EF336FF.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.10-23.18.31:166][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 4.59 sec)
+[2024.04.10-23.18.31:179][975]AssetCheck: New page: Asset Save: LeftController
+[2024.04.10-23.18.31:179][975]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.10-23.18.31:761][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.10-23.18.31:770][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.18.31:840][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-23.18.31:867][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.10-23.18.31:885][ 41]LogSavePackage: Moving output files for package: /Game/Levels/Tutorial
+[2024.04.10-23.18.31:885][ 41]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/TutorialF6AF496845C800C6B03007918FEDAC89.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap'
+[2024.04.10-23.18.31:896][ 41]LogFileHelpers: Saving map 'Tutorial' took 0.056
+[2024.04.10-23.18.31:903][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 4.72 sec)
+[2024.04.10-23.18.31:915][ 41]AssetCheck: New page: Asset Save: Tutorial
+[2024.04.10-23.18.31:915][ 41]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tutorial.Tutorial
+[2024.04.10-23.18.51:066][243]BlueprintLog: New page: Compile LeftController
+[2024.04.10-23.18.51:070][243]LogBlueprint: Warning: [AssetLog] D:\Download\CultureQuerst\Project2Prototype\Content\Actors\Interactables\LeftController.uasset: [Compiler] Could not find a variable named "As VRPawn" in 'LeftController_C'.
+Make sure 'LeftController_C' has been compiled for  Set As VRPawn
+[2024.04.10-23.18.51:083][243]LogBlueprint: Error: [AssetLog] D:\Download\CultureQuerst\Project2Prototype\Content\Actors\Interactables\LeftController.uasset: [Compiler] The property associated with  As VRPawn  could not be found in '/Game/Actors/Interactables/LeftController.LeftController_C'
+[2024.04.10-23.18.51:138][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.04.10-23.18.51:164][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.18.51:265][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.10-23.18.51:274][243]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.10-23.18.51:275][243]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftController8E08C39D43DA29FF5B6CDDAE9AF539F5.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.10-23.18.51:282][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 4.84 sec)
+[2024.04.10-23.18.51:296][243]AssetCheck: New page: Asset Save: LeftController
+[2024.04.10-23.18.51:296][243]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.10-23.18.51:841][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.18.51:921][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.10-23.18.51:931][297]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.10-23.18.51:932][297]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftController35B6DABD4539E4C2089B21A1690B0BC2.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.10-23.18.51:941][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 4.94 sec)
+[2024.04.10-23.18.51:954][297]AssetCheck: New page: Asset Save: LeftController
+[2024.04.10-23.18.51:954][297]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.10-23.18.55:543][699]BlueprintLog: New page: Compile LeftController
+[2024.04.10-23.18.55:613][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.04.10-23.18.55:661][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.18.55:774][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.10-23.18.55:784][699]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.10-23.18.55:785][699]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftController593C323743A15ADB9BA99ABA899D3F61.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.10-23.18.55:794][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 5.08 sec)
+[2024.04.10-23.18.55:806][699]AssetCheck: New page: Asset Save: LeftController
+[2024.04.10-23.18.55:806][699]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.10-23.18.55:927][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.18.56:001][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.10-23.18.56:010][705]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.10-23.18.56:011][705]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftController61E24FD04AA0F05245104298B8029C74.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.10-23.18.56:018][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 5.17 sec)
+[2024.04.10-23.18.56:029][705]AssetCheck: New page: Asset Save: LeftController
+[2024.04.10-23.18.56:029][705]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.10-23.19.17:852][109]BlueprintLog: New page: Compile LeftController
+[2024.04.10-23.19.17:918][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.04.10-23.19.17:956][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.19.18:068][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.10-23.19.18:080][109]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.10-23.19.18:080][109]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftController1AD133694944B2BE7DEDE8A5B47031A2.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.10-23.19.18:086][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 5.30 sec)
+[2024.04.10-23.19.18:098][109]AssetCheck: New page: Asset Save: LeftController
+[2024.04.10-23.19.18:098][109]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.10-23.19.18:462][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.19.18:545][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.10-23.19.18:560][145]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.10-23.19.18:561][145]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftControllerB8E801A04036A79F2014DEAAE0E06637.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.10-23.19.18:570][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 5.40 sec)
+[2024.04.10-23.19.18:591][145]AssetCheck: New page: Asset Save: LeftController
+[2024.04.10-23.19.18:591][145]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.10-23.19.23:960][756]BlueprintLog: New page: Compile LeftController
+[2024.04.10-23.19.24:024][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.04.10-23.19.24:065][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.19.24:181][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Interactables/LeftController" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset" SILENT=true
+[2024.04.10-23.19.24:194][756]LogSavePackage: Moving output files for package: /Game/Actors/Interactables/LeftController
+[2024.04.10-23.19.24:194][756]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LeftControllerA30665D94B132164CE879FB7E833A7C1.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/Interactables/LeftController.uasset'
+[2024.04.10-23.19.24:202][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 5.54 sec)
+[2024.04.10-23.19.24:217][756]AssetCheck: New page: Asset Save: LeftController
+[2024.04.10-23.19.24:217][756]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Interactables/LeftController.LeftController
+[2024.04.10-23.19.29:612][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.04.10-23.19.29:624][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.19.29:726][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Tutorial" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.10-23.19.29:760][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.10-23.19.29:780][381]LogSavePackage: Moving output files for package: /Game/Levels/Tutorial
+[2024.04.10-23.19.29:780][381]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/TutorialE889359A48E75F2FAFF1EC8C38AFA3FC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Tutorial.umap'
+[2024.04.10-23.19.29:790][381]LogFileHelpers: Saving map 'Tutorial' took 0.064
+[2024.04.10-23.19.29:797][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 5.71 sec)
+[2024.04.10-23.19.29:808][381]AssetCheck: New page: Asset Save: Tutorial
+[2024.04.10-23.19.29:808][381]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tutorial.Tutorial
+[2024.04.10-23.19.33:769][809]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.10-23.19.33:782][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-23.19.33:782][809]PIE: New page: PIE session: Tutorial (Apr 10, 2024, 9:19:33 AM)
+[2024.04.10-23.19.33:782][809]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.10-23.19.33:786][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004161s)
+[2024.04.10-23.19.33:786][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.004196s)
+[2024.04.10-23.19.33:786][809]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-23.19.33:786][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-23.19.33:787][809]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.10-23.19.33:787][809]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2024.04.10-23.19.33:815][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.04.10-23.19.33:818][809]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.04.10-23.19.33:818][809]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-23.19.33:818][809]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-23.19.33:818][809]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-23.19.33:818][809]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-23.19.33:818][809]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-23.19.33:818][809]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.10-23.19.33:818][809]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-23.19.33:818][809]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-23.19.33:818][809]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-23.19.33:818][809]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-23.19.33:818][809]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-23.19.33:820][809]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-23.19.33:841][809]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.10-23.19.33:842][809]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-23.19.33:842][809]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-23.19.33:842][809]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-23.19.33:843][809]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.04.10-23.19.33:843][809]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.04.10-23.19.33:845][809]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.04.10-23.19.33:845][809]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.04.10-23.19.33:845][809]LogInit: FAudioDevice initialized with ID 13.
+[2024.04.10-23.19.33:845][809]LogAudio: Display: Audio Device (ID: 13) registered with world 'Tutorial'.
+[2024.04.10-23.19.33:845][809]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.10-23.19.33:869][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-23.19.34:202][809]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.10-23.19.34:204][809]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.10-16.19.34
+[2024.04.10-23.19.34:204][809]LogWorld: Bringing up level for play took: 0.001520
+[2024.04.10-23.19.34:207][809]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2024.04.10-23.19.34:210][809]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.10-23.19.34:212][809]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.10-23.19.34:216][809]vr.PixelDensity = "1"
+[2024.04.10-23.19.34:221][809]PIE: Server logged in
+[2024.04.10-23.19.34:223][809]PIE: Play in editor total start time 0.441 seconds.
+[2024.04.10-23.19.34:229][809]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.10-23.19.34:236][809]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.10-23.19.38:948][508]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.10-23.19.44:333][145]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.04.10-23.20.00:829][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-23.20.00:829][ 42]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.10-23.20.00:892][ 42]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.10-23.20.00:895][ 42]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.20.00:895][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.20.00:898][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-23.20.00:907][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.20.00:935][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-23.20.00:935][ 42]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.10-23.20.00:935][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.10-23.20.00:937][ 42]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.10-23.20.00:944][ 42]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.10-23.20.00:944][ 42]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.10-23.20.00:946][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.04.10-23.20.01:073][ 43]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2024.04.10-23.23.20:282][708]BlueprintLog: New page: Compile TutorialWidget
+[2024.04.10-23.23.20:339][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.04.10-23.23.20:369][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.23.20:452][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Tutorial/TutorialWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Tutorial/TutorialWidget.uasset" SILENT=true
+[2024.04.10-23.23.20:471][708]LogSavePackage: Moving output files for package: /Game/Widgets/Tutorial/TutorialWidget
+[2024.04.10-23.23.20:471][708]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/TutorialWidgetC76364A14F70DEE83CD470B413DA5EB9.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Tutorial/TutorialWidget.uasset'
+[2024.04.10-23.23.20:480][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 5.83 sec)
+[2024.04.10-23.23.20:497][708]AssetCheck: New page: Asset Save: TutorialWidget
+[2024.04.10-23.23.20:497][708]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Tutorial/TutorialWidget.TutorialWidget
+[2024.04.10-23.23.20:859][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.23.20:923][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Tutorial/TutorialWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Tutorial/TutorialWidget.uasset" SILENT=true
+[2024.04.10-23.23.20:941][740]LogSavePackage: Moving output files for package: /Game/Widgets/Tutorial/TutorialWidget
+[2024.04.10-23.23.20:942][740]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/TutorialWidget7EFD140C4D62E5E002987B9D6775148E.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Tutorial/TutorialWidget.uasset'
+[2024.04.10-23.23.20:950][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 5.92 sec)
+[2024.04.10-23.23.20:964][740]AssetCheck: New page: Asset Save: TutorialWidget
+[2024.04.10-23.23.20:964][740]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Tutorial/TutorialWidget.TutorialWidget
+[2024.04.10-23.23.25:248][213]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.10-23.23.25:261][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.10-23.23.25:261][213]PIE: New page: PIE session: Tutorial (Apr 10, 2024, 9:23:25 AM)
+[2024.04.10-23.23.25:261][213]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.10-23.23.25:265][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004324s)
+[2024.04.10-23.23.25:265][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tutorial.Tutorial to /Game/Levels/UEDPIE_0_Tutorial.Tutorial (0.004357s)
+[2024.04.10-23.23.25:265][213]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.10-23.23.25:265][213]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.10-23.23.25:266][213]LogAIModule: Creating AISystem for world Tutorial
+[2024.04.10-23.23.25:266][213]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2024.04.10-23.23.25:294][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.04.10-23.23.25:298][213]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.04.10-23.23.25:298][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.10-23.23.25:298][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.10-23.23.25:298][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.10-23.23.25:298][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.10-23.23.25:298][213]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.10-23.23.25:298][213]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.10-23.23.25:298][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.10-23.23.25:298][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.10-23.23.25:298][213]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.10-23.23.25:298][213]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.10-23.23.25:298][213]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.10-23.23.25:300][213]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.10-23.23.25:320][213]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.10-23.23.25:320][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.10-23.23.25:320][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.10-23.23.25:320][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.10-23.23.25:321][213]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.04.10-23.23.25:321][213]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.04.10-23.23.25:322][213]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.04.10-23.23.25:322][213]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.04.10-23.23.25:322][213]LogInit: FAudioDevice initialized with ID 14.
+[2024.04.10-23.23.25:322][213]LogAudio: Display: Audio Device (ID: 14) registered with world 'Tutorial'.
+[2024.04.10-23.23.25:322][213]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.10-23.23.25:344][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-23.23.25:680][213]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.10-23.23.25:684][213]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tutorial.Tutorial up for play (max tick rate 0) at 2024.04.10-16.23.25
+[2024.04.10-23.23.25:684][213]LogWorld: Bringing up level for play took: 0.003214
+[2024.04.10-23.23.25:687][213]LogOnline: OSS: Created online subsystem instance for: :Context_121
+[2024.04.10-23.23.25:691][213]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.10-23.23.25:693][213]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.10-23.23.25:700][213]vr.PixelDensity = "1"
+[2024.04.10-23.23.25:706][213]PIE: Server logged in
+[2024.04.10-23.23.25:709][213]PIE: Play in editor total start time 0.448 seconds.
+[2024.04.10-23.23.25:717][213]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.10-23.23.25:727][213]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.10-23.23.30:413][891]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.04.10-23.23.33:141][243]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.04.10-23.23.33:993][341]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.04.10-23.23.48:376][989]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.04.10-23.24.00:220][349]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.04.10-23.24.00:805][411]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.04.10-23.24.07:310][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.10-23.24.07:310][148]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tutorial
+[2024.04.10-23.24.07:345][148]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.10-23.24.07:349][148]LogWorld: UWorld::CleanupWorld for Tutorial, bSessionEnded=true, bCleanupResources=true
+[2024.04.10-23.24.07:349][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.24.07:352][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.10-23.24.07:362][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.10-23.24.07:391][148]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.10-23.24.07:391][148]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.04.10-23.24.07:391][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.10-23.24.07:393][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.04.10-23.24.07:400][148]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.10-23.24.07:400][148]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.10-23.24.07:402][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.04.10-23.24.07:519][149]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2024.04.10-23.24.23:879][ 47]BlueprintLog: New page: Compile TutorialWidget
+[2024.04.10-23.24.23:934][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.04.10-23.24.24:492][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.24.24:589][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Tutorial/TutorialWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Tutorial/TutorialWidget.uasset" SILENT=true
+[2024.04.10-23.24.24:615][ 96]LogSavePackage: Moving output files for package: /Game/Widgets/Tutorial/TutorialWidget
+[2024.04.10-23.24.24:615][ 96]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/TutorialWidget4B7493034F3DAD98BF8B7CA879FDD422.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Tutorial/TutorialWidget.uasset'
+[2024.04.10-23.24.24:626][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 6.05 sec)
+[2024.04.10-23.24.24:649][ 96]AssetCheck: New page: Asset Save: TutorialWidget
+[2024.04.10-23.24.24:649][ 96]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Tutorial/TutorialWidget.TutorialWidget
+[2024.04.10-23.24.47:091][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-23.24.47:152][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Tutorial/TutorialWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Tutorial/TutorialWidget.uasset" SILENT=true
+[2024.04.10-23.24.47:172][668]LogSavePackage: Moving output files for package: /Game/Widgets/Tutorial/TutorialWidget
+[2024.04.10-23.24.47:172][668]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/TutorialWidget7FCF2BFB4E68F267BE039785CE32035B.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/Tutorial/TutorialWidget.uasset'
+[2024.04.10-23.24.47:181][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 6.14 sec)
+[2024.04.10-23.24.47:192][668]AssetCheck: New page: Asset Save: TutorialWidget
+[2024.04.10-23.24.47:192][668]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Tutorial/TutorialWidget.TutorialWidget
