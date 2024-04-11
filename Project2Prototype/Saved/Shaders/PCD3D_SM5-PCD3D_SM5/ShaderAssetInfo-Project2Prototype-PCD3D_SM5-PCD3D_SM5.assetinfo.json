@@ -14,9 +14,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "907D36365AA28C1F15A850602B1FC8232C688E7E",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "25F2990E0BE3A4812FE40731F1C303810B16FA5E",
 			"Assets": [
 				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "0D7150DDDF41735785C7CCDD48C42234174CDC6F",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
 			]
 		},
 		{
@@ -32,15 +44,34 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1EA64FFC8D7A92B2AD25BF141AD44308261E3B73",
+			"ShaderMapHash": "D11555F8336CFA291F27CEE016E3FB9D2B29D8EA",
 			"Assets": [
-				"/ControlRig/Controls/ControlRigXRayMaterial"
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1EE9B75BD8C571005B7F8988C3BD2A30B169A52",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Engine/MapTemplates/Sky/M_BlackBackground"
 			]
 		},
 		{
 			"ShaderMapHash": "A922C11699AC215B7E8B74FE4EC4D4EC115E327F",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "1EA64FFC8D7A92B2AD25BF141AD44308261E3B73",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4D3CEDCC3C388A418C573DBC59F1C8380EE97648",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{
@@ -53,36 +84,6 @@
 			"ShaderMapHash": "4517A51C2E4720CEDBF2770EFD775DFDEC43C2BF",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray"
-			]
-		},
-		{
-			"ShaderMapHash": "907D36365AA28C1F15A850602B1FC8232C688E7E",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "0D7150DDDF41735785C7CCDD48C42234174CDC6F",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "D11555F8336CFA291F27CEE016E3FB9D2B29D8EA",
-			"Assets": [
-				"/Engine/EngineMaterials/GizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "E1EE9B75BD8C571005B7F8988C3BD2A30B169A52",
-			"Assets": [
-				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "4D3CEDCC3C388A418C573DBC59F1C8380EE97648",
-			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
 			]
 		},
 		{
@@ -104,9 +105,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B9B94F5E1EF8AC7F24A4DD085900A54CC0368AA6",
+			"ShaderMapHash": "54966ED29AADFF007C3A315CE7CE7BA1E9ECE703",
 			"Assets": [
-				"/Game/VRTemplate/Materials/M_VRCursor"
+				"/Game/VRTemplate/Materials/M_Projectile"
 			]
 		},
 		{
@@ -116,15 +117,39 @@
 			]
 		},
 		{
-			"ShaderMapHash": "54966ED29AADFF007C3A315CE7CE7BA1E9ECE703",
+			"ShaderMapHash": "B9B94F5E1EF8AC7F24A4DD085900A54CC0368AA6",
 			"Assets": [
-				"/Game/VRTemplate/Materials/M_Projectile"
+				"/Game/VRTemplate/Materials/M_VRCursor"
+			]
+		},
+		{
+			"ShaderMapHash": "0D1F792B8D7CA3C96060F7ACAAEDE89FCE109F88",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_PostProcess"
+			]
+		},
+		{
+			"ShaderMapHash": "9EA75741881871A6F9BD8B15620BE93594F64FA0",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Mirror"
 			]
 		},
 		{
 			"ShaderMapHash": "F3471478EB9AD94D8CEAF2B884D3457720FE51D6",
 			"Assets": [
 				"/Game/Megascans/Surfaces/Glass_Surface/GlassMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C0C9A88FB7E24694D4744B8F21F054F3B3D1A668",
+			"Assets": [
+				"/Game/Materials/Green_Transparent"
+			]
+		},
+		{
+			"ShaderMapHash": "B7D38A80A5C31D253D1871840D3237D7723E7E5E",
+			"Assets": [
+				"/Game/Materials/Black_Transparent"
 			]
 		},
 		{
@@ -140,76 +165,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E3769F0A6621FD1783B015EC464A9FAD7AEF626E",
+			"ShaderMapHash": "19560F77725DF7127A2C0A6575E210003E51DB1D",
 			"Assets": [
-				"/ControlRig/M_Manip"
+				"/Engine/EngineMaterials/WorldGridMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "053313D14DECDEB1395AA7EEDF2A2B0165F8A961",
+			"ShaderMapHash": "0101F6EC848C1B512F2B1920ED535EC9E517D397",
 			"Assets": [
-				"/OpenXR/Devices/M_XRController"
-			]
-		},
-		{
-			"ShaderMapHash": "5B2AF7366325E9BB3B5E2699B43A8A5D707CCE1E",
-			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial",
-				"/Engine/EngineMaterials/FlattenMaterial_VT"
-			]
-		},
-		{
-			"ShaderMapHash": "36DA695CF461244B4C909C66C022EEDAB3A04A28",
-			"Assets": [
-				"/Engine/VREditor/Devices/Generic/GenericHMDMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "7981E48287FE0FD93E5C65D170431E4EDAA35509",
-			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
-			]
-		},
-		{
-			"ShaderMapHash": "0A052F7300F745EF1EF1CABABF06D6CD121D33AC",
-			"Assets": [
-				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
-			]
-		},
-		{
-			"ShaderMapHash": "2CED7C8E69F9CAA2B14F5BF5BFF34744BFD94427",
-			"Assets": [
-				"/Engine/EngineMaterials/EmissiveMeshMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "AE98FAD477A10516DDE010274ADE651E17397725",
-			"Assets": [
-				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "0E2EF370F44DD9F53E0CB11FF96E328A98FD5FCE",
-			"Assets": [
-				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "43E3AD0D4918DE1F4CE4E4868651DAC0875A3B72",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
-			"ShaderMapHash": "41E515128470F2B1192BB6E13687D2D0CA74B884",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "EE28DD72E910EF8A88FAA751ECC379BB89D0F079",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
 			]
 		},
 		{
@@ -239,21 +203,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "EE28DD72E910EF8A88FAA751ECC379BB89D0F079",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "484898DDAE79211E962896EF6D9D0F0C4399B33A",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "19560F77725DF7127A2C0A6575E210003E51DB1D",
-			"Assets": [
-				"/Engine/EngineMaterials/WorldGridMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "0101F6EC848C1B512F2B1920ED535EC9E517D397",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
 			]
 		},
 		{
@@ -263,51 +221,120 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E0C9540961840B2A364F260D577EAD7BBD44D6D7",
+			"ShaderMapHash": "6658E4D03245653C6D78DCAE30644F4212FC9ECF",
 			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+				"/Game/Victorian_House/Materials/Mat_Fire"
 			]
 		},
 		{
-			"ShaderMapHash": "F05334AD2F1F847E0D93FCD7BB4AB85383A6ABCD",
+			"ShaderMapHash": "4FEEBAD8D2A74AAFC76EEC5D395BF38F9C389CAE",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+				"/Game/Victorian_House/Materials/Mat_Firewood"
 			]
 		},
 		{
-			"ShaderMapHash": "64B39089A0EB30D3F10966C0DBCF5C6722DB62A1",
+			"ShaderMapHash": "237D95324640A8688CB391C907BE51A0811181B7",
 			"Assets": [
-				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+				"/Game/Victorian_House/Materials/Mat_CandleFire"
 			]
 		},
 		{
-			"ShaderMapHash": "50678750565FC3A436A2FD578DDEC10716B7D61A",
+			"ShaderMapHash": "7981E48287FE0FD93E5C65D170431E4EDAA35509",
 			"Assets": [
-				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
-				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3",
-				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
-				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
-				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality"
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
 			]
 		},
 		{
-			"ShaderMapHash": "09C6852A1042EDB5C231941FBDA363BF1AF89F6C",
+			"ShaderMapHash": "5B2AF7366325E9BB3B5E2699B43A8A5D707CCE1E",
 			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "6A944762C02D5301A0CFC9E278C5593C2F7FEA37",
+			"ShaderMapHash": "0A052F7300F745EF1EF1CABABF06D6CD121D33AC",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Imperfection_Material_Var/M_MS_Imperfection_Material_Var",
-				"/Game/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material_Var",
-				"/Game/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_Var_VT"
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "2CED7C8E69F9CAA2B14F5BF5BFF34744BFD94427",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0E2EF370F44DD9F53E0CB11FF96E328A98FD5FCE",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E3769F0A6621FD1783B015EC464A9FAD7AEF626E",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "41E515128470F2B1192BB6E13687D2D0CA74B884",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "053313D14DECDEB1395AA7EEDF2A2B0165F8A961",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "AE98FAD477A10516DDE010274ADE651E17397725",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "43E3AD0D4918DE1F4CE4E4868651DAC0875A3B72",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "36DA695CF461244B4C909C66C022EEDAB3A04A28",
+			"Assets": [
+				"/Engine/VREditor/Devices/Generic/GenericHMDMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AF63FC6B5CE96B2967ACE1B597A8EBA98134CF28",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Smoke"
+			]
+		},
+		{
+			"ShaderMapHash": "6731B4A953E478AFC3619F4987354A122A85A96A",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Heat_Distortion"
+			]
+		},
+		{
+			"ShaderMapHash": "CB5FA6FC8BB801374F7371F693707D1BA845AAF8",
+			"Assets": [
+				"/Game/Materials/PaintingMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "E1948CA261720DC9B69414FC1991B282AD08DD72",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6A944762C02D5301A0CFC9E278C5593C2F7FEA37",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material_Var",
+				"/Game/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_Var_VT",
+				"/Game/MSPresets/M_MS_Imperfection_Material_Var/M_MS_Imperfection_Material_Var"
 			]
 		},
 		{
@@ -323,15 +350,79 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E0C9540961840B2A364F260D577EAD7BBD44D6D7",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "CE91C059728855FC7CB2F234B20D13E8CE7A4A4D",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "A3A332676EF7210E8FEA6F680DCD952E01051AF6",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Radial_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "7326F8361459E0D503158904FCF114A32CD7BDDA",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Dust"
+			]
+		},
+		{
+			"ShaderMapHash": "393CD5F31E15686D9189B00E7A8BBA0171835307",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Outline"
+			]
+		},
+		{
+			"ShaderMapHash": "B2C60CA93D47D083E10354673316AD5AE2D38720",
+			"Assets": [
+				"/Game/Materials/Mat_Highlight"
+			]
+		},
+		{
+			"ShaderMapHash": "64B39089A0EB30D3F10966C0DBCF5C6722DB62A1",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "50678750565FC3A436A2FD578DDEC10716B7D61A",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2"
+			]
+		},
+		{
 			"ShaderMapHash": "D4459F417C8AC7F921F7541532FB1484ACFDE977",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
 			]
 		},
 		{
+			"ShaderMapHash": "09C6852A1042EDB5C231941FBDA363BF1AF89F6C",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
 			"ShaderMapHash": "994A70532FA436E1F85594C21CF14D235DFD4D5C",
 			"Assets": [
 				"/Paper2D/MaskedUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F05334AD2F1F847E0D93FCD7BB4AB85383A6ABCD",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
 			]
 		},
 		{
@@ -348,34 +439,56 @@
 			]
 		},
 		{
-			"ShaderMapHash": "763E3137A594511A902A31E56134287CF48F76F7",
+			"ShaderMapHash": "B88CF8DD98F80F70910FC23D258C1C8C84D4EBEE",
 			"Assets": [
-				"/Game/VRTemplate/Materials/M_TeleportNoise"
+				"/Game/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_VT",
+				"/Game/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material"
 			]
 		},
 		{
-			"ShaderMapHash": "124358331AB920A96171B8831DAF933D75EED9CA",
+			"ShaderMapHash": "501A8EE5EE244FDDF58CA64DF660D045C18D8B09",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material",
-				"/Bridge/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material"
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Curtain_06",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Curtain_05",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Curtain_04",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Curtain_03",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Curtain_02",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Curtain_01",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Carpet_07",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Carpet_05",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_13",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Carpet_10",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Rope_03",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Rope_02",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Rope_01",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Curtain_10",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Curtain_09",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Carpet_04",
+				"/Game/Victorian_House/Materials/Instance/Inst_BigBookLabel"
 			]
 		},
 		{
-			"ShaderMapHash": "E80035CE8CC37A3952774BFDC3E4F96EF3755815",
+			"ShaderMapHash": "986775A974E2586C93199CD162238DB64E16205A",
 			"Assets": [
-				"/Game/MSPresets/M_MS_SurfaceBlend_Material/M_MS_SurfaceBlend_Material"
-			]
-		},
-		{
-			"ShaderMapHash": "FC98EDDCF31854C3F8A28F78204295FC5BC9C602",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_TeleportCylinder"
+				"/Game/Victorian_House/Materials/Mat_Props"
 			]
 		},
 		{
 			"ShaderMapHash": "0D7FCC7488C425D5DF96EE8B499794369BFA0D7A",
 			"Assets": [
 				"/Game/MSPresets/M_MS_Surface_Material_VT/M_MS_Surface_Material_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "422923698E50D2362F179FEF6350C4FD35275E6E",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Tulle"
+			]
+		},
+		{
+			"ShaderMapHash": "5B43C8607163E03E8878378A5097CF1A2FBC5184",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Simple"
 			]
 		},
 		{
@@ -413,43 +526,33 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9638AA1EF353FFE3CE0FA1C8C73D035FA8ECE7B5",
+			"ShaderMapHash": "5F4EA2CD4691C28BA8D1532B374C2F90E6471744",
 			"Assets": [
-				"/Game/VRTemplate/Materials/M_GridRotation",
-				"/Game/VRTemplate/Materials/MI_Grid_Default"
+				"/Game/Victorian_House/Materials/Mat_Wall_Panel"
 			]
 		},
 		{
-			"ShaderMapHash": "1BB27C8F0396E2AE48A2417B4F5768FBF273891E",
+			"ShaderMapHash": "3B147173525B81594DF9F81D85B9D9A363739958",
 			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+				"/Game/Victorian_House/Materials/Mat_StainedMetal"
 			]
 		},
 		{
-			"ShaderMapHash": "C3101C13A0CF010C0369B14F115BEE6FE16E4216",
+			"ShaderMapHash": "763E3137A594511A902A31E56134287CF48F76F7",
 			"Assets": [
-				"/Game/MSPresets/M_MS_ImperfectionDecal_Material_VT/M_MS_ImperfectionDecal_Material_VT",
-				"/Game/MSPresets/M_MS_ImperfectionDecal_Material/M_MS_ImperfectionDecal_Material"
+				"/Game/VRTemplate/Materials/M_TeleportNoise"
 			]
 		},
 		{
-			"ShaderMapHash": "167DAF22A891B8449F1910E9F0186025C6D6396C",
+			"ShaderMapHash": "FC98EDDCF31854C3F8A28F78204295FC5BC9C602",
 			"Assets": [
-				"/Game/MSPresets/M_MS_Decal_Material_VT/M_MS_Decal_Material_VT",
-				"/Game/MSPresets/M_MS_Decal_Material/M_MS_Decal_Material"
+				"/Game/VRTemplate/Materials/M_TeleportCylinder"
 			]
 		},
 		{
-			"ShaderMapHash": "686C2113BB9B7438B83F6F4ADB30A098AF18AF45",
+			"ShaderMapHash": "89367BA1459925FC3A26E8BAFB44682AC63DFB57",
 			"Assets": [
-				"/Game/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_02"
-			]
-		},
-		{
-			"ShaderMapHash": "B88CF8DD98F80F70910FC23D258C1C8C84D4EBEE",
-			"Assets": [
-				"/Game/MSPresets/M_MS_Imperfection_Material_VT/M_MS_Imperfection_Material_VT",
-				"/Game/MSPresets/M_MS_Imperfection_Material/M_MS_Imperfection_Material"
+				"/Game/Victorian_House/Materials/Mat_GodRay"
 			]
 		},
 		{
@@ -465,6 +568,165 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4ED9A7736DB1A5E9116546DD7AE193EC93B30150",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "9638AA1EF353FFE3CE0FA1C8C73D035FA8ECE7B5",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_GridRotation",
+				"/Game/VRTemplate/Materials/MI_Grid_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "1BB27C8F0396E2AE48A2417B4F5768FBF273891E",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "D3AB0EA15E5014608309D5BE2C4F455F7209A46A",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "0640CF326723F44F40B14C2E506B8D48D2C0DA39",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_08",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_06",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_05",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_04",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_03",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_02",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_01",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Canvas",
+				"/Game/Victorian_House/Materials/Instance/Inst_Tree",
+				"/Game/Victorian_House/Materials/Instance/Inst_Towel_02",
+				"/Game/Victorian_House/Materials/Instance/Inst_Towel_01",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_07",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Leather_02",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_14",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_12",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_11",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_10",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Cloth_09",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_OilPicture",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Leather_04",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Leather_03",
+				"/Game/Victorian_House/Materials/Instance/Inst_ShampooPicture_02",
+				"/Game/Victorian_House/Materials/Instance/Inst_ShampooPicture_01",
+				"/Game/Victorian_House/Materials/Instance/Inst_Pie_02",
+				"/Game/Victorian_House/Materials/Instance/Inst_PerfumePicture_02",
+				"/Game/Victorian_House/Materials/Instance/Inst_PerfumePicture_01",
+				"/Game/Victorian_House/Materials/Instance/Inst_Grass",
+				"/Game/Victorian_House/Materials/Instance/Inst_DetergentPicture"
+			]
+		},
+		{
+			"ShaderMapHash": "5C44943E0BC6DB8CE3DF19DE6F37687C09D1A6E3",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Instance/Inst_Curtain_08",
+				"/Game/Victorian_House/Materials/Instance/Inst_Tulle",
+				"/Game/Victorian_House/Materials/Instance/Inst_Tablecloth_02",
+				"/Game/Victorian_House/Materials/Instance/Inst_Tablecloth_01"
+			]
+		},
+		{
+			"ShaderMapHash": "E80035CE8CC37A3952774BFDC3E4F96EF3755815",
+			"Assets": [
+				"/Game/MSPresets/M_MS_SurfaceBlend_Material/M_MS_SurfaceBlend_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "124358331AB920A96171B8831DAF933D75EED9CA",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material",
+				"/Bridge/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "CFEB1DE031EC4BA2740627957A21DC3C2E790168",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Instance/Inst_Washbasin_02",
+				"/Game/Victorian_House/Materials/Instance/Inst_Washbasin",
+				"/Game/Victorian_House/Materials/Instance/Inst_Manuscript_06",
+				"/Game/Victorian_House/Materials/Instance/Inst_Partition_01",
+				"/Game/Victorian_House/Materials/Instance/Inst_Manuscript_05",
+				"/Game/Victorian_House/Materials/Instance/Inst_Manuscript_04",
+				"/Game/Victorian_House/Materials/Instance/Inst_Manuscript_03",
+				"/Game/Victorian_House/Materials/Instance/Inst_Manuscript_02",
+				"/Game/Victorian_House/Materials/Instance/Inst_Newspaper_01",
+				"/Game/Victorian_House/Materials/Instance/Inst_Newspapers",
+				"/Game/Victorian_House/Materials/Instance/Inst_Flower_05",
+				"/Game/Victorian_House/Materials/Instance/Inst_Flower_01",
+				"/Game/Victorian_House/Materials/Instance/Inst_Manuscript_01",
+				"/Game/Victorian_House/Materials/Instance/Inst_Newspaper_02",
+				"/Game/Victorian_House/Materials/Instance/Inst_Notepad",
+				"/Game/Victorian_House/Materials/Instance/Inst_PaperFolder",
+				"/Game/Victorian_House/Materials/Instance/Inst_Flower_04",
+				"/Game/Victorian_House/Materials/Instance/Inst_Flower_02",
+				"/Game/Victorian_House/Materials/Instance/Inst_Curtain_07"
+			]
+		},
+		{
+			"ShaderMapHash": "C3101C13A0CF010C0369B14F115BEE6FE16E4216",
+			"Assets": [
+				"/Game/MSPresets/M_MS_ImperfectionDecal_Material_VT/M_MS_ImperfectionDecal_Material_VT",
+				"/Game/MSPresets/M_MS_ImperfectionDecal_Material/M_MS_ImperfectionDecal_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "181853C6BAFD8DA4D4B09E634DC3EDABB29599FD",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Instance/Inst_GodRay"
+			]
+		},
+		{
+			"ShaderMapHash": "1B9A308816702021975E305E97B6C5F462E1A28B",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Leaves"
+			]
+		},
+		{
+			"ShaderMapHash": "CB0C421398454164E1721235C78DB76FB5976641",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Leaves"
+			]
+		},
+		{
+			"ShaderMapHash": "D64BCAC5932A60F516DE735F6EC6EAB3231E52D3",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Carpet"
+			]
+		},
+		{
+			"ShaderMapHash": "B842E12BDDB4F754B22E933C022470FD65DB25CF",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Mat_Carpet"
+			]
+		},
+		{
+			"ShaderMapHash": "167DAF22A891B8449F1910E9F0186025C6D6396C",
+			"Assets": [
+				"/Game/MSPresets/M_MS_Decal_Material_VT/M_MS_Decal_Material_VT",
+				"/Game/MSPresets/M_MS_Decal_Material/M_MS_Decal_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "7CA0E97D54E213BA50452FE7088543372540E507",
+			"Assets": [
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Brick_01",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Plastic_Glossy_04",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Plastic_Glossy_03",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Plastic_Glossy_02",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Plastic_Glossy_01",
+				"/Game/Victorian_House/Materials/Instance/Tiling/Inst_Concrete_01"
+			]
+		},
+		{
 			"ShaderMapHash": "62E841CFB03F0A3B9286CE7DC0007F07847246D6",
 			"Assets": [
 				"/Game/VRTemplate/Materials/MI_Grid_Accent"
@@ -474,6 +736,12 @@
 			"ShaderMapHash": "81CCCB9479016A8990F47F18BDDAAEC99E476E04",
 			"Assets": [
 				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "686C2113BB9B7438B83F6F4ADB30A098AF18AF45",
+			"Assets": [
+				"/Game/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_02"
 			]
 		}
 	]
