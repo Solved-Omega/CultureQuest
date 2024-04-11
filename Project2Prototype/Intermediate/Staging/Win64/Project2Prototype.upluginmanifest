@@ -279,8 +279,8 @@
 			"Descriptor": 
 			{
 				"FileVersion": 3,
-				"Version": 19,
-				"VersionName": "2023.0.3",
+				"Version": 20,
+				"VersionName": "2023.4.0",
 				"FriendlyName": "Bridge",
 				"Description": "Megascans Link for Quixel Bridge.",
 				"Category": "Editor",
@@ -1978,12 +1978,18 @@
 					{
 						"Name": "RuntimeAudioImporter",
 						"Type": "Runtime",
-						"LoadingPhase": "Default"
+						"LoadingPhase": "PreDefault"
 					},
 					{
 						"Name": "RuntimeAudioImporterEditor",
 						"Type": "Editor",
 						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "AndroidPermission",
+						"Enabled": true
 					}
 				]
 			}
@@ -2010,7 +2016,7 @@
 					{
 						"Name": "RuntimeSpeechRecognizer",
 						"Type": "Runtime",
-						"LoadingPhase": "Default"
+						"LoadingPhase": "PreDefault"
 					},
 					{
 						"Name": "RuntimeSpeechRecognizerEditor",
