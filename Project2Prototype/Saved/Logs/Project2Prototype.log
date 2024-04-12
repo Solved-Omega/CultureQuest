@@ -8593,3 +8593,1316 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-05.04.44:659][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
 [2024.04.12-05.04.44:755][251]LogPlayLevel: Display: Destroying online subsystem :Context_66
 [2024.04.12-05.04.46:000][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.12-05.06.53:460][ 19]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.06.53:460][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.06.54:107][ 67]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.04.12-05.06.54:107][ 67]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.06.54:107][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.06.54:644][106]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.06.54:644][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.06.54:659][106]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.06.54:659][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.06.56:433][228]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.06.56:433][228]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_21:LevelSelectorWidget_C_175.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.06.56:433][228]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.06.56:433][228]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_21:LevelSelectorWidget_C_175.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.06.58:741][484]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.06.58:741][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.06.58:755][484]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.06.58:755][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.07.09:826][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.04.12-05.07.10:007][697]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.07.10:019][697]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/IrvingHouse.IrvingHouse
+[2024.04.12-05.07.10:019][697]Cmd: MAP LOAD FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.12-05.07.10:019][697]LightingResults: New page: Lighting Build
+[2024.04.12-05.07.10:021][697]LoadErrors: New page: Loading map: IrvingHouse.umap
+[2024.04.12-05.07.10:023][697]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.07.10:023][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.07.10:023][697]MapCheck: New page: Map Check
+[2024.04.12-05.07.10:023][697]LightingResults: New page: Lighting Build
+[2024.04.12-05.07.10:047][697]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.12-05.07.10:054][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.12-05.07.10:060][697]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.07.10:060][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.07.10:089][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.04.12-05.07.10:117][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.12-05.07.10:213][697]LogAudio: Display: Audio Device (ID: 1) registered with world 'IrvingHouse'.
+[2024.04.12-05.07.10:213][697]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.07.10:213][697]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.07.10:214][697]LogAIModule: Creating AISystem for world IrvingHouse
+[2024.04.12-05.07.10:461][697]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.12-05.07.10:493][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.12-05.07.10:503][697]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.12-05.07.10:503][697]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2024.04.12-05.07.10:503][697]LogFileHelpers: Loading map 'IrvingHouse' took 0.485
+[2024.04.12-05.07.16:232][220]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2024.04.12-05.07.16:232][220]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.07.16:233][220]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.07.41:616][894]BlueprintLog: New page: Compile LearningPoint
+[2024.04.12-05.07.41:715][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.04.12-05.07.41:753][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.07.41:832][894]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.07.41:896][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/LearningPoint" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/LearningPoint.uasset" SILENT=true
+[2024.04.12-05.07.41:926][894]LogSavePackage: Moving output files for package: /Game/Actors/LearningPoint
+[2024.04.12-05.07.41:927][894]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LearningPoint3532A08C4061888D5602CA983D5CFE3C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/LearningPoint.uasset'
+[2024.04.12-05.07.41:935][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 12.1 sec)
+[2024.04.12-05.07.41:951][894]AssetCheck: New page: Asset Save: LearningPoint
+[2024.04.12-05.07.41:951][894]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2024.04.12-05.07.42:786][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.07.42:887][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/LearningPoint" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/LearningPoint.uasset" SILENT=true
+[2024.04.12-05.07.42:904][981]LogSavePackage: Moving output files for package: /Game/Actors/LearningPoint
+[2024.04.12-05.07.42:904][981]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LearningPointE7B0347F4CC8E4D5FC6DD28CA6928754.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/LearningPoint.uasset'
+[2024.04.12-05.07.42:915][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 12.2 sec)
+[2024.04.12-05.07.42:928][981]AssetCheck: New page: Asset Save: LearningPoint
+[2024.04.12-05.07.42:928][981]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2024.04.12-05.07.54:079][236]BlueprintLog: New page: Compile LearningPoint
+[2024.04.12-05.07.54:144][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.04.12-05.07.54:194][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.07.54:312][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/LearningPoint" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/LearningPoint.uasset" SILENT=true
+[2024.04.12-05.07.54:324][236]LogSavePackage: Moving output files for package: /Game/Actors/LearningPoint
+[2024.04.12-05.07.54:324][236]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LearningPointBB57CAE34C0DA15620B042A10DE54D3C.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Actors/LearningPoint.uasset'
+[2024.04.12-05.07.54:333][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 12.4 sec)
+[2024.04.12-05.07.54:354][236]AssetCheck: New page: Asset Save: LearningPoint
+[2024.04.12-05.07.54:354][236]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/LearningPoint.LearningPoint
+[2024.04.12-05.07.54:726][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.04.12-05.07.54:737][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.07.54:838][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.12-05.07.54:868][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.12-05.07.54:988][267]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse
+[2024.04.12-05.07.54:989][267]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse99E9A6CC400B9B144482E78AEB14CF1F.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse.umap'
+[2024.04.12-05.07.55:000][267]LogFileHelpers: No new changes to save!
+[2024.04.12-05.07.55:000][267]LogFileHelpers: Saving map 'IrvingHouse' took 0.163
+[2024.04.12-05.07.55:009][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 272 ms (total: 12.6 sec)
+[2024.04.12-05.07.55:024][267]AssetCheck: New page: Asset Save: IrvingHouse
+[2024.04.12-05.07.55:024][267]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse.IrvingHouse
+[2024.04.12-05.09.35:126][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.04.12-05.09.35:212][179]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.09.35:214][179]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Lobby.Lobby
+[2024.04.12-05.09.35:214][179]Cmd: MAP LOAD FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.12-05.09.35:214][179]LightingResults: New page: Lighting Build
+[2024.04.12-05.09.35:214][179]LoadErrors: New page: Loading map: Lobby.umap
+[2024.04.12-05.09.35:250][179]LogWorld: UWorld::CleanupWorld for IrvingHouse, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.09.35:250][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.09.35:250][179]MapCheck: New page: Map Check
+[2024.04.12-05.09.35:250][179]LightingResults: New page: Lighting Build
+[2024.04.12-05.09.35:275][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.12-05.09.35:282][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.12-05.09.35:288][179]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.09.35:288][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.09.35:316][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.04.12-05.09.35:340][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.12-05.09.35:353][179]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lobby'.
+[2024.04.12-05.09.35:353][179]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.09.35:353][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.09.35:353][179]LogAIModule: Creating AISystem for world Lobby
+[2024.04.12-05.09.35:563][179]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.12-05.09.35:587][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.12-05.09.35:598][179]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.12-05.09.35:598][179]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2024.04.12-05.09.35:598][179]LogFileHelpers: Loading map 'Lobby' took 0.384
+[2024.04.12-05.09.36:460][262]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.12-05.09.36:471][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.12-05.09.36:471][262]PIE: New page: PIE session: Lobby (Apr 11, 2024, 3:09:36 PM)
+[2024.04.12-05.09.36:471][262]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2024.04.12-05.09.36:473][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001989s)
+[2024.04.12-05.09.36:473][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.002018s)
+[2024.04.12-05.09.36:473][262]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.09.36:473][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.09.36:474][262]LogAIModule: Creating AISystem for world Lobby
+[2024.04.12-05.09.36:474][262]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2024.04.12-05.09.36:501][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.12-05.09.36:509][262]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2024.04.12-05.09.36:509][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.12-05.09.36:509][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.12-05.09.36:509][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.12-05.09.36:509][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.12-05.09.36:509][262]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.12-05.09.36:509][262]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.12-05.09.36:509][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.12-05.09.36:509][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.12-05.09.36:509][262]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.12-05.09.36:509][262]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.12-05.09.36:509][262]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.12-05.09.36:511][262]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.12-05.09.36:530][262]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.12-05.09.36:530][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.12-05.09.36:530][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.12-05.09.36:530][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.12-05.09.36:530][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2024.04.12-05.09.36:530][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2024.04.12-05.09.36:532][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2024.04.12-05.09.36:532][262]LogInit: FAudioDevice initialized with ID 50.
+[2024.04.12-05.09.36:532][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2024.04.12-05.09.36:532][262]LogAudio: Display: Audio Device (ID: 50) registered with world 'Lobby'.
+[2024.04.12-05.09.36:532][262]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2024.04.12-05.09.36:554][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-05.09.36:901][262]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.04.12-05.09.36:905][262]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2024.04.11-22.09.36
+[2024.04.12-05.09.36:906][262]LogWorld: Bringing up level for play took: 0.004686
+[2024.04.12-05.09.36:909][262]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2024.04.12-05.09.36:913][262]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.09.36:913][262]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_48.LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.09.36:913][262]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.09.36:913][262]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_48.LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.09.36:913][262]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.12-05.09.36:913][262]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.12-05.09.36:913][262]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.12-05.09.36:914][262]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2024.04.12-05.09.36:914][262]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Student.sav' error.
+[2024.04.12-05.09.36:914][262]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - Lobby.sav' error.
+[2024.04.12-05.09.36:914][262]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.04.12-05.09.36:985][262]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.12-05.09.36:986][262]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.12-05.09.36:990][262]PIE: Server logged in
+[2024.04.12-05.09.36:993][262]PIE: Play in editor total start time 0.523 seconds.
+[2024.04.12-05.09.37:000][262]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2024.04.12-05.09.45:926][784]Cmd: quit
+[2024.04.12-05.09.45:927][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-05.09.45:927][784]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2024.04.12-05.09.45:957][784]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.12-05.09.46:006][784]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.09.46:006][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.09.46:009][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.12-05.09.46:017][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.09.46:043][784]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.12-05.09.46:043][784]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2024.04.12-05.09.46:043][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.04.12-05.09.46:045][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2024.04.12-05.09.46:053][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.04.12-05.09.46:089][785]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2024.04.12-05.09.51:196][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.09.51:272][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lobby" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.12-05.09.51:302][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.04.12-05.09.51:314][312]LogSavePackage: Moving output files for package: /Game/Levels/Lobby
+[2024.04.12-05.09.51:314][312]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LobbyEBC29BCC4D292874DB83F3BD7F5F9AC3.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/Lobby.umap'
+[2024.04.12-05.09.51:324][312]LogFileHelpers: No new changes to save!
+[2024.04.12-05.09.51:324][312]LogFileHelpers: Saving map 'Lobby' took 0.053
+[2024.04.12-05.09.51:335][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 12.8 sec)
+[2024.04.12-05.09.51:349][312]AssetCheck: New page: Asset Save: Lobby
+[2024.04.12-05.09.51:349][312]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Lobby.Lobby
+[2024.04.12-05.10.02:651][595]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.12-05.10.02:662][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.12-05.10.02:662][595]PIE: New page: PIE session: Lobby (Apr 11, 2024, 3:10:02 PM)
+[2024.04.12-05.10.02:662][595]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2024.04.12-05.10.02:664][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002071s)
+[2024.04.12-05.10.02:664][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.002103s)
+[2024.04.12-05.10.02:664][595]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.10.02:664][595]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.10.02:665][595]LogAIModule: Creating AISystem for world Lobby
+[2024.04.12-05.10.02:665][595]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2024.04.12-05.10.02:690][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.04.12-05.10.02:693][595]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2024.04.12-05.10.02:693][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.12-05.10.02:693][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.12-05.10.02:693][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.12-05.10.02:693][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.12-05.10.02:693][595]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.12-05.10.02:693][595]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.12-05.10.02:693][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.12-05.10.02:693][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.12-05.10.02:694][595]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.12-05.10.02:694][595]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.12-05.10.02:694][595]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.12-05.10.02:696][595]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.12-05.10.02:714][595]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.12-05.10.02:715][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.12-05.10.02:715][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.12-05.10.02:715][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.12-05.10.02:715][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2024.04.12-05.10.02:715][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2024.04.12-05.10.02:717][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2024.04.12-05.10.02:717][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2024.04.12-05.10.02:717][595]LogInit: FAudioDevice initialized with ID 51.
+[2024.04.12-05.10.02:717][595]LogAudio: Display: Audio Device (ID: 51) registered with world 'Lobby'.
+[2024.04.12-05.10.02:717][595]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.12-05.10.02:738][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-05.10.03:091][595]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.04.12-05.10.03:093][595]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2024.04.11-22.10.03
+[2024.04.12-05.10.03:093][595]LogWorld: Bringing up level for play took: 0.001081
+[2024.04.12-05.10.03:095][595]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2024.04.12-05.10.03:098][595]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.03:098][595]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_49.LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.03:098][595]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.03:098][595]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_49.LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.03:099][595]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.12-05.10.03:099][595]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.12-05.10.03:099][595]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.12-05.10.03:099][595]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2024.04.12-05.10.03:099][595]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Student.sav' error.
+[2024.04.12-05.10.03:099][595]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - Lobby.sav' error.
+[2024.04.12-05.10.03:099][595]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.04.12-05.10.03:159][595]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.12-05.10.03:159][595]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.12-05.10.03:166][595]PIE: Server logged in
+[2024.04.12-05.10.03:169][595]PIE: Play in editor total start time 0.507 seconds.
+[2024.04.12-05.10.03:175][595]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2024.04.12-05.10.27:635][252]Cmd: quit
+[2024.04.12-05.10.27:636][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-05.10.27:636][252]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2024.04.12-05.10.27:670][252]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.12-05.10.27:706][252]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.10.27:706][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.10.27:709][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.12-05.10.27:716][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.10.27:740][252]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.12-05.10.27:740][252]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2024.04.12-05.10.27:741][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.12-05.10.27:743][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51
+[2024.04.12-05.10.27:752][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.04.12-05.10.27:788][253]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2024.04.12-05.10.31:374][638]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.31:374][638]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.31:374][638]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.31:374][638]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.31:375][638]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:042][713]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:052][714]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:063][715]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:074][716]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:085][717]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:094][718]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:104][719]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:113][720]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:123][721]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:134][722]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:143][723]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:154][724]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:166][725]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:177][726]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:187][727]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:198][728]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:209][729]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:220][730]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.10.32:231][731]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:231][731]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:231][731]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:231][731]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:243][732]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:243][732]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:243][732]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:243][732]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:254][733]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:254][733]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:254][733]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:254][733]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:266][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:266][734]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:266][734]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:266][734]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:278][735]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:278][735]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:278][735]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:278][735]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:290][736]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:290][736]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:290][736]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:290][736]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:302][737]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:302][737]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:302][737]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:302][737]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:314][738]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:314][738]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:314][738]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:314][738]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:326][739]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:326][739]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:326][739]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:326][739]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:338][740]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:338][740]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:338][740]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:338][740]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:349][741]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:349][741]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:349][741]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:349][741]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:361][742]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:361][742]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:361][742]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:361][742]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:371][743]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:372][743]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:372][743]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:372][743]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:385][744]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:385][744]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:385][744]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:385][744]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:397][745]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:397][745]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:397][745]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:397][745]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:407][746]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:407][746]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:407][746]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:407][746]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:419][747]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:419][747]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:419][747]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:419][747]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:429][748]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:429][748]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:429][748]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:429][748]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:439][749]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:439][749]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:439][749]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:439][749]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:485][750]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:485][750]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:485][750]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:485][750]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:497][751]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:497][751]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:497][751]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:497][751]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:526][752]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:526][752]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:526][752]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:526][752]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:538][753]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:538][753]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:538][753]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:538][753]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:552][754]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:552][754]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:552][754]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:552][754]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:565][755]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:565][755]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:565][755]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:565][755]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:575][756]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:575][756]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:576][756]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:576][756]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:588][757]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:588][757]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:588][757]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:588][757]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:601][758]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:601][758]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:601][758]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:601][758]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:615][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:615][759]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:615][759]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:615][759]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:628][760]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:628][760]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:628][760]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:628][760]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:639][761]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:640][761]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:640][761]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:640][761]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:652][762]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:652][762]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:652][762]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:652][762]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:664][763]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:664][763]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:664][763]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:664][763]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:677][764]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:677][764]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:677][764]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:677][764]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:688][765]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:688][765]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:688][765]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:688][765]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:699][766]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:699][766]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:699][766]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:699][766]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:710][767]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:710][767]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:710][767]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:710][767]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:721][768]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:721][768]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:721][768]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:721][768]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:733][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:733][769]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:733][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:733][769]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:745][770]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:745][770]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:745][770]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:745][770]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:758][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:758][771]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:758][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:758][771]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:770][772]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:770][772]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:770][772]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:770][772]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:783][773]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:783][773]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:783][773]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:783][773]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:796][774]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:796][774]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:796][774]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:796][774]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:808][775]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:809][775]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:809][775]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:809][775]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:823][776]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:823][776]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:823][776]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:823][776]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:839][777]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:839][777]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:839][777]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:839][777]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:855][778]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:855][778]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:855][778]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:855][778]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:870][779]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:870][779]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:870][779]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:870][779]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:884][780]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:884][780]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:884][780]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:884][780]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:897][781]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:897][781]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:897][781]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:897][781]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:911][782]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:911][782]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:911][782]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:911][782]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:926][783]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:926][783]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:926][783]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:926][783]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:939][784]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:939][784]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:939][784]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:939][784]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:955][785]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:955][785]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:955][785]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:955][785]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:970][786]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:970][786]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:970][786]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:970][786]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:982][787]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:982][787]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:982][787]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:982][787]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:993][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:993][788]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.32:993][788]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.32:993][788]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:006][789]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:006][789]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:006][789]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:006][789]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:018][790]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:019][790]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:019][790]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:019][790]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:029][791]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:029][791]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:029][791]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:029][791]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:040][792]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:040][792]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:040][792]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:040][792]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:053][793]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:053][793]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:053][793]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:053][793]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:065][794]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:065][794]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:065][794]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:065][794]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:077][795]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:077][795]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:077][795]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:077][795]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:090][796]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:090][796]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:090][796]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:090][796]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:101][797]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:101][797]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:101][797]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:101][797]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:113][798]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:113][798]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:113][798]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:115][798]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:126][799]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:126][799]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:126][799]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:126][799]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:141][800]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:141][800]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:141][800]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:141][800]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:155][801]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:155][801]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:155][801]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:155][801]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:170][802]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:170][802]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:170][802]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:170][802]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:184][803]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:184][803]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:184][803]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:184][803]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:846][877]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:846][877]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:846][877]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:846][877]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:859][878]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:860][878]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:860][878]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:860][878]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:873][879]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:873][879]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:873][879]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:873][879]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:887][880]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:887][880]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:887][880]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:887][880]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:902][881]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:902][881]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:902][881]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:902][881]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:916][882]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:916][882]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:916][882]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:916][882]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:930][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:930][883]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:930][883]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:930][883]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:940][884]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:940][884]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:940][884]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:940][884]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:952][885]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:952][885]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:952][885]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:952][885]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:965][886]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:965][886]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:965][886]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:965][886]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:975][887]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:976][887]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:976][887]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:976][887]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:987][888]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:987][888]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.33:987][888]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.33:987][888]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:001][889]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:001][889]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:001][889]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:001][889]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:012][890]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:012][890]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:012][890]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:012][890]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:024][891]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:024][891]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:024][891]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:024][891]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:038][892]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:038][892]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:038][892]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:038][892]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:053][893]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:053][893]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:053][893]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:053][893]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:067][894]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:067][894]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:067][894]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:067][894]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:081][895]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:081][895]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:081][895]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:081][895]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:094][896]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:094][896]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:094][896]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:094][896]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:108][897]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:108][897]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:108][897]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:108][897]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:122][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:122][898]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:122][898]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:122][898]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:135][899]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:135][899]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:135][899]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:135][899]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:147][900]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:147][900]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:147][900]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:147][900]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:159][901]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:159][901]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:159][901]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:159][901]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:174][902]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:174][902]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:174][902]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:174][902]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:187][903]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:187][903]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:187][903]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:187][903]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:200][904]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:200][904]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:200][904]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:200][904]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:219][905]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:219][905]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:219][905]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:219][905]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:231][906]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:231][906]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:231][906]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:231][906]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:243][907]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:243][907]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:243][907]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:243][907]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:254][908]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:254][908]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:254][908]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:254][908]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:266][909]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:266][909]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:266][909]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:266][909]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:277][910]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:277][910]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:277][910]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:277][910]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:399][924]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:400][924]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:400][924]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:400][924]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:411][925]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:411][925]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:411][925]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:411][925]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:422][926]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:423][926]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:423][926]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:423][926]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:433][927]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.04.12-05.10.34:433][927]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.10.34:433][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.10.34:442][927]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.10.34:442][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.10.34:537][927]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:537][927]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:537][927]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:537][927]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:565][927]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:565][927]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:565][927]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:565][927]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:570][928]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:570][928]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:570][928]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:570][928]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:579][928]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:579][928]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_1.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.10.34:579][928]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.10.34:579][928]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_1.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.01:697][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.01:697][ 69]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.01:697][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.01:697][ 69]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.01:699][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.01:699][ 69]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.01:699][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.01:699][ 69]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.01:712][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.01:712][ 69]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_2.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.01:712][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.01:712][ 69]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_2.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.01:740][ 70]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.01:740][ 70]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.01:740][ 70]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.01:740][ 70]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.06:606][632]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.06:606][632]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.06:606][632]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.06:606][632]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.06:608][632]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.06:608][632]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.06:608][632]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.06:608][632]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.06:622][632]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.06:622][632]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_3.WidgetTree_0.l1
+[2024.04.12-05.11.06:622][632]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.06:622][632]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_3.WidgetTree_0.l1
+[2024.04.12-05.11.06:672][635]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.06:672][635]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.06:672][635]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.06:672][635]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.11:895][224]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.11:895][224]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_4.WidgetTree_0.Level1
+[2024.04.12-05.11.11:895][224]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.11:895][224]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_4.WidgetTree_0.Level1
+[2024.04.12-05.11.11:955][228]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.11:955][228]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.11:955][228]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.11:955][228]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.16:643][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.16:643][769]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.16:643][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.16:643][769]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.16:645][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.16:645][769]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.16:645][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.16:645][769]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.16:657][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.16:657][769]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_5.WidgetTree_0.Level1
+[2024.04.12-05.11.16:657][769]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.16:657][769]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_5.WidgetTree_0.Level1
+[2024.04.12-05.11.16:700][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.16:700][771]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.16:700][771]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.16:700][771]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_0.WidgetTree_0.LevelSelectorEntry
+[2024.04.12-05.11.20:586][225]BlueprintLog: New page: Compile LevelSelectorWidget
+[2024.04.12-05.11.20:633][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.12-05.11.20:681][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.11.20:760][225]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.20:760][225]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.20:760][225]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.20:760][225]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.20:762][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/LevelSelectorWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset" SILENT=true
+[2024.04.12-05.11.20:769][225]LogSavePackage: Moving output files for package: /Game/Widgets/LevelSelectorWidget
+[2024.04.12-05.11.20:769][225]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LevelSelectorWidget5873ECCB42E20FBD554A7980B7290C07.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset'
+[2024.04.12-05.11.20:780][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 12.9 sec)
+[2024.04.12-05.11.20:801][225]AssetCheck: New page: Asset Save: LevelSelectorWidget
+[2024.04.12-05.11.20:801][225]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.04.12-05.11.20:803][225]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.20:803][225]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.20:803][225]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.20:803][225]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.20:806][225]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.20:807][225]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.20:807][225]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.20:807][225]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.20:890][225]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.20:891][225]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_7.WidgetTree_0.Level1
+[2024.04.12-05.11.20:891][225]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.20:891][225]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_7.WidgetTree_0.Level1
+[2024.04.12-05.11.20:933][227]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.20:933][227]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.20:933][227]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.20:933][227]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.21:283][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.11.21:352][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/LevelSelectorWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset" SILENT=true
+[2024.04.12-05.11.21:357][267]LogSavePackage: Moving output files for package: /Game/Widgets/LevelSelectorWidget
+[2024.04.12-05.11.21:358][267]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LevelSelectorWidget4107BB8A40EDC2D6474E92AE9F5B60FD.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset'
+[2024.04.12-05.11.21:368][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 13.0 sec)
+[2024.04.12-05.11.21:383][267]AssetCheck: New page: Asset Save: LevelSelectorWidget
+[2024.04.12-05.11.21:383][267]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.04.12-05.11.21:407][269]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.21:407][269]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.21:407][269]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.21:407][269]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.29:666][120]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.29:666][120]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.29:666][120]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.29:667][120]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.29:669][120]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.29:669][120]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.29:669][120]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.29:669][120]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.29:682][120]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.29:682][120]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_8.WidgetTree_0.Level1
+[2024.04.12-05.11.29:682][120]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.29:682][120]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_8.WidgetTree_0.Level1
+[2024.04.12-05.11.29:718][122]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.29:719][122]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.29:719][122]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.29:719][122]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.33:557][561]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.33:557][561]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.33:557][561]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.33:557][561]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.33:559][561]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.33:559][561]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.33:559][561]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.33:559][561]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.33:602][563]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.33:603][563]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.33:603][563]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.33:603][563]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.35:745][804]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.35:745][804]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_9.WidgetTree_0.Level1
+[2024.04.12-05.11.35:745][804]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.35:745][804]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_9.WidgetTree_0.Level1
+[2024.04.12-05.11.39:923][141]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.39:923][141]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.39:923][141]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.39:923][141]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.39:925][141]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.39:926][141]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.39:926][141]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.39:926][141]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.39:940][141]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.39:940][141]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_10.WidgetTree_0.Level1
+[2024.04.12-05.11.39:940][141]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.39:940][141]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_10.WidgetTree_0.Level1
+[2024.04.12-05.11.39:989][143]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.39:989][143]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.39:989][143]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.39:989][143]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.46:654][860]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.12-05.11.46:668][860]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.46:668][860]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.46:668][860]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.46:668][860]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.46:741][867]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.46:741][867]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.46:741][867]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.46:741][867]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.50:844][301]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.12-05.11.50:855][301]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.50:855][301]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.50:855][301]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.50:855][301]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.50:896][305]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.50:896][305]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.11.50:896][305]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.11.50:896][305]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.04:239][854]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.04:239][854]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.04:239][854]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.04:239][854]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.04:241][854]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.04:241][854]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.04:241][854]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.04:241][854]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.04:255][854]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.04:255][854]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_11.WidgetTree_0.Level1
+[2024.04.12-05.12.04:255][854]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.04:255][854]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_11.WidgetTree_0.Level1
+[2024.04.12-05.12.04:309][856]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.04:309][856]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.04:309][856]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.04:309][856]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.13:165][862]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.13:165][862]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.13:165][862]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.13:165][862]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.13:220][864]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.13:220][864]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.13:220][864]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.13:220][864]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.14:720][ 12]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.14:721][ 12]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.14:721][ 12]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.14:721][ 12]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.14:794][ 15]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.14:794][ 15]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.14:794][ 15]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.14:794][ 15]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.18:157][393]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.18:157][393]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.18:157][393]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.18:157][393]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.18:160][393]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.18:160][393]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.18:160][393]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.18:160][393]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.18:161][393]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.18:161][393]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.18:161][393]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.18:161][393]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.18:180][394]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.18:180][394]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.18:180][394]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.18:180][394]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.18:197][396]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.18:197][396]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.18:197][396]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.18:197][396]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.23:849][ 33]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.23:849][ 33]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.23:849][ 33]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.23:849][ 33]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.23:851][ 33]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.23:851][ 33]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.23:851][ 33]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.23:851][ 33]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.23:853][ 33]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.23:853][ 33]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.23:853][ 33]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.23:853][ 33]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.23:886][ 35]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.23:886][ 35]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.23:886][ 35]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.23:886][ 35]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.25:956][260]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.25:956][260]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.25:956][260]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.25:956][260]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.25:958][260]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.25:958][260]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.25:958][260]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.25:958][260]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.26:054][270]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.26:054][270]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.26:054][270]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.26:054][270]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.26:524][325]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.26:524][325]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.26:524][325]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.26:524][325]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.26:573][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.26:573][329]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.26:573][329]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.26:573][329]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_1.WidgetTree_0.Level1
+[2024.04.12-05.12.29:753][697]BlueprintLog: New page: Compile LevelSelectorWidget
+[2024.04.12-05.12.29:801][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.04.12-05.12.29:827][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.12.29:905][697]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.29:905][697]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_2.WidgetTree_0.Level1
+[2024.04.12-05.12.29:905][697]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.29:905][697]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_2.WidgetTree_0.Level1
+[2024.04.12-05.12.29:908][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/LevelSelectorWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset" SILENT=true
+[2024.04.12-05.12.29:915][697]LogSavePackage: Moving output files for package: /Game/Widgets/LevelSelectorWidget
+[2024.04.12-05.12.29:915][697]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LevelSelectorWidgetE8F026264359402066EFB2995469E311.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset'
+[2024.04.12-05.12.29:924][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 13.1 sec)
+[2024.04.12-05.12.29:935][697]AssetCheck: New page: Asset Save: LevelSelectorWidget
+[2024.04.12-05.12.29:935][697]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.04.12-05.12.29:938][697]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.29:938][697]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_2.WidgetTree_0.Level1
+[2024.04.12-05.12.29:938][697]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.29:938][697]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_2.WidgetTree_0.Level1
+[2024.04.12-05.12.29:939][697]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.29:940][697]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_2.WidgetTree_0.Level1
+[2024.04.12-05.12.29:940][697]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.29:940][697]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_2.WidgetTree_0.Level1
+[2024.04.12-05.12.30:024][699]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.30:024][699]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_2.WidgetTree_0.Level1
+[2024.04.12-05.12.30:024][699]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.30:024][699]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_2.WidgetTree_0.Level1
+[2024.04.12-05.12.30:425][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.12.30:499][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/LevelSelectorWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset" SILENT=true
+[2024.04.12-05.12.30:506][746]LogSavePackage: Moving output files for package: /Game/Widgets/LevelSelectorWidget
+[2024.04.12-05.12.30:507][746]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LevelSelectorWidget18EA373542BD1D678D7540AC5611EC42.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset'
+[2024.04.12-05.12.30:519][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 13.1 sec)
+[2024.04.12-05.12.30:533][746]AssetCheck: New page: Asset Save: LevelSelectorWidget
+[2024.04.12-05.12.30:533][746]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.04.12-05.12.30:546][747]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.30:546][747]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_2.WidgetTree_0.Level1
+[2024.04.12-05.12.30:546][747]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.30:546][747]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_2.WidgetTree_0.Level1
+[2024.04.12-05.12.31:338][829]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.31:339][829]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_13.WidgetTree_0.Level1
+[2024.04.12-05.12.31:339][829]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.31:339][829]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_13.WidgetTree_0.Level1
+[2024.04.12-05.12.32:393][942]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.04.12-05.12.32:405][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.12-05.12.32:405][942]PIE: New page: PIE session: Lobby (Apr 11, 2024, 3:12:32 PM)
+[2024.04.12-05.12.32:405][942]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lobby
+[2024.04.12-05.12.32:407][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001911s)
+[2024.04.12-05.12.32:407][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lobby.Lobby to /Game/Levels/UEDPIE_0_Lobby.Lobby (0.001940s)
+[2024.04.12-05.12.32:407][942]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.12.32:407][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.12.32:407][942]LogAIModule: Creating AISystem for world Lobby
+[2024.04.12-05.12.32:408][942]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2024.04.12-05.12.32:436][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.04.12-05.12.32:443][942]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.04.12-05.12.32:443][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.12-05.12.32:443][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.12-05.12.32:443][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.12-05.12.32:443][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.12-05.12.32:443][942]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.12-05.12.32:443][942]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.12-05.12.32:443][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.12-05.12.32:443][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.12-05.12.32:443][942]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.12-05.12.32:443][942]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.12-05.12.32:443][942]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.12-05.12.32:445][942]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.12-05.12.32:463][942]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.04.12-05.12.32:463][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.12-05.12.32:463][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.12-05.12.32:463][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.12-05.12.32:464][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.04.12-05.12.32:464][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2024.04.12-05.12.32:466][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.04.12-05.12.32:466][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.04.12-05.12.32:466][942]LogInit: FAudioDevice initialized with ID 52.
+[2024.04.12-05.12.32:466][942]LogAudio: Display: Audio Device (ID: 52) registered with world 'Lobby'.
+[2024.04.12-05.12.32:466][942]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.12-05.12.32:487][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-05.12.32:835][942]LogLoad: Game class is 'Gamemode_PC_C'
+[2024.04.12-05.12.32:836][942]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lobby.Lobby up for play (max tick rate 0) at 2024.04.11-22.12.32
+[2024.04.12-05.12.32:836][942]LogWorld: Bringing up level for play took: 0.001422
+[2024.04.12-05.12.32:839][942]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2024.04.12-05.12.32:844][942]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.32:844][942]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_50.LevelSelectorWidget_C_0.WidgetTree_0.Level1
+[2024.04.12-05.12.32:844][942]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.32:844][942]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.UnrealEdEngine_0:LA-GameInstance_C_50.LevelSelectorWidget_C_0.WidgetTree_0.Level1
+[2024.04.12-05.12.32:845][942]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.04.12-05.12.32:845][942]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.04.12-05.12.32:845][942]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.04.12-05.12.32:845][942]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Information Points - Lobby.sav' error.
+[2024.04.12-05.12.32:845][942]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Learning Points - Lobby - Student.sav' error.
+[2024.04.12-05.12.32:845][942]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/Interactables - Lobby.sav' error.
+[2024.04.12-05.12.32:845][942]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - Lobby.sav' error.
+[2024.04.12-05.12.32:914][942]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.04.12-05.12.32:914][942]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.04.12-05.12.32:919][942]PIE: Server logged in
+[2024.04.12-05.12.32:921][942]PIE: Play in editor total start time 0.516 seconds.
+[2024.04.12-05.12.32:926][942]LogViewport: Scene viewport resized to 1920x1017, mode Windowed.
+[2024.04.12-05.12.46:645][ 59]LogNet: Browse: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.04.12-05.12.46:645][ 59]LogLoad: LoadMap: /Game/Levels/IrvingHouse2??Game=/Game/Blueprints/Gamemode_VR.Gamemode_VR_C
+[2024.04.12-05.12.46:645][ 59]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lobby
+[2024.04.12-05.12.46:645][ 59]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.12.46:645][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.12.46:697][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.12-05.12.46:701][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.04.12-05.12.46:983][ 59]LogAudio: Display: Audio Device (ID: 52) registered with world 'IrvingHouse2'.
+[2024.04.12-05.12.46:983][ 59]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.12.46:983][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.12.46:983][ 59]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.04.12-05.12.46:984][ 59]LogPlayLevel: PIE: World Init took: (0.001802s)
+[2024.04.12-05.12.46:985][ 59]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.04.12-05.12.47:189][ 59]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.04.11-22.12.47
+[2024.04.12-05.12.47:190][ 59]LogWorld: Bringing up level for play took: 0.204165
+[2024.04.12-05.12.47:192][ 59]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.04.12-05.12.47:194][ 59]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.04.12-05.12.47:557][ 59]vr.PixelDensity = "1"
+[2024.04.12-05.12.47:558][ 59]LogLoad: Took 0.912887 seconds to LoadMap(/Game/Levels/IrvingHouse2)
+[2024.04.12-05.12.47:667][ 59]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.12-05.12.47:699][ 59]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.04.12-05.12.47:746][ 59]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B231900: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B231900: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B231900: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B235500: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B235500: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B235500: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B238200: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B238200: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B238200: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B237800: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B237800: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B237800: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B238C00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B238C00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B238C00: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B236400: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B236400: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B236400: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23B400: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23B400: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23B400: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23F500: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23F500: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23F500: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23AF00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23AF00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23AF00: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23A000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23A000: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23A000: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B230A00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B230A00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B230A00: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23B900: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23B900: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B167B23B900: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B164A815F00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B164A815F00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B164A815F00: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B164A818700: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B164A818700: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:790][ 60]LogHttp: Warning: 00000B164A818700: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B16CAD71900: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B16CAD71900: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B16CAD71900: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B16CAD7A500: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B16CAD7A500: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B16CAD7A500: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B167B230F00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B167B230F00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B167B230F00: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B167B23C800: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B167B23C800: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B167B23C800: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B164A811400: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B164A811400: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:799][ 60]LogHttp: Warning: 00000B164A811400: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.47:821][ 60]LogHttp: Warning: 00000B164A816900: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.04.12-05.12.47:821][ 60]LogHttp: Warning: 00000B164A816900: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.04.12-05.12.47:821][ 60]LogHttp: Warning: 00000B164A816900: libcurl info message cache 1 (Closing connection -1)
+[2024.04.12-05.12.49:287][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-05.12.49:287][146]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.04.12-05.12.49:322][146]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.95.0)' being destroyed
+[2024.04.12-05.12.49:329][146]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.12.49:340][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.12.49:344][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.12-05.12.49:355][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.12.49:396][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.12-05.12.49:396][146]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.12-05.12.49:396][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.12-05.12.49:398][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.12-05.12.49:426][146]LogSlate: Slate User Unregistered.  User Index 8
+[2024.04.12-05.12.49:426][146]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.04.12-05.12.49:433][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.04.12-05.12.49:528][147]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2024.04.12-05.12.50:718][282]BlueprintLog: New page: Compile LevelSelectorWidget
+[2024.04.12-05.12.50:748][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.12-05.12.50:858][282]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.50:858][282]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.12.50:858][282]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.50:858][282]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.12.50:861][282]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.50:861][282]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.12.50:861][282]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.50:861][282]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.12.50:944][282]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.50:944][282]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_15.WidgetTree_0.Level1
+[2024.04.12-05.12.50:944][282]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.50:944][282]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Engine/Transient.World_100:LevelSelectorWidget_C_15.WidgetTree_0.Level1
+[2024.04.12-05.12.50:999][284]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.51:000][284]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.12.51:000][284]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.51:000][284]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.12.51:432][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.12.51:502][332]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.51:502][332]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.12.51:502][332]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.51:502][332]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.12.51:505][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/LevelSelectorWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset" SILENT=true
+[2024.04.12-05.12.51:512][332]LogSavePackage: Moving output files for package: /Game/Widgets/LevelSelectorWidget
+[2024.04.12-05.12.51:512][332]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LevelSelectorWidgetE14EADD44413DA95B3384BA661E916C5.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset'
+[2024.04.12-05.12.51:520][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 13.2 sec)
+[2024.04.12-05.12.51:533][332]AssetCheck: New page: Asset Save: LevelSelectorWidget
+[2024.04.12-05.12.51:533][332]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.04.12-05.12.51:556][334]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.51:556][334]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.12.51:556][334]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.51:556][334]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.12.55:013][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.12.55:091][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/LevelSelectorWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset" SILENT=true
+[2024.04.12-05.12.55:097][718]LogSavePackage: Moving output files for package: /Game/Widgets/LevelSelectorWidget
+[2024.04.12-05.12.55:098][718]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LevelSelectorWidgetDA9A00B1492B1BF2E4458EB139BD1355.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset'
+[2024.04.12-05.12.55:107][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 13.3 sec)
+[2024.04.12-05.12.55:120][718]AssetCheck: New page: Asset Save: LevelSelectorWidget
+[2024.04.12-05.12.55:120][718]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.04.12-05.12.55:152][720]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.55:152][720]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.12.55:152][720]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.12.55:152][720]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.13.02:987][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.13.03:063][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/LevelSelectorWidget" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset" SILENT=true
+[2024.04.12-05.13.03:072][637]LogSavePackage: Moving output files for package: /Game/Widgets/LevelSelectorWidget
+[2024.04.12-05.13.03:072][637]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LevelSelectorWidgetF006E4CA484CA3AE4DDEA4A437CEA12F.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LevelSelectorWidget.uasset'
+[2024.04.12-05.13.03:079][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 13.4 sec)
+[2024.04.12-05.13.03:090][637]AssetCheck: New page: Asset Save: LevelSelectorWidget
+[2024.04.12-05.13.03:090][637]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LevelSelectorWidget.LevelSelectorWidget
+[2024.04.12-05.13.03:119][639]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.13.03:119][639]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.13.03:119][639]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.13.03:119][639]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_3.WidgetTree_0.Level1
+[2024.04.12-05.14.05:912][760]BlueprintLog: New page: Compile VRPawn
+[2024.04.12-05.14.06:131][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.04.12-05.14.06:815][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.14.06:892][792]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.14.06:962][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2024.04.12-05.14.07:076][792]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2024.04.12-05.14.07:077][792]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/VRPawn63839FC54045F3860FDF76A0683912F6.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/VRPawn.uasset'
+[2024.04.12-05.14.07:083][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 268 ms (total: 13.7 sec)
+[2024.04.12-05.14.07:094][792]AssetCheck: New page: Asset Save: VRPawn
+[2024.04.12-05.14.07:094][792]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: ================================================
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Total job queries 417, among them cache hits 153 (36.69%)
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Tracking 260 distinct input hashes that result in 162 distinct outputs (62.31%)
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: RAM used: 8.49 MiB of 1.60 GiB budget. Usage: 0.52%
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.14 s
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Job execution time: average 3.12 s, max 4.02 s
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Job life time (pending + execution): average 3.16 s, max 4.16
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.38 s
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Average processing rate: 0.63 jobs/sec
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Total thread time: 8.822 s
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Total thread preprocess time: 0.167 s
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Percentage time preprocessing: 1.89%
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Effective parallelization: 1.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 2.21 sec, max 2.29 sec, min 2.13 sec)
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 2.20 sec, max 2.29 sec, min 2.11 sec)
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 50.12% of total time (compiled    2 times, average 2.21 sec, max 2.29 sec, min 2.13 sec)
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 49.88% of total time (compiled    2 times, average 2.20 sec, max 2.29 sec, min 2.11 sec)
+[2024.04.12-05.14.07:097][792]LogShaderCompilers: Display: ================================================
+[2024.04.12-05.14.07:108][793]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.14.07:110][793]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.14.07:110][793]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_4.WidgetTree_0.Level1
+[2024.04.12-05.14.07:110][793]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2024.04.12-05.14.07:110][793]LogScript: Warning: Script Msg called by: LevelSelectorEntry_C /Game/Levels/Lobby.Lobby:LevelSelectorWidget_C_4.WidgetTree_0.Level1
+[2024.04.12-05.14.19:338][707]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.14.19:338][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.14.19:350][707]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.14.19:351][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.14.21:159][868]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.14.21:159][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.14.22:297][931]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.14.22:297][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.14.22:311][931]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-05.14.22:311][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-05.14.25:345][217]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.14.25:356][218]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.14.25:368][219]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.14.25:378][220]LogStreaming: Warning: Failed to read file '../../../../Download/CultureQuerst/Project2Prototype/Saved/SaveGames/User Save - NA.sav' error.
+[2024.04.12-05.14.26:125][301]LogDerivedDataCache: C:/Users/macap/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:37.221 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 19277 files in 21481 folders with total size 3519 MiB.
+[2024.04.12-05.14.44:815][355]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/LearningPageTemplate.LearningPageTemplate
+[2024.04.12-05.14.44:816][355]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.14.44:816][355]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.14.44:833][355]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.14.44:834][355]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.14.52:890][ 73]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
+[2024.04.12-05.14.52:890][ 73]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.14.52:890][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.14.52:900][ 73]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-05.14.52:900][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-05.16.48:739][891]BlueprintLog: New page: Compile LearningPointWidget
+[2024.04.12-05.16.48:964][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.04.12-05.16.49:426][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-05.16.49:555][911]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPointWidget
+[2024.04.12-05.16.49:555][911]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LearningPointWidget792710E4427CC108B15C4BB9F4808B34.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LearningPoint/LearningPointWidget.uasset'
+[2024.04.12-05.16.49:566][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 13.8 sec)
+[2024.04.12-05.16.49:579][911]AssetCheck: New page: Asset Save: LearningPointWidget
+[2024.04.12-05.16.49:579][911]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPointWidget.LearningPointWidget
