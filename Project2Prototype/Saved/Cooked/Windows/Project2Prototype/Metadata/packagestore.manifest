@@ -3825,6 +3825,18 @@
 			"ChunkId": "389292d5e5d60a0f00000001"
 		},
 		{
+			"Path": "Project2Prototype/Content/Textures/level1.uasset",
+			"ChunkId": "28e7f2e93a82fc9000000001"
+		},
+		{
+			"Path": "Project2Prototype/Content/Textures/level2.uasset",
+			"ChunkId": "70cee8924ecd4de000000001"
+		},
+		{
+			"Path": "Project2Prototype/Content/Textures/tutorial.uasset",
+			"ChunkId": "7287472007c7855f00000001"
+		},
+		{
 			"Path": "Project2Prototype/Content/Victorian_House/Audio/Cues/Cue_CloseAtticStair.uasset",
 			"ChunkId": "120601674fe0782f00000001"
 		},
@@ -22070,6 +22082,24 @@
 			"Name": "/Game/Textures/DouglasLogo",
 			"ExportBundleChunkIds": [
 				"389292d5e5d60a0f00000001"
+			]
+		},
+		{
+			"Name": "/Game/Textures/level1",
+			"ExportBundleChunkIds": [
+				"28e7f2e93a82fc9000000001"
+			]
+		},
+		{
+			"Name": "/Game/Textures/level2",
+			"ExportBundleChunkIds": [
+				"70cee8924ecd4de000000001"
+			]
+		},
+		{
+			"Name": "/Game/Textures/tutorial",
+			"ExportBundleChunkIds": [
+				"7287472007c7855f00000001"
 			]
 		},
 		{
