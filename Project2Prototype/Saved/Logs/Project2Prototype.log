@@ -30326,3 +30326,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.05-21.03.26:354][616]AssetCheck: New page: Asset Save: LA-GameInstance
 [2024.05.05-21.03.26:354][616]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/LA-GameInstance.LA-GameInstance
 [2024.05.05-21.03.41:932][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.05.05-21.08.29:021][ 38]BlueprintLog: New page: Compile LearningPageTemplate
+[2024.05.05-21.08.29:076][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.05-21.08.29:170][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.05-21.08.29:281][ 38]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPageTemplate
+[2024.05.05-21.08.29:281][ 38]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LearningPageTemplateBE90E0104272BD5BCF988DB41A86A24D.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LearningPoint/LearningPageTemplate.uasset'
+[2024.05.05-21.08.29:293][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 5.78 sec)
+[2024.05.05-21.08.29:317][ 38]AssetCheck: New page: Asset Save: LearningPageTemplate
+[2024.05.05-21.08.29:317][ 38]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPageTemplate.LearningPageTemplate
+[2024.05.05-21.08.29:848][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.05-21.08.29:936][ 75]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPageTemplate
+[2024.05.05-21.08.29:937][ 75]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LearningPageTemplate3F7D49E441A509866AEBF78B15101453.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LearningPoint/LearningPageTemplate.uasset'
+[2024.05.05-21.08.29:946][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 5.88 sec)
+[2024.05.05-21.08.29:957][ 75]AssetCheck: New page: Asset Save: LearningPageTemplate
+[2024.05.05-21.08.29:957][ 75]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPageTemplate.LearningPageTemplate
+[2024.05.05-21.08.38:748][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.05-21.08.38:851][100]LogSavePackage: Moving output files for package: /Game/Widgets/LearningPoint/LearningPageTemplate
+[2024.05.05-21.08.38:852][100]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/LearningPageTemplate83AC1CA946751D33B44888B1F0F4A165.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Widgets/LearningPoint/LearningPageTemplate.uasset'
+[2024.05.05-21.08.38:861][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 5.99 sec)
+[2024.05.05-21.08.38:874][100]AssetCheck: New page: Asset Save: LearningPageTemplate
+[2024.05.05-21.08.38:874][100]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/LearningPoint/LearningPageTemplate.LearningPageTemplate
