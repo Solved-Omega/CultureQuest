@@ -4286,3 +4286,490 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.07-21.57.43:814][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
 [2024.05.07-21.57.43:963][211]LogPlayLevel: Display: Destroying online subsystem :Context_14
 [2024.05.07-21.58.12:726][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.05.07-22.01.12:249][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-22.01.12:319][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.07-22.01.12:355][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.05.07-22.01.13:116][397]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.05.07-22.01.13:116][397]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse2B8A062594914871D609BFDAB58713FFE.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.05.07-22.01.13:136][397]LogFileHelpers: No new changes to save!
+[2024.05.07-22.01.13:136][397]LogFileHelpers: Saving map 'IrvingHouse2' took 0.819
+[2024.05.07-22.01.13:143][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 893 ms (total: 3.47 sec)
+[2024.05.07-22.01.13:163][397]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.05.07-22.01.13:163][397]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.05.07-22.01.18:383][805]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.05.07-22.01.18:395][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-22.01.18:395][805]PIE: New page: PIE session: IrvingHouse2 (May 7, 2024, 8:01:18 AM)
+[2024.05.07-22.01.18:395][805]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.05.07-22.01.18:617][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221604s)
+[2024.05.07-22.01.18:617][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.221682s)
+[2024.05.07-22.01.18:617][805]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-22.01.18:617][805]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-22.01.18:618][805]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.05.07-22.01.18:619][805]LogPlayLevel: PIE: World Init took: (0.001684s)
+[2024.05.07-22.01.18:644][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.07-22.01.18:646][805]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.07-22.01.18:646][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-22.01.18:646][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-22.01.18:646][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-22.01.18:646][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-22.01.18:647][805]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.07-22.01.18:647][805]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.07-22.01.18:647][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.07-22.01.18:647][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-22.01.18:647][805]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-22.01.18:647][805]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-22.01.18:647][805]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-22.01.18:650][805]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.07-22.01.18:668][805]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.05.07-22.01.18:668][805]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-22.01.18:668][805]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-22.01.18:668][805]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-22.01.18:669][805]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.07-22.01.18:669][805]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.05.07-22.01.18:671][805]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.07-22.01.18:671][805]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.07-22.01.18:671][805]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.07-22.01.18:671][805]LogAudio: Display: Audio Device (ID: 4) registered with world 'IrvingHouse2'.
+[2024.05.07-22.01.18:671][805]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.07-22.01.18:695][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-22.01.19:029][805]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.05.07-22.01.19:121][805]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.05.07-15.01.19
+[2024.05.07-22.01.19:123][805]LogWorld: Bringing up level for play took: 0.093593
+[2024.05.07-22.01.19:126][805]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.05.07-22.01.19:129][805]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.05.07-22.01.19:131][805]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.05.07-22.01.19:195][805]vr.PixelDensity = "1"
+[2024.05.07-22.01.19:201][805]PIE: Server logged in
+[2024.05.07-22.01.19:208][805]PIE: Play in editor total start time 0.813 seconds.
+[2024.05.07-22.01.19:271][805]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.05.07-22.01.19:313][805]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D437BEC300: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D437BEC300: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D437BEC300: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D43D112300: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D43D112300: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D43D112300: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D43D111400: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D43D111400: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D43D111400: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D43D110F00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D43D110F00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D43D110F00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D43D110000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D43D110000: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D43D110000: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:405][806]LogHttp: Warning: 000007D437BCAF00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BCAF00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BCAF00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BEF000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BEF000: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BEF000: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BEEB00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BEEB00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BEEB00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BEDC00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BEDC00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BEDC00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BED700: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BED700: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BED700: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BEC800: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BEC800: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D437BEC800: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D43D112800: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D43D112800: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D43D112800: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D43D1E4100: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D43D1E4100: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D43D1E4100: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D43D1E3C00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D43D1E3C00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.05.07-22.01.19:406][806]LogHttp: Warning: 000007D43D1E3C00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D115000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D115000: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D115000: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D114B00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D114B00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D114B00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D113C00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D113C00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D113C00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D113700: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D113700: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D113700: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D1E5000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:413][806]LogHttp: Warning: 000007D43D1E5000: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.05.07-22.01.19:414][806]LogHttp: Warning: 000007D43D1E5000: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.19:433][806]LogHttp: Warning: 000007D43D1E5500: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.01.19:433][806]LogHttp: Warning: 000007D43D1E5500: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.05.07-22.01.19:433][806]LogHttp: Warning: 000007D43D1E5500: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.01.22:591][ 25]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.05.07-22.01.28:742][278]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.01.29:392][298]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.01.30:006][320]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.01.31:518][379]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.01.36:136][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-22.01.36:136][582]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.05.07-22.01.36:188][582]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.96.0)' being destroyed
+[2024.05.07-22.01.36:194][582]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-22.01.36:208][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.01.36:212][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-22.01.36:225][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.01.36:266][582]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.07-22.01.36:270][582]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.07-22.01.36:270][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.07-22.01.36:272][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.07-22.01.36:301][582]LogSlate: Slate User Unregistered.  User Index 8
+[2024.05.07-22.01.36:301][582]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.05.07-22.01.36:305][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.05.07-22.01.36:461][583]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: ================================================
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Total job queries 325, among them cache hits 74 (22.77%)
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Tracking 247 distinct input hashes that result in 158 distinct outputs (63.97%)
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: RAM used: 7.99 MiB of 1.60 GiB budget. Usage: 0.49%
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Shaders Compiled: 10
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100.00%)
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Average time worker was idle: 292.24 s
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.13 s
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Job execution time: average 1.65 s, max 3.91 s
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Job life time (pending + execution): average 1.68 s, max 4.04
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.97 s
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Average processing rate: 1.26 jobs/sec
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Total thread time: 12.349 s
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Total thread preprocess time: 0.219 s
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Percentage time preprocessing: 1.77%
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Effective parallelization: 1.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 2.54 sec, max 2.65 sec, min 2.44 sec)
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 2.52 sec, max 2.63 sec, min 2.41 sec)
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    3 times, average 0.44 sec, max 0.45 sec, min 0.42 sec)
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect (compiled    3 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 41.21% of total time (compiled    2 times, average 2.54 sec, max 2.65 sec, min 2.44 sec)
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 40.82% of total time (compiled    2 times, average 2.52 sec, max 2.63 sec, min 2.41 sec)
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect - 10.65% of total time (compiled    3 times, average 0.44 sec, max 0.45 sec, min 0.42 sec)
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect - 7.31% of total time (compiled    3 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.05.07-22.01.56:572][215]LogShaderCompilers: Display: ================================================
+[2024.05.07-22.02.02:606][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-22.02.02:669][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.07-22.02.02:699][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.05.07-22.02.03:429][764]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.05.07-22.02.03:430][764]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse250014A874C9355AB6578FF9310A84ABC.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.05.07-22.02.03:466][764]LogFileHelpers: No new changes to save!
+[2024.05.07-22.02.03:466][764]LogFileHelpers: Saving map 'IrvingHouse2' took 0.798
+[2024.05.07-22.02.03:473][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 867 ms (total: 4.34 sec)
+[2024.05.07-22.02.03:491][764]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.05.07-22.02.03:491][764]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.05.07-22.02.03:895][801]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.05.07-22.02.03:906][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-22.02.03:906][801]PIE: New page: PIE session: IrvingHouse2 (May 7, 2024, 8:02:03 AM)
+[2024.05.07-22.02.03:907][801]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.05.07-22.02.04:126][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.218431s)
+[2024.05.07-22.02.04:126][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.218505s)
+[2024.05.07-22.02.04:126][801]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-22.02.04:126][801]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-22.02.04:126][801]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.05.07-22.02.04:127][801]LogPlayLevel: PIE: World Init took: (0.001856s)
+[2024.05.07-22.02.04:154][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.05.07-22.02.04:156][801]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.07-22.02.04:156][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-22.02.04:156][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-22.02.04:156][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-22.02.04:156][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-22.02.04:156][801]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.07-22.02.04:156][801]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.07-22.02.04:156][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.07-22.02.04:156][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-22.02.04:156][801]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-22.02.04:156][801]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-22.02.04:156][801]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-22.02.04:159][801]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.07-22.02.04:177][801]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.05.07-22.02.04:178][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-22.02.04:178][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-22.02.04:178][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-22.02.04:178][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.07-22.02.04:178][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.07-22.02.04:180][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.07-22.02.04:180][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.07-22.02.04:180][801]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.07-22.02.04:180][801]LogAudio: Display: Audio Device (ID: 5) registered with world 'IrvingHouse2'.
+[2024.05.07-22.02.04:180][801]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.07-22.02.04:203][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-22.02.04:543][801]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.05.07-22.02.04:637][801]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.05.07-15.02.04
+[2024.05.07-22.02.04:639][801]LogWorld: Bringing up level for play took: 0.095388
+[2024.05.07-22.02.04:643][801]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.05.07-22.02.04:647][801]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.05.07-22.02.04:649][801]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.05.07-22.02.04:723][801]vr.PixelDensity = "1"
+[2024.05.07-22.02.04:729][801]PIE: Server logged in
+[2024.05.07-22.02.04:734][801]PIE: Play in editor total start time 0.828 seconds.
+[2024.05.07-22.02.04:737][801]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.05.07-22.02.04:801][801]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.05.07-22.02.04:860][801]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC380A00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC380A00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC380A00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC386E00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC386E00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC386E00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC385F00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC385F00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC385F00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC385A00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC385A00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC385A00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC384B00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC384B00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC384B00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC384600: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC384600: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC384600: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC383700: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC383700: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC383700: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC383200: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC383200: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC383200: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC382300: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC382300: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC382300: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC381E00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC381E00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC381E00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC380F00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC380F00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC380F00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC387300: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC387300: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D3EC387300: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D435F68C00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:963][802]LogHttp: Warning: 000007D435F68C00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.05.07-22.02.04:964][802]LogHttp: Warning: 000007D435F68C00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:964][802]LogHttp: Warning: 000007D435F68700: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:964][802]LogHttp: Warning: 000007D435F68700: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.05.07-22.02.04:964][802]LogHttp: Warning: 000007D435F68700: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:971][802]LogHttp: Warning: 000007D3EC389B00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D3EC389B00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D3EC389B00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D3EC389600: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D3EC389600: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D3EC389600: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D3EC388700: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D3EC388700: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D3EC388700: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D3EC388200: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D3EC388200: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D3EC388200: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D435F69B00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D435F69B00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.05.07-22.02.04:972][802]LogHttp: Warning: 000007D435F69B00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.04:991][802]LogHttp: Warning: 000007D435F6A000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.04:991][802]LogHttp: Warning: 000007D435F6A000: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.05.07-22.02.04:991][802]LogHttp: Warning: 000007D435F6A000: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.11:947][168]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.02.12:570][189]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.02.13:610][229]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.02.18:757][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-22.02.18:757][470]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.05.07-22.02.18:812][470]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.96.0)' being destroyed
+[2024.05.07-22.02.18:816][470]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-22.02.18:827][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.02.18:831][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-22.02.18:842][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.02.18:870][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.07-22.02.18:876][470]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.07-22.02.18:876][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.07-22.02.18:878][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.07-22.02.18:915][470]LogSlate: Slate User Unregistered.  User Index 8
+[2024.05.07-22.02.18:915][470]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.05.07-22.02.18:920][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.07-22.02.19:056][471]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.05.07-22.02.31:608][557]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01
+[2024.05.07-22.02.31:609][557]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-22.02.31:609][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-22.02.33:831][729]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-22.02.33:831][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.02.34:822][837]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-22.02.34:822][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.02.34:835][837]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-22.02.34:836][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.02.35:195][872]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-22.02.35:195][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.02.35:573][898]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-22.02.35:573][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.02.35:588][898]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-22.02.35:588][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.02.35:631][898]LogViewport: Scene viewport resized to 1181x580, mode Windowed.
+[2024.05.07-22.02.35:671][899]LogViewport: Scene viewport resized to 1181x571, mode Windowed.
+[2024.05.07-22.02.35:738][900]LogViewport: Scene viewport resized to 1181x562, mode Windowed.
+[2024.05.07-22.02.39:698][249]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-22.02.52:553][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-22.02.52:622][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-22.02.52:708][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door_01" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset" SILENT=true
+[2024.05.07-22.02.52:732][290]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Door_01
+[2024.05.07-22.02.52:733][290]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/BP_Door_01BD70FFFB4914889760DFF580F3DBA716.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset'
+[2024.05.07-22.02.52:750][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 4.54 sec)
+[2024.05.07-22.02.52:761][290]AssetCheck: New page: Asset Save: BP_Door_01
+[2024.05.07-22.02.52:761][290]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01
+[2024.05.07-22.02.53:131][321]BlueprintLog: New page: Compile BP_Door_01
+[2024.05.07-22.02.53:225][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.05.07-22.02.55:107][461]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.05.07-22.02.55:119][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.07-22.02.55:119][461]PIE: New page: PIE session: IrvingHouse2 (May 7, 2024, 8:02:55 AM)
+[2024.05.07-22.02.55:119][461]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.05.07-22.02.55:335][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.215636s)
+[2024.05.07-22.02.55:335][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/IrvingHouse2.IrvingHouse2 to /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 (0.215701s)
+[2024.05.07-22.02.55:335][461]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.07-22.02.55:335][461]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.07-22.02.55:335][461]LogAIModule: Creating AISystem for world IrvingHouse2
+[2024.05.07-22.02.55:336][461]LogPlayLevel: PIE: World Init took: (0.001905s)
+[2024.05.07-22.02.55:362][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.05.07-22.02.55:369][461]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.07-22.02.55:369][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.07-22.02.55:369][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.07-22.02.55:369][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.07-22.02.55:369][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.07-22.02.55:369][461]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.07-22.02.55:369][461]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.07-22.02.55:369][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.07-22.02.55:369][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.07-22.02.55:370][461]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.07-22.02.55:370][461]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.07-22.02.55:370][461]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.07-22.02.55:373][461]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.07-22.02.55:390][461]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2024.05.07-22.02.55:390][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.07-22.02.55:390][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.07-22.02.55:390][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.07-22.02.55:390][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.07-22.02.55:390][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.07-22.02.55:392][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.07-22.02.55:392][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.07-22.02.55:392][461]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.07-22.02.55:394][461]LogAudio: Display: Audio Device (ID: 6) registered with world 'IrvingHouse2'.
+[2024.05.07-22.02.55:394][461]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.07-22.02.55:428][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-22.02.55:767][461]LogLoad: Game class is 'Gamemode_VR_C'
+[2024.05.07-22.02.55:855][461]LogWorld: Bringing World /Game/Levels/UEDPIE_0_IrvingHouse2.IrvingHouse2 up for play (max tick rate 0) at 2024.05.07-15.02.55
+[2024.05.07-22.02.55:857][461]LogWorld: Bringing up level for play took: 0.090030
+[2024.05.07-22.02.55:859][461]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.05.07-22.02.55:863][461]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.05.07-22.02.55:866][461]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.05.07-22.02.55:930][461]vr.PixelDensity = "1"
+[2024.05.07-22.02.55:935][461]PIE: Server logged in
+[2024.05.07-22.02.55:937][461]PIE: Play in editor total start time 0.819 seconds.
+[2024.05.07-22.02.55:997][461]LogViewport: Scene viewport resized to 2848x1456, mode Windowed.
+[2024.05.07-22.02.56:040][461]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414469100: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414469100: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414469100: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D4028B0A00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D4028B0A00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D4028B0A00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D3E9981400: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D3E9981400: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D3E9981400: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D3E9981900: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D3E9981900: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D3E9981900: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414463200: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414463200: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414463200: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414460000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414460000: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414460000: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414465A00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414465A00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414465A00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414465000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414465000: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414465000: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414467D00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414467D00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414467D00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414468700: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414468700: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D414468700: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D41446AF00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D41446AF00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:181][462]LogHttp: Warning: 000007D41446AF00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:182][462]LogHttp: Warning: 000007D4028BD700: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:182][462]LogHttp: Warning: 000007D4028BD700: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:182][462]LogHttp: Warning: 000007D4028BD700: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:182][462]LogHttp: Warning: 000007D421F79600: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:182][462]LogHttp: Warning: 000007D421F79600: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.05.07-22.02.56:182][462]LogHttp: Warning: 000007D421F79600: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:182][462]LogHttp: Warning: 000007D421F79100: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:182][462]LogHttp: Warning: 000007D421F79100: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.05.07-22.02.56:182][462]LogHttp: Warning: 000007D421F79100: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D40E108C00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D40E108C00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D40E108C00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D4028B4B00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D4028B4B00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D4028B4B00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D4028B3700: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D4028B3700: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D4028B3700: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D4028B3C00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D4028B3C00: libcurl info message cache 0 (Couldn't open file C:\Users\)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D4028B3C00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D421F78C00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D421F78C00: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.05.07-22.02.56:189][462]LogHttp: Warning: 000007D421F78C00: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.56:208][462]LogHttp: Warning: 000007D421F7F000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2024.05.07-22.02.56:208][462]LogHttp: Warning: 000007D421F7F000: libcurl info message cache 0 (Couldn't open file C:\Users\macap\Desktop\Content\)
+[2024.05.07-22.02.56:208][462]LogHttp: Warning: 000007D421F7F000: libcurl info message cache 1 (Closing connection -1)
+[2024.05.07-22.02.58:687][626]LogHMD: Warning: No UPlayerMappableInputConfig provided in the OpenXR Input project settings, action bindings will not be visible to the OpenXR runtime. Action/Axis mappings from the Input configuration are deprecated for XR in favor of Enhanced Input.
+[2024.05.07-22.03.03:654][825]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.03.04:380][847]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.03.05:545][890]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.03.07:108][956]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.03.11:356][130]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.03.14:946][284]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.03.17:458][390]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2024.05.07-22.03.23:257][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.07-22.03.23:257][654]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_IrvingHouse2
+[2024.05.07-22.03.23:302][654]LogSlate: Window 'Project2Prototype Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.96.0)' being destroyed
+[2024.05.07-22.03.23:310][654]LogWorld: UWorld::CleanupWorld for IrvingHouse2, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-22.03.23:321][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.03.23:335][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.07-22.03.23:347][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.03.23:382][654]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.07-22.03.23:388][654]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.07-22.03.23:389][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.07-22.03.23:391][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.07-22.03.23:417][654]LogSlate: Slate User Unregistered.  User Index 8
+[2024.05.07-22.03.23:417][654]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.05.07-22.03.23:419][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.05.07-22.03.23:616][655]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.05.07-22.03.25:935][833]BlueprintLog: New page: Compile BP_Door_01
+[2024.05.07-22.03.26:039][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.07-22.03.26:594][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-22.03.26:703][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Door_01" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset" SILENT=true
+[2024.05.07-22.03.26:718][867]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Door_01
+[2024.05.07-22.03.26:718][867]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/BP_Door_01B1A5599047E704593AE510BCDC2BB903.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Blueprints/BP_Door_01.uasset'
+[2024.05.07-22.03.26:727][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 4.67 sec)
+[2024.05.07-22.03.26:740][867]AssetCheck: New page: Asset Save: BP_Door_01
+[2024.05.07-22.03.26:740][867]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Door_01.BP_Door_01
+[2024.05.07-22.03.27:942][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.07-22.03.27:952][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.07-22.03.28:032][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/IrvingHouse2" FILE="../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.07-22.03.28:060][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.05.07-22.03.28:782][964]LogSavePackage: Moving output files for package: /Game/Levels/IrvingHouse2
+[2024.05.07-22.03.28:782][964]LogSavePackage: Moving '../../../../Download/CultureQuerst/Project2Prototype/Saved/IrvingHouse20F554DAA44546B77177977AF2F50CF33.tmp' to '../../../../Download/CultureQuerst/Project2Prototype/Content/Levels/IrvingHouse2.umap'
+[2024.05.07-22.03.28:801][964]LogFileHelpers: No new changes to save!
+[2024.05.07-22.03.28:801][964]LogFileHelpers: Saving map 'IrvingHouse2' took 0.772
+[2024.05.07-22.03.28:808][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 855 ms (total: 5.53 sec)
+[2024.05.07-22.03.28:827][964]AssetCheck: New page: Asset Save: IrvingHouse2
+[2024.05.07-22.03.28:827][964]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/IrvingHouse2.IrvingHouse2
+[2024.05.07-22.03.30:795][119]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.07-22.03.30:795][119]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.07-22.03.30:795][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.07-22.03.30:853][119]LogViewport: Scene viewport resized to 1181x580, mode Windowed.
+[2024.05.07-22.03.30:961][120]LogViewport: Scene viewport resized to 1181x562, mode Windowed.
